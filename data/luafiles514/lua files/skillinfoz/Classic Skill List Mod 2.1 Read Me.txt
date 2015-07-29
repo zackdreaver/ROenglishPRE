@@ -1,0 +1,42 @@
+==============================================================================
+Classic Skill List Mod by Rytech
+==============================================================================
+2.0 Initial version [Rytech] - March 12, 2011
+2.1 Fix some lines on skillinfolist.lub [zackdreaver]
+==============================================================================
+
+What does this mod do?
+--------------------------------
+This mod uses edited decompiled Lub files to modify the arrangement
+of the skills in the skill window. The mod gets its name from the fact
+it reorganizes all the skills to be in ID order, which is the way the
+skills were organized before the skill tree view existed long ago.
+
+In order to do this, each skill had to have its skill tree view slot
+placement number changed. In the past this was difficult to do 1 by 1
+which lead to problems. With V2.0 it was very easy to do. The tree file
+is no longer wiped and is instead entirely edited so the tree view will
+retain its features for showing prerequired skills and their levels when
+hilighting skills.
+
+The jobinheritlist.lub file was also edited to help the mod work. Fake ID's
+were added to help create fake trees that were needed to help place all the
+2nd job regular skills, trans skills, and quest skills in order. To do this,
+I had to change the Lord Knight job for example to inherit a fake Knight skill
+tree. By doing this I can place all the skills for both Knight and Lord Knight
+in the Lord Knight's tree while using a fake empty Knight tree (Named KNIGHT_F).
+
+You will see some dummy data added in the files. Do not remove anything with
+the _F prefix at the end or it will mess up the inheriting and the trees.
+--------------------------------
+
+How to install and use the mod?
+--------------------------------
+The files are to be placed in the data/lua files/skillinfoz/ directory.
+The files are not compiled, but can be used as is without the need of 
+compiling. It is recommanded you use a 2010-06-16 RE client or higher
+for this mod as it was developed with that client and lower ones may not
+work. (Why would you use outdated ones anyway?)
+
+If you find any bugs, report them to my topic on eAthena or 3CeAM.
+==============================================================================
