@@ -2962,7 +2962,10 @@ SKILL_INFO_LIST = {
 		"ST_REJECTSWORD";
 		SkillName = "Reject Sword",
 		MaxLv = 5,
-		SpAmount = { 10, 15, 20, 25, 30 }
+		SpAmount = { 10, 15, 20, 25, 30 },
+		_NeedSkillList = {
+			{ SKID.RG_STRIPWEAPON,1 }
+		}
 	},
 
 	[SKID.ST_STEALBACKPACK] = {
