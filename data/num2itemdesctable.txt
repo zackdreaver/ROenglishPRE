@@ -2965,7 +2965,7 @@ Will Disappear ^00CC00November 1st^000000
 Class: ^6A5ACDShield^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B100^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 #
 2137#
@@ -3871,29 +3871,6 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 2573#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
-2576#
-A backpack befitting of any hero.
-Enables the use of level 1 Greed
-If refined to +7 or higher and base stats (without modifiers) is equal to 90 or higher,
--Str -> Attack +20
--Int -> Magic Attack +30
--Vit -> Tolerance to Neutral Property +5
--Agi -> Aspd +8%
--Dex -> Ranged Attack +5
--Luk -> CRIT +10
-If refined to +9 or higher and base stats (without modifiers) is equal to 90 or higher,
--Str -> Attack +30
--Int -> Magic Attack +50
--Vit -> Tolerance to Neutral Property +10
--Agi -> Aspd +8% & Aspd +1
--Dex -> Ranged Attack +10
--Luk -> CRIT +15
-Class: ^6A5ACDGarment^000000
-Defense: ^0000FF20^000000
-Weight: ^0EAA0B20^000000
-Required Level: ^0EAA0B1^000000
-Jobs: ^6A5ACDAll^000000
-#
 2589#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
@@ -4409,7 +4386,7 @@ A necklace with holy but rough energy.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B20^000000
-Required Level: ^0EAA0B99^000000
+Level Requirement: ^0EAA0B99^000000
 Jobs: ^6A5ACDPriest/Monk^000000
 #
 2799#
@@ -4421,7 +4398,7 @@ SP + 100.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDNovice^000000
 #
 2820#
@@ -4430,7 +4407,7 @@ SP + 100.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDNovice^000000
 #
 2821#
@@ -4439,7 +4416,7 @@ SP + 100.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDNovice^000000
 #
 2822#
@@ -4448,7 +4425,7 @@ SP + 100.
 Class: ^6A5ACDAccessory^000000
 Def : ^7777770^000000
 Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDNovice^000000
 #
 2823#
@@ -4457,7 +4434,7 @@ SP + 100.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDNovice^000000
 #
 2824#
@@ -4466,7 +4443,7 @@ SP + 100.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDNovice^000000
 #
 3737#
@@ -7186,7 +7163,7 @@ Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF6^000000
 Position: ^6A5ACDUpper^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B10^000000
 Jobs: ^6A5ACDAll^000000
 #
 5662#
@@ -7246,7 +7223,7 @@ Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF5^000000
 Position: ^6A5ACDUpper^000000
 Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll classes^000000
 #
 5684#
@@ -7255,7 +7232,7 @@ Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF5^000000
 Position: ^6A5ACDUpper^000000
 Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll classes^000000
 #
 5685#
@@ -7282,7 +7259,7 @@ Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF5^000000
 Position: ^6A5ACDUpper^000000
 Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll classes^000000
 #
 5690#
@@ -7338,7 +7315,7 @@ Class: ^6A5ACDHeadgear^000000
 Position: ^6A5ACDUpper^000000
 Defense: ^0000FF1^000000
 Weight: ^0EAA0B50^000000
-Required Level: ^0EAA0B20^000000
+Level Requirement: ^0EAA0B20^000000
 Jobs: ^6A5ACDAll^000000
 #
 5775#
@@ -7444,7 +7421,7 @@ after event ends.^000000
 Weight: ^0EAA0B1^000000
 #
 6012#
-Traditional first time allows you to learn the good-natured character "^0000FFC^000000" card which is used for special events.
+Traditional first time allows you to learn the good-natured character ''^0000FFC^000000'' card which is used for special events.
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -7726,7 +7703,7 @@ A key with a magnificent pattern. The pattern which symbolizes Arunafeltz and Go
 Weight: ^0EAA0B0^000000
 #
 6151#
-A huge piece of Bradium. You can feel the mysterious power. 
+A huge piece of Bradium. You can feel the mysterious power.
 Weight: ^0EAA0B0^000000
 #
 6152#
@@ -7734,7 +7711,7 @@ A crystal that emits a mysterious light. It's peculiar that it is transparent bu
 Weight: ^0EAA0B0^000000
 #
 6153#
-A very special exchange ticket. You can exchange it with something good. 
+A very special exchange ticket. You can exchange it with something good.
 Weight: ^0EAA0B0^000000
 #
 6154#
@@ -7889,7 +7866,7 @@ Small purity beads.
 Weight: ^0EAA0B0^000000
 #
 6223#
-One of the hardest metals on the Rune Midgard continent. It has a extraordinary degree of strength but it's too solid to be easily refined. 
+One of the hardest metals on the Rune Midgard continent. It has a extraordinary degree of strength but it's too solid to be easily refined.
 Weight: ^0EAA0B15^000000
 #
 6224#
@@ -7914,7 +7891,7 @@ Weight: ^0EAA0B1^000000
 6229#
 #
 6230#
-Take this certificate, 1 Oridecon and an upgradable Weapon to Mighty Hammer in the Eden Group.  If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.
+Take this certificate, 1 Oridecon and an upgradable Weapon to Mighty Hammer in the Eden Group. If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.
 This item is Tradable, and Storagable only.
 Weight: ^0EAA0B1^000000
 #
@@ -7925,12 +7902,12 @@ Weight: ^0EAA0B1^000000
 6233#
 #
 6234#
-Take this certificate, 1 Elunium and an upgradable Shield, Shoes, Clothing, or Armor to Mighty Hammer in the Eden Group.  If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.
+Take this certificate, 1 Elunium and an upgradable Shield, Shoes, Clothing, or Armor to Mighty Hammer in the Eden Group. If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.
 This item is Tradable, and Storagable only.
 Weight: ^0EAA0B1^000000
 #
 6235#
-Take this certificate, 1 Elunium and an upgradable Headgear to Mighty Hammer in the Eden Group.  If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.
+Take this certificate, 1 Elunium and an upgradable Headgear to Mighty Hammer in the Eden Group. If he fails on the upgrade when the item is +4, +5, or +6 the item will not break and it will stay at its current upgrade level.
 This item is Tradable, and Storagable only.
 Weight: ^0EAA0B1^000000
 #
@@ -8117,7 +8094,7 @@ Weight: ^0EAA0B1^000000
 #
 6283#
 Can make a Banana bomb.
-Material : ^000088Banana + Mould Powder + 4 Gun Powder  + Detonator^000000
+Material : ^000088Banana + Mould Powder + 4 Gun Powder + Detonator^000000
 Weight: ^0EAA0B1^000000
 #
 6284#
@@ -8129,8 +8106,8 @@ Weight :: ^7777771^000000
 #
 6285#
 This is the manual book for producing Enrich_White_PotionZ, vitata500, Enriched cell juice.
-Enriched white potionZ : ^000088Cylinder 10  + white potion 20  + white herb 10  + alchol 1 ^000000
-vitata 500 : ^000088cylinder 10  + grape 10 + honey 10 + Blue Herb 10^000000
+Enriched white potionZ : ^000088Cylinder 10 + white potion 20 + white herb 10 + alchol 1 ^000000
+vitata 500 : ^000088cylinder 10 + grape 10 + honey 10 + Blue Herb 10^000000
 Concentrated Juice : ^000088test tubes 10 + Awakening Potion 5 + Intensive Potion 5 + Hot Sauce 5^000000
 Cure Landscape : ^000088test tubes 10 + elixir 5 + Green Herbs 20 + Mastela Fruit 1 + Yggdrasil Leaf 1^000000
 Weight: ^0EAA0B1^000000
@@ -8335,7 +8312,7 @@ Weight: ^0EAA0B10^000000
 #
 6405#
 It's a feather of bird called Cendrawasih. It's splendid and has a strong green color.
-Weight: ^0EAA0B1^000000	
+Weight: ^0EAA0B1^000000
 #
 6406#
 It's a feather used when the 1st Jaty Crown was made. Shows beautiful light.
@@ -9238,7 +9215,7 @@ Weight: ^0EAA0B1^000000
 #
 7331#
 An extremely rare
-flower that only blooms  in heaven. It is believed
+flower that only blooms in heaven. It is believed
 to bring incredibly good luck to its owner.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
@@ -9254,7 +9231,7 @@ Prontera, I fell sick.
 I needed something from the land of trees to make
 my blood thick...''
 --The First Man
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7334#
@@ -9263,7 +9240,7 @@ now. Soon, we will
 venture to the desert
 in high spirits...''
 --The Second Man
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7335#
@@ -9271,7 +9248,7 @@ Weight: ^0EAA0B1^000000
 feeling in the air here, almost as if I can do
 magic myself...''
 --The Third Man
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7336#
@@ -9281,12 +9258,12 @@ Jolnir flower. That's
 where we began 
 our journey...''
 --The Fourth Man
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7337#
 Hellion Revenant Eye.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7338#
@@ -9322,7 +9299,7 @@ Weight: ^0EAA0B1^000000
 #
 7343#
 A file folder, protected by some sort of seal,
-that contains some kind  of unknown documents.
+that contains some kind of unknown documents.
 Weight: ^0EAA0B1^000000
 #
 7344#
@@ -9339,7 +9316,7 @@ Weight: ^0EAA0B1^000000
 7346#
 One of the pieces of
 Ymir's Heart which have been used to power the
-Airships and Guardians.  It glows with a strange
+Airships and Guardians. It glows with a strange
 and unearthly light.
 Weight: ^0EAA0B1^000000
 #
@@ -9706,16 +9683,15 @@ Weight: ^0EAA0B1^000000
 7398#
 The number ''^FF000038^000000''
 is written on this
-Lotto Ball.	
-^ffffff ^000000	
-Weight: ^0EAA0B1^000000	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^0EAA0B1^000000
 #
 7416#
 A well written letter
 of recommendation
 that is recognized by
 the Assassin Guild.
-
 #
 7417#
 A written request
@@ -9724,8 +9700,7 @@ Organization, asking
 you to capture Raiyan
 Moore, who is suspected of kidnapping children
 from the Dandelion
-daycare center. 
-
+daycare center.
 Reward: 1 Wrapped Mask
 #
 7418#
@@ -9738,91 +9713,79 @@ help in finding the
 children missing 
 from Morroc.
 Request Reward: 1 Jewelry Box
-
 #
 7419#
 A reference for
 Alchemists in which
 the Embryo creation
 formula is written.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7420#
 A skull in which
 someone's name
 has been carved.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7421#
 A thin, transparent,
 and shining red key.
-
 #
 7422#
 A thin, transparent,
-and shining yellow key. 
+and shining yellow key.
 #
 7423#
 A thin, transparent,
 and shining blue key.
-
 #
 7424#
 A thin, transparent,
 and shining green key.
-
 #
 7425#
 A thin, transparent,
 and shining black key.
-
 #
 7426#
 A mysterious red
 colored charm stone
 in which fantastic
 powers are stored.
-
 #
 7427#
 A mysterious yellow
 colored charm stone
 in which fantastic
 powers are stored.
-
 #
 7428#
 A mysterious blue
 colored charm stone
 in which fantastic
 powers are stored.
-
 #
 7429#
 A mysterious green
 colored charm stone
 in which fantastic
 powers are stored.
-
 #
 7430#
 A mysterious black
 colored charm stone
 in which fantastic
 powers are stored.
-
 #
 7431#
 A heavy pile of books.
-
 #
 7432#
 A sturdy, leather
 pouch used to
 contain goods.
-
 #
 7433#
 A blank scroll on
@@ -9831,7 +9794,7 @@ can be written. These
 blanks were developed
 by the Schweicherbil
 Magic Academy.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7434#
@@ -9839,23 +9802,19 @@ Weight: ^0EAA0B1^000000
 with my handy, easy to
 read reference.''
 Author: Pisrik Quve
-
 ^6996ADColdproof Potion^000000
 ^7777773 Hearts of Mermaid^000000
 ^7777771 Blue Gemstone^000000
-
 ^7BCC70Thunderproof Potion^000000
 ^7777773 Moth Dust^000000
 ^7777771 Blue Gemstone^000000
-
 ^A68064Earthproof Potion^000000
 ^7777772 Large Jellopies^000000
 ^7777771 Yellow Gemstone^000000
-
 ^FF0000Fireproof Potion^000000
 ^7777772 Frills^000000
 ^7777771 Red Gemstone^000000
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7435#
@@ -9863,63 +9822,63 @@ A beautiful golden
 ornament that seems
 to be created by an
 otherworldly power.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7436#
 A fragment that is
 the manifestation
 of sheer agony.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7437#
 A fragment that is
 the manifestation
 of pure misery.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7438#
 A fragment that is
 the manifestation
 of intense hatred.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7439#
 A fragment that is
 the manifestation of
 unfathomable despair.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7440#
 A large, yet light,
 white feather that
 has a red gleam.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7441#
 A large, yet light,
 white feather that
 has a blue gleam.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7442#
 A dark heart
 stamped with
 a bloody seal.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7443#
 The head from a
 fearsome three-headed
 dragon that still looks very threatening.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7444#
@@ -9927,7 +9886,7 @@ An ancient treasure
 box filled with old
 coins, ornaments, 
 and jewelry.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7445#
@@ -9937,7 +9896,7 @@ of the earth. In the
 East, people believe 
 that this bijou can
 help wishes come true.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7446#
@@ -9947,7 +9906,7 @@ of the ocean. In the
 East, people believe 
 that this bijou can
 help wishes come true.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7447#
@@ -9957,7 +9916,7 @@ of firey blaze. In the
 East, people believe 
 that this bijou can
 help wishes come true.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7448#
@@ -9968,14 +9927,14 @@ and mind. People in
 the East believe that
 this bijou can help
 dreams become true.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7449#
 Its surface is
 marked with old,
 dried blood stains...
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7450#
@@ -9988,7 +9947,7 @@ A red dragon's
 scale that seems to
 possess some kind
 of magical power.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7452#
@@ -9996,7 +9955,7 @@ A yellow spice
 that adds a unique
 scent and flavor to
 almost any food.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7453#
@@ -10005,14 +9964,14 @@ that accentuates the
 flavor of foods, but
 is quite disgusting
 when drunk by itself.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7454#
 A speical sauce that
 enhances the savory
 quality of most foods.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7455#
@@ -10020,7 +9979,7 @@ An extremely spicy
 hot sauce that can
 make people cry 
 just by smelling it.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7456#
@@ -10029,21 +9988,21 @@ that complements
 few foods, but is a
 necessary ingredient
 for some dishes.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7457#
 Healthy cooking oil
 that is used for stir
 frying or deep frying.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7460#
 An express ticket to
 Niflheim, the realm
 of the dead that is
-forbidden to the living.  ^ffffff_^000000
+forbidden to the living. ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 7461#
@@ -10181,7 +10140,7 @@ Level 3 Recipes
 ''Enjoy the recipes of
 this bestseller among
 housewives and culinary adepts. Have fun!''
-^ff0000Bomber Steak^000000 
+^ff0000Bomber Steak^000000
 4 Meats
 1 Old Frying Pan
 10 Green Herbs
@@ -10219,7 +10178,7 @@ Level 4 Recipes
 ''This book is not
 for beginners. Prepare
 irresistable dishes thatare fit for nobility!''
-^ff0000Herb Marinade Beef^000000 
+^ff0000Herb Marinade Beef^000000
 5 Meats
 3 Red Herbs
 2 Yellow Herbs
@@ -10264,7 +10223,7 @@ Level 5 Recipes
 ''Recipes for expert
 chefs--create cuisine
 with transcendent scents and flavors! Good luck!''
-^ff0000Lutie Lady's Pancake^000000 
+^ff0000Lutie Lady's Pancake^000000
 10 Potatos
 2 Honeys
 1 Cooking Oil
@@ -10308,7 +10267,7 @@ Weight: ^0EAA0B1^000000
 Level 6 Recipes
 ''The secrets of cooking in any circumstance are
 contained in this book. Use them wisely...''
-^ff0000Shiny Marinade Beef^000000 
+^ff0000Shiny Marinade Beef^000000
 10 Meats
 2 Honeys
 1 Yellow Herb
@@ -10350,7 +10309,7 @@ Weight: ^0EAA0B1^000000
 Level 7 Recipes
 ''Create delicious foods that will satisfy even
 starving appetites.''
-^ff0000Whole Roast^000000 
+^ff0000Whole Roast^000000
 10 Meats
 1 Live Coal
 2 Coals
@@ -10399,7 +10358,7 @@ Weight: ^0EAA0B1^000000
 Level 8 Recipes
 ''The recipes within
 should only be attempted by an experienced chef.''
-^ff0000Bearfoot Special^000000 
+^ff0000Bearfoot Special^000000
 20 Bear's Footskins
 10 Carrots
 10 Jack o' Pumpkins
@@ -10450,7 +10409,7 @@ without sufficient
 skill may cause harm
 in attempting the
 following recipes.''
-^ff0000Tendon Satay^000000 
+^ff0000Tendon Satay^000000
 40 Tendons
 1 Pot
 10 Cheeses
@@ -10489,7 +10448,7 @@ following recipes.''
 6 Royal Jellys
 1 Spicy Sauce
 1 Red Spice
-1 Fatty Chubby Earthworm ^FFFFFF       ^000000
+1 Fatty Chubby Earthworm 
 ^400080Blood Flavored Soda^000000
 1 Animal Gore
 2 Anodynes
@@ -10507,7 +10466,7 @@ classified culinary
 secrets of Prontera's
 greatest royal chefs.
 True masters only.''
-^ff0000Steamed Tongue^000000 
+^ff0000Steamed Tongue^000000
 20 Tongues
 1 Pot
 1 Alcohol
@@ -10563,14 +10522,14 @@ Weight: ^0EAA0B1^000000
 7482#
 A round, fairly deep
 cooking vessel covered
-by a lid with a handle. 
+by a lid with a handle.
 Weight: ^0EAA0B1^000000
 #
 7483#
 The key that can
 be used to release
 the 9th Geffenia Seal.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7484#
@@ -10650,7 +10609,7 @@ Kyel Hyre's factory.
 7496#
 A flat, translucent
 red keycard that
-enables access to a^FFFFFF      ^000000 specific restricted area.
+enables access to a specific restricted area.
 ^ffffff_^000000
 #
 7497#
@@ -10679,7 +10638,6 @@ smile can be felt in the depths of your heart.
 A letter written by
 a man with the initials, K.H., for a woman 
 named Allysia.
-
 ^777777''Please don't believe
 in James, I'm sure he
 is lying. I am the one
@@ -10698,7 +10656,6 @@ waiting for you.
 7502#
 A letter addressed
 to Allysia, and written by a man named James.
-
 ''Dearest Allysia,
 Believe me, I was
 just as surprised to
@@ -10712,13 +10669,13 @@ me tomorrow night, and
 we'll run away so that
 we can finally be
 together, my love.
---James, August 19th."
+--James, August 19th.''
 ^ffffff_^000000
 #
 7503#
 A portrait of a young
 man that looks fairly
-depressed. 
+depressed.
 ^ffffff_^000000
 #
 7504#
@@ -10743,7 +10700,7 @@ of rusty iron.
 Weight: ^0EAA0B1^000000
 #
 7508#
-The engagement ring^FFFFFF      ^000000 that belonged to Allysia.
+The engagement ring that belonged to Allysia.
 ^ffffff_^000000
 #
 7509#
@@ -10761,26 +10718,26 @@ within Valhalla, the
 sacred battlegrounds
 of the ancient gods.
 ^ffffff_^000000
-Weight:  ^7777771^000000
+Weight: ^7777771^000000
 #
 7511#
 A dark rune with
 ancient writing
-engraved inside it.	
+engraved inside it.
 ^ffffff_^000000
-Weight:  ^7777771^000000
+Weight: ^7777771^000000
 #
 7512#
 A burnt part
 of some device.
 ^ffffff_^000000
-Weight:  ^7777771^000000
+Weight: ^7777771^000000
 #
 7513#
 An old silver
 pocket watch.
 ^ffffff_^000000
-Weight:  ^7777771^000000
+Weight: ^7777771^000000
 #
 7514#
 A certificate given to
@@ -10794,10 +10751,9 @@ Race Arena.
 ^ffffff_^000000
 #
 7515#
-				
-A medal crafted from a rare and mysterious metal that can only be found in Hugel.				
-These medals cannot be traded or given to other players.				
-^ffffff_^000000				
+A medal crafted from a rare and mysterious metal that can only be found in Hugel.
+These medals cannot be traded or given to other players.
+^ffffff_^000000
 #
 7516#
 A flat, translucent
@@ -10858,139 +10814,123 @@ touches the soul.
 ^ffffff_^000000
 #
 7530#
-				
 [Amatsu the Land of Destiny]
 The people of Amatsu carry themselves with honor and tranquility.
-During your visit you should see the Beautiful ^ff0000Water Shrine^000000.  The ^ff0000Lord of Amatsu^000000 is much more open 
-than rulers in other lands, they will talk to visitors and citizens alike.   
+During your visit you should see the Beautiful ^ff0000Water Shrine^000000. The ^ff0000Lord of Amatsu^000000 is much more open 
+than rulers in other lands, they will talk to visitors and citizens alike.
 The ^ff0000Legendary Tree^000000 in Amatsu has many legends about it, such as the Legend that when you propose under 
-its branches your marriage will be blessed.   
-While in Amatsu you should see the ^ff0000Coy Pond^000000, nobility of Amatsu keep wonderful gardens or plants, sand and rocks. 
-Their careful balance and flow reflect the keeper's state of mind.  
-Part of garden is a Coy Pond, these frolicsome fish are a delight to all. 
-[Don't forget to take photos of all these things, and show them to your Tour Guide.]				
+its branches your marriage will be blessed.
+While in Amatsu you should see the ^ff0000Coy Pond^000000, nobility of Amatsu keep wonderful gardens or plants, sand and rocks.
+Their careful balance and flow reflect the keeper's state of mind.
+Part of garden is a Coy Pond, these frolicsome fish are a delight to all.
+[Don't forget to take photos of all these things, and show them to your Tour Guide.]
 #
 7531#
-				
-[Kunlun The Hermit Land]				
-Kunlun is a land in the clouds.  
+[Kunlun The Hermit Land]
+Kunlun is a land in the clouds.
 Being so high in the air affords an unprecedented view of the world, it also gives 
-a different mindset to those whom allow themselves to think freely.  
+a different mindset to those whom allow themselves to think freely.
 The ^ff0000Statue of Kunlun's Greatest Philosopher^000000, stands proudly in the middle of town, ready to
-inspire great thoughts from all those that gaze upon him.  All around Kunlun are spectacular ^ff0000Overlooks of the World^000000.  
+inspire great thoughts from all those that gaze upon him. All around Kunlun are spectacular ^ff0000Overlooks of the World^000000.
 But there are particular spots that are exceptionally breathtaking, please watch your step.
 There is a ^ff0000small hill in Kunlun^000000 that is said to of been the Great Philosophers favorite meditation spot, 
-you should visit there and see if any grand thoughts take you.  
-No matter how great a culture is, there will always be a few among its citizenry that just don't 'get it'. 
-Those in Kunlun's history that always thought small eventually truly shrank, and eventually disappeared.  
-But before that time they had a ^ff0000Mini-town^000000 that they lived in on ground beneath Kunlun.  
-That place is an object lesson against stagnant thinking.	
-[Don't forget to take photos of all these things, and show them to your Tour Guide.]			
+you should visit there and see if any grand thoughts take you.
+No matter how great a culture is, there will always be a few among its citizenry that just don't 'get it'.
+Those in Kunlun's history that always thought small eventually truly shrank, and eventually disappeared.
+But before that time they had a ^ff0000Mini-town^000000 that they lived in on ground beneath Kunlun.
+That place is an object lesson against stagnant thinking.
+[Don't forget to take photos of all these things, and show them to your Tour Guide.]
 #
 7532#
-				
-[Louyang]				
-Louyang is a spiritual country, where the warrior spirit and clear thinking are highly prized. 
+[Louyang]
+Louyang is a spiritual country, where the warrior spirit and clear thinking are highly prized.
 Such wondrous sites such as the ^ff0000Statue of the Man and the Tiger^000000 may inspire you to do your best.
-Louyang has a different perspective on healing the mind and the body.  While Rune-Midgard relies on the science of potions, 
-and Faith for healing, the Louyang healers practice their art at a '^ff0000Hospital^000000'.  
-At a Hospital, your body will be cured by a system of body manipulations and diet.  
-The beautiful ^ff0000Palace^000000 that is protected by the Great Wall of Louyang is truly a sight to behold for every visitor.  
+Louyang has a different perspective on healing the mind and the body. While Rune-Midgard relies on the science of potions, 
+and Faith for healing, the Louyang healers practice their art at a '^ff0000Hospital^000000'.
+At a Hospital, your body will be cured by a system of body manipulations and diet.
+The beautiful ^ff0000Palace^000000 that is protected by the Great Wall of Louyang is truly a sight to behold for every visitor.
 To go along with their proud heritage of Martial Arts and spirit training, they often practice making their bodies 
-more robust through exercise. Some of these exercises target the legs others the Lungs.  
-Outside Louyang some practice their ^ff0000Shouting on the Tower^000000.  If you have seen all these sites in Louyang,
+more robust through exercise. Some of these exercises target the legs others the Lungs.
+Outside Louyang some practice their ^ff0000Shouting on the Tower^000000. If you have seen all these sites in Louyang,
 you will have quite a few good memories to take home.
-[Don't forget to take photos of all these things, and show them to your Tour Guide.]				
+[Don't forget to take photos of all these things, and show them to your Tour Guide.]
 #
 7533#
-				
-[Ayothaya]				
-Thoughts of transcending your limitations, and finding Life's perfect philosophy is Ayothaya's Heritage.  
-In Ayothaya's history is great Philosopher that all Ayothayans seek to emulate.  
-There are numerous statues representing this Philosopher exist in and around Ayothaya.  
-You should visit them to see what differences and significance these ^ff0000Reclining Philosopher Statues^000000 mean to 	you.  
-Part of the Philosophy involves many hours of meditation a day to keep balance in your mind and body.  
-You should visit the ^ff0000Shrine in Ayothaya^000000 and meditate upon your life's journey.  
+[Ayothaya]
+Thoughts of transcending your limitations, and finding Life's perfect philosophy is Ayothaya's Heritage.
+In Ayothaya's history is great Philosopher that all Ayothayans seek to emulate.
+There are numerous statues representing this Philosopher exist in and around Ayothaya.
+You should visit them to see what differences and significance these ^ff0000Reclining Philosopher Statues^000000 mean to you.
+Part of the Philosophy involves many hours of meditation a day to keep balance in your mind and body.
+You should visit the ^ff0000Shrine in Ayothaya^000000 and meditate upon your life's journey.
 And when you complete your regimen of Exercise and Introspection you can refuel your body by visiting 
-the ^ff0000Tom Yum Goong restaurant^000000.  The famous soup made here is truly delicious.  
+the ^ff0000Tom Yum Goong restaurant^000000. The famous soup made here is truly delicious.
 Don't leave Ayothaya without sampling the dishes there.
-[Don't forget to take photos of all these things, and show them to your Tour Guide.]					
+[Don't forget to take photos of all these things, and show them to your Tour Guide.]
 #
 7534#
-				
-Upon seeing all the sites and sights in Amatsu the Rune-Midgard Tour Agency has stamped this  photo album with their official seal.  				
+Upon seeing all the sites and sights in Amatsu the Rune-Midgard Tour Agency has stamped this photo album with their official seal.
 #
 7535#
-				
-Upon seeing all the sites and sights in Kunlun the Rune-Midgard Tour Agency has stamped this  photo album with their official seal. 				
+Upon seeing all the sites and sights in Kunlun the Rune-Midgard Tour Agency has stamped this photo album with their official seal.
 #
 7536#
-				
-Upon seeing all the sites and sights in Louyang the Rune-Midgard Tour Agency has stamped this  photo album with their official seal. 				
+Upon seeing all the sites and sights in Louyang the Rune-Midgard Tour Agency has stamped this photo album with their official seal.
 #
 7537#
-				
-Upon seeing all the sites and sights in Ayothaya the Rune-Midgard Tour Agency has stamped this  photo album with their official seal. 				
+Upon seeing all the sites and sights in Ayothaya the Rune-Midgard Tour Agency has stamped this photo album with their official seal.
 #
 7539#
-				
-A small coin with a monster Poring engraved in it.				
+A small coin with a monster Poring engraved in it.
 #
 7540#
-	
 The number ''^FF000039^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^0EAA0B1^000000	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^0EAA0B1^000000
 #
 7541#
-	
 The number ''^FF000040^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^0EAA0B1^000000	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^0EAA0B1^000000
 #
 7542#
-	
 The number ''^FF000041^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^0EAA0B1^000000	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^0EAA0B1^000000
 #
 7543#
-	
 The number ''^FF000042^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^0EAA0B1^000000	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^0EAA0B1^000000
 #
 7544#
-	
 The number ''^FF000043^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^0EAA0B1^000000	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^0EAA0B1^000000
 #
 7545#
-	
 The number ''^FF000044^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^0EAA0B1^000000	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^0EAA0B1^000000
 #
 7546#
-	
 The number ''^FF000045^000000''
 is written on this
-Lotto Ball. 	
-^ffffff ^000000	
-Weight: ^0EAA0B1^000000	
+Lotto Ball.
+^ffffff ^000000
+Weight: ^0EAA0B1^000000
 #
 7553#
 A delicate flower found in the depths of Brasilis.
@@ -11111,23 +11051,22 @@ A jewel which shines yellow.
 Weight: ^0EAA0B5^000000
 #
 7600#
-A card with the letter "^000088K^000000" printed on it.
+A card with the letter ''^000088K^000000'' printed on it.
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7602#
-A card with the letter "^000088R^000000" printed on it.
+A card with the letter ''^000088R^000000'' printed on it.
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7604#
-		
-A bag of finely		
-milled and ground		
-wheat flour that can		
-be used in a variety		
-of different foods.		
-Weight: ^0EAA0B1^000000		
+A bag of finely
+milled and ground
+wheat flour that can
+be used in a variety
+of different foods.
+Weight: ^0EAA0B1^000000
 #
 7605#
 An egg that was
@@ -11141,7 +11080,7 @@ Weight: ^0EAA0B1^000000
 7606#
 This Token of the Ox is a
 symbol of the vigor and 
-power of the Year of the Ox.  
+power of the Year of the Ox.
 This item will be removed 
 ^CC0000February 10, 2009^000000.
 ^ffffff_^000000
@@ -11166,7 +11105,7 @@ Weight: ^0EAA0B1^000000
 7619#
 Concentrated Elunium
 that has been buried
-deep underground. 
+deep underground.
 Used as a material
 to strengthen armor.
 Enhances a chance of
@@ -11180,7 +11119,7 @@ Weight: ^0EAA0B1^000000
 7620#
 Dense Oridecon
 that has been buried
-deep underground. 
+deep underground.
 Used as a material to
 strengthen weapons.
 Enhances a chance of
@@ -11240,57 +11179,50 @@ by a Geologist.
 Weight: ^0EAA0B0^000000
 #
 7715#
-		
-A magic copy of the		
-recipe for making		
-Hand-made Chocolate		
-that can be used at		
-a Kitchen Counter.		
-		
-Ingredients:		
-^0000885 Chocolates^000000		
-^0000881 Milk^000000		
-		
-Weight: ^0EAA0B0^000000		
+A magic copy of the
+recipe for making
+Hand-made Chocolate
+that can be used at
+a Kitchen Counter.
+Ingredients:
+^0000885 Chocolates^000000
+^0000881 Milk^000000
+^FFFFFF_^000000
+Weight: ^0EAA0B0^000000
 #
 7716#
-		
-A magic copy of the		
-recipe for making		
-Chocolate Strawberries		
-that can be used at		
-a Kitchen Counter.		
-		
-Ingredients:		
-^0000881 White Chocolate		
-2 Strawberries		
-1 Chocolate		
-		
-Weight: ^0EAA0B0^000000		
+A magic copy of the
+recipe for making
+Chocolate Strawberries
+that can be used at
+a Kitchen Counter.
+Ingredients:
+^0000881 White Chocolate
+2 Strawberries
+1 Chocolate
+^FFFFFF_^000000
+Weight: ^0EAA0B0^000000
 #
 7717#
-		
-A magic copy of the		
-recipe for making		
-Chocolate Tarts that		
-can be used at a		
-Kitchen Counter.		
-		
-Ingredients:		
-^0000883 Chocolates		
-1 Flour		
-3 Milk		
-1 Egg		
-		
-Weight: ^0EAA0B0^000000		
+A magic copy of the
+recipe for making
+Chocolate Tarts that
+can be used at a
+Kitchen Counter.
+Ingredients:
+^0000883 Chocolates
+1 Flour
+3 Milk
+1 Egg
+^FFFFFF_^000000
+Weight: ^0EAA0B0^000000
 #
 7718#
-		
-A fermented and		
-dried Cacao Bean		
-that has been shelled		
-from a raw Cacao.		
-Weight: ^0EAA0B1^000000		
+A fermented and
+dried Cacao Bean
+that has been shelled
+from a raw Cacao.
+Weight: ^0EAA0B1^000000
 #
 7720#
 A peculiar gold coin
@@ -11579,12 +11511,11 @@ Egg yolk. A cooking ingredients. Can be use to make dumpling.
 Weight: ^0EAA0B1^000000
 #
 7770#
-						
-Steamed glutinous						
+Steamed glutinous
 rice that is used 
-to make dumplings.						
-Weight: ^0EAA0B1^000000						
-Weight: ^0EAA0B1^000000						
+to make dumplings.
+Weight: ^0EAA0B1^000000
+Weight: ^0EAA0B1^000000
 #
 7771#
 Aquatic botany. The leaf is used to wrap the dumpling.
@@ -11597,17 +11528,16 @@ Strings that is use to tie the dumpling.
 Weight: ^0EAA0B1^000000
 #
 7773#
-				
-A badge indicating that the wearer is currently participated in the war.  It was taken off from a failure of the battle.				
-^ffffff_^000000				
+A badge indicating that the wearer is currently participated in the war. It was taken off from a failure of the battle.
+^ffffff_^000000
 #
 7774#
-Written with big letters as 'You win 'Chung E Egg'!! Please come and get it now!"
+Written with big letters as 'You win 'Chung E Egg'!! Please come and get it now!''
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7775#
-Written with big letters as 'You win 'Spring Rabbit Egg'!! Please come and get it now!"
+Written with big letters as 'You win 'Spring Rabbit Egg'!! Please come and get it now!''
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -11726,7 +11656,7 @@ Weight: ^0EAA0B0^000000
 #
 7795#
 Mami's photo album that contained various pictures of Mami, who used to be the envoy of Public Relations in Morroc.
-On the cover, it says, "Love and a true heart message from Angel Mami, just for you!" 
+On the cover, it says, ''Love and a true heart message from Angel Mami, just for you!'' 
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -11737,9 +11667,9 @@ You can recognize his poor handwriting.
 Weight: ^0EAA0B1^000000
 #
 7797#
-"Ancient Weapon - unknown motive.
+''Ancient Weapon - unknown motive.
 Seclusion - the letter from a lady disciple.
-Stepmother - karma from a previous life?"
+Stepmother - karma from a previous life?''
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -11780,27 +11710,27 @@ A brown colored family ring which it wears by Jenoss.
 Weight: ^0EAA0B1^000000
 #
 7806#
-" Holffar " Received a ^ff0000God's Anvil^000000.
+'' Holffar '' Received a ^ff0000God's Anvil^000000.
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7807#
-" Torros " Received a ^ff0000God's Minerals^000000.
+'' Torros '' Received a ^ff0000God's Minerals^000000.
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7808#
-" Gonk " Received a ^ff0000God's Hammer^000000.
+'' Gonk '' Received a ^ff0000God's Hammer^000000.
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7809#
-" Lapio " Received a ^ff0000God's Furnaces^000000.
+'' Lapio '' Received a ^ff0000God's Furnaces^000000.
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7810#
-A symbol of Wealth to "Ravela".
+A symbol of Wealth to ''Ravela''.
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -11810,7 +11740,7 @@ Anvil gold.
 Weight: ^0EAA0B1^000000
 #
 7812#
-A symbol of Courage to "Ravela".
+A symbol of Courage to ''Ravela''.
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -11830,12 +11760,12 @@ A blue colored family ring which it wears by Jenoss.
 Weight: ^0EAA0B1^000000
 #
 7816#
-A symbol of the Faith to "Ravela".
+A symbol of the Faith to ''Ravela''.
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 7817#
-A symbol of the Peace to "Ravela".
+A symbol of the Peace to ''Ravela''.
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -11845,7 +11775,7 @@ The necklaces of the Jessur.
 Weight: ^0EAA0B1^000000
 #
 7819#
-"The new Nokia 5500 Sport features a stainless body for enhanced durability with resistance to shock, water, and dust elements. Use for Ragna_Nokia Festival."
+''The new Nokia 5500 Sport features a stainless body for enhanced durability with resistance to shock, water, and dust elements. Use for Ragna_Nokia Festival.''
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -11885,11 +11815,11 @@ Weight: ^0EAA0B0^000000
 Weight: ^0EAA0B0^000000
 #
 7828#
-A badge that is provided to warriors who have brought great honor from the Battlefield. 
+A badge that is provided to warriors who have brought great honor from the Battlefield.
 ^ffffff_^000000
 #
 7829#
-A badge that is provided to warriors who have brought great honor from the Battlefield. 
+A badge that is provided to warriors who have brought great honor from the Battlefield.
 ^ffffff_^000000
 #
 7830#
@@ -11905,7 +11835,7 @@ A piece of wrecked armor of Valkyrie, Breunhilt.
 Weight: ^0EAA0B50^000000
 #
 7833#
-Ashes of a hero, Siglude. 
+Ashes of a hero, Siglude.
 Weight: ^0EAA0B50^000000
 #
 7834#
@@ -12070,11 +12000,10 @@ Fresh water that is pure and clean.
 Weight: ^0EAA0B10^000000
 #
 7869#
-						
-A sack that						
-contains rice.						
-^ffffff_^000000						
-Weight: ^0EAA0B10^000000						
+A sack that
+contains rice.
+^ffffff_^000000
+Weight: ^0EAA0B10^000000
 #
 7870#
 Beautifully bred Corn which most people like to eat.
@@ -12105,7 +12034,7 @@ Weight: ^0EAA0B1^000000
 A recovered Treasure box
 that was Lost by 
 Pirate Captain Wesley 
-many years ago.  
+many years ago.
 Perhaps with his help 
 you can open it. Part of 
 the 2007 4th Anniversary 
@@ -12128,7 +12057,7 @@ Hair of the water fairy, who drowned on the eve of her marriage.
 Weight: ^0EAA0B1^000000
 #
 7879#
-A spool wrapped with golden fine thread. 
+A spool wrapped with golden fine thread.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -12236,67 +12165,60 @@ Jonathan 'family of exchange received a ring.
 Weight: ^0EAA0B0^000000
 #
 7906#
-							
 A poppy wreath placed at 
 a location of strong 
 personal meaning to 
 commemorate the memories 
 of events and people 
 that have shaped 
-your life.							
-^ffffff_^000000							
+your life.
+^ffffff_^000000
 #
 7908#
-			
-A hairstyling coupon			
-that can be redeemed			
-for a one time free			
-hairstyle change			
-service from Artist			
-Louise during the			
-event period.			
-^ffffff_^000000			
-Weight: ^0EAA0B1^000000			
+A hairstyling coupon
+that can be redeemed
+for a one time free
+hairstyle change
+service from Artist
+Louise during the
+event period.
+^ffffff_^000000
+Weight: ^0EAA0B1^000000
 #
 7909#
-			
-A cookie that was			
-stolen from the			
-factory in Lutie.			
-^ffffff_^000000			
-Weight: ^0EAA0B1^000000			
+A cookie that was
+stolen from the
+factory in Lutie.
+^ffffff_^000000
+Weight: ^0EAA0B1^000000
 #
 7910#
-			
-A candy that was			
-stolen from the			
-factory in Lutie.			
-^ffffff_^000000			
-Weight: ^0EAA0B1^000000			
+A candy that was
+stolen from the
+factory in Lutie.
+^ffffff_^000000
+Weight: ^0EAA0B1^000000
 #
 7911#
-			
-Yulia claims that			
-this hat was stolen			
-from her by a strange,			
-suspicious man in the			
-middle of the night.			
-^ffffff_^000000			
-Weight: ^0EAA0B1^000000			
+Yulia claims that
+this hat was stolen
+from her by a strange,
+suspicious man in the
+middle of the night.
+^ffffff_^000000
+Weight: ^0EAA0B1^000000
 #
 7912#
-							
 A machine that holds 
 the Essence of Cold, made 
-by the scientist Willis in Morroc.							
+by the scientist Willis in Morroc.
 It can holds a Snowman 
 and protects it from heat 
 while the Snowman is 
-outside of the machine.							
-Weight: ^0EAA0B0^000000							
+outside of the machine.
+Weight: ^0EAA0B0^000000
 #
 7915#
-					
 A bronze coin forged by the leprechauns.
 Leprechauns consider these coins as the least valuable in their monetary system.
 ^ffffff_^000000
@@ -12505,7 +12427,7 @@ Class: ^6A5ACDMonster Egg^000000
 An egg in which a
 Dokebi Cute Pet rests.
 Can be hatched by
-using a ^33CC33Pet Incubator^000000. 
+using a ^33CC33Pet Incubator^000000.
 Class: ^6A5ACDMonster Egg^000000
 #
 9020#
@@ -12565,13 +12487,12 @@ Cute pet Rice Cake that turned hard. It can be melted by using a Pet Incubator.
 Class: ^6A5ACDMonster Egg^000000
 #
 9029#
-	
-An egg containing	
-a sleeping Santa	
-Goblin Cute Pet.	
-Can be hatched by	
-using a ^33CC33Pet Incubator^000000.	
-Class: ^6A5ACDMonster Egg^000000	
+An egg containing
+a sleeping Santa
+Goblin Cute Pet.
+Can be hatched by
+using a ^33CC33Pet Incubator^000000.
+Class: ^6A5ACDMonster Egg^000000
 #
 9030#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
@@ -12834,20 +12755,18 @@ fiction author.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
-11010#
-#
 11011#
-Doctor Varmunt's notebook. Short memos are written in hand writing.  Most of them are about Thanatos Tower and Historical relics that he discovered.
+Doctor Varmunt's notebook. Short memos are written in hand writing. Most of them are about Thanatos Tower and Historical relics that he discovered.
 ^ffffff_^000000
 Weight: ^0EAA0B0^000000
 #
 11012#
-The first report of the expedition with the Commander's seal.  The report records all the information related to ecological environment, situations of the species and the expedition in another world.
+The first report of the expedition with the Commander's seal. The report records all the information related to ecological environment, situations of the species and the expedition in another world.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 11013#
-Expedition Report Vol.1, sorted by Abidal.  The information on the expedition's settlement and occupation are all written in here.
+Expedition Report Vol.1, sorted by Abidal. The information on the expedition's settlement and occupation are all written in here.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -12865,8 +12784,6 @@ Weight: ^0EAA0B1^000000
 Expedition Report Vol.4 which reports the internal situation of the expedition and the investigation. It also introdues the future plans.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
-#
-11017#
 #
 11018#
 Splendid Selling Item
@@ -12953,8 +12870,8 @@ Recover small amount HP.
 Weight: ^0EAA0B2^000000
 #
 11517#
-A potion that has a special effect. 
-^000088HP Recovery +400^000000 
+A potion that has a special effect.
+^000088HP Recovery +400^000000
 Weight: ^0EAA0B10^000000
 #
 11519#
@@ -12966,47 +12883,47 @@ Weight: ^0EAA0B4^000000
 Refreshing fruit occasionally found wild in the vicinity of Bifrost.
 ^000088Restores approximately 50 SP^000000.
 Weight: ^0EAA0B2^000000
-Required Level: ^0EAA0B100^000000
+Level Requirement: ^0EAA0B100^000000
 #
 11521#
 A beverage made by mixing Pinguicula Berry Juice with fizzy juice. Tastes surprisingly good.
 ^000088Restores approximately 400 HP and 50 SP^000000.
 Weight: ^0EAA0B5^000000
-Required Level: ^0EAA0B100^000000
+Level Requirement: ^0EAA0B100^000000
 #
 11522#
 Red sap with amazing healing power. You wouldn't want to find out what it's made from.
 ^000088Restores approximately 400 HP^000000.
 Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B100^000000
+Level Requirement: ^0EAA0B100^000000
 Cooldown Time : ^7777771 Second^000000
 #
 11523#
 Yellow sap with amazing healing power. You wouldn't want to find out what it's made from.
 ^000088Restores approximately 600 HP^000000.
 Weight: ^0EAA0B12^000000
-Required Level: ^0EAA0B110^000000
+Level Requirement: ^0EAA0B110^000000
 Cooldown Time : ^7777772 Seconds^000000
 #
 11524#
 White sap with amazing healing power. You wouldn't want to find out what it's made from.
 ^000088Restores approximately 800 HP^000000.
 Weight: ^0EAA0B12^000000
-Required Level: ^0EAA0B120^000000
+Level Requirement: ^0EAA0B120^000000
 Cooldown Time : ^7777773 Seconds^000000
 #
 11525#
 Tea made by infusing dried plants, rarely found even in Mora Village. Smells extremely good.
 ^000088Restores approximately 1500 HP^000000.
 Weight: ^0EAA0B15^000000
-Required Level: ^0EAA0B120^000000
+Level Requirement: ^0EAA0B120^000000
 Cooldown Time : ^7777775 Seconds^000000
 #
 11526#
 A cold beverage made by blending Pingui berries with syrup and ice.
 ^000088Restores approximately 120 SP^000000.
 Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B120^000000
+Level Requirement: ^0EAA0B120^000000
 #
 11527#
 A sweet restorative that heals an extensive amount of HP & SP
@@ -13033,19 +12950,19 @@ Allows to use ^000088Level 5 Frost Diver^000000.
 Weight: ^0EAA0B1^000000
 #
 12001#
-A holy paper which was baptized by a noble priest. 
+A holy paper which was baptized by a noble priest.
 Allows to use ^000088Level 3 Heal^000000.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 12002#
-A holy paper which was baptized by a noble priest. 
+A holy paper which was baptized by a noble priest.
 Allows to use ^000088Level 5 Heal^000000.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 12003#
-A holy paper which was baptized by a noble priest. 
+A holy paper which was baptized by a noble priest.
 Allows to use ^000088Level 1 Teleport^000000.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
@@ -13153,7 +13070,7 @@ contain a gift.
 Weight: ^0EAA0B20^000000
 #
 12024#
-Most people who see    this pretty red pouch are
+Most people who see this pretty red pouch are
 seized by the urge to open it and see what's inside.
 ^ffffff_^000000
 Weight: ^0EAA0B5^000000
@@ -13236,44 +13153,39 @@ user for 30 seconds.
 Weight: ^0EAA0B20^000000
 #
 12035#
-	 
 A sealed box that
 contains a Lotto Ball
 from numbers 1-10.
-^ffffff ^000000	 
-Weight: ^0EAA0B2^000000	 
+^ffffff ^000000
+Weight: ^0EAA0B2^000000
 #
 12036#
-	 
 A sealed box that
 contains a Lotto Ball
 from numbers 11-20.
-^ffffff ^000000	 
-Weight: ^0EAA0B2^000000	 
+^ffffff ^000000
+Weight: ^0EAA0B2^000000
 #
 12037#
-	 
 A sealed box that
 contains a Lotto Ball
 from numbers 21-30.
-^ffffff ^000000	 
-Weight: ^0EAA0B2^000000	 
+^ffffff ^000000
+Weight: ^0EAA0B2^000000
 #
 12038#
-	 
 A sealed box that
 contains a Lotto Ball
 from numbers 31-40.
-^ffffff ^000000	 
-Weight: ^0EAA0B2^000000	 
+^ffffff ^000000
+Weight: ^0EAA0B2^000000
 #
 12039#
-	 
 A sealed box that
 contains a Lotto Ball
 from numbers 41-50.
-^ffffff ^000000	 
-Weight: ^0EAA0B2^000000	 
+^ffffff ^000000
+Weight: ^0EAA0B2^000000
 #
 12040#
 An enchanted stone rumored to transmute matter into gold.
@@ -13286,7 +13198,7 @@ and convenient for
 beginner chefs; it
 has a fresh, grassy
 taste, strangely enough. STR +1
-
+^FFFFFF_^000000
 Weight: ^0EAA0B6^000000
 #
 12042#
@@ -13294,7 +13206,7 @@ A dish that looks
 slightly unappetizing,
 but its taste and scent are quite pleasant.
 STR +2
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12043#
@@ -13303,7 +13215,7 @@ ordinary steak,
 but it is explosively
 flavorful and juicy.
 STR +3
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12044#
@@ -13311,7 +13223,7 @@ Tender beef that has
 been marinated with
 herbs and sauces, using a secret Payon recipe.
 STR +4
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12045#
@@ -13320,7 +13232,7 @@ made by Thachentze,
 the kind lady chef
 living in Lutie.
 STR +5
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12046#
@@ -13328,7 +13240,7 @@ A sweetly scented
 tea made by mixing
 herbs and grape juice.
 INT +1
-
+^FFFFFF_^000000
 Weight: ^0EAA0B10^000000
 #
 12047#
@@ -13337,7 +13249,7 @@ different herbs that
 give it a refreshingly
 strong scent, but also
 give it a bland flavor. INT +2
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12048#
@@ -13346,7 +13258,7 @@ herbal whose flavor
 is enhanced with the
 sweetness of honey.
 INT +3
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12049#
@@ -13354,7 +13266,7 @@ A sweet and sour fruit
 wine that was invented
 by a merchant from
 Morroc. Ladies love it. INT +4
-
+^FFFFFF_^000000
 Weight: ^0EAA0B30^000000
 #
 12050#
@@ -13363,7 +13275,7 @@ Mastela fruit that
 helps the drinker to
 maintain clarity of
 thought. INT +5
-
+^FFFFFF_^000000
 Weight: ^0EAA0B40^000000
 #
 12051#
@@ -13371,7 +13283,7 @@ A simple dish made
 from steamed crab
 nippers and herbs.
 VIT +1
-
+^FFFFFF_^000000
 Weight: ^0EAA0B10^000000
 #
 12052#
@@ -13386,7 +13298,7 @@ this food at home. VIT +2 Weight: ^77777720^000000
 A soup made with
 boiled clam meat.
 VIT +3
-
+^FFFFFF_^000000
 Weight: ^0EAA0B30^000000
 #
 12054#
@@ -13395,7 +13307,7 @@ flavored with herbs
 and squid ink dressing
 that, weirdly enough, is a delicious health food.
 VIT +4
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12055#
@@ -13404,7 +13316,7 @@ and seasoned with
 spicy sauce. If you're
 not used to spicy food, it's not a good idea to
 eat too many. VIT +5
-
+^FFFFFF_^000000
 Weight: ^0EAA0B80^000000
 #
 12056#
@@ -13414,7 +13326,7 @@ frog eggs that most
 people can't eat until
 they close their eyes.
 AGI +1
-
+^FFFFFF_^000000
 Weight: ^0EAA0B10^000000
 #
 12057#
@@ -13423,7 +13335,7 @@ slick, and slippery
 noodles that are
 very difficult to eat.
 AGI +2
-
+^FFFFFF_^000000
 Weight: ^0EAA0B10^000000
 #
 12058#
@@ -13432,14 +13344,14 @@ steamed tentacles
 mixed into it for
 a unique flavor.
 AGI +3
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12059#
 Spicy, cold noodles
 garnished with sliced
 pumpkin. AGI +4
-
+^FFFFFF_^000000
 Weight: ^0EAA0B40^000000
 #
 12060#
@@ -13447,28 +13359,28 @@ Steamed pumpkin and
 Red Bat Wings wrapped
 in a Hinale leaflet that have a combined flavor
 that is... indescribable. AGI +5
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12061#
 A special mixed drink
 of grape juice and honey that has a sweet and
 sour taste. DEX +1
-
+^FFFFFF_^000000
 Weight: ^0EAA0B10^000000
 #
 12062#
 A special chocolate
-mousse cake with a^FFFFFF       ^000000 smooth luxurious flavor
+mousse cake with a smooth luxurious flavor
 that even Charles Orleans would be proud of. DEX +2
-
+^FFFFFF_^000000
 Weight: ^0EAA0B20^000000
 #
 12063#
 A mix of various,
 crisp fruit flavored
 with light, sweet syrup. DEX +3
-
+^FFFFFF_^000000
 Weight: ^0EAA0B20^000000
 #
 12064#
@@ -13478,7 +13390,7 @@ freshly baked bread,
 ground meat and cream
 cheese that is a favorite dish to eat for lunch.
 DEX +4
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12065#
@@ -13486,7 +13398,7 @@ A trendy green salad
 that is topped with
 sweet Umbala dressing.
 DEX +5
-
+^FFFFFF_^000000
 Weight: ^0EAA0B20^000000
 #
 12066#
@@ -13495,21 +13407,21 @@ monkey tails deep
 fried in oil that are
 popular as a side dish
 for drinking. LUK +1
-
+^FFFFFF_^000000
 Weight: ^0EAA0B6^000000
 #
 12067#
 A cocktail mixed
 from various fruit
 juices. LUK +2
-
+^FFFFFF_^000000
 Weight: ^0EAA0B20^000000
 #
 12068#
 Crunchy, fried sweet
 potatoes topped with
 light syrup. LUK +3
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12069#
@@ -13517,7 +13429,7 @@ Steamed fish with
 ancient lips wrapped
 in a fresh leaf that is supposedly good for
 a man's vigor. LUK +4
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12070#
@@ -13529,7 +13441,7 @@ part of a scorpion.
 There are trace bits
 of poison, so don't
 eat too much. LUK +5
-
+^FFFFFF_^000000
 Weight: ^0EAA0B40^000000
 #
 12071#
@@ -13538,7 +13450,7 @@ whose spendorous
 flavor can only be
 described as...shiny.
 STR +6
-
+^FFFFFF_^000000
 Weight: ^0EAA0B80^000000
 #
 12072#
@@ -13547,7 +13459,7 @@ meat lovers, this
 roast is spiced up
 with a special sauce.
 STR +7
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12073#
@@ -13556,14 +13468,14 @@ dishes from Louyang,
 a delicacy made from
 a bear's meaty foot.
 STR +8
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12074#
 A fresh and juicy
 satay made from
 thick tendons. STR +9
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12075#
@@ -13574,14 +13486,14 @@ be hard to find, but
 culinarily speaking,
 it's a masterpiece.
 STR +10
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12076#
 A fragrant grape
 wine mixed with Red
 Mushrooms. INT +6
-
+^FFFFFF_^000000
 Weight: ^0EAA0B30^000000
 #
 12077#
@@ -13589,7 +13501,7 @@ An herbal tea mixed
 with royal jelly that
 has a pungent scent,
 but a refreshing flavor. INT +7
-
+^FFFFFF_^000000
 Weight: ^0EAA0B80^000000
 #
 12078#
@@ -13598,7 +13510,7 @@ one of Charles Orleans's specialties, that is
 regularly enjoyed by
 the royal family.
 INT +8
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12079#
@@ -13609,14 +13521,14 @@ was presented in
 celebration of the
 coronation of King
 Tristram III. INT +9
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12080#
 A cocktail with an
 unforgettable flavor
-as impressive as a^FFFFFF       ^000000 dragon's breath. INT +10
-
+as impressive as a dragon's breath. INT +10
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12081#
@@ -13624,14 +13536,14 @@ A strange medicine
 said to have as much
 healing power as its
 bitterness. VIT +6
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12082#
 A magnificent feast
 fit for gods that would make mortals cry 
 tears of joy. VIT +7
-
+^FFFFFF_^000000
 Weight: ^0EAA0B40^000000
 #
 12083#
@@ -13639,7 +13551,7 @@ A jumbo sized
 burrito for jumbo
 sized appetites.
 VIT +8
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12084#
@@ -13648,7 +13560,7 @@ dragon meat whose
 flavor gives one the
 sensation of flight.
 VIT +9
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12085#
@@ -13656,7 +13568,7 @@ A stew with a funky
 smell that looks quite
 suspicious, but it really does give the feeling of
 immortality. VIT +10
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12086#
@@ -13664,7 +13576,7 @@ Shrimp and chile
 gratin that is so
 spicy, it burns.
 AGI +6
-
+^FFFFFF_^000000
 Weight: ^0EAA0B80^000000
 #
 12087#
@@ -13674,7 +13586,7 @@ steamed alligator
 meat wrapped in
 vegetables.
 AGI +7
-
+^FFFFFF_^000000
 Weight: ^0EAA0B80^000000
 #
 12088#
@@ -13683,7 +13595,7 @@ spice known to have
 the flavor of patience. Fortunately, the taste is
 balanced with pumpkin.
 AGI +8
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12089#
@@ -13692,7 +13604,7 @@ stew laced with all
 sorts of meat that
 has a tempting scent
 AGI +9
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12090#
@@ -13702,7 +13614,7 @@ Desert, this scorpion
 dish is cooked using
 the heat of the desert
 sands. AGI +10
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12091#
@@ -13710,14 +13622,14 @@ A sweet and lightly
 scrumptious cake made
 with peaches grown
 in Kunlun. DEX +6
-
+^FFFFFF_^000000
 Weight: ^0EAA0B80^000000
 #
 12092#
 A deliciously sweet
 bread, haunted by
 flavor. DEX +7
-
+^FFFFFF_^000000
 Weight: ^0EAA0B80^000000
 #
 12093#
@@ -13726,7 +13638,7 @@ garnished with huge
 amounts of meat, cheese, and vegetables. It's so
 big, no one has ever
 finished it. DEX +8
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12094#
@@ -13735,7 +13647,7 @@ juice that makes
 the drinker feel
 refreshed and relaxed.
 DEX +9
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12095#
@@ -13746,7 +13658,7 @@ source of the world's
 rivers, this beverage
 is famous for its
 amazing taste. DEX +10
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12096#
@@ -13754,21 +13666,21 @@ A soup that is
 rumored to bring
 good luck when it
 is eaten hot. LUK +6
-
+^FFFFFF_^000000
 Weight: ^0EAA0B30^000000
 #
 12097#
 Marinated meat and
 vegetables roasted
 on a skewer. LUK +7
-
+^FFFFFF_^000000
 Weight: ^0EAA0B80^000000
 #
 12098#
 A riceball garnished
 with strawberries that
 give it an unexpectedly delicious taste. LUK +8
-
+^FFFFFF_^000000
 Weight: ^0EAA0B40^000000
 #
 12099#
@@ -13776,13 +13688,13 @@ A strangely sweet
 drink that children
 seem to like, although
 the aftertaste is pretty gross. LUK +9
-
+^FFFFFF_^000000
 Weight: ^0EAA0B100^000000
 #
 12100#
 A rare specialty dish from Payon that bestows
 luck on those fortunate enough to eat it. LUK +10
-
+^FFFFFF_^000000
 Weight: ^0EAA0B50^000000
 #
 12103#
@@ -13791,7 +13703,7 @@ branch with a contract
 written in blood upon
 the bark that can summon stronger creatures than
 regular Dead Branches.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B20^000000
 #
 12104#
@@ -13800,7 +13712,7 @@ arrow quiver.
 ^00688BProduces arrows
 of a randomly
 chosen property.^000000
-
+^FFFFFF_^000000
 Weight: ^0EAA0B20^000000
 #
 12105#
@@ -13810,7 +13722,7 @@ that contains a taming
 item and Pet Armor.
 ^00688BProduces a random Pet
 Armor and taming item.^000000
-
+^FFFFFF_^000000
 Weight: ^0EAA0B20^000000
 #
 12106#
@@ -13819,7 +13731,7 @@ Box that contains
 an Accessory.
 ^00688BProduces a random
 Accessory item.^000000
-
+^FFFFFF_^000000
 Weight: ^0EAA0B20^000000
 #
 12107#
@@ -13827,7 +13739,7 @@ A mask that has been
 carefully wrapped.
 ^00688BProduces a random
 Mask item.^000000
-
+^FFFFFF_^000000
 Weight: ^0EAA0B20^000000
 #
 12108#
@@ -13836,22 +13748,21 @@ been packaged and
 carefully wrapped.
 ^00688BProduces a random
 Magic Scroll item.^000000
-
+^FFFFFF_^000000
 Weight: ^0EAA0B20^000000
 #
 12109#
-				
-A wrapped box stamped with the Poring seal. You				
-can faintly hear rustling coming from inside of it.				
-				
-Weight: ^0EAA0B20^000000				
+A wrapped box stamped with the Poring seal. You
+can faintly hear rustling coming from inside of it.
+^FFFFFF_^000000
+Weight: ^0EAA0B20^000000
 #
 12110#
 A first aid kit that
 should contain potions, although they're known
 to hold other things... ^00688BProduces a random
 Potion item.^000000
-
+^FFFFFF_^000000
 Weight: ^0EAA0B20^000000
 #
 12111#
@@ -13860,7 +13771,7 @@ that contains
 various dishes.
 Produces a
 random food item.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B20^000000
 #
 12112#
@@ -13871,7 +13782,7 @@ only in Morroc. It's
 very sweet, so people
 can get drunk off it
 without realizing it.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B10^000000
 #
 12113#
@@ -13879,35 +13790,35 @@ A scarlet colored
 cocktail, favored by
 the ladies, that gives
 the drinker the feeling of lounging on the beach.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B10^000000
 #
 12114#
 Temporarily enchant
 the user's weapon with
 the ^FF0000Fire^000000 property.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 12115#
 Temporarily enchant
 the user's weapon with
 the ^6996ADWater^000000 property.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 12116#
 Temporarily enchant
 the user's weapon with
 the ^A68064Earth^000000 property.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 12117#
 Temporarily enchant
 the user's weapon with
 the ^7BCC70Wind^000000 property.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 12118#
@@ -13917,7 +13828,7 @@ the user's resistance
 to the ^FF0000Fire^000000 property at the cost of increasing
 damage from the ^6996ADWater^000000
 property for the potion's active duration.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 12119#
@@ -13927,7 +13838,7 @@ the user's resistance
 to the ^6996ADWater^000000 property at the cost of increasing
 damage from the ^7BCC70Wind^000000
 property for the potion's active duration.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 12120#
@@ -13937,7 +13848,7 @@ the user's resistance
 to the ^A68064Earth^000000 property at the cost of increasing
 damage from the ^FF0000Fire^000000
 property for the potion's active duration.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 12121#
@@ -13947,7 +13858,7 @@ the user's resistance
 to the ^7BCC70Wind^000000 property at the cost of increasing
 damage from the ^A68064Earth^000000
 property for the potion's active duration.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 12122#
@@ -13977,14 +13888,14 @@ Weight: ^0EAA0B7^000000
 A cooking kit that is
 designed for outdoor
 use. It's a little crude, but it's also portable.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B2^000000
 #
 12126#
 A cooking kit designed
 for use in the home. It's sophisticated enough for
 you to craft meals with that homemade quality.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B3^000000
 #
 12127#
@@ -13993,7 +13904,7 @@ kit that only great chefs generally use to make
 food of professional
 quality. These are
 wasted on mere tyros.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B3^000000
 #
 12128#
@@ -14002,7 +13913,7 @@ to be used by chefs
 working in the royal
 palace to craft nobly
 exquisite dishes.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B7^000000
 #
 12129#
@@ -14010,7 +13921,7 @@ The legendary cooking
 kit that is said to make
 any recipe wondrously,
 sublimely delicious.
-
+^FFFFFF_^000000
 Weight: ^0EAA0B7^000000
 #
 12130#
@@ -14026,7 +13937,7 @@ already past its
 expiration date, and
 no longer has any
 potency. Or does it?
-
+^FFFFFF_^000000
 Weight: ^0EAA0B10^000000
 #
 12132#
@@ -14331,45 +14242,41 @@ A tasty pumpkin flavored treat, usually enjoyed during the fall season.
 Weight: ^0EAA0B1^000000
 #
 12195#
-						
-Delicious cookies						
-whose taste contains						
-just a bit of liquor.						
-^000088Restores a small						
-amount of SP.^000000						
-^ffffff_^000000						
-Weight: ^0EAA0B10^000000						
+Delicious cookies
+whose taste contains
+just a bit of liquor.
+^000088Restores a small
+amount of SP.^000000
+^ffffff_^000000
+Weight: ^0EAA0B10^000000
 #
 12196#
-						
-A white Rice Cake						
-that makes you feel						
-full once you eat it.						
-^000088Restores a small						
-amount of HP.^000000						
-^ffffff_^000000						
-Weight: ^0EAA0B10^000000						
+A white Rice Cake
+that makes you feel
+full once you eat it.
+^000088Restores a small
+amount of HP.^000000
+^ffffff_^000000
+Weight: ^0EAA0B10^000000
 #
 12197#
-						
-A salty Rice Cake.						
-^000088Restores a small						
-amount of HP and SP.^000000						
-^ffffff_^000000						
-Weight: ^0EAA0B10^000000						
+A salty Rice Cake.
+^000088Restores a small
+amount of HP and SP.^000000
+^ffffff_^000000
+Weight: ^0EAA0B10^000000
 #
 12198#
-						
-A Rice Cake that						
-is flavored with						
-a hint of Vanilla.						
-LUK +21.						
-^ffffff_^000000						
-Weight: ^0EAA0B10^000000						
+A Rice Cake that
+is flavored with
+a hint of Vanilla.
+LUK +21.
+^ffffff_^000000
+Weight: ^0EAA0B10^000000
 #
 12200#
 Christmas limited cake.
-When you use it, recover small HP, Start 3 level Magnificat  skill.
+When you use it, recover small HP, Start 3 level Magnificat skill.
 (This item will be deleted with Christmas event closing.)
 Weight: ^0EAA0B5^000000
 #
@@ -14481,7 +14388,7 @@ An enchanted, giant
 wing from an ancient
 creatures. Enables
 instant teleportation
-of many people when^FFFFFF       ^000000 used by a Party Master.
+of many people when used by a Party Master.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -14610,49 +14517,44 @@ wide broadcasting.
 Weight: ^0EAA0B1^000000
 #
 12225#
-	
-A candy cane that is	
-so sweet, it can melt	
-the human tongue.	
-However, Santa Goblins	
-seem to be fond of it.	
-Class: ^6A5ACDTaming item^000000	
-Weight: ^0EAA0B5^000000	
+A candy cane that is
+so sweet, it can melt
+the human tongue.
+However, Santa Goblins
+seem to be fond of it.
+Class: ^6A5ACDTaming item^000000
+Weight: ^0EAA0B5^000000
 #
 12234#
-							
 A chocolate bar
 whose content is
 99% Cacao: it tastes
 more bitter than sweet, but chocolate aficionados
 love it for its rugged
 flavor and various
-health benefits.					
-Weight: ^0EAA0B10^000000							
+health benefits.
+Weight: ^0EAA0B10^000000
 #
 12235#
-							
 A ripe, sweet
 strawbery covered
 in a smooth layer of
-luscious chocolate.							
-Weight: ^0EAA0B10^000000							
+luscious chocolate.
+Weight: ^0EAA0B10^000000
 #
 12236#
-							
 A crunchy tart
 filled with rich
 chocolate and topped
-with fresh cream.						
-Weight: ^0EAA0B10^000000							
+with fresh cream.
+Weight: ^0EAA0B10^000000
 #
 12237#
-							
 This chocolate has
 obviously been cooked
 too long, and its burnt stench can be smelled
-from a distance.							
-Weight: ^0EAA0B10^000000							
+from a distance.
+Weight: ^0EAA0B10^000000
 #
 12241#
 A Concentration Potion
@@ -14712,7 +14614,7 @@ Foodstuffs prepared for urgent situations. Don't eat too fast, you might choke o
 Weight: ^0EAA0B7^000000
 #
 12270#
-Foodstuffs prepared for urgent situations. Don't eat too fast, you might choke on it. 
+Foodstuffs prepared for urgent situations. Don't eat too fast, you might choke on it.
 ^000088MATK + 15 for 10 minutes.^000000
 ^ffffff_^000000
 Weight: ^0EAA0B7^000000
@@ -14759,17 +14661,16 @@ On Monster Kill has chance to drop a Xmas Gift!
 Position: ^6A5ACDUpper^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 #
 12295#
 #
 12296#
-^0000CCSuper Summer Hat Pack^000000, opening this up and get your prize!  This item cannot be traded, but can be saved and opened at your leisure!
+^0000CCSuper Summer Hat Pack^000000, opening this up and get your prize! This item cannot be traded, but can be saved and opened at your leisure!
 ^ff0000This box is account bound, the items inside can be traded, stored and vended.
 This item will be sold until August 2, 2011.^000000
 If you do not like what you get, visit the second floor of the Eden Group and speak to the Summer Hat Pack exchanger.
-
 Description:
 Contains one of the following headgears:
 ^0000FFSpirit Whispers^000000
@@ -14777,11 +14678,8 @@ Contains one of the following headgears:
 ^0000FFDemon Mask^000000
 ^0000FFLittle Feather Hat^000000
 ^0000FFBenevolent Guardian^000000
-
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
-#
-12297#
 #
 12299#
 Adds 10% resistance to the status effects of:
@@ -14814,18 +14712,16 @@ Can be stored.
 Weight: ^0EAA0B0^000000
 #
 12310#
-		
-a branch of cherry blossom Tree with full-blown cherry blossoms. It feels like your body lightens with rich scent of a flower when you wave it.		
-Increases Flee by 10 points for 5 minutes		
-^ffffff_^000000		
-Weight: ^0EAA0B5^000000		
+a branch of cherry blossom Tree with full-blown cherry blossoms. It feels like your body lightens with rich scent of a flower when you wave it.
+Increases Flee by 10 points for 5 minutes
+^ffffff_^000000
+Weight: ^0EAA0B5^000000
 #
 12311#
-		
-Made bigger and be more splendid with many spray of flowers put together. Doubled Scent! Doubled Elegance!		
-Increases Flee of the party memebers by 10 for 5 minutes. If not in a party, it will have no effect.		
-^ffffff_^000000		
-Weight: ^0EAA0B10^000000		
+Made bigger and be more splendid with many spray of flowers put together. Doubled Scent! Doubled Elegance!
+Increases Flee of the party memebers by 10 for 5 minutes. If not in a party, it will have no effect.
+^ffffff_^000000
+Weight: ^0EAA0B10^000000
 #
 12312#
 A Battle Manual that takes twice as long to read.
@@ -14839,7 +14735,7 @@ A festive magic powder that gives a quick appearance that it is snowing when use
 Weight: ^0EAA0B1^000000
 #
 12319#
-A snack sent from Rune-Midgards.  Be careful not to let anybody taste the cake without even asking.
+A snack sent from Rune-Midgards. Be careful not to let anybody taste the cake without even asking.
 ^000088 ATK, MATK +5 for 10 minutes.^000000
 ^ffffff_^000000
 Weight: ^0EAA0B30^000000
@@ -14857,7 +14753,7 @@ A snack sent from Arunafeltz. This sandwich helps developing stamina with its sp
 Weight: ^0EAA0B30^000000
 #
 12322#
-A pie covered with sweet chocolate.  This sure looks not pretty but the taste is excellent.  It reminds you of the taste of homemade pie. 
+A pie covered with sweet chocolate. This sure looks not pretty but the taste is excellent. It reminds you of the taste of homemade pie.
 ^000088HP, SP 5% Recovery.^000000
 ^ffffff_^000000
 Weight: ^0EAA0B30^000000
@@ -15039,7 +14935,7 @@ Weight: ^0EAA0B5^000000
 12379#
 [Not for Sale] It's been made as a special production in Sessrumnir temple. It has been modeled after current pope.
 There's an issue with this as a blasphemy and likely been prohibited but, it's still popular within close associates.
-There's a rumor that the fan club of the girl pope made this. The taste is not bad. "Eat before an expiration date."
+There's a rumor that the fan club of the girl pope made this. The taste is not bad. ''Eat before an expiration date.''
 For 20 minutes ATK, MATK + 3%, All property resistance 3%.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
@@ -15054,10 +14950,6 @@ A scroll written with an unknown language.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
-12391#
-A very cute egg scroll. It feels so fancy that makes you expect something from it.
-Weight: ^0EAA0B1^000000
-#
 12395#
 A bowl of Tantan Noodles that Green Maidens find hard to resist.
 Class: ^6A5ACDTaming Item^000000
@@ -15069,10 +14961,6 @@ Weight: ^0EAA0B1^000000
 #
 12397#
 A very suspicious box. You don't know what will happen when you open it.
-Weight: ^0EAA0B1^000000
-#
-12403#
-A very cute egg scroll. It feels so fancy that makes you expect something from it.
 Weight: ^0EAA0B1^000000
 #
 12408#
@@ -15224,7 +15112,7 @@ Weight: ^0EAA0B1^000000
 12443#
 A box containing 1 Shining Stick. Extremely fragile!
 Resets Skill Tree, and gives Skill Point compensation.
-Only can be used in towns, and it's effective olnly when the amount of possession is zero. 
+Only can be used in towns, and it's effective olnly when the amount of possession is zero.
 ^ffffff_^000000
 #
 12444#
@@ -15240,7 +15128,7 @@ STR +10. 30 minute duration.
 Weight: ^0EAA0B1^000000
 #
 12446#
-One of the four best dishes in the Sograt Desert, this scorpion dish is cooked using the heat of the desert sands. 
+One of the four best dishes in the Sograt Desert, this scorpion dish is cooked using the heat of the desert sands.
 AGI +10. 30 minute duration.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
@@ -15258,7 +15146,7 @@ DEX +10. 30 minute duration.
 Weight: ^0EAA0B1^000000
 #
 12449#
-A rare, specialty Payon dish that bestows luck to those fortunate enough to eat it. 
+A rare, specialty Payon dish that bestows luck to those fortunate enough to eat it.
 LUK +10. 30 minute duration.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
@@ -15271,25 +15159,25 @@ Weight: ^0EAA0B1^000000
 #
 12451#
 An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgarts Kingdom.
-Locations: "Prontera", "Geffen", "Payon", "Morroc", "Al De Baran" or "Alberta" when waved in the air.
+Locations: ''Prontera'', ''Geffen'', ''Payon'', ''Morroc'', ''Al De Baran'' or ''Alberta'' when waved in the air.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 12452#
 An enchanted butterfly's wing that instantly sends its user to the towns of the Schwaltzvalt Republic.
-Locations: "Juno", "Lighthalzen", Einbroch" or "Hugel" when waved in the air.
+Locations: ''Juno'', ''Lighthalzen'', Einbroch'' or ''Hugel'' when waved in the air.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 12453#
 An enchanted butterfly's wing that instantly sends its user to the towns of Rachel.
-Locations: "Veins" or "Rachel"
+Locations: ''Veins'' or ''Rachel''
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 12454#
 An enchanted butterfly's wing that instantly sends its user to the island towns of Rune Midgard.
-Locations: "Ayothaya", "Amatsu", "Luoyang", "Kunlun"
+Locations: ''Ayothaya'', ''Amatsu'', ''Luoyang'', ''Kunlun''
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -15333,12 +15221,12 @@ Weight: ^0EAA0B1^000000
 12457#
 A glass of illusion made from morning dew from an Illusion Flower.
 Drink the dew to create an illusion that will make it more difficult for enemies to hit you.
-Increases your Perfect Dodge by 20 for 1 minute.  Only one may be consumed per 5 minutes.
+Increases your Perfect Dodge by 20 for 1 minute. Only one may be consumed per 5 minutes.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 12458#
-An abrasive that adds sharpness to a weapon. 
+An abrasive that adds sharpness to a weapon.
 Increases Critical Rate by 30 for 5 minutes.
 When a character is incapable of combat, the effect of item disappears.
 ^ffffff_^000000
@@ -15390,7 +15278,7 @@ When a character is incapable of combat, the effect of item disappears.
 Weight: ^0EAA0B1^000000
 #
 12465#
-A secret potion made using tough dragon scales. 
+A secret potion made using tough dragon scales.
 Adds 3% resistance to Physical Attacks for 1 minute.
 When a character is incapable of combat, the effect of item disappears.
 ^ffffff_^000000
@@ -15439,7 +15327,7 @@ Weight: ^0EAA0B1^000000
 A box containing 10 Convex Mirrors. Extremely fragile!
 Convex Mirror -Can detect appearance of Boss Monsters for 10 minute duration.
 Effect is canceled if player logs out or leaves current map.
-Lord of Death, , the Boss of the lowest floor at medical experiment Dungeon, Ktullanux, Thanatos cannot be detected.
+Lord of Death,, the Boss of the lowest floor at medical experiment Dungeon, Ktullanux, Thanatos cannot be detected.
 Some event MVP monsters cannot be detected.
 When a character is incapable of combat, the effect of item disappears.
 ^ffffff_^000000
@@ -15454,10 +15342,6 @@ Weight: ^0EAA0B0^000000
 12491#
 When consumed, you have the choice of receiving moderate HP & SP restoration, Lv. 10 Endure, Restore all SP or returning to your save point.
 Weight: ^0EAA0B0^000000
-#
-12493#
-A very cute egg scroll. It feels so fancy that makes you expect something from it.
-Weight: ^0EAA0B1^000000
 #
 12507#
 A Yellow Butterfly wing that can take you to any of the towns in the Rune Midgard Continent.
@@ -15483,16 +15367,8 @@ A very valuable medicinal herb whose unique aroma gratifies one's spirit.
 ^000088Recovers a little SP^000000.
 Weight: ^0EAA0B0^000000
 #
-12537#
-Beautifully wrapped gift basket is for someone.
-Weight: ^0EAA0B1^000000
-#
 12538#
 Filled with firecrackers for events.
-Weight: ^0EAA0B1^000000
-#
-12545#
-A very cute egg scroll. It feels so fancy that makes you expect something from it.
 Weight: ^0EAA0B1^000000
 #
 12548#
@@ -15549,20 +15425,16 @@ It is rumored that once you take a bite of the fruit, you can never forget it.
 ^000088Restores approximately 50 SP^000000.
 Increases your resistance to native monsters of Bifrost.
 Weight: ^0EAA0B2^000000
-Required Level: ^0EAA0B120^000000
+Level Requirement: ^0EAA0B120^000000
 #
 12575#
 A quiver containing 500 Arrows of Elf.
 Weight: ^0EAA0B25^000000
-Required Level: ^0EAA0B100^000000
+Level Requirement: ^0EAA0B100^000000
 #
 12576#
 A quiver containing 500 Hunting Arrows.
 Weight: ^0EAA0B25^000000
-#
-12577#
-A very cute, football looking scroll. Limited Edition! It feels so fancy that makes you expect something from it.
-Weight: ^0EAA0B1^000000
 #
 12580#
 Trial product which has been researched from the Geffen Magic Academy for such a long time.
@@ -15608,10 +15480,6 @@ Weight: ^0EAA0B0^000000
 12624#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
-12641#
-A very cute, devil looking scroll. Limited Edition! It feels so fancy that makes you expect something from it.
-Weight: ^0EAA0B1^000000
-#
 12654#
 A very cute, angel looking scroll. Limited Edition! It feels so fancy that makes you expect something from it.
 Weight: ^0EAA0B1^000000
@@ -15638,7 +15506,7 @@ Weight: ^0EAA0B2^000000
 Weight: ^0EAA0B2^000000
 #
 12673#
-This box contains one of the 3 Safe to 7 Upgrade Certificates; either Gear, Weapon or Headgear.  Take the certificate and the appropriate piece of equipment to Mighty Hammer to do a safe attempt at upgrading!  Even if the upgrade attempt fails the equipment is safe and unchanged.
+This box contains one of the 3 Safe to 7 Upgrade Certificates; either Gear, Weapon or Headgear. Take the certificate and the appropriate piece of equipment to Mighty Hammer to do a safe attempt at upgrading! Even if the upgrade attempt fails the equipment is safe and unchanged.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 ^ff0000May be stored only.^000000
@@ -15691,7 +15559,6 @@ Can warp back to the ‘Port Malaya’ village when used directly.
 Weight: ^0EAA0B1^000000
 #
 12702#
-					
 A mysterious blue box 
 whose appearance resembles 
 Old Blue Box.
@@ -15702,16 +15569,15 @@ open it to find out.
 Weight: ^0EAA0B20^000000
 #
 12715#
-					
 [This item will be removed
 from the game 1 week 
 after the event is ended.]
 A chest that seems to
 contain something 
-extremely valuable. 
-Let's see whats inside.					
-^ffffff_^000000					
-Weight: ^0EAA0B0^000000					
+extremely valuable.
+Let's see whats inside.
+^ffffff_^000000
+Weight: ^0EAA0B0^000000
 #
 12739#
 A rare Flower Grown of Snow, be careful or it will melt.
@@ -15750,7 +15616,7 @@ Weight: ^0EAA0B60^000000
 12779#
 #
 12859#
-The Spring Lucky Box contains many items of pure win.  It is advised to use with caution.
+The Spring Lucky Box contains many items of pure win. It is advised to use with caution.
 Spring Lucky Box is not meant to be consumed internally.
 ^FFFFFF_^000000
 Opening this randomly give you one of the following item sets
@@ -15985,7 +15851,7 @@ Weight: ^0EAA0B1^000000
 #
 12923#
 December 2008 Lucky Box!
-Inside, you have a chance of winning many great prizes.  See the Lucky Box page on the iro.ragnarokonline.com website for possible prizes.
+Inside, you have a chance of winning many great prizes. See the Lucky Box page on the iro.ragnarokonline.com website for possible prizes.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -16006,13 +15872,13 @@ aid the adventurer on the
 long journey.
 Contains: 
 Kafra Item Mall Prize Package.
-Kafra Item Mall Prize cannot be traded, dropped, or sold.  It can be Stored.
+Kafra Item Mall Prize cannot be traded, dropped, or sold. It can be Stored.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 12926#
 December 2008 Lucky Box!
-Inside, you have a chance of winning many great prizes.  See the Lucky Box page on the iro.ragnarokonline.com website for possible prizes.
+Inside, you have a chance of winning many great prizes. See the Lucky Box page on the iro.ragnarokonline.com website for possible prizes.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -16129,7 +15995,7 @@ Weapon Class: ^777777Dagger^000000
 Attack: ^D80000129^000000
 Weight: ^0EAA0B1^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman, Merchant, Thief Classes; Soul
 Linker and Ninja Jobs^000000
 #
@@ -16148,7 +16014,7 @@ Weapon Class: ^777777Dagger^000000
 Attack: ^D80000209^000000
 Weight: ^0EAA0B1^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDMage Class,
 Soul Linker Job^000000
 #
@@ -16175,7 +16041,7 @@ Weapon Class: ^777777Spear^000000
 Attack: ^D80000195^000000
 Weight: ^0EAA0B1^000000
 Weapon Level: ^0EAA0B3^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman Class^000000
 #
 12942#
@@ -16202,7 +16068,7 @@ Attack: ^D80000229^000000
 Weight: ^0EAA0B1^000000
 Property: ^777777Holy^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman and Merchant^000000
 #
 12944#
@@ -16222,10 +16088,10 @@ sage that was published without him ever knowing.
 MATK +20%, Increases
 Attack Speed by 5%
 This item cannot be Dropped or Traded.
-Weapon Class: ^777777Book^000000      Attack Strength: ^777777135^000000
+Weapon Class: ^777777Book^000000 Attack Strength: ^777777135^000000
 Weight: ^0EAA0B1^000000
 Weapon Level: ^0EAA0B3^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDPriest, Sage,
 Taekwon Master^000000
 #
@@ -16243,7 +16109,7 @@ Class: ^6A5ACDDagger^000000
 Attack: ^D80000120^000000
 Weight: ^0EAA0B1^000000
 Weapon Level: ^0EAA0B1^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDNinja^000000
 #
 12947#
@@ -16262,7 +16128,7 @@ Class: ^6A5ACDHelmet^000000
 Defense: ^0000FF7^000000
 Head Position: ^777777Upper^000000
 Weight: ^0EAA0B1^000000
-Required Level: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
+Level Requirement: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
 #
 12948#
 A box that contains:
@@ -16310,9 +16176,9 @@ For some, it is an
 incredible turn-on.
 INT +1
 This item cannot be Dropped or Traded.
-Class: ^6A5ACDHelmet^000000    Defense: ^7777772^000000
-Head Position: ^777777Mid^000000    Weight: ^7777771^000000
-Required Level: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
+Class: ^6A5ACDHelmet^000000 Defense: ^7777772^000000
+Head Position: ^777777Mid^000000 Weight: ^7777771^000000
+Level Requirement: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
 #
 12952#
 A box that contains:
@@ -16327,7 +16193,7 @@ This item cannot be Dropped or Traded.
 Class: ^6A5ACDHelmet^000000
 Defense: ^0000FF1^000000
 Head Position: ^777777Lower^000000
-Weight: ^0EAA0B0^000000^FFFFFF                 ^000000 Jobs: ^777777All Except Novice^000000
+Weight: ^0EAA0B0^000000^FFFFFF ^000000 Jobs: ^777777All Except Novice^000000
 #
 12953#
 A box that contains:
@@ -16341,7 +16207,7 @@ This item cannot be Dropped or Traded.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B1^000000
-Required Level: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
+Level Requirement: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
 #
 12954#
 A box that contains:
@@ -16354,7 +16220,7 @@ This item cannot be Dropped or Traded.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B1^000000
-Required Level: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
+Level Requirement: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
 #
 12955#
 A box that contains:
@@ -16367,7 +16233,7 @@ This item cannot be Dropped or Traded.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B1^000000
-Required Level: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
+Level Requirement: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
 #
 12956#
 A box that contains:
@@ -16380,7 +16246,7 @@ This item cannot be Dropped or Traded.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B1^000000
-Required Level: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
+Level Requirement: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
 #
 12957#
 A box that contains:
@@ -16391,8 +16257,8 @@ An ancient glove.
 DEX +4
 This item cannot be Dropped or Traded.
 Class: ^6A5ACDAccessory^000000
-Defense: ^0000FF0^000000      Weight: ^7777771^000000
-Required Level: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^0000FF0^000000 Weight: ^7777771^000000
+Level Requirement: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
 #
 12958#
 A box that contains:
@@ -16403,8 +16269,8 @@ An ancient brooch.
 AGI +4
 This item cannot be Dropped or Traded.
 Class: ^6A5ACDAccessory^000000
-Defense: ^0000FF0^000000      Weight: ^7777771^000000
-Required Level: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^0000FF0^000000 Weight: ^7777771^000000
+Level Requirement: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
 #
 12959#
 A box that contains:
@@ -16415,8 +16281,8 @@ An ancient rosary.
 LUK +4, MDEF +5
 This item cannot be Dropped or Traded.
 Class: ^6A5ACDAccessory^000000
-Defense: ^0000FF0^000000      Weight: ^7777771^000000
-Required Level: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
+Defense: ^0000FF0^000000 Weight: ^7777771^000000
+Level Requirement: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
 #
 12960#
 A box that contains:
@@ -16426,12 +16292,12 @@ Duration: 7 Days after opening
 A strange ring that
 curiously raises its
 wearer's defenses.
-DEF +5 , MDEF +5
+DEF +5, MDEF +5
 This item cannot be Dropped or Traded.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF5^000000
 Weight: ^0EAA0B1^000000
-Required Level: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
+Level Requirement: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
 #
 12961#
 A box that contains 1 Vesper Core 01. Handle with care.
@@ -16473,50 +16339,7 @@ obtaining an Evolved
 Orc Hero Helm or other
 Evolved Headgears.
 ^ffffff_^000000
-Weight:  ^7777771^000000
-#
-12984#
-A box that contains
-1 Pet Egg Scroll
-with the chance of
-obtaining a Succubus
-Card, Incubus Card,
-or Evolved Headgear.
-^ffffff_^000000
-Weight:  ^7777771^000000
-#
-12985#
-A box that contains
-1 Pet Egg Scroll
-with the chance of
-obtaining a Silver
-Tiara, Neuralizer,
-or Evolved Headgear.
-^ffffff_^000000
-Weight:  ^7777771^000000
-#
-12986#
-A tradeable box that contains
-^0000CC1 Adventurer Pack^000000.
-^ffffff_^000000
-Contains:
-10 Battle Manual
-10 Bubble Gum
-20 Lv 10 Agi Scroll
-20 Lv 10 Blessing Scroll
-10 Token Of Siegfried
-10 Life Insurance
-5 Kafra Card
-10 Stew of Immortality
-10 Hwegelmir's Tonic
-10 Steamed Scorpion
-10 Cooked Nine Tail's Tails
-10 Steamed Tongue
-10 Dragon Breath Cocktail
-^ffffff_^000000
-Adventurer Pack can not be
-dropped, or sold; it can be stored.
-Weight:  ^7777771^000000
+Weight: ^7777771^000000
 #
 12987#
 A box that contains
@@ -16526,7 +16349,7 @@ obtaining an Injustice
 Card, Zherlthsh Card,
 or Evolved Headgear.
 ^ffffff_^000000
-Weight:  ^7777771^000000
+Weight: ^7777771^000000
 #
 12988#
 A box that contains
@@ -16536,7 +16359,7 @@ obtaining Slippers,
 an Owl Baron Card,
 or an Owl Duke Card.
 ^ffffff_^000000
-Weight:  ^7777771^000000
+Weight: ^7777771^000000
 #
 12989#
 A Pet Egg Scroll that
@@ -16549,59 +16372,7 @@ traded or dropped,
 but can be placed
 in Kafra Storage.
 ^ffffff_^000000
-Weight:  ^7777771^000000
-#
-12990#
-A Pet Egg Scroll that
-seems to contain
-holy items. You
-might get something
-fairly nice if you
-use it. Cannot be
-traded or dropped,
-but can be placed
-in Kafra Storage.
-^ffffff_^000000
-Weight:  ^7777771^000000
-#
-12991#
-A Pet Egg Scroll that
-seems to contain items
-that look special, but
-are a bit broken. You
-might get something
-fairly nice if you
-use it. Cannot be
-traded or dropped,
-but can be placed
-in Kafra Storage.
-^ffffff_^000000
-Weight:  ^7777771^000000
-#
-12992#
-A pack of consumables to
-aid the adventurer on the 
-long journey.
-^ffffff_^000000
-Contains:
-10 Battle Manual
-10 Bubble Gum
-20 Lv 10 Agi Scroll
-20 Lv 10 Blessing Scroll
-10 Token Of Siegfried
-10 Life Insurance
-5 Kafra Card
-10 Stew of Immortality
-10 Hwegelmir's Tonic
-10 Steamed Scorpion
-10 Cooked Nine Tail's Tails
-10 Steamed Tongue
-10 Dragon Breath Cocktail
-^ffffff_^000000
-Adventurer Pack can not be
-traded, dropped, or sold;
-it can be stored.
-Weight:  ^7777771^000000
+Weight: ^7777771^000000
 #
 12993#
 A Pet Egg Scroll that
@@ -16614,7 +16385,7 @@ traded or dropped,
 but can be placed
 in Kafra Storage.
 ^ffffff_^000000
-Weight:  ^7777771^000000
+Weight: ^7777771^000000
 #
 12994#
 A Pet Egg Scroll that
@@ -16627,7 +16398,7 @@ traded or dropped,
 but can be placed
 in Kafra Storage.
 ^ffffff_^000000
-Weight:  ^7777771^000000
+Weight: ^7777771^000000
 #
 12995#
 A box designed to
@@ -16850,7 +16621,7 @@ Weapon Class: ^777777Pistol^000000
 Attack: ^D8000070^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B3^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Jobs: ^6A5ACDGunslinger^000000
 #
 13109#
@@ -16871,7 +16642,7 @@ Class: ^6A5ACDRevolver^000000
 Attack: ^D8000080^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Jobs: ^6A5ACDGunslinger Jobs^000000
 #
 13112#
@@ -16954,7 +16725,7 @@ Weapon Class: ^777777Rifle^000000
 Attack: ^D8000050^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B3^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Jobs: ^6A5ACDGunslinger^000000
 #
 13172#
@@ -16969,7 +16740,7 @@ Weapon Class: ^777777Gatling Gun^000000
 Attack: ^D8000080^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B3^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Jobs: ^6A5ACDGunslinger^000000
 #
 13173#
@@ -16985,7 +16756,7 @@ Weapon Class: ^777777Shotgun^000000
 Attack: ^D80000100^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B3^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Jobs: ^6A5ACDGunslinger^000000
 #
 13174#
@@ -17000,7 +16771,7 @@ Weapon Class: ^777777Grenade Launcher^000000
 Attack: ^D80000300^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B3^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Jobs: ^6A5ACDGunslinger^000000
 #
 13175#
@@ -17023,7 +16794,7 @@ Class: ^6A5ACDRifle^000000
 Attack: ^D8000090^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Jobs: ^6A5ACDGunslinger Jobs^000000
 #
 13177#
@@ -17041,7 +16812,7 @@ Class: ^6A5ACDGatling Gun^000000
 Attack: ^D8000090^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Jobs: ^6A5ACDGunslinger Jobs^000000
 #
 13178#
@@ -17061,7 +16832,7 @@ Class: ^6A5ACDShotgun^000000
 Attack: ^D80000110^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Jobs: ^6A5ACDGunslinger Jobs^000000
 #
 13179#
@@ -17080,7 +16851,7 @@ Class: ^6A5ACDGrenade Launcher^000000
 Attack: ^D80000330^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Jobs: ^6A5ACDGunslinger Jobs^000000
 #
 13200#
@@ -17173,7 +16944,7 @@ true power during
 a rainstorm.
 Class: ^6A5ACDThrowing Weapon^000000
 Attack: ^D8000030^000000
-Required Level: ^0EAA0B20^000000
+Level Requirement: ^0EAA0B20^000000
 Weight: ^0EAA0B0.5^000000
 Property: ^777777Neutral^000000
 #
@@ -17183,7 +16954,7 @@ can be thrown at
 the speed of light.
 Class: ^6A5ACDThrowing Weapon^000000
 Attack: ^D8000045^000000
-Required Level: ^0EAA0B40^000000
+Level Requirement: ^0EAA0B40^000000
 Weight: ^0EAA0B0.5^000000
 Property: ^777777Neutral^000000
 #
@@ -17193,7 +16964,7 @@ that is surprisingly
 as thin as a leaf.
 Class: ^6A5ACDThrowing Weapon^000000
 Attack: ^D8000070^000000
-Required Level: ^0EAA0B60^000000
+Level Requirement: ^0EAA0B60^000000
 Weight: ^0EAA0B0.5^000000
 Property: ^777777Neutral^000000
 #
@@ -17205,7 +16976,7 @@ target, making them
 painful to pull out.
 Class: ^6A5ACDThrowing Weapon^000000
 Attack: ^D80000100^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Weight: ^0EAA0B0.5^000000
 Property: ^777777Neutral^000000
 #
@@ -17502,10 +17273,10 @@ STR +2, DEX +1
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
 Ignores Physical Defense from Demihuman monsters by 20%.
 Indestructible.
-Weapon Class: ^777777Huuma^000000    Attack Strength: ^77777755^000000
+Weapon Class: ^777777Huuma^000000 Attack Strength: ^77777755^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B3^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Jobs: ^6A5ACDNinja^000000
 #
 13306#
@@ -17514,10 +17285,10 @@ STR +2, DEX +1
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
 Increases Attack Strength in Throw Huuma Shuriken skill and Killing Stroke skill by 100% for a 10 sec. duration when attacking and synchronizing the weapon by a certain rate.
 Indestructible.
-Weapon Class: ^777777Huuma^000000    Attack Strength: ^77777755^000000
+Weapon Class: ^777777Huuma^000000 Attack Strength: ^77777755^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B3^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Jobs: ^6A5ACDNinja^000000
 #
 13307#
@@ -17537,7 +17308,7 @@ Class: ^6A5ACDHuuma^000000
 Attack: ^D8000055^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B80^000000
 Jobs: ^6A5ACDNinja Jobs^000000
 #
 13308#
@@ -17561,7 +17332,7 @@ Attack: ^D80000199^000000
 Weight: ^0EAA0B0^000000
 Property: ^777777Holy^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman, Merchant, and Thief Classes^000000
 #
 13402#
@@ -17578,7 +17349,7 @@ Weapon Class: ^777777Sword^000000
 Attack: ^D80000185^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman,
 Merchant, and
 Thief Classes^000000
@@ -17596,7 +17367,7 @@ Attack: ^D80000120^000000
 Weight: ^0EAA0B0^000000
 Property: ^777777Fire^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman,
 Merchant, and
 Thief Classes^000000
@@ -17682,8 +17453,8 @@ A headgear made from the horns of Baphomet.
 Inflicts 12% more damage to Demi-Humans.
 Increases a certain amount of ATK based on the wearer's Job Lvl.
 This item cannot be Dropped or Traded.
-Class: ^6A5ACDHeadgear^000000    Def : ^7777775^000000
-Position: ^6A5ACDUpper^000000    Weight : ^77777780^000000
+Class: ^6A5ACDHeadgear^000000 Def : ^7777775^000000
+Position: ^6A5ACDUpper^000000 Weight : ^77777780^000000
 Jobs: ^6A5ACDAll^000000
 #
 13505#
@@ -17703,7 +17474,7 @@ Attack: ^D80000190^000000
 Weight: ^0EAA0B1^000000
 Property: ^777777Shadow^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman Class^000000
 #
 13507#
@@ -17720,7 +17491,7 @@ Attack: ^D80000200^000000
 Weight: ^0EAA0B1^000000
 Property: ^4cbb17Wind^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman and Merchant^000000
 #
 13508#
@@ -17740,7 +17511,7 @@ Attack: ^D80000185^000000
 Weight: ^0EAA0B1^000000
 Property: ^777777Holy^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDArcher Class;
 Rogue Job^000000
 #
@@ -17761,7 +17532,7 @@ Weapon Class: ^777777Sword^000000
 Attack: ^D80000185^000000
 Weight: ^0EAA0B1^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman,
 Merchant, and
 Thief Classes^000000
@@ -17782,7 +17553,7 @@ Attack: ^D80000120^000000
 Weight: ^0EAA0B1^000000
 Property: ^777777Fire^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman,
 Merchant, and
 Thief Classes^000000
@@ -17802,7 +17573,7 @@ Weapon Class: ^777777Dagger^000000
 Attack: ^D8000085^000000
 Weight: ^0EAA0B71^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman, Mage, Archer, Merchant,
 Thief Classes, Soul Linker, and Ninja^000000
 #
@@ -17821,7 +17592,7 @@ Weapon Class: ^777777Mace^000000
 Attack: ^D80000150^000000
 Weight: ^0EAA0B1^000000
 Weapon Level: ^0EAA0B3^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAcolyte Class^000000
 #
 13531#
@@ -18108,7 +17879,7 @@ A box that contains 5 Enriched Elunium
 Description:
 Concentrated Elunium
 that has been buried
-deep underground. 
+deep underground.
 Used as a material
 to strengthen armor.
 Enhances a chance of
@@ -18126,7 +17897,7 @@ A box that contains 5 Enriched Oridecon
 Description:
 Dense Oridecon
 that has been buried
-deep underground. 
+deep underground.
 Used as a material to
 strengthen weapons.
 Enhances a chance of
@@ -18147,7 +17918,7 @@ Weight: 1
 #
 13642#
 The Start your Journey Pack contains several items that will allow you move around Rune Midgard kingdom's cities so you can complete your job change quest quickly, get more exp for 30 minutes, and keep yourself heal during early adventure battles.
-Also 20 Red Envelopes are given to help you get that last little bit of experience needed for that next level.  
+Also 20 Red Envelopes are given to help you get that last little bit of experience needed for that next level.
 Contains:
 20 Red Envelopes
 200 Novice Red Potions
@@ -18555,41 +18326,41 @@ A box that contains
 Weight: ^0EAA0B1^000000
 #
 13811#
-A box that contains^FFFFFF       ^000000 6 kinds of Lv.1 Dishes.
+A box that contains 6 kinds of Lv.1 Dishes.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 13812#
-A box that contains^FFFFFF       ^000000 6 kinds of Lv.2 Dishes.
+A box that contains 6 kinds of Lv.2 Dishes.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 13813#
-A box that contains^FFFFFF       ^000000 6 kinds of Lv.3 Dishes.
+A box that contains 6 kinds of Lv.3 Dishes.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 13850#
 A box containing 10 enchanted butterfly wings that sends its user to the towns of the Rune Midgarts Kingdom.
-Locations: "Prontera", "Geffen", "Payon", "Morocc", "Al De Baran", "Alberta"
+Locations: ''Prontera'', ''Geffen'', ''Payon'', ''Morocc'', ''Al De Baran'', ''Alberta''
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 13852#
-A box containing 10 enchanted butterfly wings that sends its user to the towns of the Schwaltzvalt. 
-Locations: "Yuno", "Lighthalzen", "Einbroch", "Hugel"
+A box containing 10 enchanted butterfly wings that sends its user to the towns of the Schwaltzvalt.
+Locations: ''Yuno'', ''Lighthalzen'', ''Einbroch'', ''Hugel''
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 13854#
 A box containing 10 enchanted butterfly wings that sends its user to the towns of Arunafeltz.
-Locations: "Veins", "Rachel"
+Locations: ''Veins'', ''Rachel''
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 13856#
 A box containing 10 enchanted butterfly wings that sends its user to the island towns of Rune Midgard.
-Locations: "Ayothaya", "Amatsu", "Luoyang", "Kunlun"
+Locations: ''Ayothaya'', ''Amatsu'', ''Luoyang'', ''Kunlun''
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -18622,63 +18393,60 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 13902#
-					
-A box that contains					
-1 Fish Head Hat,					
-a gaping fish head					
-fashioned into a hat.					
-A nasty stench is					
-released whenever					
-it opens its mouth.					
-Adds a low chance					
-of automatically					
-casting Lv.1 Endow					
-Tsunami with each					
-physical attack.					
-Class: ^6A5ACDHelmet^000000					
-Defense: ^0000FF1^000000					
-Head Position: ^777777Upper^000000					
-Weight: ^0EAA0B40^000000					
-Jobs: ^6A5ACDAll^000000					
-^ffffff_^000000					
-Weight: ^0EAA0B1^000000					
+A box that contains
+1 Fish Head Hat,
+a gaping fish head
+fashioned into a hat.
+A nasty stench is
+released whenever
+it opens its mouth.
+Adds a low chance
+of automatically
+casting Lv.1 Endow
+Tsunami with each
+physical attack.
+Class: ^6A5ACDHelmet^000000
+Defense: ^0000FF1^000000
+Head Position: ^777777Upper^000000
+Weight: ^0EAA0B40^000000
+Jobs: ^6A5ACDAll^000000
+^ffffff_^000000
+Weight: ^0EAA0B1^000000
 #
 13903#
-					
-A box that contains					
-1 Santa Poring Hat,					
-a cute hat made					
-from a hopping Poring					
-wearing a Santa's Hat.					
-Adds 3% additional					
-Darkness property					
-damage to monsters,					
-and reduces Darkness					
-property attacks from					
-enemies by 3%.					
-MDEF +2. Cannot					
-be upgraded.					
-Class: ^6A5ACDHelmet^000000					
-Defense: ^0000FF2^000000					
-Head Position: ^777777Upper^000000					
-Weight: ^0EAA0B10^000000					
-Jobs: ^6A5ACDAll^000000					
-^ffffff_^000000					
-Weight: ^0EAA0B1^000000					
+A box that contains
+1 Santa Poring Hat,
+a cute hat made
+from a hopping Poring
+wearing a Santa's Hat.
+Adds 3% additional
+Darkness property
+damage to monsters,
+and reduces Darkness
+property attacks from
+enemies by 3%.
+MDEF +2. Cannot
+be upgraded.
+Class: ^6A5ACDHelmet^000000
+Defense: ^0000FF2^000000
+Head Position: ^777777Upper^000000
+Weight: ^0EAA0B10^000000
+Jobs: ^6A5ACDAll^000000
+^ffffff_^000000
+Weight: ^0EAA0B1^000000
 #
 13904#
-					
-A box that contains					
-1 Bell Ribbon, a cute					
-ribbon adorned with					
-jingling bells.					
-Enables use of					
-Lv.1 Angelus. VIT +1.					
-Class: ^6A5ACDHelmet^000000    Defense: ^7777773^000000					
-Head Position: ^777777Upper^000000    Weight: ^77777720^000000					
-Jobs: ^6A5ACDAll^000000					
-^ffffff_^000000					
-Weight: ^0EAA0B1^000000					
+A box that contains
+1 Bell Ribbon, a cute
+ribbon adorned with
+jingling bells.
+Enables use of
+Lv.1 Angelus. VIT +1.
+Class: ^6A5ACDHelmet^000000 Defense: ^7777773^000000
+Head Position: ^777777Upper^000000 Weight: ^77777720^000000
+Jobs: ^6A5ACDAll^000000
+^ffffff_^000000
+Weight: ^0EAA0B1^000000
 #
 13908#
 #
@@ -18705,9 +18473,9 @@ Party_Assumptio_10_Box
 A box containing 1 'Koneko Hat' in it.
 A magical kitty hat which shows various expressions on its face.
 Reduces Cast Delay of all skills by 3 %.
-MATK + 3 %,  MSP + 3%.  MDEF +3
-Class: ^6A5ACDHeadgear^000000    Def : ^7777771^000000
-Position: ^6A5ACDUpper^000000    Weight : ^77777750^000000
+MATK + 3 %, MSP + 3%. MDEF +3
+Class: ^6A5ACDHeadgear^000000 Def : ^7777771^000000
+Position: ^6A5ACDUpper^000000 Weight : ^77777750^000000
 Jobs: ^6A5ACDAll^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
@@ -18718,8 +18486,8 @@ A box containing 1 'Baphomet Horns' in it.
 A headgear made from the horns of Baphomet.
 Inflicts 12% more damage to Demi-Humans.
 Increases a certain amount of ATK based on the wearer's Job Lvl.
-Class: ^6A5ACDHeadgear^000000    Def : ^7777775^000000
-Position: ^6A5ACDUpper^000000    Weight : ^77777780^000000
+Class: ^6A5ACDHeadgear^000000 Def : ^7777775^000000
+Position: ^6A5ACDUpper^000000 Weight : ^77777780^000000
 Jobs: ^6A5ACDAll^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
@@ -18729,8 +18497,8 @@ Weight: ^0EAA0B1^000000
 A box containing a Satanic Chain.
 A hairband that's made of Devil's wings. It is cursed.
 SP + 120. Curses itself with low chances when attacked.
-Class: ^6A5ACDHeadgear^000000    Def : ^7777773^000000
-Position: ^6A5ACDUpper^000000    Weight : ^77777710^000000
+Class: ^6A5ACDHeadgear^000000 Def : ^7777773^000000
+Position: ^6A5ACDUpper^000000 Weight : ^77777710^000000
 Jobs: ^6A5ACDAll^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
@@ -18740,8 +18508,8 @@ Weight: ^0EAA0B1^000000
 A box containing 1 'Gentleman's Pipe' in it.
 A long smoking pipe used by gentlemen and nobility.
 Reduce Damage from Demi-Humans by 2%.
-Class: ^6A5ACDHeadgear^000000    Def : ^7777770^000000
-Position: ^6A5ACDLower^000000    Weight : ^77777710^000000
+Class: ^6A5ACDHeadgear^000000 Def : ^7777770^000000
+Position: ^6A5ACDLower^000000 Weight : ^77777710^000000
 Jobs: ^6A5ACDAll^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
@@ -18751,8 +18519,8 @@ Weight: ^0EAA0B1^000000
 A box that contains a Rabbit Ear Hat.
 A vivid hat with rabbit ears that seems suitable for any magic show.
 AGI +3, Auto casts Lv5 Increase Agi when user receives physical damage.
-Class: ^6A5ACDHeadgear^000000    Def : ^7777770^000000
-Position: ^6A5ACDUpper^000000    Weight : ^77777730^000000
+Class: ^6A5ACDHeadgear^000000 Def : ^7777770^000000
+Position: ^6A5ACDUpper^000000 Weight : ^77777730^000000
 Jobs: ^6A5ACDAll^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
@@ -18760,10 +18528,10 @@ Weight: ^0EAA0B1^000000
 #
 13923#
 A box containing 1 'Dark Randgris Helm' in it.
-A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better. 
+A helm laced with the power of Valkyrie Randgris. It helps its wearer to concentrate better.
 DEX +3, MDEF + 1
-Class: ^6A5ACDHeadgear^000000    Def : ^7777772^000000
-Position: ^6A5ACDUpper-Mid^000000    Weight : ^77777730^000000
+Class: ^6A5ACDHeadgear^000000 Def : ^7777772^000000
+Position: ^6A5ACDUpper-Mid^000000 Weight : ^77777730^000000
 Jobs: ^6A5ACDAll^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
@@ -18774,8 +18542,8 @@ A box containing 1 'Orc Hero Headdress' in it.
 A true Orc Hero's headgear. It's so big and heavy that it might hurt your neck.
 STR +2. Slot [1]
 Autocasts Lv3 Weapon Perfection on each attack.
-Class: ^6A5ACDHeadgear^000000    Def : ^7777775^000000
-Position: ^6A5ACDUpper-Mid^000000    Weight : ^77777790^000000
+Class: ^6A5ACDHeadgear^000000 Def : ^7777775^000000
+Position: ^6A5ACDUpper-Mid^000000 Weight : ^77777790^000000
 Jobs: ^6A5ACDAll^000000
 ^ff0000For this item, the cancellation of purchase of refund is now allowed.^000000
 ^ffffff_^000000
@@ -18828,22 +18596,22 @@ This item cannot be Dropped or Traded.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF1^000000
 Weight: ^0EAA0B1^000000
-Required Level: ^0EAA0B1^000000 Jobs: ^777777All^000000
+Level Requirement: ^0EAA0B1^000000 Jobs: ^777777All^000000
 #
 13962#
 Contains 1 Defolty Doll Hat, which is non-tradeable.
-Decreases 5% damage from demi-humans.  Autocasts Lvl 10 Angelus when physically attacked by melee.
+Decreases 5% damage from demi-humans. Autocasts Lvl 10 Angelus when physically attacked by melee.
 Can't be upgraded, Def 0.
-Lvl 60 requirement.  Jobs: All
+Lvl 60 requirement. Jobs: All
 This Box can be traded.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 13963#
 Contains 1 Glaris Doll Hat, which is non-tradeable.
-Decreases 5% damage from demi-humans.  Recovers 50 HP when a monster is killed magical attack.
+Decreases 5% damage from demi-humans. Recovers 50 HP when a monster is killed magical attack.
 Can't be upgraded, Def 0.
-Lvl 60 requirement.  Jobs: All
+Lvl 60 requirement. Jobs: All
 This Box can be traded.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
@@ -18942,8 +18710,8 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 A box that contains 1 Hockey Mask available for a week.
 ^ffffff_^000000
 If you put on this mask, you feel that you should pick up a weapon. Increase damages infilcted on demi human monsters by 5%.
-Class: ^6A5ACDHeadgear^000000    Defense : ^7777771^000000
-Head Position : ^777777Mid-Low^000000    Weight : ^77777710^000000
+Class: ^6A5ACDHeadgear^000000 Defense : ^7777771^000000
+Head Position : ^777777Mid-Low^000000 Weight : ^77777710^000000
 Required lvl : ^77777750^000000
 Jobs: ^6A5ACDAll^000000
 ^ff0000Cancellation of purchase or refund for this item is not available.^000000
@@ -18951,31 +18719,31 @@ Jobs: ^6A5ACDAll^000000
 Weight: ^0EAA0B1^000000
 #
 14042#
-A box that contains: 10 scrolls that is recorded of Rune Midgarts villages. When used, user can move to the villages directly. 
-"Prontera", "Geffen", "Payon", "Morroc, "Aldebaran", "Alberta"
+A box that contains: 10 scrolls that is recorded of Rune Midgarts villages. When used, user can move to the villages directly.
+''Prontera'', ''Geffen'', ''Payon'', ''Morroc, ''Aldebaran'', ''Alberta''
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 Warning: After use, if you don't select any within a minute, it will not be effective anymore.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 14044#
-A box that contains:  10 scrolls that is recorded of the Republic of Schubaltzwald villages. When used, user can move to the villages directly.
-"Yuno", "Lighthalzen", "Einbroch", "Hugel"
+A box that contains: 10 scrolls that is recorded of the Republic of Schubaltzwald villages. When used, user can move to the villages directly.
+''Yuno'', ''Lighthalzen'', ''Einbroch'', ''Hugel''
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 14046#
-A box that contains:  10 scrolls that is recorded of Rachel. When used, user can move to the villages directly.
-"Veins", "Rachel"
+A box that contains: 10 scrolls that is recorded of Rachel. When used, user can move to the villages directly.
+''Veins'', ''Rachel''
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Warning: After use, if you don't select any within a minute, it will not be effective anymore.
 Weight: ^0EAA0B1^000000
 #
 14048#
-A box that contains:  10 scrolls that is recorded of localizing villages.  When used, user can move to the villages directly.
-"Ayotaya", "Amatsu", "Castle of Dragon", "Kunlun"
+A box that contains: 10 scrolls that is recorded of localizing villages. When used, user can move to the villages directly.
+''Ayotaya'', ''Amatsu'', ''Castle of Dragon'', ''Kunlun''
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Warning: After use, if you don't select any within a minute, it will not be effective anymore.
@@ -18984,7 +18752,7 @@ Weight: ^0EAA0B1^000000
 14053#
 This box contains 1 Little Angel Doll.
 This box is trade and vendable, the hat inside is account bound.
-^00CC00If you wish to move this item to the classic server, write into the GM team with the character name/account it is on by October 1st.  And it will be moved to the same account on Classic.^000000
+^00CC00If you wish to move this item to the classic server, write into the GM team with the character name/account it is on by October 1st. And it will be moved to the same account on Classic.^000000
 Weight: ^0EAA0B1^000000
 #
 14075#
@@ -19087,8 +18855,8 @@ Weight: ^0EAA0B1^000000
 #
 14114#
 A box that contains 10 special scrolls that
-"can transport you once to Nogg Road, Mjolnir Dead Pit,Umbala Dungeon, Einbroch Mine Dungeon, Payon Dungeon, Toy Dungeon, Glast Heim Underprison,  Louyang Dungeon, Hermit's Checkers, Izlude Dungeon, Turtle Island Dungeon, Clock Tower B3F, Clock Tower 3F, Glast Heim Culvert 2F, Sphinx Dungeon 4F,
-Inside Pyramid 4F, Prontera Culvert 3F, Amatsu Dungeon 1F (Tatami Maze),  Somatology Laboratory 1st Floor, or Ayothaya Ancient Shrine 2F."
+''can transport you once to Nogg Road, Mjolnir Dead Pit,Umbala Dungeon, Einbroch Mine Dungeon, Payon Dungeon, Toy Dungeon, Glast Heim Underprison, Louyang Dungeon, Hermit's Checkers, Izlude Dungeon, Turtle Island Dungeon, Clock Tower B3F, Clock Tower 3F, Glast Heim Culvert 2F, Sphinx Dungeon 4F,
+Inside Pyramid 4F, Prontera Culvert 3F, Amatsu Dungeon 1F (Tatami Maze), Somatology Laboratory 1st Floor, or Ayothaya Ancient Shrine 2F.''
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
 Warning: After use, if you don't select any within a minute, it will not be effective anymore.
@@ -19100,10 +18868,10 @@ A box that contains: Combat Knife. Extremely fragile!
 A military combat knife designed for killing humanoids.
 Ignores Demihuman monster physical defense. / Reduces damage from Demihuman monsters by 10%/ but increases damage inflicted by Devil monsters by 10%.
 Restores 3 SP when hitting a monster, MaxSP +10%
-Class: ^6A5ACDDagger^000000    Attack: ^777777129^000000
+Class: ^6A5ACDDagger^000000 Attack: ^777777129^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman, Merchant, Thief Classes; Soul Linker and Ninja Jobs^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19118,7 +18886,7 @@ Class: ^6A5ACDDagger^000000
 Attack: ^D80000209^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACD마법사Weapon Class/소울Ring커 전용^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19130,10 +18898,10 @@ A box that contains:Light Epsilon. Extremely fragile!
 Holy property
 STR +10, Holy property, Enables use of Lvl 3 Heal
 Increases damage inflicted on Devil monsters by 3%, Increases Movement Speed.
-Class: ^6A5ACDAxe^000000    Attack: ^777777229^000000
-Weight: ^0EAA0B0^000000     Property : ^777777성^000000
+Class: ^6A5ACDAxe^000000 Attack: ^777777229^000000
+Weight: ^0EAA0B0^000000 Property : ^777777성^000000
 Weapon Level: ^0EAA0B4^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman and Merchant Classes^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19148,7 +18916,7 @@ Class: ^6A5ACD책^000000
 Attack: ^D80000135^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B3^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDPriest, Sage, Taekwon Master^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19157,13 +18925,13 @@ Weight: ^0EAA0B1^000000
 14125#
 A box that contains:Asura. Extremely fragile!
 ^000088Rental Item^000000
-A legendary dagger that is said to have been given to mankind by the gods. 
+A legendary dagger that is said to have been given to mankind by the gods.
 MATK + 98.
 Class: ^6A5ACDDagger^000000
 Attack: ^D80000120^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B1^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDNinja^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19174,9 +18942,9 @@ A box that contains: Apple of Archer. Extremely fragile!
 ^000088Rental Item^000000
 A headgear made in honor of the legendary archer known for shooting A headgear made in honor of the legendary archer known for shooting
 DEX +4
-Class: ^6A5ACDHeadgear^000000    Defense : ^7777777^000000
-Position : ^777777Upper^000000    Weight : ^7777770^000000
-Required Level: ^0EAA0B1^000000
+Class: ^6A5ACDHeadgear^000000 Defense : ^7777777^000000
+Position : ^777777Upper^000000 Weight : ^7777770^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDExcept Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19187,8 +18955,8 @@ A box that contains: Bunny Band. Extremely fragile!
 ^000088Rental Item^000000
 A hairband that gives one the appearance of having rabbit ears, a lasting symbol of extremely good luck.
 Reduces damage from Demihuman monsters by 10%, MDEF +5
-Class: ^6A5ACDHeadgear^000000    Defense : ^7777779^000000
-Position : ^777777Upper^000000    Weight : ^7777770^000000
+Class: ^6A5ACDHeadgear^000000 Defense : ^7777779^000000
+Position : ^777777Upper^000000 Weight : ^7777770^000000
 Jobs: ^6A5ACDAll^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19199,9 +18967,9 @@ A box that contains: Elven Ears. Extremely fragile!
 ^000088Rental Item^000000
 A fashion accessory that gives ears that vaunted, elvish look. For some, it is an incredible turn-on.
 INT +1
-Class: ^6A5ACDHeadgear^000000    Defense : ^7777772^000000
-Position : ^777777mid^000000    Weight : ^7777770^000000
-Required Level: ^0EAA0B1^000000
+Class: ^6A5ACDHeadgear^000000 Defense : ^7777772^000000
+Position : ^777777mid^000000 Weight : ^7777770^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDExcept Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19212,8 +18980,8 @@ A box that contains:Steel Flower. Extremely fragile!
 ^000088Rental Item^000000
 A small flower made of steel.
 Has a low chance to cast Lvl 1 Recovery when its wearer receives physical damage.
-Class: ^6A5ACDHeadgear^000000    Defense : ^7777771^000000
-Position : ^777777Lower^000000    Weight : ^7777770^000000
+Class: ^6A5ACDHeadgear^000000 Defense : ^7777771^000000
+Position : ^777777Lower^000000 Weight : ^7777770^000000
 Jobs: ^6A5ACDExcept Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19227,7 +18995,7 @@ Critical +10%
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDExcept Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19244,7 +19012,7 @@ This item cannot be Dropped or Traded.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B1^000000
-Required Level: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
+Level Requirement: ^0EAA0B1^000000 Jobs: ^777777All Except Novice^000000
 #
 14134#
 A box that contains: Earring. Extremely fragile!
@@ -19254,7 +19022,7 @@ STR +4
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDExcept Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19268,7 +19036,7 @@ VIT +4
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDExcept Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19282,7 +19050,7 @@ DEX +4
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDExcept Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19296,7 +19064,7 @@ AGI +4
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDExcept Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19310,7 +19078,7 @@ LUK +4, MDEF +5
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDExcept Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19320,11 +19088,11 @@ Weight: ^0EAA0B1^000000
 A box that contains: Safety Ring. Extremely fragile!
 ^000088Rental Item^000000
 A strange ring that curiously raises its wearer's defenses.
-DEF + 5 , MDEF +5
+DEF + 5, MDEF +5
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF5^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDExcept Novice^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -19388,7 +19156,7 @@ Contains:
 5x Regeneration Potion,
 4x Mega Resist Potion,
 50x WoE White Potions, and
-25x WoE Blue Potions."						
+25x WoE Blue Potions.''
 Cannot be dropped or placed in Cart.
 Weight: ^0EAA0B1^000000
 #
@@ -19412,12 +19180,12 @@ Contains:
 5x Rachel Town Butterfly Wing, 
 5x Schwartzwalt Town Butterfly Wing,
 5x Rune-Midgard Town Butterfly Wing, and
-12x Small Life Potions.  						
+12x Small Life Potions.
 Cannot be dropped or placed in Cart.
 Weight: ^0EAA0B1^000000
 #
 14156#
-A box that contains 10 Battle Manuals. 
+A box that contains 10 Battle Manuals.
 ^ffffff_^000000
 Battle Manual - Increases - EXP rate to 50% for a 30 minute duration.
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
@@ -19784,7 +19552,7 @@ A box that contains 5 Enriched Oridecon
 Description:
 Dense Oridecon
 that has been buried
-deep underground. 
+deep underground.
 Used as a material to
 strengthen weapons.
 Enhances a chance of
@@ -19802,7 +19570,7 @@ A box that contains 5 Enriched Elunium
 Description:
 Concentrated Elunium
 that has been buried
-deep underground. 
+deep underground.
 Used as a material
 to strengthen armor.
 Enhances a chance of
@@ -19817,7 +19585,7 @@ Weight: ^0EAA0B1^000000
 #
 14223#
 A box that contains 50 Magic Amplification Scrolls.
-A scroll that will cast Magic Amplification Lvl 10 for you.  Good for making the next magic attack do +50% Magic attack power.
+A scroll that will cast Magic Amplification Lvl 10 for you. Good for making the next magic attack do +50% Magic attack power.
 It can be traded or put in storage. It cannot be dropped.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
@@ -19847,9 +19615,9 @@ Enables use of Lv.1 Sight.
 Autospell Meteor Storm Lv.3 by a certain chance when receiving physical attack.
 Autospell Fire Bolt Lv.3 by a certain chance when dealing physical damage.
 ^FF0000Unrefineable^000000
-Class: ^6A5ACDHeadgear^000000    Defense : ^7777778^000000
-Position: ^6A5ACDUpper,Mid,Lower^000000    Weight : ^7777770^000000
-Required Level: ^0EAA0B70^000000
+Class: ^6A5ACDHeadgear^000000 Defense : ^7777778^000000
+Position: ^6A5ACDUpper,Mid,Lower^000000 Weight : ^7777770^000000
+Level Requirement: ^0EAA0B70^000000
 Jobs: ^6A5ACDEvery Job except Novice^000000
 ^ff0000This item is not refunable.^000000
 ^ffffff_^000000
@@ -19863,9 +19631,9 @@ Increase damage of Fire Bolt, Fire Pillar, Meteor Storm skill by 2%.
 Increase damage of Bash, Pierce, Magnum Break skill by 2%.
 Increase 5% resistence against Fire Property attacks.
 Reduce 5% resistence against Water Property attacks.
-Class: ^6A5ACDHeadgear^000000    Defense : ^7777770^000000
-Position: ^6A5ACDMiddle^000000    Weight : ^7777770^000000
-Required Level: ^0EAA0B70^000000
+Class: ^6A5ACDHeadgear^000000 Defense : ^7777770^000000
+Position: ^6A5ACDMiddle^000000 Weight : ^7777770^000000
+Level Requirement: ^0EAA0B70^000000
 Jobs: ^6A5ACDEvery Job except Novice^000000
 ^ff0000This item is not refundable.^000000
 ^ffffff_^000000
@@ -19884,7 +19652,7 @@ Class: ^6A5ACDHeadgear^000000
 Position: ^6A5ACDUpper^000000
 Defense: ^0000FF1^000000
 Weight: ^0EAA0B50^000000
-Required Level: ^0EAA0B20^000000
+Level Requirement: ^0EAA0B20^000000
 Jobs: ^6A5ACDAll^000000
 #
 14448#
@@ -19907,14 +19675,14 @@ Weight: ^0EAA0B1^000000
 14509#
 A potent medicine that
 stimulates concentration. Temporarily increases
-Attack Speed.^FFFFFF            ^000000 Applicable Jobs: ^777777All^000000
+Attack Speed.^FFFFFF  ^000000 Applicable Jobs: ^777777All^000000
 Weight: ^0EAA0B10^000000
 #
 14510#
 A special tonic that
 combats the effects of
 drowsiness. Temporarily increases Attack Speed.
-Required Level: ^0EAA0B40^000000
+Level Requirement: ^0EAA0B40^000000
 Applicable Jobs: ^777777All
 except Acolyte, Priest, Bard and Dancer^000000
 Weight: ^0EAA0B15^000000
@@ -19929,7 +19697,7 @@ Rogue, Mage, Wizard^000000
 Weight: ^0EAA0B20^000000
 #
 14525#
-A deliciously chewy rice cake. 
+A deliciously chewy rice cake.
 +10 Atk for 30 minutes
 Weight: ^0EAA0B1^000000
 #
@@ -20019,7 +19787,7 @@ Weight: ^0EAA0B1^000000
 14538#
 A glass of illusion made from morning dew from an Illusion Flower.
 Drink the dew to create an illusion that will make it more difficult for enemies to hit you.
-Increases your Perfect Dodge by 20 for 1 minute.  Only one may be consumed per 5 minutes.
+Increases your Perfect Dodge by 20 for 1 minute. Only one may be consumed per 5 minutes.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
@@ -20118,7 +19886,7 @@ and convenient for
 beginner chefs; it
 has a fresh, grassy
 taste, strangely enough. STR +1
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14552#
@@ -20126,7 +19894,7 @@ A dish that looks
 slightly unappetizing,
 but its taste and scent are quite pleasant.
 STR +2
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14553#
@@ -20135,7 +19903,7 @@ ordinary steak,
 but it is explosively
 flavorful and juicy.
 STR +3
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14554#
@@ -20143,7 +19911,7 @@ A sweetly scented
 tea made by mixing
 herbs and grape juice.
 INT +1
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14555#
@@ -20152,7 +19920,7 @@ different herbs that
 give it a refreshingly
 strong scent, but also
 give it a bland flavor. INT +2
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14556#
@@ -20161,7 +19929,7 @@ herbal whose flavor
 is enhanced with the
 sweetness of honey.
 INT +3
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14557#
@@ -20169,7 +19937,7 @@ A simple dish made
 from steamed crab
 nippers and herbs.
 VIT +1
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14558#
@@ -20179,14 +19947,14 @@ near the sea feel very
 homesick. Unless, of
 course, they're eating
 this food at home. VIT +2 
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14559#
 A soup made with
 boiled clam meat.
 VIT +3
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14560#
@@ -20196,7 +19964,7 @@ frog eggs that most
 people can't eat until
 they close their eyes.
 AGI +1
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14561#
@@ -20205,7 +19973,7 @@ slick, and slippery
 noodles that are
 very difficult to eat.
 AGI +2
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14562#
@@ -20214,28 +19982,28 @@ steamed tentacles
 mixed into it for
 a unique flavor.
 AGI +3
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14563#
 A special mixed drink
 of grape juice and honey that has a sweet and
 sour taste. DEX +1
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14564#
 A special chocolate
-mousse cake with a^FFFFFF       ^000000 smooth luxurious flavor
+mousse cake with a smooth luxurious flavor
 that even Charles Orleans would be proud of. DEX +2
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14565#
 A mix of various,
 crisp fruit flavored
 with light, sweet syrup. DEX +3
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14566#
@@ -20244,21 +20012,21 @@ monkey tails deep
 fried in oil that are
 popular as a side dish
 for drinking. LUK +1
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14567#
 A cocktail mixed
 from various fruit
 juices. LUK +2
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14568#
 Crunchy, fried sweet
 potatoes topped with
 light syrup. LUK +3
-
+^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
 #
 14569#
@@ -20284,28 +20052,28 @@ Weight: ^0EAA0B5^000000
 #
 14582#
 An enchanted butterfly's wing that instantly sends its user to the towns of the Rune Midgarts Kingdom.
-Locations: "Prontera", "Geffen", "Payon", "Morroc", "Al De Baran" or "Alberta" when waved in the air.
+Locations: ''Prontera'', ''Geffen'', ''Payon'', ''Morroc'', ''Al De Baran'' or ''Alberta'' when waved in the air.
 ^ffffff_^000000
 Warning: If you don't select any winthin a minute, it will not be effective anymore.
 Weight: ^0EAA0B1^000000
 #
 14583#
 An enchanted butterfly's wing that instantly sends its user to the towns of the Schwaltzvalt Republic.
-Locations: "Yuno", "Lighthalzen", Einbroch" or "Hugel" when waved in the air.
+Locations: ''Yuno'', ''Lighthalzen'', Einbroch'' or ''Hugel'' when waved in the air.
 ^ffffff_^000000
 Warning: If you don't select any winthin a minute, it will not be effective anymore.
 Weight: ^0EAA0B1^000000
 #
 14584#
 An enchanted butterfly's wing that instantly sends its user to the towns of Arunafeltz.
-Locations: "Veins" or "Rachel"
+Locations: ''Veins'' or ''Rachel''
 ^ffffff_^000000
 Warning: If you don't select any winthin a minute, it will not be effective anymore.
 Weight: ^0EAA0B1^000000
 #
 14585#
 An enchanted butterfly's wing that instantly sends its user to the island towns of Rune Midgard.
-Locations: "Ayothaya", "Amatsu", "Luoyang", "Kunlun"
+Locations: ''Ayothaya'', ''Amatsu'', ''Luoyang'', ''Kunlun''
 ^ffffff_^000000
 Warning: If you don't select any winthin a minute, it will not be effective anymore.
 Weight: ^0EAA0B1^000000
@@ -20343,19 +20111,19 @@ This bonus stacks with VIP and Battle Manuals to give an additional job bonus.^0
 Weight: ^0EAA0B1^000000
 #
 14593#
-A scroll that will cast Magic Amplification Lvl 10 for you.  Good for making the next magic attack do +50% Magic attack power.
+A scroll that will cast Magic Amplification Lvl 10 for you. Good for making the next magic attack do +50% Magic attack power.
 It can be traded or put in storage. It cannot be dropped.
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 14595#
-Unsealed paper full of magic spell related to transferring. 
+Unsealed paper full of magic spell related to transferring.
 By using the spell, the user can be transferred to a certain place.
 ^ffffff_^000000
 Weight: ^0EAA0B0^000000
 #
 14596#
-A box full of something heavy. 
+A box full of something heavy.
 ^ffffff_^000000
 Weight: ^0EAA0B10^000000
 #
@@ -20392,9 +20160,9 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 16008#
 ^000088Rental Item^000000
-A heavy tool with many practical applications. 
+A heavy tool with many practical applications.
 Enable a chance of randomly inflicting the ^880000Stun^000000, ^880000Blind^000000, ^880000Poison^000000 or ^880000Frozen^000000 statuses with each attack.
-Class: ^6A5ACDMace^000000    Attack: ^777777150^000000
+Class: ^6A5ACDMace^000000 Attack: ^777777150^000000
 Weight: ^0EAA0B0^000000
 Weapon Level: ^0EAA0B3^000000
 Jobs: ^6A5ACDAcolyte Class^000000
@@ -20411,7 +20179,7 @@ Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF3^000000
 Head Position: ^777777Upper ^000000
 Weight: ^0EAA0B10^000000
-Required Level  : ^7777770^000000
+Required Level : ^7777770^000000
 Jobs: ^6A5ACDAll^000000
 ^FFFFFF_^000000
 Weight: ^0EAA0B1^000000
@@ -20579,60 +20347,9 @@ Weight: ^0EAA0B1^000000
 16381#
 A box containing 10 teleport scrolls that warp you to the Siege Areas.
 Many castles are indicated in this scroll. When you tear it out you can move to the Siege Areas.
-"Neunschwanstein", "Hohenschwangau", "Nuerenberg", "Wrzburg", "Rothenburg", "Repherion", "Eeyorbriggar", "Yesnelph", "Bergel", "Mersetzdeitz",  "Bright  Arbor", "Sacred Palace", "Holy Shadow", "Scarlet Palace", "Bamboo Grove Hill", "Kriemhild", "Swanhild", "Fadhgridh"", "Skoegul", "Gondul"
+''Neunschwanstein'', ''Hohenschwangau'', ''Nuerenberg'', ''Wrzburg'', ''Rothenburg'', ''Repherion'', ''Eeyorbriggar'', ''Yesnelph'', ''Bergel'', ''Mersetzdeitz'', ''Bright Arbor'', ''Sacred Palace'', ''Holy Shadow'', ''Scarlet Palace'', ''Bamboo Grove Hill'', ''Kriemhild'', ''Swanhild'', ''Fadhgridh'''', ''Skoegul'', ''Gondul''
 Weight: ^0EAA0B1^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
-Weight: ^0EAA0B1^000000
-#
-16385#
-O'Riley's special Green Box
-^ff0000This box can be traded and stored. The items inside are account bound.^000000
-contains the following items:
-^0000ffGaruda Hat^000000
-A hat which is very unique and rare, made from the feathers of a legendary bird Garuda.
-Reduces damage from all type of monster by 5%.
-LUK +5, Hit +10, Reduces casting delay by 5%.
-If refined to +7 or higher, has a chance of getting Mastela Fruit when attacking monsters. Chance to drop increases by 1% for each refine level over 7.
-Class: ^6A5ACDHeadgear^000000
-Defense: ^0000FF4^000000
-Position: ^6A5ACDUpper^000000
-Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B30^000000
-Jobs: ^6A5ACDAll except Novices^000000
-^0000ffUmbala Spirit^000000
-An accessory which is traditionally used in piercings by the Umbala tribespeople.
-MaxHP +1%.
-Increases the recovery rate of 'Meat' by 25%.
-Has a chance of dropping 'Meat' when defeating monsters.
-Class: ^6A5ACDHeadgear^000000
-Defense: ^0000FF1^000000
-Position: ^6A5ACDLower ^000000
-Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000 
-Jobs: ^6A5ACDAll classes^000000
-^0000ffGrand Peco Headdress^000000
-An elaborate multi-colored headdress made from the feathers of a Grand Peco.
-Increases attack against Demihuman and Brute type monsters 7%
-Has a low chance of adding the curse status to your target while physically melee attacking.
-Class: ^6A5ACDHeadgear^000000
-Defense: ^0000FF5^000000
-Position: ^6A5ACDUpper, Middle^000000
-Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000 
-Jobs: ^6A5ACDAll classes^000000
-^0000ffBeer Hat^000000
-A mug of beer sits precariously on your head. Drinking severely impairs your ability to steer mounts or operate machinery.
-If refined to 7 or higher, adds 100% resistance to Confusion status.
-Class: ^6A5ACDHeadgear^000000
-Defense: ^0000FF4^000000
-Position: ^6A5ACDUpper^000000
-Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B18^000000 
-Jobs: ^6A5ACDAll classes^000000
-^0000ffBattle Manual X3^000000
-This well written, detailed manual explains Extremely Efficient battle methods.
-^000088EXP rate increases to 300% for 30 minutes.^000000
-^ffffff_^000000
 Weight: ^0EAA0B1^000000
 #
 16397#
@@ -20665,7 +20382,7 @@ Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF0^000000
 Position: ^6A5ACDUpper^000000
 Weight: ^0EAA0B30^000000
-Required Level: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B10^000000
 Jobs: ^6A5ACDAll^000000
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
@@ -20685,7 +20402,7 @@ Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF0^000000
 Position: ^6A5ACDUpper^000000
 Weight: ^0EAA0B30^000000
-Required Level: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B10^000000
 Jobs: ^6A5ACDAll^000000
 ^ffffff_^000000
 Weight: ^0EAA0B1^000000
@@ -20774,10 +20491,10 @@ A weapon consisting of an axe head mounted on a long pole that is designed to br
 STR +1
 INT +2
 DEX +1
-Class: ^6A5ACDSpear^000000    Attack: ^777777195^000000
+Class: ^6A5ACDSpear^000000 Attack: ^777777195^000000
 Weight: ^0EAA0B480^000000
 Weapon Level: ^0EAA0B3^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDSwordman Class^000000
 ^ff0000This item is excluded from subspscription withdrawal or refund.^000000
 ^ffffff_^000000
@@ -20805,7 +20522,7 @@ Weight: ^0EAA0B1^000000
 #
 16447#
 A box that contains 1 Scorpio Crown.
-A magnificent crown created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion.  Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
+A magnificent crown created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 ATK +5. Aspd +3% (Attck after delay 3%)
 Increases resistance against Water property by 5%.
 If refined to 7, when attacking, has a chance of autocasting Lv 3 Mild Wind.
@@ -20822,10 +20539,10 @@ Weight: ^0EAA0B1^000000
 #
 16448#
 A box that contains 1 Scorpio Diadem.
-A magnificent diadem created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion.  Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
+A magnificent diadem created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 DEX +2.
 If refined to 7,
-DEX +1, Atk  +5.
+DEX +1, Atk +5.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF3^000000
 Slot : ^7777771^000000
@@ -20837,7 +20554,7 @@ Weight: ^0EAA0B1^000000
 #
 16449#
 A box that contains 1 Scorpio Crown.
-A magnificent crown created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion.  Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
+A magnificent crown created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 ATK +5. Aspd +3% (Attck after delay 3%)
 Increases resistance against Water property by 5%.
 If refined to 7, when attacking, has a chance of autocasting Lv 3 Mild Wind.
@@ -20854,10 +20571,10 @@ Weight: ^0EAA0B1^000000
 #
 16450#
 A box that contains 1 Scorpio Diadem.
-A magnificent diadem created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion.  Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
+A magnificent diadem created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
 DEX +2.
 If refined to 7,
-DEX +1, Atk  +5.
+DEX +1, Atk +5.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF3^000000
 Slot : ^7777771^000000
@@ -20904,35 +20621,35 @@ Jobs: ^6A5ACDAll^000000
 Weight: ^0EAA0B1^000000
 #
 16543#
-A box containing 1 snow man hat. 
+A box containing 1 snow man hat.
 A hat that is a constant reminder of the Winter season.
 STR +1, INT +1, MDEF +3,
 Increases resistance to Water property by 7%.
 When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
 When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
-If refined to  8, activates Lv 5 Frost Joker. 
+If refined to 8, activates Lv 5 Frost Joker.
 Class: ^6A5ACDHelmet^000000
 Defense: ^0000FF4^000000
 Position: ^6A5ACDUpper^000000
 Weight: ^0EAA0B30^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 ^ff0000This item is excluded from subscription withdrawal or refund.^000000
 Weight: ^0EAA0B1^000000
 #
 16544#
-A box containing 1 snow man hat. 
+A box containing 1 snow man hat.
 A hat that is a constant reminder of the Winter season.
 STR +1, INT +1, MDEF +3,
 Increases resistance to Water property by 7%.
 When killing monsters, has a low chance of dropping Buche De Noel or Candy Canes.
 When dealing physical or magical damage, has a low chance of activating Lv 1 Frost Joker.
-If refined to  8, activates Lv 5 Frost Joker. 
+If refined to 8, activates Lv 5 Frost Joker.
 Class: ^6A5ACDHelmet^000000
 Defense: ^0000FF4^000000
 Position: ^6A5ACDUpper^000000
 Weight: ^0EAA0B30^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 ^ff0000This item is excluded from subscription withdrawal or refund.^000000
 Weight: ^0EAA0B1^000000
@@ -20959,7 +20676,7 @@ Description:
 Even elves are very cool creatures. So naturally they wear sunglasses.
 Increases resistance to Blind status by 5%.
 Class: ^6A5ACDHeadgear^000000
-Defense: ^0000FF0^000000 
+Defense: ^0000FF0^000000
 Head Position: ^777777Mid^000000
 Weight: ^0EAA0B20^000000
 Jobs: ^6A5ACDAll^000000
@@ -21324,7 +21041,7 @@ Class: ^6A5ACDCostume^000000
 Position: ^6A5ACDUpper^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 Box Weight : ^7777771^000000
 #
@@ -21346,7 +21063,7 @@ Class: ^6A5ACDCostume^000000
 Position: ^6A5ACDUpper^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 Box Weight : ^7777771^000000
 #
@@ -21367,33 +21084,7 @@ Class: ^6A5ACDCostume^000000
 Position: ^6A5ACDUpper^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000
-Jobs: ^6A5ACDAll^000000
-Box Weight : ^7777771^000000
-#
-16999#
-A box that contains 1 Heroic Backpack
-Description:
-A backpack befitting of any hero.
-Enables the use of level 1 Greed
-If refined to +7 or higher and base stats (without modifiers) is equal to 90 or higher,
--Str -> Attack +20
--Int -> Magic Attack +30
--Vit -> Tolerance to Neutral Property +5
--Agi -> Aspd +8%
--Dex -> Ranged Attack +5
--Luk -> CRIT +10
-If refined to +9 or higher and base stats (without modifiers) is equal to 90 or higher,
--Str -> Attack +30
--Int -> Magic Attack +50
--Vit -> Tolerance to Neutral Property +10
--Agi -> Aspd +8% & Aspd +1
--Dex -> Ranged Attack +10
--Luk -> CRIT +15
-Class: ^6A5ACDGarment^000000
-Defense: ^0000FF20^000000
-Weight: ^0EAA0B20^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 Box Weight : ^7777771^000000
 #
@@ -21406,7 +21097,7 @@ Class: ^6A5ACDMiddle^000000
 Position: ^6A5ACDUpper^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 Box Weight : ^7777771^000000
 #
@@ -21419,7 +21110,7 @@ Class: ^6A5ACDMiddle^000000
 Position: ^6A5ACDUpper^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B0^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 Box Weight : ^7777771^000000
 #
@@ -21539,7 +21230,7 @@ Very unique, square formed shield with a special jewel on it which protects from
 When the refine level gets +5 or higher, per refine level, increases 1% of tolerance against Neutral attack. (The tolerance increase is limited to refine level 12) 
 Class: ^6A5ACDShield^000000 Def : ^77777755^000000
 Weight: ^0EAA0B70^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll classes^000000
 ^ff0000Once you open the box, it cannot be refunded.^000000
 Weight: ^0EAA0B1^000000
@@ -21551,7 +21242,7 @@ A grotesque headgear which covers a half of a person's face. But don't you worry
 All State + 2.
 Class: ^6A5ACDHeadgear^000000 Def : ^7777770^000000
 Position: ^6A5ACDMedium ^000000Weight : ^77777710^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll classes^000000
 ^ff0000Once you open the box, it cannot be refunded.^000000
 Weight: ^0EAA0B1^000000
@@ -21561,10 +21252,10 @@ Weight: ^0EAA0B1^000000
 A box containing one Black Devil's Mask
 This is very cute beret with cat ears! You will feel like a cat yourself.
 ATK + 5%.
-When the refine level gets +5 or higher, per refine level, increases 1% of Physical damage on Demi-human monsters, and reduces 1% of physical damage from Demi-human monsters. 
+When the refine level gets +5 or higher, per refine level, increases 1% of Physical damage on Demi-human monsters, and reduces 1% of physical damage from Demi-human monsters.
 Class: ^6A5ACDHeadgear^000000 Def : ^7777775^000000
 Position: ^6A5ACDUpper^000000Weight : ^77777730^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll classes^000000
 ^ff0000Once you open the box, it cannot be refunded.^000000
 Weight: ^0EAA0B1^000000
@@ -21574,10 +21265,10 @@ Weight: ^0EAA0B1^000000
 A box containing one Black Devil's Mask
 A lovely red hat for lovely girls.
 MATK + 5%, MDEF +5.
-When the refine level gets +5 or higher, per refine level, increases 1% of Magical damage on Demi-human monsters, and reduces 1% of magical damage from Demi-human monsters.. 
+When the refine level gets +5 or higher, per refine level, increases 1% of Magical damage on Demi-human monsters, and reduces 1% of magical damage from Demi-human monsters..
 Class: ^6A5ACDHeadgear^000000 Def : ^7777770^000000
 Position: ^6A5ACDUpper^000000Weight : ^77777730^000000
-Required Level: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll classes^000000
 ^ff0000Once you open the box, it cannot be refunded.^000000
 Weight: ^0EAA0B1^000000
@@ -21606,18 +21297,11 @@ Weight: ^0EAA0B1^000000
 천헐궁 자리의 달을 기념하는 특별한 스크롤. 천헐궁 왕관, 천헐궁 보관, 타나토스의 기억 Card, 본플레이트, 타나토스의 증오 가면, 휘케바인의 검은 꼬리 및 다른 귀중한 아이템을 획득할 수 있다.
 Weight: ^0EAA0B1^000000
 #
-17181#
-The Getting Lucky Box contains many items of pure win.  It is advised to use with caution.
-Getting Lucky Box is not meant to be consumed internally.
-^FF0000This item cannot be traded, but may be stored.^000000
-^FFFFFF_^000000
-Weight: ^0EAA0B1^000000
-#
 17199#
 A crate that contains ^0000CC6 Spring Lucky Boxes^000000 & ^0000CC1 Safe to 10 Certificate^000000
 ^ff0000This item and the box inside is account bound.^000000
 Description:
-The Spring Lucky Box contains many items of pure win.  It is advised to use with caution.
+The Spring Lucky Box contains many items of pure win. It is advised to use with caution.
 Spring Lucky Box is not meant to be consumed internally.
 ^FFFFFF_^000000
 Opening this randomly give you one of the following item sets
@@ -21687,7 +21371,7 @@ Enables the use of Level 1 Heal.
 Enables the use of Level 1 Cure.
 Class: ^6A5ACDBow^000000
 Attack: ^D80000185^000000
-Weight: ^0EAA0B0^000000     Property : ^777777Holy^000000
+Weight: ^0EAA0B0^000000 Property : ^777777Holy^000000
 Weapon Level: ^0EAA0B4^000000
 Jobs: ^6A5ACDArcher Class;Rogue Job^000000
 #
@@ -21846,7 +21530,7 @@ Class: ^6A5ACDHeadgear^000000
 Position: ^6A5ACDUpper^000000
 Defense: ^0000FF6^000000
 Weight: ^0EAA0B50^000000
-Required Level: ^0EAA0B70^000000
+Level Requirement: ^0EAA0B70^000000
 Jobs: ^6A5ACDAll except novice^000000
 #
 18638#
@@ -22005,103 +21689,4 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 19522#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
-#
-25005#
-^ff0000This box can be traded and sold to npc. Once opened the item inside is account bound.^000000
-A ring, enchanted with
-the power of the Fate
-Stone, that is one of
-the three keys for the
-seal which binds
-Morpheus. INT +1,
-MaxSP +5%
-^99FF66Morpheus's Set^000000
-^00FF00Morpheus's Hood^000000
-^00FF00Morpheus's Shawl^000000
-^00FF00Morpheus's Ring^000000
-^00FF00Morpheus's Bracelet^000000
-+5 INT
-+11 MDEF
-+20% SP
-Uninteruptible Cast
-25% Slower variable cast
-Class: ^6A5ACDAccessory^000000
-Defense: ^0000FF0^000000
-Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B33^000000
-Jobs: ^6A5ACDAll classes except Novice^000000
-#
-25006#
-^ff0000This box can be traded and sold to npc. Once opened the item inside is account bound.^000000
-A bracelet, rumored
-to be a memento of
-Morpheus's beloved,
-that is one of the three 
-keys for the seal which
-binds Morpheus.
-INT +1, MaxSP +5%
-^99FF66Morpheus's Set^000000
-^00FF00Morpheus's Hood^000000
-^00FF00Morpheus's Shawl^000000
-^00FF00Morpheus's Ring^000000
-^00FF00Morpheus's Bracelet^000000
-+5 INT
-+11 MDEF
-+20% SP
-Uninteruptible Cast
-25% Slower variable cast
-Class: ^6A5ACDAccessory^000000
-Defense: ^0000FF0^000000
-Weight: ^0EAA0B10^000000
-Required Level: ^0EAA0B33^000000
-Jobs: ^6A5ACDAll classes except Novice^000000
-#
-25007#
-^ff0000This box can be traded and sold to npc. Once opened the item inside is account bound.^000000
-Once owned by Magni,
-son of Thor, the wearer  
-of this cap is supposedly
-granted a measure of 
-Magni's awesome might.
-STR +2. 
-Class: ^6A5ACDHeadgear^000000
-Defense: ^0000FF5^000000
-Position: ^6A5ACDUpper^000000
-Weight: ^0EAA0B100^000000
-Required Level: ^0EAA0B65^000000
-Jobs: ^6A5ACDAll classes except Novice^000000
-^99FF66Magni Set^000000
-^00FF00Magni's Hat^000000
-^00FF00Stone Buckler^000000
-^00FF00Odin's Blessing^000000
-+2 STR
-+5 MDEF
-+5 DEF 
-Swordman Class :
-Additional +6 DEF 
-(Total 11 DEF)
-#
-25008#
-^ff0000This box can be traded and sold to npc. Once opened the item inside is account bound.^000000
-A circlet blessed by 
-Freyja, mother of Baldur.
-MDEF +10
-INT +2
-MaxSP +50 
-^99FF66Frigg's Set^000000
-^00FF00Fricca's Circlet^000000
-^00FF00Valkyrja's Shield^000000
-^00FF00Odin's Blessing^000000
-+2 DEF
-+5 MDEF
-All upgrade levels of 
-the Shield and Circlet 
-adds to MDEF 
-^770000Instead^000000 of DEF.
-Class: ^6A5ACDHeadgear^000000
-Defense: ^0000FF3^000000
-Position: ^6A5ACDUpper^000000
-Weight: ^0EAA0B30^000000
-Required Level: ^0EAA0B65^000000
-Jobs: ^6A5ACDAll classes except Novice^000000
 #
