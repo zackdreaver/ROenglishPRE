@@ -39,6 +39,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Magnum Break",
 		MaxLv = 10,
 		SpAmount = { 30, 30, 30, 30, 30, 30, 30, 30, 30, 30 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.SM_BASH,5 }
 		}
@@ -70,6 +71,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Napalm Beat",
 		MaxLv = 10,
 		SpAmount = { 9, 9, 9, 12, 12, 12, 15, 15, 15, 18 },
+		bSeperateLv = false,
 	},
 	[SKID.MG_SAFETYWALL] = {
 		"MG_SAFETYWALL",
@@ -107,6 +109,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Frost Diver",
 		MaxLv = 10,
 		SpAmount = { 25, 24, 23, 22, 21, 20, 19, 18, 17, 16 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.MG_COLDBOLT,5 }
 		}
@@ -116,12 +119,14 @@ SKILL_INFO_LIST = {
 		SkillName = "Stone Curse",
 		MaxLv = 10,
 		SpAmount = { 25, 24, 23, 22, 21, 20, 19, 18, 17, 16 },
+		bSeperateLv = false,
 	},
 	[SKID.MG_FIREBALL] = {
 		"MG_FIREBALL",
 		SkillName = "Fire Ball",
 		MaxLv = 10,
 		SpAmount = { 25, 25, 25, 25, 25, 25, 25, 25, 25, 25 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.MG_FIREBOLT, 4 }
 		}
@@ -131,6 +136,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Fire Wall",
 		MaxLv = 10,
 		SpAmount = { 40, 40, 40, 40, 40, 40, 40, 40, 40, 40 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.MG_SIGHT,1 },
 			{ SKID.MG_FIREBALL,5 }
@@ -378,6 +384,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Double Strafe",
 		MaxLv = 10,
 		SpAmount = { 12, 12, 12, 12, 12, 12, 12, 12, 12, 12 },
+		bSeperateLv = false,
 		NeedSkillList = {
 			[JOBID.JT_ROGUE] = {
 				{ SKID.AC_VULTURE,10 }
@@ -389,6 +396,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Arrow Shower",
 		MaxLv = 10,
 		SpAmount = { 15, 15, 15, 15, 15, 15, 15, 15, 15, 15 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.AC_DOUBLE,5 }
 		}
@@ -440,6 +448,7 @@ SKILL_INFO_LIST = {
 		"ALL_RESURRECTION",
 		SkillName = "Resurrection",
 		SpAmount = { 60, 60, 60, 60 },
+		bSeperateLv = false,
 		MaxLv = 4,
 		_NeedSkillList = {
 			{ SKID.MG_SRECOVERY,4 },
@@ -457,6 +466,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Pierce",
 		MaxLv = 10,
 		SpAmount = { 7, 7, 7, 7, 7, 7, 7, 7, 7, 7 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.KN_SPEARMASTERY,1 }
 		}
@@ -466,6 +476,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Brandish Spear",
 		MaxLv = 10,
 		SpAmount = { 12, 12, 12, 12, 12, 12, 12, 12, 12, 12 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.KN_RIDING,1 },
 			{ SKID.KN_SPEARSTAB,3 }
@@ -504,6 +515,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Auto Counter",
 		MaxLv = 5,
 		SpAmount = { 3, 3, 3, 3, 3 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.SM_TWOHAND,1 }
 		}
@@ -751,6 +763,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Ice Wall",
 		MaxLv = 10,
 		SpAmount = { 20, 20, 20, 20, 20, 20, 20, 20, 20, 20 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.MG_STONECURSE,1 },
 			{ SKID.MG_FROSTDIVER,1 }
@@ -761,6 +774,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Frost Nova",
 		MaxLv = 10,
 		SpAmount = { 45, 43, 41, 39, 37, 35, 33, 31, 29, 27 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.WZ_ICEWALL,1 }
 		}
@@ -1186,6 +1200,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Grimtooth",
 		MaxLv = 5,
 		SpAmount = { 3, 3, 3, 3, 3 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.AS_CLOAKING,2 },
 			{ SKID.AS_SONICBLOW,5 }
@@ -1196,6 +1211,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Enchant Poison",
 		MaxLv = 10,
 		SpAmount = { 20, 20, 20, 20, 20, 20, 20, 20, 20, 20 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.TF_POISON,1 }
 		}
@@ -1969,6 +1985,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Flame Launcher",
 		MaxLv = 5,
 		SpAmount = { 40, 40, 40, 40, 40 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.MG_FIREBOLT,1 },
 			{ SKID.SA_ADVANCEDBOOK,5 }
@@ -1979,6 +1996,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Frost Weapon",
 		MaxLv = 5,
 		SpAmount = { 40, 40, 40, 40, 40 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.MG_COLDBOLT,1 },
 			{ SKID.SA_ADVANCEDBOOK,5 }
@@ -1989,6 +2007,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Lightning Loader",
 		MaxLv = 5,
 		SpAmount = { 40, 40, 40, 40, 40 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.MG_LIGHTNINGBOLT,1 },
 			{ SKID.SA_ADVANCEDBOOK,5 }
@@ -1999,6 +2018,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Seismic Weapon",
 		MaxLv = 5,
 		SpAmount = { 40, 40, 40, 40, 40 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.MG_STONECURSE,1 },
 			{ SKID.SA_ADVANCEDBOOK,5 }
@@ -2017,6 +2037,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Volcano",
 		MaxLv = 5,
 		SpAmount = { 48, 46, 44, 42, 40 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.SA_FLAMELAUNCHER,2 }
 		}
@@ -2026,6 +2047,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Deluge",
 		MaxLv = 5,
 		SpAmount = { 48, 46, 44, 42, 40 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.SA_FROSTWEAPON,2 }
 		}
@@ -2035,6 +2057,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Violent Gale",
 		MaxLv = 5,
 		SpAmount = { 48, 46, 44, 42, 40 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.SA_LIGHTNINGLOADER,2 }
 		}
@@ -2914,6 +2937,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Meteor Assault",
 		MaxLv = 10,
 		SpAmount = { 10, 12, 14, 16, 18, 20, 22, 24, 26, 28 },
+		bSeperateLv = false,
 		_NeedSkillList = {
 			{ SKID.AS_KATAR,5 },
 			{ SKID.AS_RIGHT,3 },
@@ -4653,7 +4677,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.ALL_CATCRY] = {
 		"ALL_CATCRY",
-		SkillName = "Crying Monster",
+		SkillName = "Monster's Cry",
 	},
 	[SKID.ALL_PARTYFLEE] = {
 		"ALL_PARTYFLEE",
