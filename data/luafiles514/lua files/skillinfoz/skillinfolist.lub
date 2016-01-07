@@ -433,6 +433,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Envenom",
 		MaxLv = 10,
 		SpAmount = { 12, 12, 12, 12, 12, 12, 12, 12, 12, 12 },
+		bSeperateLv = false,
 	},
 	[SKID.TF_DETOXIFY] = {
 		"TF_DETOXIFY",
