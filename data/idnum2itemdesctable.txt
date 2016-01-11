@@ -12809,6 +12809,17 @@ Jobs: ^6A5ACDAll Transcendent classes except Novice Classes^000000
 2461#
 #
 2462#
+Named after Odin's trusty steed, these shoes also mimic Sleipnir's powers.
+Increase Movement Speed.
+Maximum HP and SP + 20%
+SP Recovery +15%, MDEF +10
+Impossible to refine this item.
+Indestructible.
+Class: ^6A5ACDFootgear^000000
+Defense: ^0000FF4^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B94^000000
+Jobs: ^6A5ACDAll Classes^000000
 #
 2463#
 #
@@ -15555,10 +15566,34 @@ Jobs: ^6A5ACDNovice^000000
 2829#
 #
 2830#
+A reproduction of the girdle of might that Thor wore to enhance his prodigious strength.
+STR +40, MDEF +7
+Class: ^6A5ACDAccessory^000000
+Defense: ^0000FF2^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B94^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 2831#
+An imitation of the necklace worn by the beautiful goddess Freya.
+STR, AGI, INT, VIT +6
+LUK +10, MDEF +5
+Class: ^6A5ACDAccessory^000000
+Defense: ^0000FF1^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B94^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 2832#
+^000088Rental Items^000000
+A ring decorated with a beautiful ruby.
+Enables use of ^008800Level 1 Heal^000000.
+Enables use of ^008800Level 1 Teleport^000000.
+Class: ^6A5ACDAccessory^000000
+Defense: ^0000FF0^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 2833#
 #
@@ -22135,6 +22170,14 @@ Level Requirement: ^0EAA0B55^000000
 Jobs: ^6A5ACDAll classes except Novice^000000
 #
 5095#
+A headgear bestowed only to true Orc Heroes.
+STR +2, VIT +1
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF5^000000
+Position: ^6A5ACDUpper, Middle^000000
+Weight: ^0EAA0B100^000000
+Level Requirement: ^0EAA0B55^000000
+Jobs: ^6A5ACDAll classes except Novice^000000
 #
 5096#
 A dark mask worn by assassinators.
@@ -25755,14 +25798,40 @@ Level Requirement: ^0EAA0B40^000000
 Jobs: ^6A5ACDAll classes^000000
 #
 5466#
-placeholder
+A cap of post man who delivers letters with heart.
+Magic in the cap protects the wearer not to lose their way.
+Enables use of ^008800Level 1 Teleport^000000.
+AGI +2
+Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF2^000000
+Position: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B30^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5467#
+A headgear made by the hard scale of Dragon.
+The wearer of this headgear can get the great power of Dragon.
+Adds 20% damage to the dragon monster.
+Cause a certain abnormal status to all enemies in 5x5 cell when physical attack, by low chance.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF5^000000
+Position: ^6A5ACDUpper^000000
+Weight: ^0EAA0B200^000000
+Level Requirement: ^0EAA0B50^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5468#
-placeholder
+A cap which makes the wearer very happy to go on a parade.
+Skill delay - 5%.
+MDEF + 2
+[^333399Refine Rate 6~10^000000]
+Reduces casting delay refine level - 5%.
+Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF3^000000
+Position: ^6A5ACDUpper^000000
+Weight: ^0EAA0B80^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5469#
 ''One for all and all for one'' is inscribed on the inside of this extravagant hat.
@@ -25806,7 +25875,7 @@ Weight: ^0EAA0B10^000000
 Jobs: ^6A5ACDAll classes^000000
 #
 5473#
-using the Crab claws to do a headgear. sure will a bit of smell.
+Scissor to cut the crab meat, and processed into the hairpin.
 When Physical Attack, has chance to autocast ^ff0000Level 1 Cold Bolt^000000.
 Add a chance to drop Crystal Blue when killing Fish monsters.
 Class: ^6A5ACDHeadgear^000000
@@ -25835,15 +25904,14 @@ Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 #
 5476#
-An elaborate multi-colored headdress made from the feathers of a Grand Peco.
-Increases attack against Demihuman and Brute type monsters 7%
-Has a low chance of adding the curse status to your target while physically melee attacking.
-^ff0000Can be traded, stored, and vended^000000
+Hair ornament made from grandpeco feathers.
+STR + 2, MaxHP -10%.
+Increased 15% damage to the monster except Ork Hero.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF2^000000
 Position: ^6A5ACDUpper, Middle^000000
 Weight: ^0EAA0B80^000000
-Level Requirement: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B30^000000
 Jobs: ^6A5ACDAll classes^000000
 #
 5477#
@@ -26485,6 +26553,14 @@ placeholder
 Defense: ^0000FF0^000000
 #
 5563#
+Doll-hat which resembles 'Dolor of Thanatos'. People say that this doll speaks.
+Indestructible
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF3^000000
+Position: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B30^000000
+Jobs: ^6A5ACDAll^000000
 #
 5564#
 A deceptive crown that was once used to summon monsters.
@@ -26656,8 +26732,24 @@ Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll classes^000000
 #
 5586#
+A hat which gives out a smell that mosquitos hates.
+Increase damage on Insect monster by 100%.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF5^000000
+Position: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll^000000
 #
 5587#
+A hat which gives out a smell that mosquitos hates.
+Increase damage on Insect monster by 100%.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF5^000000
+Position: ^6A5ACDUpper^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll^000000
 #
 5588#
 A magnificent crown created to pay tribute to the 5th sign of the zodiac, Leo the Lion. Attached to the crown is a Peridot gemstone, the birthstone for those born under this sign.
@@ -26688,8 +26780,27 @@ Level Requirement: ^0EAA0B70^000000
 Jobs: ^6A5ACDAll^000000
 #
 5590#
+A poring shaped cake decorated with candles.
+^888888-------------------------^000000
+LUK +3, MaxSP +50, MaxHP increases by (Base level*2).
+^888888-------------------------^000000
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF5^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B20^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5591#
+This hat is coming from an old soldier who used to live in the desert.
+Indestructible
+Impossible to refine this item. 
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF3^000000
+Position: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B30^000000
+Jobs: ^6A5ACDAll^000000
 #
 5592#
 Ear adornments that symbolize rebirth. They have the ability to change its effects depending on the job of the wearer.
@@ -26697,10 +26808,6 @@ If worn by a Swordman, Merchant, Thief or Taekwon Classes, STR +1.
 If worn by a Mage, Acolyte, Ninja or Soul Linker Classes, INT +1.
 If worn by Archer or Gunslinger Classes, DEX +1.
 If worn by Novice Class, MaxHP +80, MaxSP +30.
-^FFFFFF_^000000
-^FF0000Concept created during the Summer 2008 Create a headgear Contest.
-Created by Eleotea^000000
-^FFFFFF_^000000
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF2^000000
 Position: ^6A5ACDMiddle^000000
@@ -26710,7 +26817,7 @@ Jobs: ^6A5ACDAll^000000
 #
 5593#
 A bonnet made to resemble a rabbit. Despite it's cute appearance this hat gives it's wearer attack strength.
-Attack and Magic Attack power increase by 10.
+ATK +10, MATK +10.
 Adds 3% tolerance to Demihuman monsters.
 After cast delay reduced by 3%.
 If refined to +7 or higher, reduces damage from all elemental properties by 5%.
@@ -26726,7 +26833,7 @@ Chewing on this deliciously glazed ring-shaped fried cake will make you happy.
 MaxHP +100.
 Recover 1 HP every 10 seconds.
 Class: ^6A5ACDHeadgear^000000
-Defense: ^0000FF0^000000
+Defense: ^0000FF1^000000
 Position: ^6A5ACDLower^000000
 Weight: ^0EAA0B5^000000
 Level Requirement: ^0EAA0B1^000000
@@ -37429,10 +37536,23 @@ Weight: ^0EAA0B3^000000
 11509#
 #
 11510#
+The same taste of the original coca cola without the added sugar.
+^000088Recovers a small amount of HP & SP^000000.
+^ffffff_^000000
+Weight: ^0EAA0B10^000000
 #
 11511#
+Although no calorie content, the coca cola it's tasty.
+You can taste lightly, the coca cola of 0 kilo calories.
+^000088Recovers a small amount of HP & SP^000000.
+^ffffff_^000000
+Weight: ^0EAA0B10^000000
 #
 11512#
+Stimulation of carbon dioxide and unique flavor, not only healing thirst, but refreshing both heart and body!
+^000088Recovers a small amount of HP & SP^000000.
+^ffffff_^000000
+Weight: ^0EAA0B10^000000
 #
 11513#
 #
@@ -50326,6 +50446,18 @@ Jobs: ^6A5ACDTranscendent Swordman/Merchant/Acolyte Classes^000000
 16006#
 #
 16007#
+A facsimile of the mighty hammer wielded by Thor, god of thunder.
+Increases Attack Speed.
+DEX +40, STR +15
+Impossible to refine this item.
+Indestructible.
+Class: ^6A5ACDMace^000000
+Attack: ^D80000250^000000
+Weight: ^0EAA0B0^000000
+Property: ^009900Wind^000000
+Weapon Level: ^0EAA0B4^000000
+Level Requirement: ^0EAA0B95^000000
+Jobs: ^6A5ACDSwordman and Merchant^000000
 #
 16008#
 ^000088Rental Item^000000
