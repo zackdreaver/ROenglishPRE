@@ -6904,7 +6904,7 @@ MATK +15%, Physical Attack Strength to Demihuman monsters +80%.
 Ignore 25% of Magic Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade : Ignore Magical Defense of Demihumans +5%, ^ff0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
-+9 Upgrade : MATK +5%, Variable Casting Time reduces by 5%, Cast delay reduces by 5%
++9 Upgrade : MATK +5%, Casting Time reduced by 5%, Cast delay reduces by 5%
 Class: ^6A5ACDBook^000000
 Attack: ^D8000090^000000
 Weight: ^0EAA0B0^000000
@@ -7176,7 +7176,7 @@ Jobs: ^6A5ACDMage, Acolyte Classes, and Soul Linker^000000
 #
 1616#
 A staff containing a wind fairy that grants its user the essense of speed.
-Reduces variable casting time by 5%.
+Reduces casting time by 5%.
 MATK +15%
 Class: ^6A5ACDStaff^000000
 Attack: ^D8000060^000000
@@ -7410,7 +7410,7 @@ Jobs: ^6A5ACDMage only^000000
 1631#
 A holy stick which is made of Rune of Odin, specialized for exorcisms.
 MATK +15%
-Reduction of Variable Casting Time for ^FF0000Holy Light^000000, ^FF0000Turn Undead^000000, and ^FF0000Magnus Exorcismus^000000 by 25%.
+Reduction of Casting Time for ^FF0000Holy Light^000000, ^FF0000Turn Undead^000000, and ^FF0000Magnus Exorcismus^000000 by 25%.
 Class: ^6A5ACDRod^000000
 Attack: ^D8000050^000000
 Weight: ^0EAA0B50^000000
@@ -7529,7 +7529,7 @@ Ignores Mdef from Demihuman monsters by 25%.
 Indestructible
 ***Additional Weapon Refining Level Option***
 +6 Upgrade : Ignore Mdef of Demihuman monsters +5%.
-+9 Upgrade : MATK +5%, Variable Casting Time reduces by 5%, 
++9 Upgrade : MATK +5%, Casting Time reduced by 5%, 
 Cast delay reduces by 5%
 Class: ^6A5ACDOne handed Staff^000000
 Attack: ^D8000070^000000
@@ -8717,7 +8717,7 @@ STR +2, INT +1
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
 Reduces ^FF0000Guillotine Fist^000000 casting time by 25%.
 When attacking, and weapon awakening in consistent probability, 
-Has a chance of negating ^FF0000Guillotine Fist^000000 Variable Casting Time 100% for 6 secs.
+Has a chance of negating ^FF0000Guillotine Fist^000000 Casting Time by 100% for 6 secs.
 Indestructible.
 Class: ^6A5ACDClaw^000000
 Attack: ^D8000030^000000
@@ -9656,7 +9656,7 @@ Jobs: ^6A5ACDMage Class / Acolyte Class / Soul Linker^000000
 2003#
 Two handed staff that seems to be possesing a tremendous power. The owner of the staff has to have a strong spiritual strength to use this staff properly.
 MATK +280, INT +3, AGI +10
-Reduces variable cast time of Mystical Amplification by 50%.
+Reduces cast time of Mystical Amplification by 50%.
 Increases MATK by 1% for every 2 Upgrade Levels, but raising the Upgrade Level also increases SP Consumption.
 Has a chance of auto casting Level 5 Jupitel Thunder when attacked;
 this chance can be increased by raising the weapon's Upgrade Level.
@@ -10001,14 +10001,10 @@ Level Requirement: ^0EAA0B68^000000
 Jobs: ^6A5ACDAll Transcendent classes except Novice^000000
 #
 2123#
-A shiny, round steel
-plate used for serving
-food. 5% chance of
-reflecting magic.
-MDEF +2. Variable Casting Time
-reduced by 10% when
-worn with Orlean's
-Gloves.
+A shiny, round steel plate used for serving food.
+Adds 5% chance of reflecting magic.
+MDEF +2.
+Cast Time reduced by 10% when worn with Orlean's Gloves.
 Class: ^6A5ACDShield^000000
 Defense: ^0000FF5^000000
 Weight: ^0EAA0B100^000000
@@ -11518,7 +11514,7 @@ Jobs: ^6A5ACDCrusader^000000
 #
 2343#
 A robe which aids its wearer in reducing magic casting time.
-Reduce 3% Variable Casting delay
+Reduce 3% Casting delay
 MDEF +4
 Class: ^6A5ACDArmor^000000
 Defense: ^0000FF5^000000
@@ -11761,11 +11757,8 @@ Level Requirement: ^0EAA0B50^000000
 Jobs: ^6A5ACDThief Class & Ninja^000000
 #
 2360#
-A robe that enhances
-the wearer's magic
-casting capability.
-Reduces Variable Casting Time
-of skills by 3%.
+A robe that enhances the wearer's magic casting capability.
+Reduces Casting Time of skills by 3%.
 Class: ^6A5ACDArmor^000000
 Defense: ^0000FF5^000000
 Weight: ^0EAA0B110^000000
@@ -12037,7 +12030,7 @@ MaxHP +150, MDEF +2.
 ^FFFFFF_^000000
 When equipped with Combat Boots and Commander's Manteau,
 INT +3. MaxHP +12%.
-Reduces ^FF0000Holy Light^000000 Variable Casting Time by 50%.
+Reduces ^FF0000Holy Light^000000 Casting Time by 50%.
 Increases damage from all non-Demihuman monsters times 3.
 Increases HP Restoration of ^FF0000Heal^000000 and ^FF0000Sanctuary^000000 by 6% when they are cast by the wearer.
 When receiving physical damage, has a chance of enchanting Armor with the Ghost property for 10 seconds.
@@ -12738,7 +12731,7 @@ Very useful for running. Tighten the strips and you're off to the races!
 AGI +1,
 SP Recovery +5%
 When worn with Sprint Mail and Ring, 7% increase in each MaxHP & MaxSP, 
-Variable Casting Time reduces by 3% before using the skill and reduces by 15% after using the skill.
+Casting Time reduced by 3% before using the skill and reduces by 15% after using the skill.
 Class: ^6A5ACDFootgear^000000
 Defense: ^0000FF2^000000
 Weight: ^0EAA0B30^000000
@@ -12814,7 +12807,7 @@ There are many legends around these rarities, such as the inexplicable ability t
 Everyone who feel a little lighter, as if they are floating. The shoes also come with an anti-foot odor effect.
 AGI +1
 ASPD +3%
-Reduce variable cast time by 3%.
+Reduce cast time by 3%.
 Class: ^6A5ACDFootgear^000000
 Defense: ^0000FF2^000000
 Weight: ^0EAA0B50^000000
@@ -13157,8 +13150,8 @@ MDEF +3, MaxSP +10%
 +5 INT
 +11 MDEF
 +20% SP
-Uninteruptible Cast 
-25% Slower variable cast
+Uninteruptible Cast
+25% Slower cast time
 Class: ^6A5ACDGarment^000000
 Defense: ^0000FF3^000000
 Weight: ^0EAA0B60^000000
@@ -14105,7 +14098,7 @@ MaxSP +5%
 +11 MDEF
 +20% SP
 Uninteruptible Cast
-25% Slower variable cast
+25% Slower cast time
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B10^000000
@@ -14129,7 +14122,7 @@ INT +1, MaxSP +5%
 +11 MDEF
 +20% SP
 Uninteruptible Cast
-25% Slower variable cast
+25% Slower cast time
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B10^000000
@@ -14411,7 +14404,7 @@ INT +2, DEX +1.
 ^00FF00Wizardry Staff or Soul Staff^000000
 MATK +6%
 DEX +2
-Reduce Variable Casting Time 
+Reduce Casting Time 
 by a percentage 
 according to the Staff's 
 upgrade level.
@@ -14744,7 +14737,7 @@ Jobs: ^6A5ACDAll classes^000000
 Gravity's 10th anniversary celebration coin.
 ATK +10, MATK +10, CRIT +10.
 Adds a chance to activate ASPD +3 for 5 sec on each physical attack.
-Adds a chance to reduces variable cast time by 50% for 5 sec on each magical attack.
+Adds a chance to reduces cast time by 50% for 5 sec on each magical attack.
 Adds a chance to increases Healing skills by 20% for 5 sec on when using Healing skills.
 Class: ^6A5ACDAccessories^000000
 Defense: ^0000FF0^000000
@@ -14769,7 +14762,7 @@ INT +2, DEX +2
 ^008800Wizardry Staff or Soul Staff^000000
 DEX +2
 MATK +6%
-Reduce variable cast time by a percentage according to the Staff's upgrade level.
+Reduce cast time by a percentage according to the Staff's upgrade level.
 [^6A5ACDSpiritual Exorcism Set^000000]
 ^008800Spiritual Ring^000000
 ^008800Clip or Rosary^000000
@@ -14981,7 +14974,7 @@ Jobs: ^6A5ACDAll classes except Novice^000000
 2731#
 One of the royal gifts which are given to the members of the Morocc Dispatch.
 MaxSP +50, 
-Reduces Variable Casting Time by 1%.
+Reduces Casting Time by 1%.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B5^000000
@@ -15076,7 +15069,7 @@ A Jewelry Ring that contains a 3 Seal Magic Spell.
 Enables use of Level 1 Heal and Level 1 Teleport.
 Casting cannot be interrupted.
 All Stats +1.
-Increases Variable Casting Time by 10%.
+Increases Casting Time by 10%.
 This item cannot be Dropped or Traded.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
@@ -15106,7 +15099,7 @@ Jobs: ^6A5ACD2nd Transcendent Class^000000
 #
 2744#
 A ring that gives you a feeling of flying like a rocket through the wind.
-Reduces Variable Casting Tiime of skills by 10%, but increases after skill delay by 5%.
+Reduces Casting Time of skills by 10%, but increases after skill delay by 5%.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B10^000000
@@ -15134,8 +15127,8 @@ Jobs: ^6A5ACDAssassin Cross^000000
 2747#
 A pendant which symbolizes a well-known Rogue Guild among people in dark side.
 DEX +3
-When equipped with Ring of Rogue, inflicts additional damage to large sized monsters by 8% and Variable Casting Speed -3%.
-HIT +3, reduction in Variable Casting speed by 3%
+When equipped with Ring of Rogue, inflicts additional damage to large sized monsters by 8% and Casting Speed -3%.
+HIT +3, reduction in Casting speed by 3%
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF1^000000
 Weight: ^0EAA0B10^000000
@@ -15320,7 +15313,7 @@ Jobs: ^6A5ACDAll^000000
 #
 2772#
 HP +300. Resistance to attacks with ^6996ADWater^000000, ^7BCC70Wind^000000, ^A68064Earth^000000, and ^FF0000Fire^000000 properties +10%.
-Aspd +5%. Variable Casting Speed reduces by 3%
+Aspd +5%. Casting Speed reduces by 3%
 HP recovery +5% when using [Heal], [Sanctuary], or [Potion Pitcher].
 When equipped with a Medal of Honor, Attack power against all enemies +5%, MATK +3%, 
 HP recovery +5% when using [Heal], [Sanctuary], or [Potion Pitcher].
@@ -15468,7 +15461,7 @@ A pair of gloves that was once used by a palace chef. It feels like you can immi
 DEX +2
 MATK +3%
 [+^008800Orlean's Server^000000]
-Reduce variable cast time by 10%.
+Reduce cast time by 10%.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B10^000000
@@ -16593,7 +16586,7 @@ Compound on: ^FF0000Weapon^000000
 Weight: ^0EAA0B1^000000
 #
 4077#
-Enable skill casting that cannot be interrupted by damage from enemies at the cost of increasing variable cast time by 25%.
+Enable skill casting that cannot be interrupted by damage from enemies at the cost of increasing cast time by 25%.
 Class: ^6A5ACDCard^000000
 Compound on: ^B40088Accessory^000000
 Weight: ^0EAA0B1^000000
@@ -17039,7 +17032,7 @@ Compound on: ^B40088Accessory^000000
 Weight: ^0EAA0B1^000000
 #
 4145#
-Reduce variable cast time of all skills by 30%.
+Reduce cast time of all skills by 30%.
 Class: ^6A5ACDCard^000000
 Compound on: ^B40088Accessory^000000
 Weight: ^0EAA0B1^000000
@@ -17213,8 +17206,8 @@ Weight: ^0EAA0B1^000000
 #
 4169#
 MaxHP and MaxSP -10%.
-Reduce variable cast time by 10%.
-If the user is equipped with an item compounded to the ^008800Dark Lord Card^000000, it reduces variable cast time by 20%.
+Reduce cast time by 10%.
+If the user is equipped with an item compounded to the ^008800Dark Lord Card^000000, it reduces cast time by 20%.
 Class: ^6A5ACDCard^000000
 Compound on: ^7102EFHeadgear^000000
 Weight: ^0EAA0B1^000000
@@ -17379,7 +17372,7 @@ MDEF +1
 ^3CB371Geographer Card^000000
 ^3CB371Enchanted Peach Tree Card^000000
 VIT +10
--10% variable cast time
+-10% cast time
 -10% SP Consumption
 Acolyte Class Bonus:
 -30% damage from Undead and Demon monsters.
@@ -17861,7 +17854,7 @@ Weight: ^0EAA0B1^000000
 #
 4229#
 INT +1
-Reduce variable cast time by 5%.
+Reduce cast time by 5%.
 ^FFFFFF_^000000
 [^6A5ACDClock Tower Card Set^000000]
 ^3CB371Tower Keeper Card^000000
@@ -18494,7 +18487,7 @@ Auto cast ^008800Level 10 Blessing^000000 instead, if Blessing is mastered.
 ^3CB371Fur Seal Card^000000
 ^3CB371Enchanted Peach Tree Card^000000
 VIT +10
--10% Variable Cast Time
+-10% Cast Time
 -10% SP Consumption
 Acolyte Class Bonus:
 -30% damage from Undead
@@ -19107,7 +19100,7 @@ Weight: ^0EAA0B1^000000
 #
 4327#
 Spell casting cannot be interrupted.
-Increase variable cast time by 30%.
+Increase cast time by 30%.
 Inflict 5% more damage with ^008800Fire Wall^000000.
 ^FFFFFF_^000000
 ^6A5ACDSage Card Set^000000
@@ -19493,7 +19486,7 @@ Compound on: ^7102EFHeadgear^000000
 Weight: ^0EAA0B1^000000
 #
 4365#
-Increases variable cast time by 100%, and reduces SP Recovery by 100%,
+Increases cast time by 100%, and reduces SP Recovery by 100%,
 but the wearer's attacks will ignore the MDEF of Normal monsters.
 Drains 2,000 SP when the compounded headgear is unequipped.
 Class: ^6A5ACDCard^000000
@@ -19501,7 +19494,7 @@ Compound on: ^7102EFHeadgear^000000
 Weight: ^0EAA0B1^000000
 #
 4366#
-Reduces variable cast time by a percentage equal to the compounded helmet's upgrade level.
+Reduces cast time by a percentage equal to the compounded helmet's upgrade level.
 If the upgrade level is 9 or greater, Increase MATK +2%.
 Class: ^6A5ACDCard^000000
 Compound on: ^7102EFHeadgear^000000
@@ -19543,7 +19536,7 @@ Weight: ^0EAA0B1^000000
 #
 4371#
 ATK +10
-Increases variable cast time by 20%.
+Increases cast time by 20%.
 ^FFFFFF_^000000
 ^6A5ACDCrusader Card Set^000000
 ^3CB371Archdam Card^000000
@@ -19557,7 +19550,7 @@ DEF +2
 SP Recovery +10%
 +10% Shield Chain and
 Sacrifice Damage
-Variable Casting Speed +10%
+Casting Speed +10%
 Crusader/Paladin Only Bonus:
 Armor becomes Holy Property.
 ^FFFFFF_^000000
@@ -19677,7 +19670,7 @@ Increases HP Recovery by 10%.
 +10% Heaven's Drive Damage
 ^00FF00Sage only Bonuses^000000
 +20% chance to reflect Magic
-20% Faster variable cast time
+20% Faster cast time
 Adds a low chance of
 dropping Red or Yellow
 Gemstones when defeating
@@ -19909,7 +19902,7 @@ Weight: ^0EAA0B1^000000
 #
 4412#
 INT +2
-Each magic cast has a consistent chance of reducing variable cast time by 50% and add +30 Flee for 5 seconds.
+Each magic cast has a consistent chance of reducing cast time by 50% and add +30 Flee for 5 seconds.
 Class: ^6A5ACDCard^000000
 Compound on: ^7102EFHeadgear^000000
 Weight: ^0EAA0B1^000000
@@ -19941,7 +19934,7 @@ Compound on: ^B40088Accessory^000000
 Weight: ^0EAA0B1^000000
 #
 4416#
-Reduces variable cast time of Cold Bolt skill by 25%, and increases that Cold Bolt's damage by 25%.
+Reduces cast time of Cold Bolt skill by 25%, and increases that Cold Bolt's damage by 25%.
 Class: ^6A5ACDCard^000000
 Compound on: ^B40088Accessory^000000
 Weight: ^0EAA0B1^000000
@@ -20067,7 +20060,7 @@ Compound on: ^008C99Garment^000000
 Weight: ^0EAA0B1^000000
 #
 4433#
-Reduces variable cast time and increases damage of ^FF0000Fire Bolt^000000 skill by 25%.
+Reduces cast time and increases damage of ^FF0000Fire Bolt^000000 skill by 25%.
 Class: ^6A5ACDCard^000000
 Compound on: ^B40088Accessory^000000
 Weight: ^0EAA0B1^000000
@@ -22704,7 +22697,7 @@ Morpheus. INT +2.
 +11 MDEF
 +20% SP
 Uninteruptible Cast
-25% slower Variable Cast
+25% slower Cast time
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF1^000000
 Position: ^6A5ACDUpper^000000
@@ -22877,7 +22870,7 @@ Job except Novice^000000
 #
 5138#
 A hat that looks like the eyes of a dark mage, which are rumored to blink sometimes.
-Reduce Variable Casting Time by 10% and increase SP Consumption by 20%.
+Reduce Casting Time by 10% and increase SP Consumption by 20%.
 MDEF +5.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF1^000000
@@ -24546,7 +24539,7 @@ Movement Speed,
 Decreases ASPD by 10%,
 (After attack delay decreases by 5%)
 and increases
-Variable Cast Time by 25%.
+Cast Time by 25%.
 Cannot be Dropped, 
 or Traded,
 Can be placed in Kafra Storage
@@ -24870,7 +24863,7 @@ Jobs: ^6A5ACDSwordman/Merchant/Thief^000000
 A crown decorate with jewel of love. Rumor who wear it will meet real love.
 INT +1
 MATK +3%
-Reduce variable cast time by 3%.
+Reduce cast time by 3%.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF3^000000
 Location: ^6A5ACDUpper, Middle^000000
@@ -26106,7 +26099,7 @@ Jobs: ^6A5ACDAll Classes except Novice^000000
 5442#
 A salaryman's necktie worn as a headband.
 VIT +1
-When equipped with [Blush], Attack Speed Increases(Delay after attacking reduces by 3%),Variable Casting Speed reduces by 3%.
+When equipped with [Blush], Attack Speed Increases(Delay after attacking reduces by 3%), Casting Speed reduces by 3%.
 Hit -5. Sp Consume increases by 5%.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF3^000000
@@ -26789,10 +26782,7 @@ Jobs: ^6A5ACDAll classes^000000
 #
 5511#
 A circlet made of samambaia leaf.
-ATK +2%, MATK +2%
-ASPD +1
-Increase heal effectiveness by 2%.
-Reduce fixed casting by 10%.
+Recovery SP by 8%.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF5^000000
 Location: ^6A5ACDUpper, Middle^000000
@@ -27204,7 +27194,7 @@ Jobs: ^6A5ACDAll^000000
 5547#
 A hairband with a small and pretty flower.
 Increase 15% damage of Earthspike and Heavendrive.
-Reduce 25% variable casting time of these skills.
+Reduce 25% casting time of these skills.
 Each refine increase 1% damage of Earthspike and Heavendrive.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF0^000000
@@ -27378,7 +27368,7 @@ Jobs: ^6A5ACDAll^000000
 5562#
 Only the couple which swears a truth one love will be able to use the veil of legend.
 MDEF +10
-Reduced variable casting time by 3%
+Reduced casting time by 3%
 Reduced SP consumption of all skills by 3%.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF0^000000
@@ -27856,7 +27846,6 @@ Jobs: ^6A5ACDAll classes^000000
 A legendary helmet,will be awarded to the First Best warrior.
 All stats +3
 ASPD +10%
-Reduces fixed cast time by 0.5 sec.
 Increases physical and magical damage inflicted on Demihuman monsters by 10%.
 ^702180Indestructible^000000
 Class: ^6A5ACDHeadgear^000000
@@ -27870,7 +27859,6 @@ Jobs: ^6A5ACDAll classes^000000
 A legendary helmet,will be awarded to Second Best warrior.
 All stats +2
 ASPD +7%
-Reduces fixed cast time by 0.3 sec.
 Increases physical and magical damage inflicted on Demihuman monsters by 5%.
 ^702180Indestructible^000000
 Class: ^6A5ACDHeadgear^000000
@@ -27884,7 +27872,6 @@ Jobs: ^6A5ACDAll classes^000000
 A legendary helmet,will be awarded to third Best warrior.
 All stats +1
 ASPD +5%
-Reduces fixed cast time by 0.1 sec.
 Increases physical and magical damage inflicted on Demihuman monsters by 3%.
 ^702180Indestructible^000000
 Class: ^6A5ACDHeadgear^000000
@@ -28263,7 +28250,7 @@ Movement Speed,
 Decreases ASPD by 10%,
 (After attack delay decreases by 5%)
 and increases
-Variable Cast Time by 25%.
+Cast Time by 25%.
 Cannot be Dropped, 
 or Traded,
 Can be placed in Kafra Storage
@@ -28668,7 +28655,7 @@ Jobs: ^6A5ACDAll^000000
 5655#
 A hat that Dark Snake Lord wears. Feels like being a king when wear this.
 INT +2, AGI +2, DEX -2.
-When dealing magical attacks, adds a chance for 5 sec decreasing variable cast time by 50% and increasing FLEE by 30.
+When dealing magical attacks, adds a chance for 5 sec decreasing cast time by 50% and increasing FLEE by 30.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF2^000000
 Location: ^6A5ACDUpper^000000
@@ -28883,7 +28870,7 @@ Jobs: ^6A5ACDAll classes^000000
 5673#
 A cute hair ornament made from Sakura blossom.
 Skill cast cannot be interrupted.
-Variable cast time +35%.
+cast time +35%.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF2^000000
 Location: ^6A5ACDUpper^000000
@@ -29914,7 +29901,7 @@ STR +2, AGI +2
 INT +2, DEX +2
 ASPD +3%
 MDEF +5
-Reduces variable cast time by 3%.
+Reduces cast time by 3%.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF10^000000
 Location: ^6A5ACDUpper^000000
@@ -45362,7 +45349,7 @@ as it is designed to limit the trembling of the shooter's hands.
 DEX +2, Hit +10, Critical +10
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
 Ignores Physical Defense from Demihuman monsters by 20%.
-Reduce Tracking skill Variable Casting Time by 25%.
+Reduce Tracking skill Casting Time by 25%.
 Indestructible.
 Class: ^6A5ACDRifle^000000
 Attack: ^D8000050^000000
@@ -45433,7 +45420,7 @@ Ignore 20% of Physical Defense of Demihuman monsters.
 30% increase in damage of [Triple Action].
 ***Additional Weapon Refining Level Option*** 
 +6 Upgrade : Ignore physical defense of Demihuman monsters +5%, ^ff0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
-+9 Upgrade : 25% increase in Variable Casting Time of [Tracking] skill, 
++9 Upgrade : 25% increase in Casting Time of [Tracking] skill, 
  [Tracking] attack strength increases based on refine level.
 Class: ^6A5ACDRifle^000000
 Attack: ^D8000090^000000
@@ -47574,7 +47561,7 @@ Movement Speed,
 Decreases ASPD by 10%,
 (After attack delay decreases by 5%)
 and increases
-Variable Cast Time by 25%.
+Cast Time by 25%.
 Cannot be Dropped, 
 or Traded,
 Can be placed in Kafra Storage
@@ -48233,7 +48220,7 @@ feel might lighter
 when you wear it,
 though it also makes
 you feel pretty dizzy.
-+3% Attack Speed and Variable Casting Speed
++3% Attack Speed and Casting Speed
 INT +1, AGI +1
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF3^000000
@@ -48660,7 +48647,7 @@ that contains a
 3 Seal Magic Spell.
 Enables use of Level 1 Heal 
 and Level 1 Teleport.
-Variable Casting cannot be interrupted.
+Casting cannot be interrupted.
 All Stats +1.
 Increases casting time by 10%.
 This item cannot be Dropped or Traded.
@@ -48943,7 +48930,7 @@ Enables use of Level 1 Heal
 and Level 1 Teleport.
 Casting cannot be interrupted.
 All Stats +1.
-Increases Variable Casting Time by 10%.
+Increases Casting Time by 10%.
 This item cannot be Dropped or Traded.
 Class: ^6A5ACDAccessory^000000
 Defense: ^0000FF1^000000
@@ -49211,7 +49198,7 @@ feel might lighter
 when you wear it,
 though it also makes
 you feel pretty dizzy.
-+3% Attack Speed and Variable Casting Speed
++3% Attack Speed and Casting Speed
 INT +1, AGI +1
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF3^000000
@@ -49273,7 +49260,7 @@ Movement Speed,
 Decreases ASPD by 10%,
 (After attack delay decreases by 5%)
 and increases
-Variable Cast Time by 25%.
+Cast Time by 25%.
 Cannot be Dropped, 
 or Traded,
 Can be placed in Kafra Storage
@@ -54341,7 +54328,7 @@ Weight: ^0EAA0B1^000000
 A box that contains 1 Magic Eyes
 Descripiton:
 A hat that looks like the eyes of a dark mage, which are rumored to blink sometimes.
-Reduce Variable Casting Time by 10% and increase SP Consumption by 20%.
+Reduce Casting Time by 10% and increase SP Consumption by 20%.
 MDEF +5.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF3^000000
@@ -54357,7 +54344,7 @@ Weight: ^0EAA0B1^000000
 A box that contains 1 Magic Eyes
 Descripiton:
 A hat that looks like the eyes of a dark mage, which are rumored to blink sometimes.
-Reduce Variable Casting Time by 10% and increase SP Consumption by 20%.
+Reduce Casting Time by 10% and increase SP Consumption by 20%.
 MDEF +5.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF3^000000
@@ -56787,7 +56774,7 @@ Jobs: ^6A5ACDAll classes except Novice^000000
 #
 18593#
 Cute red mini crown.
-MATK + 3%, Variable casting time decreased 3%. When using skill, decrease SP 3%.
+MATK + 3%, casting time decreased 3%. When using skill, decrease SP 3%.
 Recovery class skill increased 3%.
 INT +1, MDEF +5.
 If refine over +5, add MATK + 1%.
