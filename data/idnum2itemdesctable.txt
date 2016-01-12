@@ -13640,7 +13640,6 @@ Jobs: ^6A5ACDAll classes^000000
 #
 2573#
 White wings of a holy Archangel.
-Slot : ^7777771^000000
 Class: ^6A5ACDGarment^000000
 Defense: ^0000FF0^000000
 Weight: ^0EAA0B20^000000
@@ -21296,44 +21295,6 @@ Fixed casting time -1% (does not stack with other fixed cast time effects).
 #
 4950#
 #
-4951#
-#
-4952#
-#
-4953#
-#
-4954#
-#
-4955#
-#
-4956#
-#
-4957#
-#
-4958#
-#
-4959#
-#
-4960#
-#
-4961#
-#
-4962#
-#
-4963#
-#
-4964#
-#
-4965#
-#
-4966#
-#
-4967#
-#
-4968#
-#
-4969#
-#
 4970#
 #
 4971#
@@ -23079,6 +23040,12 @@ Jobs: ^6A5ACDAll^000000
 5153#
 #
 5154#
+Fashionable yet strict-looking sunglasses which is usually worn by the Metaboli players.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF3^000000
+Position: ^6A5ACDMiddle^000000
+Weight: ^0EAA0B10^000000
+Jobs: ^6A5ACDAll^000000
 #
 5155#
 #
@@ -23373,6 +23340,14 @@ Jobs: ^6A5ACDAll classes^000000
 5180#
 #
 5181#
+A forboding helmet that hides part of the face. People wearing this have the appearance of Beelzebub.
+STR +2
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF3^000000
+Position: ^6A5ACDUpper, Middle^000000
+Weight: ^0EAA0B50^000000
+Level Requirement: ^0EAA0B50^000000
+Jobs: ^6A5ACDSwordman, Merchant, Thief^000000
 #
 5182#
 A small brown-colored dog that sits atop your head. It's so cute you'd be barking mad to remove it.
@@ -23382,7 +23357,6 @@ Auto casts Gloria Lv1 with low percent chance; if AGI is over 77, the cast incre
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF2^000000
 Position: ^6A5ACDUpper^000000
-^ffffff_^000000
 Weight: ^0EAA0B50^000000
 Level Requirement: ^0EAA0B30^000000
 Jobs: ^6A5ACDAll^000000
@@ -23460,6 +23434,16 @@ Level Requirement: ^0EAA0B50^000000
 Jobs: ^6A5ACDAll^000000
 #
 5189#
+Looks like leaves falling in autumn.
+You feel something like a brisk autumn breeze when you use it.
+MaxHP +40
+MaxSP +40
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF0^000000
+Position: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll^000000
 #
 5190#
 #
@@ -23615,6 +23599,16 @@ Level Requirement: ^0EAA0BNone^000000
 Jobs: ^6A5ACDAll except Novice^000000
 #
 5207#
+A dazzling beautiful golden ring which is blessed by an angel. It is given to a great believer.
+Increases resistance to the Holy Property by 5%.
+LUK +1
+Impossible to refine this item.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF0^000000
+Position: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll^000000
 #
 5208#
 A hat designed to mimic the look of a terrible magic book which attacks people.
@@ -26270,10 +26264,39 @@ Jobs: ^6A5ACDAll classes^000000
 5461#
 #
 5462#
+A scarf with terrifying spikes.
+VIT +1
+Increases damage against Demihuman by 1%.
+Increases resistance against Demihuman by 1%.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF1^000000
+Location: ^6A5ACDLower^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B90^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5463#
+A scarf with rainbow color.
+MATK +1%
+INT +1
+MDEF +2
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF1^000000
+Location: ^6A5ACDLower^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B90^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5464#
+A doll resemble to fairly 'Baek-so-jin'.
+INT +2
+Enables use Level 3 Magnificat.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF1^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll except novice^000000
 #
 5465#
 A hat that celebrates luck provided by the stars.
@@ -26406,6 +26429,15 @@ Jobs: ^6A5ACDAll classes^000000
 5477#
 #
 5478#
+A Classic hat.
+STR +2
+MaxHP +300
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF3^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B50^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5479#
 A hair ornament with pink feathers of a Shaman.
@@ -26537,12 +26569,44 @@ Level Requirement: ^0EAA0B65^000000
 Jobs: ^6A5ACDAll^000000
 #
 5491#
+Not many people can stand a hot and steamy sand storm that is from far north Brazil.
+But these natives are well known for standing against heat and humidity with less water and food.
+STR +2.
+Add 10% resistance to ^FF0000Fire^000000 property attacks.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF3^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B80^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5492#
+A black cap that is usually worn by boys attending schools that require uniforms.
+Reduces damage taken from Demihuman monsters by 5%.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF5^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B0^000000
+Jobs: ^6A5ACDAll except Novice^000000
 #
 5493#
+An wool cap that the god of Hunt Ule has used. When you wear this, you might can hunt animals easily.
+DEX +2, AGI +1
+When worn with Odin's Blessing and if the DEX is over 70, decreases consumed Sp by 10% while using a skill.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF3^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^77777All except Novice^000000
 #
 5494#
+A traditional Egyptian head piece that symbolizes the Egyptian gods.
+STR +5
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF5^000000
+Location: ^6A5ACDUpper, Lower^000000
+Weight: ^0EAA0B0^000000
+Jobs: ^6A5ACDSwordman^000000
 #
 5495#
 Grants those who wear it a small portion of the thunder god Thor.
@@ -26558,6 +26622,16 @@ Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 #
 5496#
+Props for the table game. It used to be a tool of gamble.
+Sum of the each sides of symmetry is always 7.
+LUK +4
+^FF0000Unrefineable^000000
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF3^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B30^000000
+Level Requirement: ^0EAA0B50^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5497#
 A hat that imitates the king of Tigers Eddga.
@@ -26653,8 +26727,26 @@ Level Requirement: ^0EAA0B50^000000
 Jobs: ^6A5ACDAll^000000
 #
 5506#
+A lovely nightcap. It is cute and you will feels sleepy when your wear it.
+ATK +5%
+MATK +5%
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF4^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5507#
+A lovely nightcap. It is cute and you will feels sleepy when your wear it.
+ATK +5%
+MATK +5%
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF4^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5508#
 Sharks are amazingly gentle creatures if you stay away from their food supply.
@@ -26782,8 +26874,25 @@ Level Requirement: ^0EAA0B0^000000
 Jobs: ^6A5ACDArcherClass^000000
 #
 5518#
+A headgear made from the horns of Baphomet.
+Increase physical damage inflicted on Demihuman monsters by 12%.
+Increase certain amount of ATK based on wearer's Job Level
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF5^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B50^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5519#
+You seems to sing a song like Bard.
+INT +2
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF4^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5520#
 Celebrate the year of the rabbit and keep your ears warm at the same time.
@@ -26810,8 +26919,24 @@ Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 #
 5522#
+A hat made from scratch lemon fanta cans.
+Zero calories and zero sugar is popular for both men and women!
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF4^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5523#
+A hat created to celebrate the partnership campaign.
+DEX +1
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF4^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5524#
 A hat created to celebrate the partnership campaign.
@@ -26894,7 +27019,6 @@ A baby dragon who has been trained to help its master.
 ^ff0000This item can be traded, stored, and put into a cart^000000
 ^0000FFWhen refined to +7, it has the ability to grant its wearer 150% more Base experience for each dragon type monster killed.^000000
 ^0000FFIncreases damage and resistance to Dragon type monsters by 10%.^000000
-Slot : ^7777771^000000
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF3^000000
 Position: ^6A5ACDUpper^000000
@@ -26991,14 +27115,59 @@ Level Requirement: ^0EAA0B25^000000
 Jobs: ^6A5ACDAll classes^000000
 #
 5540#
+^000088Rental Item^000000
+A spiritual circlet granted by Freya. It appears very sturdy, but it will eventually disappear and return to Freya's realm, Folkvangr.
+STR +1, INT +1, DEX +1
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF8^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B70^000000
+Level Requirement: ^0EAA0B20^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5541#
+^000088Rental Item^000000
+A spiritual circlet granted by Freya. It appears very sturdy, but it will eventually disappear and return to Freya's realm, Folkvangr.
+STR +1, INT +1, DEX +1
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF8^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B70^000000
+Level Requirement: ^0EAA0B20^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5542#
+^000088Rental Item^000000
+A spiritual circlet granted by Freya. It appears very sturdy, but it will eventually disappear and return to Freya's realm, Folkvangr.
+STR +1, INT +1, DEX +1
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF8^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B70^000000
+Level Requirement: ^0EAA0B20^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5543#
+^000088Rental Item^000000
+A spiritual circlet granted by Freya. It appears very sturdy, but it will eventually disappear and return to Freya's realm, Folkvangr.
+STR +1, INT +1, DEX +1
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF8^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B70^000000
+Level Requirement: ^0EAA0B20^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5544#
+...
+INT +2
+MaxSP +50
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF6^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5545#
 A magnificent diadem created to pay tribute to the 1st sign of the zodiac, Aries the Ram.
@@ -27087,36 +27256,99 @@ Level Requirement: ^0EAA0B70^000000
 Jobs: ^6A5ACDAll^000000
 #
 5551#
+A hat made from magical egg.
+Add a chance of auto casting ^008800Level 1 Heal^000000 on the user when receives physical attack.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF1^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5552#
+^000088Rental Item^000000
+Limited Promo! Summer Festival Grand Circlet! 4 weeks rental item.
+STR +3, INT +3, MDEF +3.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF8^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5553#
+^000088Rental Item^000000
+Limited Promo! Summer Festival Bunny Band! 4 weeks rental item.
+MDEF +4, Reduces damage from Demihuman monsters by 9%.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF7^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5554#
+Ridiculous Octopus with a gentleman's hat. It feels like it's making fun of me as I look at it.
+MDEF +3
+^702180Indestructible^000000
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF3^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B20^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5555#
 A hat which resembles a cute Leaf Cat. The power to cure dwells within it.
 AGI +2
 Has a low chance of auto casting Level 3 Heal on the user when receiving physical melee attack.
-^ff0000Event stats from Jan 6th - Feb 3rd 2011^000000
-^0000ffWearing this gives you an extra option of hunting 300 Leaf Cats in Ayothaya.^000000
-^cc0000+5 or higher, gives special 30% bonus EXP for Leaf Cat hunting quest in Ayothaya.^000000
-^00cc00+7 or higher, gives 25% extra EXP for every monster killed and decreases attack of monsters in Ayothaya Dungeon by 30% except for Whispers.^000000
-^ff0000This item can be traded, stored, and put into a cart^000000
 Class: ^6A5ACDHeadgear^000000
-Defense: ^0000FF0^000000
+Defense: ^0000FF3^000000
 Position: ^6A5ACDUpper^000000
 Weight: ^0EAA0B10^000000
 Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 #
 5556#
+Very warm hat which a monster 'Fur Seal' is wearing.
+ATK +5, MATK +5
+Increases resistance against Water property attack by 7%.
+Increase damage inflicted on Water property monster by 25%.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF3^000000
+Location: ^6A5ACDUpper, Middle, Lower^000000
+Weight: ^0EAA0B50^000000
+Level Requirement: ^0EAA0B55^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5557#
+A hat which resembles the wild cat, Wild Rose.
+AGI +3
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF6^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B50^000000
+Level Requirement: ^0EAA0B20^000000
+Jobs: ^6A5ACDAll except Novice^000000
 #
 5558#
+This hat is a legend to the people from whild festival world.
+Add a low chance of dropping 'Blue Herb' when killing a Plant monster.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF6^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B30^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5559#
+...
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF1^000000
+Location: ^6A5ACDUpper, Middle^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5560#
 An armored helmet created from melting down battle worn armors donated by powerful gladiators of times past.
@@ -27532,6 +27764,17 @@ Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 #
 5595#
+A horn imbued with spirit of devil. Could feel full of vital force from it.
+MDEF +2.
+Reduce Neutral and Water property damage by Job Level/14.
+Swordman, Merchant, Thief classes: increase AGI by Job Level/14.
+Mage, Archer, Acolyte classes: increase INT by Job Level/14.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF2^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B40^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5596#
 A Four-leafed clover that brings it's wearer luck.
@@ -27580,6 +27823,14 @@ Level Requirement: ^0EAA0B70^000000
 Jobs: ^6A5ACDAll^000000
 #
 5600#
+A cute ribbon has one sied yellow the other side is green.
+MDEF +1
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF1^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5601#
 A two-toned banana yellow and green colored beret.
@@ -28557,7 +28808,6 @@ Jobs: ^6A5ACDAll classes^000000
 This frightening hooded mask is so scary that you don't have to worry about the nasty ghosts bothering you as you Trick or Treat!
 Increases tolerance to Undead and Demon type monsters by 10%
 If refined to +7 or higher, has a chance of adding Critical Rate +30% and Hit +10 for 10 seconds while physically attacking.
-Slot : ^7777771^000000
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF1^000000
 Position: ^6A5ACDUpper, Middle^000000
@@ -28681,15 +28931,30 @@ If refined to 7,
 DEX +1, Atk +5.
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF3^000000
-Slot : ^7777771^000000
 Position: ^6A5ACDUpper^000000
 Weight: ^0EAA0B30^000000
 Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 #
 5678#
+A headband with shape of 8 note.
+^702180Indestructible^000000
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF5^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5679#
+An old engineer cap.
+Increases physical damage inflicted on Formless monster by 10%.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF2^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B20^000000
+Level Requirement: ^0EAA0B10^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5680#
 This headgear makes you more sensitive and you could get high concentration.
@@ -28713,6 +28978,19 @@ Level Requirement: ^0EAA0BNone^000000
 Jobs: ^6A5ACDEvery job^000000
 #
 5682#
+A fluffy big red hat that made with rune of magic.
+INT +1
+Increases restoration gained from Healing skills by 2%.
+When attacked by magical attacks, adds a chance for 2 sec reflect magical attack with 40% chance.
+Refine Level +7:
+MATK +10
+Increases the reflect chance by 60%.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF5^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B30^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5683#
 An imitation of the famous Magestic Goat. Though, it seems like it doesn't have any magical effects.
@@ -28760,15 +29038,31 @@ Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll classes^000000
 #
 5688#
+On a yellow heart written in red 'Love Dad'.
+VIT +2
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF3^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5689#
+Beautiful and bright crown queen ants.
+When attacked by physical attacks, adds a chance to auto cast Level 1 Sight.
+Reduces damage taken from Insect monsters by 5%.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF1^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B30^000000
+Level Requirement: ^0EAA0B75^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5690#
 A red driver's hat decorated with white wings.
 STR +1, INT +1, DEX +1.
 If refined to 7, increase Atk and Matk by 2%.
 If refined to 9, additional increase Atk and Matk by 2%.
-Slot : ^7777771^000000
 Class: ^6A5ACDHeadgear^000000
 Defense: ^0000FF0^000000
 Position: ^6A5ACDUpper^000000
@@ -28777,12 +29071,57 @@ Level Requirement: ^0EAA0B50^000000
 Jobs: ^6A5ACDAll^000000
 #
 5691#
+This is something that many sailors of Alberta wear when sailing through the seven seas. It helps prevent seasickness and its bright color makes it easier to see men who have fallen overboard.
+DEX +1
+Increases resistance against Poison status by 20%.
+^702180Indestructible^000000
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF1^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5692#
+This is a good companion to have when spending months sailing on a ship. Sailors of Alberta also believe that it is a good luck charm against bad luck and curses.
+DEX +1
+Increases resistance against Curse status by 20%.
+^702180Indestructible^000000
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF1^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B1^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5693#
+It's what's inside the man that makes him who he really is. Got the Balls for it?
+STR +1
+INT +1
+DEX +1
+MaxHP +700
+Reduces damage taken from Demihuman monsters by 2%.
+[+^008800NoFear Shoes and NoFear Belt^000000]
+Adds immunity against Frozen status
+Increases experience gained from killing monster by 5%.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF10^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B20^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5694#
+A headband with word written in bold. Got Game?
+VIT +1
+MaxHP +100
+Reduces damage taken from Demihuman by 2%.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF1^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B20^000000
+Jobs: ^6A5ACDAll except Novice^000000
 #
 5737#
 The friendly Potted Muka likes to encourage you by aggravating your opponents!
@@ -28839,6 +29178,14 @@ Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 #
 5741#
+Hat made from eternal shell egg. Wearing it make you feel immortal.
+Increases restoration gained from Potions by 10% and Healing skills by 5%.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF1^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B0^000000
+Level Requirement: ^0EAA0B10^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5742#
 Rudolf the red-nosed reindeer had a very shiny Hat!
@@ -28859,6 +29206,19 @@ Level Requirement: ^0EAA0B10^000000
 Jobs: ^6A5ACDAll^000000
 #
 5743#
+A hat that ideal for New year celebration.
+LUK +3
+Adds a chance to drop [Orange] when killing a monster.
+[+^008800Pet Mochi^000000]
+When pet intimacy is Cordial, adds a chance to auto cast Level 1 Kyrie Eleison when dealing physical attacks.
+^FF0000Unrefineable^000000
+^702180Indestructible^000000
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF1^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5744#
 A magnificent crown created to pay tribute to the 10th sign of the zodiac, Capricorn the Goat. Attached to the crown is a Garnet gemstone, the birthstone for those born under this sign.
@@ -28931,10 +29291,37 @@ Jobs: ^6A5ACDAll classes^000000
 5760#
 #
 5761#
+This cute Sloth must think you look like a tree. At least it warms the top of your head.
+AGI +2
+Adds chance to auto cast Level 5 Sonic Blow when dealing melee physical attacks.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF3^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B80^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5762#
+A hat similar to the MVP Duneyrr.
+All stats +1
+MDEF +5
+Increases resistance against Demihuman and Brute monsters by 2%.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF5^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5763#
+A hairband that attracts men. You can wear it when you want to look sexy.
+AGI +2
+MDEF +3
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF2^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B20^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5764#
 A hood made by a renowned doll maker with the love toward bunnies.
@@ -29017,6 +29404,13 @@ Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll classes^000000
 #
 5771#
+DEX +1, MDEF +1
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF3^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Level Requirement: ^0EAA0B1^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5772#
 This is the hat worn by great Admirals of the navy fleet that defends the port of Alberta.
@@ -29299,6 +29693,16 @@ Jobs: ^6A5ACDAll^000000
 5800#
 #
 5801#
+Pretty red ribbon. You can feel the sweetness of love.
+All stats +2
+Reduces damage taken from Demihuman monsters by 10%.
+Adds a chance to auto cast Level 5 Heal when the wearer is attacked by physical attacks.
+(A chance of auto casting Level 10 Heal if Level 10 Heal is learned.) 
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF5^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B10^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5802#
 #
@@ -29392,6 +29796,15 @@ Level Requirement: ^0EAA0B1^000000
 Jobs: ^6A5ACDAll^000000
 #
 5813#
+A red graduation hat.
+INT +1
+Restore small amount of SP when killing enemy with magical attacks.
+Restore HP by 1 for every 10 second.
+Class: ^6A5ACDHeadgear^000000
+Defense: ^0000FF0^000000
+Location: ^6A5ACDUpper^000000
+Weight: ^0EAA0B50^000000
+Jobs: ^6A5ACDAll classes^000000
 #
 5814#
 #
@@ -43572,30 +43985,6 @@ Weight: ^0EAA0B1^000000
 #
 12982#
 #
-12983#
-A crate that contains ^0000CC5 Christmas Holiday Boxes^000000 This item and the box inside is account bound.
-Description:
-Opening it will randomly give you one of the following items:
-- 2000x Marvelous Medal
-- 1x Party Hard Pack
-- 1x Early Wrapped Christmas Gift
-- 1x Class Set Card Album
-- 1x Mystical Card Album
-- 1x Gelato Hat
-- 1x Lord of the Dead Helm
-- 3x Battle Manual X3
-- 1x +20 Basic Food Pack
-- 1x Weather Report Box
-- 10x Blue Pretty Potion
-- 1x Party Buff Scroll Pack
-- 1x Slotting Advertisement
-- 10x Fencer Scroll 10
-- 1x Safe to All Pack
-- 3x Reset Stone
-^ffffff_^000000
-Weight: ^0EAA0B1^000000
-Box Weight : ^7777771^000000
-#
 12984#
 #
 12985#
@@ -43621,30 +44010,6 @@ an Owl Baron Card,
 or an Owl Duke Card.
 ^ffffff_^000000
 Weight : ^7777771^000000
-#
-12989#
-^0000CCChristmas Holiday Box^000000, opening this up and get your prize! This item cannot be traded, but can be saved and opened at your leisure!
-Opening it will randomly give you one of the following items:
-- 2000x Marvelous Medal
-- 1x Party Hard Pack
-- 1x Early Wrapped Christmas Gift
-- 1x Class Set Card Album
-- 1x Mystical Card Album
-- 1x Gelato Hat
-- 1x Lord of the Dead Helm
-- 3x Battle Manual X3
-- 1x +20 Basic Food Pack
-- 1x Weather Report Box
-- 10x Blue Pretty Potion
-- 1x Party Buff Scroll Pack
-- 1x Slotting Advertisement
-- 10x Fencer Scroll 10
-- 1x Safe to All Pack
-- 3x Reset Stone
-^ffffff_^000000
-Weight: ^0EAA0B1^000000
-#
-12990#
 #
 12991#
 #
@@ -47772,6 +48137,11 @@ Warning: If no town is selected, the item will disappear.
 Weight: ^0EAA0B1^000000
 #
 13851#
+A box containing 5 enchanted butterfly wings that sends its user to the towns of the Schwaltzwalt.
+Locations: ''Juno'', ''Lighthalzen'', ''Einbroch'', ''Hugel''
+^ffffff_^000000
+Warning: If no town is selected, the item will disappear.
+Weight: ^0EAA0B1^000000
 #
 13852#
 A box containing 10 enchanted butterfly wings that sends its user to the towns of the Schwaltzwalt.
@@ -47781,6 +48151,11 @@ Warning: If no town is selected, the item will disappear.
 Weight: ^0EAA0B1^000000
 #
 13853#
+A box containing 5 enchanted butterfly wings that sends its user to the towns of Arunafeltz.
+Locations: ''Veins'', ''Rachel''
+^ffffff_^000000
+Warning: If no town is selected, the item will disappear.
+Weight: ^0EAA0B1^000000
 #
 13854#
 A box containing 10 enchanted butterfly wings that sends its user to the towns of Arunafeltz.
@@ -47790,6 +48165,11 @@ Warning: If no town is selected, the item will disappear.
 Weight: ^0EAA0B1^000000
 #
 13855#
+A box containing 5 enchanted butterfly wings that sends its user to the island towns of Rune Midgard.
+Locations: ''Ayothaya'', ''Amatsu'', ''Luoyang'', ''Kunlun'', ''Moscovia
+^ffffff_^000000
+Warning: If no town is selected, the item will disappear.
+Weight: ^0EAA0B1^000000
 #
 13856#
 A box containing 10 enchanted butterfly wings that sends its user to the island towns of Rune Midgard.
@@ -55625,8 +56005,6 @@ Weight: ^0EAA0B1^000000
 #
 17394#
 #
-17395#
-#
 17429#
 #
 17430#
@@ -60129,8 +60507,6 @@ Jobs: ^6A5ACDAll^000000
 22591#
 #
 22592#
-#
-22593#
 #
 22594#
 #
