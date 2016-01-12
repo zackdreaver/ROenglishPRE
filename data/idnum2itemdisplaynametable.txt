@@ -3374,7 +3374,7 @@
 5274#Shiny_Wig#
 5275#Marvelous_Wig#
 5276#Fantastic_Wig#
-5277#Air_Pirate's_Bandana#
+5277#Yellow_Bandana#
 5278#Yellow_Ribbon#
 5279#Refined_Drooping_Cat#
 5280#Baphomet_Horns#
@@ -3464,9 +3464,9 @@
 5364#Evil_Snake_Lord_Hat#
 5365#Magnolia_Hat#
 5366#Love_Dad_Bandana#
-5367#Yao_Jun_Hat#
-5368#Wings_of_Light#
-5369#Wings_of_Darkness#
+5367#Hyegun_Hat#
+5368#White_Wing#
+5369#Dark_Wing#
 5370#Orchid_Hairband#
 5371#Judge_Hat#
 5372#Koneko_Hat#
@@ -5508,8 +5508,8 @@
 7616#Miniboss_Voucher#
 7617#Monster_Voucher#
 7618#Monster_Crystal#
-7619#Old_Enriched_Elunium#
-7620#Old_Enriched_Oridecon#
+7619#Enriched_Elunium#
+7620#Enriched_Oridecon#
 7621#Token_Of_Siegfried#
 7622#Hairstyle_Coupon#
 7623#Ticket_Of_Identification#
