@@ -9132,8 +9132,8 @@
 16725#Vanilmirth_Hat_Box#
 16726#Water_Lily_Crown_Box#
 16727#Water_Lily_Crown_Box#
-16728#Pink_Beanie_Hat#
-16729#Pink_Beanie_Hat#
+16728#Pink_Beanie_Hat_Box#
+16729#Pink_Beanie_Hat_Box#
 16730#Green_Ribbon_Box#
 16731#Green_Ribbon_Box#
 16732#Gray_Deviruchi_Hat_Box#
