@@ -2885,7 +2885,7 @@ Freeze its owner by 1% chance when used.
 Class:^6A5ACD One-Handed Sword ^000000
 Attack:^D80000 100 ^000000
 Weight:^0EAA0B 60 ^000000
-Property: ^6996ADWater ^000000
+Property:^6996AD Water ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 40 ^000000
 Jobs:^6A5ACD Swordman, Merchant, and Thief Classes ^000000
@@ -2907,7 +2907,7 @@ Enables use of ^008800Level 3 Fire Bolt^000000.
 Class:^6A5ACD One-Handed Sword ^000000
 Attack:^D80000 100 ^000000
 Weight:^0EAA0B 50 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 40 ^000000
 Jobs:^6A5ACD Swordman, Merchant, and Thief Classes ^000000
@@ -2944,7 +2944,7 @@ Drains 15 SP from its owner every 10 seconds.
 Class:^6A5ACD One-Handed Sword ^000000
 Attack:^D80000 85 ^000000
 Weight:^0EAA0B 120 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 40 ^000000
 Jobs:^6A5ACD Swordman, Merchant, and Thief Classes ^000000
@@ -3253,7 +3253,7 @@ DEF +1
 Class:^6A5ACD Two-Handed Sword ^000000
 Attack:^D80000 160 ^000000
 Weight:^0EAA0B 160 ^000000
-Property: ^4cbb17Wind ^000000
+Property:^4CBB17 Wind ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 48 ^000000
 Jobs:^6A5ACD Swordman Class ^000000
@@ -3386,7 +3386,7 @@ DEF +1
 Class:^6A5ACD Two-handed Sword ^000000
 Attack:^D80000 160 ^000000
 Weight:^0EAA0B 160 ^000000
-Property: ^4cbb17Wind ^000000
+Property:^4CBB17 Wind ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 48 ^000000
 Jobs:^6A5ACD Swordman Class ^000000
@@ -3845,7 +3845,7 @@ MATK +10%
 Class:^6A5ACD Dagger ^000000
 Attack:^D80000 70 ^000000
 Weight:^0EAA0B 50 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 36 ^000000
 Jobs:^6A5ACD Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker, and Ninja ^000000
@@ -4015,7 +4015,7 @@ A dagger that can be effectively used to start a fire.
 Class:^6A5ACD Dagger ^000000
 Attack:^D80000 39 ^000000
 Weight:^0EAA0B 60 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 1 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes except
@@ -4026,7 +4026,7 @@ An extremely sharp dagger made from pure obsidian glass that shines eerily.
 Class:^6A5ACD Dagger ^000000
 Attack:^D80000 39 ^000000
 Weight:^0EAA0B 60 ^000000
-Property: ^cc5500Earth ^000000
+Property:^CC5500 Earth ^000000
 Weapon Level:^0EAA0B 1 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes except
@@ -4037,7 +4037,7 @@ A dagger used by fishermen to catch shellfish and oysters from the ocean.
 Class:^6A5ACD Dagger ^000000
 Attack:^D80000 39 ^000000
 Weight:^0EAA0B 60 ^000000
-Property: ^6996ADWater ^000000
+Property:^6996AD Water ^000000
 Weapon Level:^0EAA0B 1 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes except
@@ -4106,7 +4106,7 @@ Inflict the ^880000Frozen^000000 status on enemies by a low chance.
 Class:^6A5ACD Katar ^000000
 Attack:^D80000 105 ^000000
 Weight:^0EAA0B 120 ^000000
-Property: ^6996ADWater ^000000
+Property:^6996AD Water ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 55 ^000000
 Jobs:^6A5ACD Assassin ^000000
@@ -4117,7 +4117,7 @@ Inflict the ^880000Blind^000000 status on enemies by a low chance.
 Class:^6A5ACD Katar ^000000
 Attack:^D80000 105 ^000000
 Weight:^0EAA0B 120 ^000000
-Property: ^cc5500Earth ^000000
+Property:^CC5500 Earth ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 55 ^000000
 Jobs:^6A5ACD Assassin ^000000
@@ -4128,7 +4128,7 @@ Inflict the Silence status on enemies by a low chance.
 Class:^6A5ACD Katar ^000000
 Attack:^D80000 105 ^000000
 Weight:^0EAA0B 120 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 55 ^000000
 Jobs:^6A5ACD Assassin ^000000
@@ -4139,7 +4139,7 @@ Inflict the ^880000Sleep^000000 status on enemies by a low chance.
 Class:^6A5ACD Katar ^000000
 Attack:^D80000 105 ^000000
 Weight:^0EAA0B 120 ^000000
-Property: ^7BCC70Wind ^000000
+Property:^7BCC70 Wind ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 55 ^000000
 Jobs:^6A5ACD Assassin ^000000
@@ -4367,7 +4367,7 @@ Inflict the ^880000Frozen^000000 status on enemies by a low chance.
 Class:^6A5ACD Katar ^000000
 Attack:^D80000 105 ^000000
 Weight:^0EAA0B 120 ^000000
-Property: ^6996ADWater ^000000
+Property:^6996AD Water ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 55 ^000000
 Jobs:^6A5ACD Assassin ^000000
@@ -4378,7 +4378,7 @@ Inflict the ^880000Blind^000000 status on enemies by a low chance.
 Class:^6A5ACD Katar ^000000
 Attack:^D80000 105 ^000000
 Weight:^0EAA0B 120 ^000000
-Property: ^A68064Earth ^000000
+Property:^A68064 Earth ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 55 ^000000
 Jobs:^6A5ACD Assassin ^000000
@@ -4389,7 +4389,7 @@ Inflict the Silence status on enemies by a low chance.
 Class:^6A5ACD Katar ^000000
 Attack:^D80000 105 ^000000
 Weight:^0EAA0B 120 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 55 ^000000
 Jobs:^6A5ACD Assassin ^000000
@@ -4400,7 +4400,7 @@ Inflict the ^880000Sleep^000000 status on enemies by a low chance.
 Class:^6A5ACD Katar ^000000
 Attack:^D80000 105 ^000000
 Weight:^0EAA0B 120 ^000000
-Property: ^7BCC70Wind ^000000
+Property:^7BCC70 Wind ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 55 ^000000
 Jobs:^6A5ACD Assassin ^000000
@@ -4595,7 +4595,7 @@ Increases Aspd by 5%.
 Class:^6A5ACD One Handed Axe ^000000
 Attack:^D80000 115 ^000000
 Weight:^0EAA0B 150 ^000000
-Property: ^7BCC70Wind ^000000
+Property:^7BCC70 Wind ^000000
 Weapon Level:^0EAA0B 2 ^000000
 Level Requirement:^0EAA0B 14 ^000000
 Jobs:^6A5ACD Swordman, Merchant, and Thief Class ^000000
@@ -4674,7 +4674,7 @@ This item cannot be Dropped or Traded.
 Class:^6A5ACD Axe ^000000
 Attack:^D80000 200 ^000000
 Weight:^0EAA0B 0 ^000000
-Property: ^4cbb17Wind ^000000
+Property:^4CBB17 Wind ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD Swordman and Merchant ^000000
@@ -4869,7 +4869,7 @@ Causes Coma effect on Brute monsters by a low chance.
 Class:^6A5ACD Axe ^000000
 Attack:^D80000 120 ^000000
 Weight:^0EAA0B 250 ^000000
-Property: ^cc5500Earth ^000000
+Property:^CC5500 Earth ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 44 ^000000
 Jobs:^6A5ACD Swordman and Merchant Classes ^000000
@@ -4880,7 +4880,7 @@ Enables use of ^008800Tomahawk Throwing^000000.
 Class:^6A5ACD Axe ^000000
 Attack:^D80000 165 ^000000
 Weight:^0EAA0B 250 ^000000
-Property: ^4cbb17Wind ^000000
+Property:^4CBB17 Wind ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 44 ^000000
 Jobs:^6A5ACD Swordman and Merchant Classes ^000000
@@ -4982,7 +4982,7 @@ This item cannot be Dropped or Traded.
 Class:^6A5ACD Axe ^000000
 Attack:^D80000 200 ^000000
 Weight:^0EAA0B 0 ^000000
-Property: ^4cbb17Wind ^000000
+Property:^4CBB17 Wind ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD Swordman and Merchant ^000000
@@ -5326,7 +5326,7 @@ MaxSP - 50
 Class:^6A5ACD Spear ^000000
 Attack:^D80000 145 ^000000
 Weight:^0EAA0B 70 ^000000
-Property: ^cc5500Earth ^000000
+Property:^CC5500 Earth ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 48 ^000000
 Jobs:^6A5ACD Swordman Class ^000000
@@ -5746,7 +5746,7 @@ Causes ^FF0000Silence^000000 effect to target by a low chance when attacking.
 Class:^6A5ACD Spear ^000000
 Attack:^D80000 170 ^000000
 Weight:^0EAA0B 200 ^000000
-Property: ^7BCC70Wind ^000000
+Property:^7BCC70 Wind ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 48 ^000000
 Jobs:^6A5ACD Swordman Class ^000000
@@ -5782,7 +5782,7 @@ Automatically cast ^008800level 5 Fire Ball^000000 by chance.
 Class:^6A5ACD Spear ^000000
 Attack:^D80000 200 ^000000
 Weight:^0EAA0B 350 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 48 ^000000
 Jobs:^6A5ACD Swordman Class ^000000
@@ -6593,7 +6593,7 @@ A hefty book with a hard cover that has been enchanted with the ^6996ADWater^000
 Class:^6A5ACD Book ^000000
 Attack:^D80000 90 ^000000
 Weight:^0EAA0B 75 ^000000
-Property: ^6996ADWater ^000000
+Property:^6996AD Water ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 27 ^000000
 Jobs:^6A5ACD Priest, Sage, and Taekwon Master ^000000
@@ -6603,7 +6603,7 @@ A hefty book with a hard cover that has been enchanted with the ^A68064Earth^000
 Class:^6A5ACD Book ^000000
 Attack:^D80000 90 ^000000
 Weight:^0EAA0B 75 ^000000
-Property: ^A68064Earth ^000000
+Property:^A68064 Earth ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 27 ^000000
 Jobs:^6A5ACD Priest, Sage, and Taekwon Master ^000000
@@ -6613,7 +6613,7 @@ A hefty book with a hard cover that has been enchanted with the ^FF0000Fire^0000
 Class:^6A5ACD Book ^000000
 Attack:^D80000 90 ^000000
 Weight:^0EAA0B 75 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 27 ^000000
 Jobs:^6A5ACD Priest, Sage, and Taekwon Master ^000000
@@ -6623,7 +6623,7 @@ A hefty book with a hard cover that has been enchanted with the ^7BCC70Wind^0000
 Class:^6A5ACD Book ^000000
 Attack:^D80000 90 ^000000
 Weight:^0EAA0B 75 ^000000
-Property: ^7BCC70Wind ^000000
+Property:^7BCC70 Wind ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 27 ^000000
 Jobs:^6A5ACD Priest, Sage, and Taekwon Master ^000000
@@ -6782,7 +6782,7 @@ the Water property.
 Class:^6A5ACD Book ^000000
 Attack:^D80000 90 ^000000
 Weight:^0EAA0B 75 ^000000
-Property: ^6996ADWater ^000000
+Property:^6996AD Water ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 27 ^000000
 Jobs:^6A5ACD Priest
@@ -6796,7 +6796,7 @@ the Earth property.
 Class:^6A5ACD Book ^000000
 Attack:^D80000 90 ^000000
 Weight:^0EAA0B 75 ^000000
-Property: ^cc5500Earth ^000000
+Property:^CC5500 Earth ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 27 ^000000
 Jobs:^6A5ACD Priest
@@ -6810,7 +6810,7 @@ the ^FF0000Fire^000000 property.
 Class:^6A5ACD Book ^000000
 Attack:^D80000 90 ^000000
 Weight:^0EAA0B 75 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 27 ^000000
 Jobs:^6A5ACD Priest
@@ -6824,7 +6824,7 @@ the Wind property.
 Class:^6A5ACD Book ^000000
 Attack:^D80000 90 ^000000
 Weight:^0EAA0B 75 ^000000
-Property: ^4cbb17Wind ^000000
+Property:^4CBB17 Wind ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 27 ^000000
 Jobs:^6A5ACD Priest
@@ -8266,7 +8266,7 @@ A flaming arrow that will inflict ^FF0000Fire^000000 property damage.
 Class:^6A5ACD Arrow ^000000
 Attack:^D80000 30 ^000000
 Weight:^0EAA0B 0.2 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 #
 1753#
 An arrow constructed from hardened steel.
@@ -8280,21 +8280,21 @@ An arrow made of blue crystal imbued with the power of Water.
 Class:^6A5ACD Arrow ^000000
 Attack:^D80000 30 ^000000
 Weight:^0EAA0B 0.2 ^000000
-Property: ^6996ADWater ^000000
+Property:^6996AD Water ^000000
 #
 1755#
 An arrow enchanted by the power of the Wind.
 Class:^6A5ACD Arrow ^000000
 Attack:^D80000 30 ^000000
 Weight:^0EAA0B 0.2 ^000000
-Property: ^4cbb17Wind ^000000
+Property:^4CBB17 Wind ^000000
 #
 1756#
 An arrow made of stone imbued with the power of Earth.
 Class:^6A5ACD Arrow ^000000
 Attack:^D80000 30 ^000000
 Weight:^0EAA0B 0.2 ^000000
-Property: ^cc5500Earth ^000000
+Property:^CC5500 Earth ^000000
 #
 1757#
 A shining arrow that doesn't have a discernable shape.
@@ -8317,7 +8317,7 @@ Inflict the ^880000Frozen^000000 status on targets by a low chance.
 Class:^6A5ACD Arrow ^000000
 Attack:^D80000 1 ^000000
 Weight:^0EAA0B 0.3 ^000000
-Property: ^6996ADWater ^000000
+Property:^6996AD Water ^000000
 #
 1760#
 An arrow that explodes with a flash of light upon impact.
@@ -8340,7 +8340,7 @@ An old, rusty arrow.
 Class:^6A5ACD Arrow ^000000
 Attack:^D80000 30 ^000000
 Weight:^0EAA0B 0.2 ^000000
-Property: ^702180Poison ^000000
+Property:^702180 Poison ^000000
 #
 1763#
 An arrow whose tip has been dipped in lethal poison.
@@ -8348,7 +8348,7 @@ Inflict the ^880000Poison^000000 status on targets by a low chance.
 Class:^6A5ACD Arrow ^000000
 Attack:^D80000 1 ^000000
 Weight:^0EAA0B 0.3 ^000000
-Property: ^702180Poison ^000000
+Property:^702180 Poison ^000000
 #
 1764#
 An arrow with topped with a serrated blade.
@@ -8547,7 +8547,7 @@ Inflicts 5% additional damage on Undead monsters and 10% additional damage on ^A
 Class:^6A5ACD Claw ^000000
 Attack:^D80000 110 ^000000
 Weight:^0EAA0B 45 ^000000
-Property: ^7BCC70Wind ^000000
+Property:^7BCC70 Wind ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 36 ^000000
 Jobs:^6A5ACD Priest and Monk Jobs ^000000
@@ -8938,7 +8938,7 @@ A magically dazzling guitar that bewitches its user to play songs of passion onc
 Class:^6A5ACD Musical Instrument ^000000
 Attack:^D80000 110 ^000000
 Weight:^0EAA0B 90 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 27 ^000000
 Jobs:^6A5ACD Bard ^000000
@@ -8948,7 +8948,7 @@ A guitar which makes a depressing sound when strummed, and is said to have been 
 Class:^6A5ACD Musical Instrument ^000000
 Attack:^D80000 110 ^000000
 Weight:^0EAA0B 90 ^000000
-Property: ^6996ADWater ^000000
+Property:^6996AD Water ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 27 ^000000
 Jobs:^6A5ACD Bard ^000000
@@ -9299,7 +9299,7 @@ This whip has a 50% chance of inflicting Poison status on its target with each a
 Class:^6A5ACD Whip ^000000
 Attack:^D80000 115 ^000000
 Weight:^0EAA0B 30 ^000000
-Property: ^702180Poison ^000000
+Property:^702180 Poison ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 44 ^000000
 Jobs:^6A5ACD Dancer ^000000
@@ -9321,7 +9321,7 @@ A whip made from the tough leather of a Fire property monster.
 Class:^6A5ACD Whip ^000000
 Attack:^D80000 110 ^000000
 Weight:^0EAA0B 70 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD Dancer ^000000
@@ -9331,7 +9331,7 @@ A whip created from enchanted icicles that are eternally frozen.
 Class:^6A5ACD Whip ^000000
 Attack:^D80000 110 ^000000
 Weight:^0EAA0B 70 ^000000
-Property: ^6996ADWater ^000000
+Property:^6996AD Water ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD Dancer ^000000
@@ -9341,7 +9341,7 @@ A whip fashioned out of tough tree roots that have been braided together.
 Class:^6A5ACD Whip ^000000
 Attack:^D80000 110 ^000000
 Weight:^0EAA0B 70 ^000000
-Property: ^A68064Earth ^000000
+Property:^A68064 Earth ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD Dancer ^000000
@@ -11527,7 +11527,7 @@ An armor that is enchanted with the ^FF0000Fire^000000 Property.
 Class:^6A5ACD Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^0EAA0B 220 ^000000
-Property : ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Level Requirement:^0EAA0B 45 ^000000
 Jobs:^6A5ACD Swordman and
 Merchant Classes ^000000
@@ -11537,7 +11537,7 @@ An armor that is enchanted with the ^FF0000Fire^000000 Property.
 Class:^6A5ACD Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^0EAA0B 220 ^000000
-Property : ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Level Requirement:^0EAA0B 45 ^000000
 Jobs:^6A5ACD All classes except Novice ^000000
 #
@@ -11546,7 +11546,7 @@ An armor that is enchanted with the ^6996ADWater^000000 Property.
 Class:^6A5ACD Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^0EAA0B 220 ^000000
-Property : ^6996ADWater ^000000
+Property:^6996AD Water ^000000
 Level Requirement:^0EAA0B 45 ^000000
 Jobs:^6A5ACD Swordman and Merchant Classes ^000000
 #
@@ -11555,7 +11555,7 @@ An armor that is enchanted with the ^6996ADWater^000000 Property.
 Class:^6A5ACD Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^0EAA0B 220 ^000000
-Property : ^6996ADWater ^000000
+Property:^6996AD Water ^000000
 Level Requirement:^0EAA0B 45 ^000000
 Jobs:^6A5ACD All classes except Novice ^000000
 #
@@ -11564,7 +11564,7 @@ An armor that is enchanted with the ^7BCC70Wind^000000 Property.
 Class:^6A5ACD Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^0EAA0B 220 ^000000
-Property : ^7BCC70Wind ^000000
+Property:^7BCC70 Wind ^000000
 Level Requirement:^0EAA0B 45 ^000000
 Jobs:^6A5ACD Swordman and Merchant Classes ^000000
 #
@@ -11573,7 +11573,7 @@ An armor that is enchanted with the ^7BCC70Wind^000000 Property.
 Class:^6A5ACD Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^0EAA0B 220 ^000000
-Property : ^7BCC70Wind ^000000
+Property:^7BCC70 Wind ^000000
 Level Requirement:^0EAA0B 45 ^000000
 Jobs:^6A5ACD All classes except Novice ^000000
 #
@@ -11582,7 +11582,7 @@ An armor that is enchanted with the ^A68064Earth^000000 Property.
 Class:^6A5ACD Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^0EAA0B 220 ^000000
-Property : ^A68064Earth ^000000
+Property:^A68064 Earth ^000000
 Level Requirement:^0EAA0B 45 ^000000
 Jobs:^6A5ACD Swordman and Merchant Classes ^000000
 #
@@ -11591,7 +11591,7 @@ An armor that is enchanted with the ^A68064Earth^000000 Property.
 Class:^6A5ACD Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^0EAA0B 220 ^000000
-Property : ^A68064Earth ^000000
+Property:^A68064 Earth ^000000
 Level Requirement:^0EAA0B 45 ^000000
 Jobs:^6A5ACD All classes except Novice ^000000
 #
@@ -13804,7 +13804,6 @@ Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All ^000000
 #
 2614#
-...
 Add imunity to Poison status.
 Reduce damage taken from undead and demon race monster by 4%.
 Class:^6A5ACD Accessory ^000000
@@ -13815,8 +13814,7 @@ Jobs:^6A5ACD All classes except Novice ^000000
 #
 2615#
 A strange ring that curiously raises its wearer's defense.
-DEF +5
-MDEF +5
+MDEF +3
 Class:^6A5ACD Accessory ^000000
 Defense:^0000FF 3 ^000000
 Weight:^0EAA0B 10 ^000000
@@ -16071,7 +16069,7 @@ Weight:^0EAA0B 0 ^000000
 LUK +2
 Perfect Dodge +1
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4002#
@@ -16084,7 +16082,7 @@ Weight:^0EAA0B 1 ^000000
 4003#
 MaxHP +700
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4004#
@@ -16118,7 +16116,7 @@ Weight:^0EAA0B 1 ^000000
 STR +1
 ATK +10
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4009#
@@ -16138,7 +16136,7 @@ Weight:^0EAA0B 1 ^000000
 VIT +1
 MaxHP +100
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4012#
@@ -16157,7 +16155,7 @@ Weight:^0EAA0B 1 ^000000
 MaxHP +400
 MaxSP +50
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4015#
@@ -16169,7 +16167,7 @@ Weight:^0EAA0B 1 ^000000
 4016#
 AGI +1
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4017#
@@ -16203,7 +16201,7 @@ Weight:^0EAA0B 1 ^000000
 DEX +1
 ATK +5
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4022#
@@ -16215,7 +16213,7 @@ Weight:^0EAA0B 1 ^000000
 4023#
 INT +1
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4024#
@@ -16267,7 +16265,7 @@ Weight:^0EAA0B 1 ^000000
 4031#
 MaxHP +10%
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4032#
@@ -16364,7 +16362,7 @@ Weight:^0EAA0B 1 ^000000
 DEF +2
 Increases resistance to ^7BCC70Wind^000000 property attacks by 10%.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4043#
@@ -16395,7 +16393,7 @@ Weight:^0EAA0B 1 ^000000
 Enchant armor with the ^777777Ghost^000000 property.
 Reduce HP Recovery by 25%.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4048#
@@ -16439,7 +16437,7 @@ Weight:^0EAA0B 1 ^000000
 4054#
 Blesses an Armor with the ^777777Holy^000000 property.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4055#
@@ -16486,7 +16484,7 @@ DEF +1
 Make an Armor indestructible in battle.
 Armor can still be destroyed during upgrade attempts.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4062#
@@ -16594,7 +16592,7 @@ Weight:^0EAA0B 1 ^000000
 4078#
 VIT +3
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4079#
@@ -16664,7 +16662,7 @@ Weight:^0EAA0B 1 ^000000
 DEF +1
 Enchant armor with the ^0000BBWater^000000 property.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4090#
@@ -16732,14 +16730,14 @@ Weight:^0EAA0B 1 ^000000
 DEF +1
 Enchant armor with the ^009900Wind^000000 property.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4099#
 DEF +1
 Enchant armor with the ^FF0000Fire^000000 property.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4100#
@@ -16753,7 +16751,7 @@ Weight:^0EAA0B 1 ^000000
 DEF +1
 Enchant armor with the ^996600Earth^000000 property.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4102#
@@ -16778,7 +16776,7 @@ Weight:^0EAA0B 1 ^000000
 4105#
 Gain immunity from the ^FF0000Frozen^000000 status and increases resistance to ^0000BBWater^000000 property by 5%.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4106#
@@ -16837,7 +16835,7 @@ Weight:^0EAA0B 1 ^000000
 DEF +1
 Enchant armor with the ^702180Poison^000000 property.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4115#
@@ -16869,7 +16867,7 @@ Weight:^0EAA0B 1 ^000000
 4119#
 Enchant armor with the ^777777Shadow^000000 property.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4120#
@@ -16971,7 +16969,7 @@ Weight:^0EAA0B 1 ^000000
 4135#
 Reflect 30% of all melee physical damage back to the enemy which inflicted it.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4136#
@@ -17009,7 +17007,7 @@ INT +1
 DEF +1
 Enchant armor with the ^777777Undead^000000 property.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4142#
@@ -17065,7 +17063,7 @@ Weight:^0EAA0B 1 ^000000
 4150#
 Add DEF +2 and MDEF +5 if the armor is upgraded no higher than +5.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4151#
@@ -17128,7 +17126,7 @@ Weight:^0EAA0B 1 ^000000
 Disable natural HP Recovery.
 Gain 100 HP each time a monster is killed by Physical Melee Attack.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4159#
@@ -17156,7 +17154,7 @@ Weight:^0EAA0B 1 ^000000
 Add the chance of auto casting ^FF0000Blind^000000 on an enemy when the user receives Physical Damage.
 If the user is equipped with an item compounded to the ^008800Big Foot Card^000000, the blinding chance will be increased.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4163#
@@ -17187,7 +17185,7 @@ Weight:^0EAA0B 1 ^000000
 Add the chance of auto casting ^FF0000Curse^000000 on an enemy when the user receives Physical Damage.
 If the user is equipped with an item compounded to the ^008800Nightmare Card^000000, the cursing chance will be increased.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4167#
@@ -17215,7 +17213,7 @@ Weight:^0EAA0B 1 ^000000
 4170#
 Add the chance of auto casting ^FF0000Stone Curse^000000 on an enemy when the user receives Physical Damage.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4171#
@@ -17253,7 +17251,7 @@ Weight:^0EAA0B 1 ^000000
 4173#
 Add the chance of casting ^FF0000Sleep^000000 on an enemy when the user receives Physical Damage.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4174#
@@ -17335,7 +17333,7 @@ Weight:^0EAA0B 1 ^000000
 Add the chance of auto casting ^FF0000Silence^000000 on an enemy when the user receives Physical Damage.
 The chance of casting ^FF0000Silence^000000 is increased if the user has 77 or more VIT points.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4182#
@@ -17448,7 +17446,7 @@ Weight:^0EAA0B 1 ^000000
 4189#
 Add the chance of auto casting ^FF0000Curse^000000 on an enemy when the user receives Physical Damage.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4190#
@@ -17475,7 +17473,7 @@ Add the chance of auto casting ^008800Level 3 Heal^000000 on the user when recei
 15% Faster Cast
 ^FFFFFF_^000000
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4192#
@@ -17496,7 +17494,7 @@ Weight:^0EAA0B 1 ^000000
 Add the chance of auto casting ^FF0000Stun^000000 on an enemy when the user receives Physical Damage.
 The chance of casting ^FF0000Stun^000000 is increased if the user has 77 or more DEX points.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4195#
@@ -17555,7 +17553,7 @@ Weight:^0EAA0B 1 ^000000
 4201#
 Add the chance of auto casting ^FF0000Stun^000000 on an enemy when the user receives Physical Attack.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4202#
@@ -17719,7 +17717,7 @@ Weight:^0EAA0B 1 ^000000
 4213#
 Add the chance of auto casting ^FF0000Silence^000000 on an enemy when the user receives Physical Damage.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4214#
@@ -17738,7 +17736,7 @@ Weight:^0EAA0B 1 ^000000
 4216#
 Add the chance of ^FF0000Freezing^000000 an enemy when the user receives Physical Damage.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4217#
@@ -17768,7 +17766,7 @@ MaxHP +1000
 Reduce natural HP regeneration by 20%.
 If equipped with headgear compounded with ^008800Inccubus card^000000, VIT +4 and Increase natural HP regeneration by 30%.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4219#
@@ -17796,7 +17794,7 @@ Swordman Class:
 +50% HP Restoration when using Red, Yellow, and White Potions.
 ^FFFFFF_^000000
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4221#
@@ -17810,7 +17808,7 @@ Weight:^0EAA0B 1 ^000000
 Add the chance of auto casting ^FF0000Sleep^000000 on an enemy when the user receives Physical Damage.
 The chance of casting ^FF0000Sleep^000000 is increased if the user is equipped with an item compounded to the ^008800Skeleton Card^000000.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4223#
@@ -17953,7 +17951,7 @@ A chance of auto casting ^008800Level 1 Adrenaline Rush^000000 when attacking ph
 A low chance of obtaining Glistening Coat and/or Stem when defeating monsters.
 ^FFFFFF_^000000
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4234#
@@ -17995,7 +17993,7 @@ level 2 Tarot Card of Fate
 when hit by a melee attack.
 ^FFFFFF_^000000
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4235#
@@ -18051,13 +18049,13 @@ Weight:^0EAA0B 1 ^000000
 VIT +2
 MaxHP +800 if the armor is upgraded up to +9 or higher.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4243#
 Has a high chance of casting ^008800Level 1 Teleport^000000 on the user when taken Physical Damage.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4244#
@@ -18305,7 +18303,7 @@ Weight:^0EAA0B 1 ^000000
 DEF +1
 Increase HP Recovery by 30%,
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4260#
@@ -18383,7 +18381,7 @@ Weight:^0EAA0B 1 ^000000
 4270#
 Add the chance of ^FF0000Poisoning^000000 an enemy when the user receives Physical Damage.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4271#
@@ -18474,7 +18472,7 @@ Diable natural SP regeneration.
 Gain 10 SP each time a monster is killed by Physical Melee Attack.
 Drains 100 SP as the armor is unequipped.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4280#
@@ -18496,7 +18494,7 @@ and Demon monsters.
 Undead monsters.
 ^FFFFFF_^000000
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4281#
@@ -18575,7 +18573,7 @@ Weight:^0EAA0B 1 ^000000
 Add the chance of auto casting Chaos on an enemy when the user receives Physical Damage.
 The chance is increased if the user has 77 or more STR points.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4287#
@@ -18658,7 +18656,7 @@ Compound on:^B40088 Accessory ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4294#
-[^6A5ACDNovice|Super Novice^000000]
+[^6A5ACDNovice classes^000000]
 Add the chance of auto casting ^008800Level 1 Increase AGI^000000 when physical damage is received.
 If the user is equipped with an item which is compounded to the ^008800Lude Card^000000, it adds +60 MaxSP.
 Class:^6A5ACD Card ^000000
@@ -18668,7 +18666,7 @@ Weight:^0EAA0B 1 ^000000
 4295#
 Add the chance of casting ^FF0000Blind^000000 on an enemy when the user receives Physical Damage.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4296#
@@ -18722,7 +18720,7 @@ Weight:^0EAA0B 1 ^000000
 4298#
 Add the chance of casting ^FF0000Chaos^000000 on an enemy when the user receives Physical Damage.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4299#
@@ -18738,27 +18736,27 @@ DEF +3
 MDEF +3
 ^FFFFFF_^000000
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4300#
 Add the chance of poisoning an enemy when the user receives Physical Damage.
 The chance is increased if worn by ^6A5ACDAssassin class^000000.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4301#
 Add the chance of auto casting Bleeding on an enemy when the user receives Physical Damage.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4302#
 MaxHP +100%
 Reduce physical and magical defense by 50%.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4303#
@@ -18938,7 +18936,7 @@ Weight:^0EAA0B 1 ^000000
 Add the chance of auto casting ^FF0000Stone Curse^000000 on an enemy when the user receives Physical Damage.
 The chance is increased if the user has 77 or more INT points.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4316#
@@ -19047,7 +19045,7 @@ Weight:^0EAA0B 1 ^000000
 4324#
 Has 50% chance of Freezing an enemy when the user receives Physical Damage.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4325#
@@ -19227,13 +19225,13 @@ Uninterruptable Cast
 SP consumpion -10%.
 ^FFFFFF_^000000
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4333#
 Adds a high chance of inflicting the ^FF0000Poison^000000 status to the attacking enemy and this card's wearer each time the wearer is physically attacked.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4334#
@@ -19261,20 +19259,20 @@ Weight:^0EAA0B 1 ^000000
 ATK +25
 DEF -5
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4338#
 Adds 1 VIT for every 18 points of base DEX.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4339#
 ATK -25
 DEF +3
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4340#
@@ -19294,7 +19292,7 @@ VIT +3
 Adds immunity to the Knockback effect.
 Compounded armor is indestructible, but it can still be destroyed by failed upgrade attempts.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4343#
@@ -19339,7 +19337,7 @@ Weight:^0EAA0B 1 ^000000
 4346#
 Adds 1 STR for every 18 points of base INT.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4347#
@@ -19411,7 +19409,7 @@ Weight:^0EAA0B 1 ^000000
 Increases HP Recovery by 10%.
 Adds MaxHP +800, but this bonus decreases as the compounded armor's upgrade level increases.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4354#
@@ -19475,7 +19473,7 @@ Weight:^0EAA0B 1 ^000000
 4363#
 Adds a chance of autocasting ^008800Level 1 Assumptio^000000 on the wearer each time the wearer is physically or magically attacked.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4364#
@@ -19522,7 +19520,7 @@ Weight:^0EAA0B 1 ^000000
 4369#
 Adds 1 LUK for every 18 points of base AGI.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4370#
@@ -19531,7 +19529,7 @@ The compounded armor's
 upgrade level affects
 this card's VIT bonus.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4371#
@@ -19555,7 +19553,7 @@ Crusader/Paladin Only Bonus:
 Armor becomes Holy Property.
 ^FFFFFF_^000000
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4372#
@@ -19677,7 +19675,7 @@ Gemstones when defeating
 monsters.
 ^FFFFFF_^000000
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4383#
@@ -19687,7 +19685,7 @@ attacking enemy each
 time the wearer is
 physically attacked.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4384#
@@ -19707,13 +19705,13 @@ MDEF -20
 Gains immunity against ^FF0000Frozen^000000 status.
 Adds a chance of autocasting ^008800Level 1 Land Protector^000000 each time the wearer is magically attacked.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4387#
 Adds 1 AGI for every 18 points of base LUK.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4388#
@@ -19746,14 +19744,14 @@ Weight:^0EAA0B 1 ^000000
 Adds 1 DEX for every
 18 points of base VIT.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4393#
 Adds 1 INT for every
 18 points of base STR.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4394#
@@ -19805,22 +19803,22 @@ Weight:^0EAA0B 1 ^000000
 Add a chance of autocasting ^008800Charming Wink^000000 each time the wearer is physically attacked.
 When worn by ^6A5ACDDancer^000000, this chance increases to 10%.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4401#
 Flee +10
 DEF -5
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4402#
-[^6A5ACDSwordman^000000|^6A5ACDMerchant^000000|^6A5ACDThief^000000]
+[^6A5ACDSwordman,Merchant,Thief^000000]
 STR +2
 MaxHP +5%
 ^FFFFFF_^000000
-[^6A5ACDArcher^000000|^6A5ACDAcolyte^000000|^6A5ACDMage^000000]
+[^6A5ACDArcher,Acolyte,DMage^000000]
 INT +2
 MaxSP +5%.
 ^FFFFFF_^000000
@@ -19843,7 +19841,7 @@ the attacking enemy
 each time the wearer
 is physically attacked.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4405#
@@ -19852,7 +19850,7 @@ Every refine add chance by 2% of reflecting magic damage.
 [^6A5ACDMage class^000000]
 MDEF +3
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4406#
@@ -19867,11 +19865,12 @@ Adds a chance of autocast ^008800Level 1 Dispell^000000 with each physical attac
 Make Compounded weapon is indestructible, but it can still be destroyed by failed upgrade attempts.
 Class:^6A5ACD Card ^000000
 Compound on:^FF0000 Weapon ^000000
+Weight:^0EAA0B 1 ^000000
 #
 4408#
 Increases Physical damage to Holy, Shadow, Angel and Demon monsters by 40%.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4409#
@@ -19881,7 +19880,7 @@ DEF -10
 [^6A5ACDMage Class^000000]
 MaxSP +100
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4410#
@@ -19890,7 +19889,7 @@ ATK +15
 [^6A5ACDSwordman class^000000]
 MaxHP +500
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4411#
@@ -19956,7 +19955,7 @@ Weight:^0EAA0B 1 ^000000
 Increases damage to Fire monsters by 50%,
 adds a chance of auto casting ^008800Level 10 Frost Nova^000000 when the wearer receives physical or magic damage.
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4420#
@@ -20013,7 +20012,7 @@ Weight:^0EAA0B 1 ^000000
 ATK +10%
 MATK +10%
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4427#
@@ -20194,13 +20193,13 @@ Weight:^0EAA0B 1 ^000000
 INT +1
 MATK +10
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4451#
 MATK +100
 Class:^6A5ACD Card ^000000
-Compound on: ^00C33CArmor ^000000
+Compound on:^00C33C Armor ^000000
 Weight:^0EAA0B 1 ^000000
 #
 4452#
@@ -22769,7 +22768,7 @@ MDEF +1
 Add a 5% chance of auto casting Silence on enemies.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 5 ^000000
 Jobs:^6A5ACD 2nd classes ^000000
@@ -22965,7 +22964,7 @@ Jobs:^6A5ACD All ^000000
 Cap worn to keep the sun from your eyes.
 Class:^6A5ACD Head Gear ^000000
 Defense:^0000FF 3 ^000000
-Equipped On : ^777777Upper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All ^000000
 #
@@ -22974,7 +22973,7 @@ A hat made for a national holiday of some western nation.
 INT +2
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -22983,7 +22982,7 @@ A head decoration made out of shiny silver with a star in the center.
 INT +2
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -22992,7 +22991,7 @@ A hat made specially to commemorate an event.
 Produced in the color of the national flag.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All except Novice ^000000
 #
@@ -23513,7 +23512,7 @@ DEX +1
 Flee +2
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -23523,7 +23522,7 @@ Jobs:^6A5ACD All classes ^000000
 Marco's favorite hat. Andrea has written the words ''His memories to you ...'' on the inside of the hat.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -23557,7 +23556,7 @@ Increases tolerance to Blind by 30%.
 Adds a low Cookie Bag drop chance when killing monsters.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDLower ^000000
+Position:^6A5ACD Lower ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -23567,7 +23566,7 @@ All Stats +1
 MDEF +3
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 100 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -23610,7 +23609,7 @@ Jobs:^6A5ACD All ^000000
 Holly. Seen mainly during the Christmas period, but it will remain green throughout the year.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -23622,7 +23621,7 @@ ASPD +3%
 Reduces cast time by 3%
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -23641,7 +23640,7 @@ MATK +1%
 Increase Healing skills by 1%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -23653,7 +23652,7 @@ MaxSP +10
 Enables use of Level 1 ^008800Ruwach^000000.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 100 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -23876,7 +23875,7 @@ Flee +10
 Every refine, reduce cast time by 1%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -23885,7 +23884,7 @@ A cute hat shaped ike a Deviruchi that brings happiness to its wearer and onlook
 STR +1, INT +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 80 ^000000
 Level Requirement:^0EAA0B 64 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -23895,7 +23894,7 @@ A cute hat shaped ike a Deviruchi that brings happiness to its wearer and onlook
 STR +1, INT +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 80 ^000000
 Level Requirement:^0EAA0B 64 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -23905,7 +23904,7 @@ A cute hat shaped ike a Deviruchi that brings happiness to its wearer and onlook
 STR +1, INT +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 80 ^000000
 Level Requirement:^0EAA0B 64 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -23916,7 +23915,7 @@ MDEF +15
 +30% resistance against Curse status.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -23927,7 +23926,7 @@ MDEF +15
 +30% resistance against Curse status.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -23938,7 +23937,7 @@ MDEF +15
 +30% resistance against Curse status.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -23949,7 +23948,7 @@ MDEF +15
 +30% resistance against Curse status.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -23960,7 +23959,7 @@ MDEF +15
 +30% resistance against Curse status.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -23970,7 +23969,7 @@ A hat woven out of yarn that keeps the head warm, but is mostly worn because of 
 LUK +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 35 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -23980,7 +23979,7 @@ A hat woven out of yarn that keeps the head warm, but is mostly worn because of 
 LUK +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 35 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -23990,7 +23989,7 @@ A hat woven out of yarn that keeps the head warm, but is mostly worn because of 
 LUK +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 35 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -24001,7 +24000,7 @@ INT +2
 MaxSP +150
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD Mage and Soul Linker ^000000
 #
@@ -24011,7 +24010,7 @@ INT +2
 MaxSP +150
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD Mage and Soul Linker ^000000
 #
@@ -24021,7 +24020,7 @@ INT +2
 MaxSP +150
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD Mage and Soul Linker ^000000
 #
@@ -24031,7 +24030,7 @@ INT +2
 MaxSP +150
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD Mage and Soul Linker ^000000
 #
@@ -24041,7 +24040,7 @@ INT +2
 MaxSP +150
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD Mage and Soul Linker ^000000
 #
@@ -24058,7 +24057,7 @@ An Elven blindfold.
 Gain immunity to Blind status
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24077,7 +24076,7 @@ MDEF +3
 Reduces damage from Demon monster by 3%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 70 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24087,7 +24086,7 @@ MDEF +3
 Reduces damage from Demon monster by 3%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 70 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24095,7 +24094,7 @@ Jobs:^6A5ACD All classes ^000000
 Add a resistance to the ^FF0000Blind^000000 status.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24103,7 +24102,7 @@ Jobs:^6A5ACD All classes ^000000
 Add a resistance to the ^FF0000Blind^000000 status.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24111,7 +24110,7 @@ Jobs:^6A5ACD All classes ^000000
 A robot's ears... no further description yet.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24119,7 +24118,7 @@ Jobs:^6A5ACD All classes ^000000
 A human blindfold... no further description yet.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24129,7 +24128,7 @@ AGI +1, DEX +1
 Add a 3% chance of auto casting Level 1 Gloria on the user when the user receives Physical Damage.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -24167,7 +24166,7 @@ Add a 2% chance of auto casting ^008800Greed^000000 around the user when attacki
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 60 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -24189,7 +24188,7 @@ MDEF +2
 Add a 1% chance of auto casting Level 1 Assumptio on the user when the user receives Physical Damage.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -24213,7 +24212,7 @@ When attacking, has a low chance of autocasting Level 3 Water Ball.
 Enable to use Aqua Benedicta.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24223,7 +24222,7 @@ AGI +1
 Perfect Dodge +5, Inflict 5% more damage with Critical Attack.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24238,7 +24237,7 @@ Decreases SP Consumption according to the wearer's job level.
 Increases MaxSP according to the wearer's job level.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24249,7 +24248,7 @@ If worn by Swordman, Merchant or Thief classes and the character's base DEX is l
 ^702180Indestructible ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24259,7 +24258,7 @@ Add a 1% resistance against Water, Wind, Fire property attack.
 Add a 3% chance of auto casting Curse on the enemy when attacking.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper, Middle, Lower ^000000
+Position:^6A5ACD Upper, Middle, Lower ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -24269,7 +24268,7 @@ A spirit of Australia.
 All stats +2
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24340,7 +24339,7 @@ ASPD +3%
 Reduces cast time by 3%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24360,7 +24359,7 @@ MDEF +3
 Reduces damage taken from Boss monsters depend on refine level.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24369,7 +24368,7 @@ A mask with mischievous expressions, suitable to be worn by kids.
 Add a 3% chance of auto casting Level 5 Provoke on the enemy when attacking.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDMiddle, Lower ^000000
+Position:^6A5ACD Middle, Lower ^000000
 Weight:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24380,7 +24379,7 @@ Enables use of Level 1 ^008800Hiding^000000.
 Increase movement speed.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24391,7 +24390,7 @@ Enables use of Level 1 ^008800Hiding^000000.
 Increase movement speed.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24402,7 +24401,7 @@ Enables use of Level 1 ^008800Hiding^000000.
 Increase movement speed.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24413,7 +24412,7 @@ Enables use of Level 1 ^008800Hiding^000000.
 Increase movement speed.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24423,7 +24422,7 @@ VIT +2, LUK +2
 Reduces damage from long range physical attack by 10%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -24618,7 +24617,7 @@ Has a chance to auto-cast Level 1 Decrease AGI every time the wearer is attacked
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -24642,7 +24641,7 @@ A special Bandana made of a pure gold mixture. According to legend you will gain
 MDEF +4
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 240 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24652,7 +24651,7 @@ AGI +1
 CRIT +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24672,7 +24671,7 @@ Receive 5% more damage from ^0000FFWater^000000 and ^FF0000Fire^000000 Property 
 Increases resistance against Neutral property attack by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24681,7 +24680,7 @@ A helm that is made and mixed from various types of rings.
 When receiving any physical attack, Autospell Level 1 Scream at a low rate.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper, Middle, Lower ^000000
+Position:^6A5ACD Upper, Middle, Lower ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24690,7 +24689,7 @@ Fighter hat of legend that was decorated with an emerald. Only the truly brave c
 MaxHP +100
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 80 ^000000
 Level Requirement:^0EAA0B 45 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -24699,7 +24698,7 @@ Jobs:^6A5ACD All classes ^000000
 A Ribbon made specially for Day of Victory.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24718,7 +24717,7 @@ MDEF +5
 MaxSP +50
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24757,7 +24756,7 @@ Increases resistance against Demihuman monsters by 10%.
 Enable use Level 10 ^008800Frost Nova^000000.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 12 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All except Novice ^000000
 #
@@ -24776,7 +24775,7 @@ Brazilia independence celebration hat.
 Increases Movement Speed.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24785,7 +24784,7 @@ The wool mask which reappears a head style.
 Enables use of Level 1 ^008800Graffiti^000000.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper, Middle, Lower ^000000
+Position:^6A5ACD Upper, Middle, Lower ^000000
 Weight:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All; Female Only ^000000
 #
@@ -24796,7 +24795,7 @@ Increases resistance to the ^777777Shadow^000000 Property by 10%.
 Enables use of Level 1 ^008800Sight^000000.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24816,7 +24815,7 @@ STR +1
 Increase damage on Demihuman monsters by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD Swordman/Merchant/Thief ^000000
 #
@@ -24827,7 +24826,7 @@ MATK +3%
 Reduce cast time by 3%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24857,7 +24856,7 @@ A fancy umbrella that doesn't need a hand and is very handy during monsoon. It p
 Reduces getting 3% damage from ^0000BBWater^000000 property Attack.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -24867,7 +24866,7 @@ This sturdy and fireproof light yellow hat is fisherman's favorite. It protects 
 Add a 5% chance of auto casting ^008800Level 3 Waterball 3^000000 on the enemy when attacking.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -24878,7 +24877,7 @@ But with moderation, because once laid down, this poring can laugh at you.
 VIT +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 70 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24898,7 +24897,7 @@ All Stats +2
 Add a 5% of auto casting Level 1 ^008800Heal^000000 on the user when receives Physical Damage.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All except Novice ^000000
 #
@@ -24907,7 +24906,7 @@ A special bandana that shows the courage of Indonesian patriots.
 Add a low chance of gaining Honey when a monster gets killed.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -24915,7 +24914,7 @@ Jobs:^6A5ACD All classes ^000000
 Wonderful Kerchief for that loved.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 24 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -24926,7 +24925,7 @@ All Stats +2
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 10 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -24935,7 +24934,7 @@ Jobs:^6A5ACD All classes ^000000
 This Angelic protector will call down holy wrath on those attacking you.
 Dex +3
 Low Chance of casting Level 3 Grand Cross when hit by melee physical attack.
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Defense:^0000FF 2 ^000000
 Level Requirement:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -24958,7 +24957,7 @@ A black leather mask, shaped like butterfly wings
 Increases damage inflicted upon Demihuman monsters by 7%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 0 ^000000
 Jobs:^6A5ACD All except Novice ^000000
 #
@@ -24970,7 +24969,7 @@ As an ear accessory is made of black wings, feels proud of grace and charisma fr
 STR +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -24998,7 +24997,7 @@ Increases resistance to the ^FF0000Stun^000000 status by 10%.
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 6 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -25009,7 +25008,7 @@ A big hat is used to captain of pirate. To honor for captain made as huge so it'
 VIT +3, INT +3
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 10 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Jobs:^6A5ACD All except Novice ^000000
 #
@@ -25018,7 +25017,7 @@ A mask that imbued with the sweet whispers of Loki.
 Perfect Dodge +3
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDMiddle, Lower ^000000
+Position:^6A5ACD Middle, Lower ^000000
 Weight:^0EAA0B 20 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -25219,7 +25218,7 @@ Peculiar headgear designed to look like a sunflower.
 Reduces damage taken from Insect monsters by 10%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -25227,7 +25226,7 @@ Jobs:^6A5ACD All classes ^000000
 It looks like a Poporing, but don't worry about the poison!
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 70 ^000000
 Level Requirement:^0EAA0B 38 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -25296,7 +25295,7 @@ AGI +1
 MDEF +2
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 70 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -25415,7 +25414,7 @@ The dark feathers collected to make this mysterious headdress.
 Adds a low chance of dropping Undead Elemental Scroll when killing a monster.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -25424,7 +25423,7 @@ A hair band made by orchid and it smells like a scent of a flower.
 INT +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -25589,7 +25588,7 @@ Add chance to drop Lucky Rice Cake when killing a monster.
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 7 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 7 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -25642,7 +25641,7 @@ MaxHP +100
 When you defeat a monster, there is a small chance that it drops a 'Old Purple Box'.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDLower ^000000
+Position:^6A5ACD Lower ^000000
 Weight:^0EAA0B 0 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -25684,7 +25683,7 @@ MaxHP +100
 Additional MaxHP +20 for every refine level.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -25719,7 +25718,7 @@ MDEF +5
 Stun and Bleeding resistance +5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 120 ^000000
 Level Requirement:^0EAA0B 85 ^000000
 Jobs:^6A5ACD Transcendent Swordman and Merchant ^000000
@@ -25851,7 +25850,7 @@ Jobs:^6A5ACD All ^000000
 A delicious candy which is good for the children.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDLower ^000000
+Position:^6A5ACD Lower ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -25880,7 +25879,7 @@ Jobs:^6A5ACD All ^000000
 A special hat created to celebrate 5th year anniversary of RO.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 100 ^000000
 Level Requirement:^0EAA0B 40 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -25916,7 +25915,7 @@ Increase 3% physical damage to the monster.
 Increases SP Consumption of skills by 10%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 40 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -26072,7 +26071,7 @@ The design for the laurel crown has been passed down from generation to generati
 At refine level 4 it gives +1 Agi
 At refine level 7 it gives +2 Agi
 At refine level 9 it gives +3 Agi
-Def: ^7777770 ^000000
+Defense:^0000FF 0 ^000000
 Weight:^0EAA0B 10 ^000000
 Position:^6A5ACD Upper ^000000
 Class:^6A5ACD All ^000000
@@ -26081,7 +26080,7 @@ Class:^6A5ACD All ^000000
 Hat made from Cocacola can.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -26249,7 +26248,7 @@ Increases damage inflicted against Demihuman monsters by 5%.
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 7 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 250 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26262,7 +26261,7 @@ Increases damage inflicted against Demihuman monsters by 3%.
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 250 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26275,7 +26274,7 @@ Increases damage inflicted against Demihuman monsters by 1%.
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 250 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26287,7 +26286,7 @@ Adds a chance 100% Critical for 3 seconds when receive physical attack.
 Adds a chance 100% ignore magical defense for 3 seconds when receive magical attack.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -26297,7 +26296,7 @@ INT +1
 When dealing or attacked by physical attacks, adds chance to autocast Level 5 Heal on yourself.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -26308,7 +26307,7 @@ Increase natural HP regeneration by 20%.
 Increase natural SP regeneration by 15%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -26329,7 +26328,7 @@ MaxHP +5%
 MaxSP +5%
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -26346,7 +26345,7 @@ Increases damage against Demihuman by 1%.
 Increases resistance against Demihuman by 1%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDLower ^000000
+Position:^6A5ACD Lower ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 90 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26358,7 +26357,7 @@ INT +1
 MDEF +2
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDLower ^000000
+Position:^6A5ACD Lower ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 90 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26369,7 +26368,7 @@ INT +2
 Enables use Level 3 Magnificat.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All except novice ^000000
@@ -26438,7 +26437,7 @@ DEX +1
 Immune against Blind.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26448,7 +26447,7 @@ A head accessory which is named after Valkyrie Reginleif. If someone wear this, 
 Increases resistance against Water, Fire, Undead and Ghost property by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 80 ^000000
 Level Requirement:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26458,7 +26457,7 @@ A hat used during field day to distinguish groups. If you wear a hat differently
 Add a chance to drop a Rice Cake when killing Demihuman monsters.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -26468,7 +26467,7 @@ When Physical Attack, has chance to autocast ^FF0000Level 1 Cold Bolt^000000.
 Add a chance to drop Crystal Blue when killing Fish monsters.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26510,7 +26509,7 @@ STR +2
 MaxHP +300
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26588,7 +26587,7 @@ Decreases damage taken from Brute monsters by 5%.
 Increase Physical and Magical damage inflicted on Brute Monster by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper, Middle, Lower ^000000
+Position:^6A5ACD Upper, Middle, Lower ^000000
 Weight:^0EAA0B 100 ^000000
 Level Requirement:^0EAA0B 60 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26598,7 +26597,7 @@ A hat made to celebrate the 6th Anniversary.
 All stats +2
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -26617,7 +26616,7 @@ An adorable Twin Pom Santa Hat.
 LUK +1, MDEF +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -26651,7 +26650,7 @@ STR +2.
 Add 10% resistance to ^FF0000Fire^000000 property attacks.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 80 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -26660,7 +26659,7 @@ A black cap that is usually worn by boys attending schools that require uniforms
 Reduces damage taken from Demihuman monsters by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Jobs:^6A5ACD All except Novice ^000000
 #
@@ -26670,17 +26669,17 @@ DEX +2, AGI +1
 When worn with Odin's Blessing and if the DEX is over 70, decreases consumed Sp by 10% while using a skill.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
-Jobs: ^77777All except Novice ^000000
+Jobs:^6A5ACD All except Novice ^000000
 #
 5494#
 A traditional Egyptian head piece that symbolizes the Egyptian gods.
 STR +5
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper, Lower ^000000
+Position:^6A5ACD Upper, Lower ^000000
 Weight:^0EAA0B 0 ^000000
 Jobs:^6A5ACD Swordman ^000000
 #
@@ -26704,7 +26703,7 @@ LUK +4
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26808,7 +26807,7 @@ ATK +5%
 MATK +5%
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26819,7 +26818,7 @@ ATK +5%
 MATK +5%
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26846,7 +26845,7 @@ Reduces damage taken from ^CC5500Earth^000000 property monsters by 5%.
 Increase damage taken from ^FF0000Fire^000000 property monsters by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 100 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26858,7 +26857,7 @@ Increases resistance against Water property attack by 10%.
 Increases resistance against Fish monster by 10%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26868,7 +26867,7 @@ A circlet made of samambaia leaf.
 Recovery SP by 8%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 20 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26952,7 +26951,7 @@ Increase physical damage inflicted on Demihuman monsters by 12%.
 Increase certain amount of ATK based on wearer's Job Level
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 80 ^000000
 Level Requirement:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26962,7 +26961,7 @@ You seems to sing a song like Bard.
 INT +2
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 80 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -26996,7 +26995,7 @@ A hat made from scratch lemon fanta cans.
 Zero calories and zero sugar is popular for both men and women!
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27006,7 +27005,7 @@ A hat created to celebrate the partnership campaign.
 DEX +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27016,7 +27015,7 @@ A hat created to celebrate the partnership campaign.
 VIT +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27026,7 +27025,7 @@ A hat made of flower to celebrate the partnership campaign.
 MaxHP +80, MaxSP +20
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27038,7 +27037,7 @@ Increases resistance against Wind property attack by 5%.
 Add a chance of dropping a Banana when a monster is Killed.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 60 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27059,7 +27058,7 @@ Looks like an ugly frog but a handsome price is its inside and waiting for a lad
 AGI +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -27071,7 +27070,7 @@ Enables use of Level 1 Frost Nova.
 Reduces damage from Neutral property attacks by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 6 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 60 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27082,7 +27081,7 @@ Increase recovery amount from Meat by 50%.
 Add a low chance of Cursing enemy when attacked by melee physical attack.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27170,7 +27169,7 @@ A bird from the Toucan family with a fabulous yellow colored beak. It has been s
 DEX +3. Can't be refined.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Position : ^777777Upper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 60 ^000000
 Level Requirement:^0EAA0B 45 ^000000
 Jobs:^6A5ACD Every Classes ^000000
@@ -27192,7 +27191,7 @@ A spiritual circlet granted by Freya. It appears very sturdy, but it will eventu
 STR +1, INT +1, DEX +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 8 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 70 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27203,7 +27202,7 @@ A spiritual circlet granted by Freya. It appears very sturdy, but it will eventu
 STR +1, INT +1, DEX +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 8 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 70 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27214,7 +27213,7 @@ A spiritual circlet granted by Freya. It appears very sturdy, but it will eventu
 STR +1, INT +1, DEX +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 8 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 70 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27225,7 +27224,7 @@ A spiritual circlet granted by Freya. It appears very sturdy, but it will eventu
 STR +1, INT +1, DEX +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 8 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 70 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27236,7 +27235,7 @@ INT +2
 MaxSP +50
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 6 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27280,7 +27279,7 @@ Reduce 25% casting time of these skills.
 Each refine increase 1% damage of Earthspike and Heavendrive.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Level Requirement:^0EAA0B 71 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27332,7 +27331,7 @@ A hat made from magical egg.
 Add a chance of auto casting ^008800Level 1 Heal^000000 on the user when receives physical attack.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27343,7 +27342,7 @@ Limited Promo! Summer Festival Grand Circlet! 4 weeks rental item.
 STR +3, INT +3, MDEF +3.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 8 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27354,7 +27353,7 @@ Limited Promo! Summer Festival Bunny Band! 4 weeks rental item.
 MDEF +4, Reduces damage from Demihuman monsters by 9%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 7 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27365,7 +27364,7 @@ MDEF +3
 ^702180Indestructible ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27388,7 +27387,7 @@ Increases resistance against Water property attack by 7%.
 Increase damage inflicted on Water property monster by 25%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper, Middle, Lower ^000000
+Position:^6A5ACD Upper, Middle, Lower ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 55 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27398,7 +27397,7 @@ A hat which resembles the wild cat, Wild Rose.
 AGI +3
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 6 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -27408,7 +27407,7 @@ This hat is a legend to the people from whild festival world.
 Add a low chance of dropping 'Blue Herb' when killing a Plant monster.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 6 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27417,7 +27416,7 @@ Jobs:^6A5ACD All classes ^000000
 ...
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27430,7 +27429,7 @@ Cannot be knocked back.
 Reduces resistance against physical and magical attack by 20%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 300 ^000000
 Level Requirement:^0EAA0B 75 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27454,7 +27453,7 @@ Reduced casting time by 3%
 Reduced SP consumption of all skills by 3%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 45 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27494,7 +27493,7 @@ Jobs:^6A5ACD All classes ^000000
 Increase damage on Player by 10%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper, Middle, Lower ^000000
+Position:^6A5ACD Upper, Middle, Lower ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27503,7 +27502,7 @@ Jobs:^6A5ACD All classes ^000000
 Increase damage on Player by 2%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper, Middle, Lower ^000000
+Position:^6A5ACD Upper, Middle, Lower ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27514,7 +27513,7 @@ STR +1
 When refined to +7, CRIT +10, HIT +10, add a chance of increasing ATK by 30 when dealing physical attacks.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27525,7 +27524,7 @@ INT +2
 Reduce after cast delay by 3%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 100 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27559,7 +27558,7 @@ Death Rock singer-style wig.
 STR +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27571,7 +27570,7 @@ Add a chance of inflicting Stun to enemy during melee physical attack.
 Increase damage taken from Brue monsters by 10%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27582,7 +27581,7 @@ Add a chance of dropping 'Jewelry' when killing a monster.
 When dealing physical attacks, adds a chance to auto cast Level 5 Mammonite.(Consume zeny, but will not triggered when not enough zeny.)
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27593,7 +27592,7 @@ HIT +3
 When equipped with 'Model Training Hat', DEX +2, DEF +2.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDLower ^000000
+Position:^6A5ACD Lower ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27602,7 +27601,7 @@ Jobs:^6A5ACD All classes ^000000
 Made with love, this onigiri is very tasty.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27612,7 +27611,7 @@ A beautiful lacquerware red cup.
 Every time you kill a monster, small chance to drop 'Mastela Fruit Wine'.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDLower ^000000
+Position:^6A5ACD Lower ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27638,7 +27637,7 @@ A hat that is given to brave sailors.
 AGI +2
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 1 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27648,7 +27647,7 @@ A rustic hat made of bamboo that was worn by a heroic wandering adventurer. It s
 AGI +2
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 70 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27659,7 +27658,7 @@ All stats +3
 MDEF +3
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27708,7 +27707,7 @@ Reduces damage from demon monsters by 3%.
 Recover 1 SP when kill the enemies by using melee physical attack or magical attack.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 40 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27778,7 +27777,7 @@ A poring shaped cake decorated with candles.
 LUK +3, MaxSP +50, MaxHP increases by (Base level*2).
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27839,7 +27838,7 @@ Swordman, Merchant, Thief classes: increase AGI by Job Level/14.
 Mage, Archer, Acolyte classes: increase INT by Job Level/14.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 40 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27895,7 +27894,7 @@ A cute ribbon has one sied yellow the other side is green.
 MDEF +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27915,7 +27914,7 @@ A mask that mimic the face of king of jungle.
 Increases damage inflicted on Fire property monsters by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDLower ^000000
+Position:^6A5ACD Lower ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27928,7 +27927,7 @@ Increases physical and magical damage inflicted on Demihuman monsters by 10%.
 ^702180Indestructible ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 8 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 25 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27941,7 +27940,7 @@ Increases physical and magical damage inflicted on Demihuman monsters by 5%.
 ^702180Indestructible ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 6 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 25 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27954,7 +27953,7 @@ Increases physical and magical damage inflicted on Demihuman monsters by 3%.
 ^702180Indestructible ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 25 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27964,7 +27963,7 @@ A helmet featuring CompuME, where Middle East Buys Technology!
 All stats +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 120 ^000000
 Level Requirement:^0EAA0B 3 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27976,7 +27975,7 @@ Reduces damage taken from Demihuman monsters by 5%.
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 60 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -27988,7 +27987,7 @@ Reduces damage from Demihuman by 5%.
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 60 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28002,7 +28001,7 @@ When you are under physical attack, it uses Lv5 Mammonite skill by low chance.
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 60 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28013,7 +28012,7 @@ LUK +1
 When you are under attack, it uses Lv5 autospell coldbolt skill by low chance.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28651,7 +28650,7 @@ Additional bonus when equipped with:
 [Black Frame Glasses]
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 70 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28674,7 +28673,7 @@ INT +2, AGI +2, DEX -2.
 When dealing magical attacks, adds a chance for 5 sec decreasing cast time by 50% and increasing FLEE by 30.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 60 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28684,7 +28683,7 @@ A safety equipment when ridig a scooter.
 ^702180Indestructible ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 7 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 100 ^000000
 Level Requirement:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28695,7 +28694,7 @@ An antique pipe for making a perfect fashion of captain.
 Increases long range physical attacks by 1%, for every refine level of Captain Hat.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDLower ^000000
+Position:^6A5ACD Lower ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28786,7 +28785,7 @@ A hat used to communicate with the spirits.
 Reduces damage from all properties attacks by 3%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 40 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28802,7 +28801,7 @@ Refine Level +12:
 ATK +3%, MATK +3%
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 8 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28833,7 +28832,7 @@ Jobs:^6A5ACD All ^000000
 Hat resemble poring that ready to party.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28846,7 +28845,7 @@ When dealing melee physical attacks, adds a low chance to activate Level 1 Steal
 Increases the chance to activate Level 1 Steal.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28878,7 +28877,7 @@ Increases magical attacks against Boss monsters by 4%.
 Increases damage taken from Normal monsters by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 60 ^000000
 Level Requirement:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28889,7 +28888,7 @@ Skill cast cannot be interrupted.
 cast time +35%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28910,7 +28909,7 @@ A love letter sealed with a cute poring sticker.
 Defense:^0000FF 0 ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 10 ^000000
-Job: ^777777All ^000000
+Jobs:^6A5ACD All ^000000
 #
 5676#
 A magnificent crown created to pay tribute to the 8th sign of the zodiac, Scorpio the Scorpion. Attached to the crown is a Topaz gemstone, the birthstone for those born under this sign.
@@ -28944,7 +28943,7 @@ A headband with shape of 8 note.
 ^702180Indestructible ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28954,7 +28953,7 @@ An old engineer cap.
 Increases physical damage inflicted on Formless monster by 10%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Level Requirement:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28964,7 +28963,7 @@ This headgear makes you more sensitive and you could get high concentration.
 HIT +10
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -28990,7 +28989,7 @@ MATK +10
 Increases the reflect chance by 60%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29028,7 +29027,7 @@ Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
-Required Leve : ^7777771 ^000000
+Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
 5687#
@@ -29045,7 +29044,7 @@ On a yellow heart written in red 'Love Dad'.
 VIT +2
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29056,7 +29055,7 @@ When attacked by physical attacks, adds a chance to auto cast Level 1 Sight.
 Reduces damage taken from Insect monsters by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 75 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29080,7 +29079,7 @@ Increases resistance against Poison status by 20%.
 ^702180Indestructible ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 1 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29092,7 +29091,7 @@ Increases resistance against Curse status by 20%.
 ^702180Indestructible ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 1 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29109,7 +29108,7 @@ Adds immunity against Frozen status
 Increases experience gained from killing monster by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 10 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29121,7 +29120,7 @@ MaxHP +100
 Reduces damage taken from Demihuman by 2%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -29185,7 +29184,7 @@ Hat made from eternal shell egg. Wearing it make you feel immortal.
 Increases restoration gained from Potions by 10% and Healing skills by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29218,7 +29217,7 @@ When pet intimacy is Cordial, adds a chance to auto cast Level 1 Kyrie Eleison w
 ^702180Indestructible ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29286,7 +29285,7 @@ Refine Level +7:
 Increases Holy Light damage by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29299,7 +29298,7 @@ AGI +2
 Adds chance to auto cast Level 5 Sonic Blow when dealing melee physical attacks.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 80 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29311,7 +29310,7 @@ MDEF +5
 Increases resistance against Demihuman and Brute monsters by 2%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29322,7 +29321,7 @@ AGI +2
 MDEF +3
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -29334,7 +29333,7 @@ auto cast rate will increase.
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper, Middle, Lower ^000000
+Position:^6A5ACD Upper, Middle, Lower ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29346,7 +29345,7 @@ Increases resistance against Neutral property attacks by 5%.
 Increases resistance against long range physical attacks by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUppper ^000000
+Position:^6A5ACD Uppper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29367,7 +29366,7 @@ Amatsu warrior Samurai wearing mask during the War time.
 ATK +1%
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDLower ^000000
+Position:^6A5ACD Lower ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29391,7 +29390,7 @@ Jobs:^6A5ACD All ^000000
 A statue of Baby Angel made from Gold.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -29401,7 +29400,7 @@ AGI +3
 Adds a chance to enchant equipped weapon with Wind property for 3 minutes when dealing physical attacks.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29410,7 +29409,7 @@ Jobs:^6A5ACD All classes ^000000
 DEX +1, MDEF +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29421,7 +29420,7 @@ Only those who have spent a lot of time helping the people of Alberta can earn t
 Increases resistance against Demihuman monsters by 10%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 95 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29432,7 +29431,7 @@ It is very effective when battling pirates on the high seas.
 Increases resistance against Demihuman monsters by 10%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 95 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29464,7 +29463,7 @@ Increases damage of Fire Wall and Meteor Storm by 3%.
 Increases SP consumption of skills by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -29474,7 +29473,7 @@ MDEF +1
 Adds a chance to drop [Empty Bottle], [Ditrimindexta], [Karvodailnirol] when defeating Formless monsters.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 80 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29485,7 +29484,7 @@ STR +2
 Adds a chance to increases ASPD by 5% for 10 seconds when dealing physical attacks.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29496,7 +29495,7 @@ INT +2
 When dealing magical attacks, adds a chance to increase MATK by 3% for 10 seconds.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29507,7 +29506,7 @@ Enables use of Level 3 ^008800Earth Spike ^000000
 Increases resistance against Demihuman monsters by 10%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29525,7 +29524,7 @@ Flee +2
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29542,7 +29541,7 @@ DEF +2
 Increases resistance against all properties physical attack by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper, Middle, Lower ^000000
+Position:^6A5ACD Upper, Middle, Lower ^000000
 Weight:^0EAA0B 70 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29556,7 +29555,7 @@ Refine Level +10:
 Increases ATK and MATK by 2%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29570,7 +29569,7 @@ Refine Level +10:
 Increases ATK and MATK by 2%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29584,7 +29583,7 @@ Refine Level +10:
 Increases ATK and MATK by 2%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29599,7 +29598,7 @@ MATK +1%
 ATK +1%
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 20 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29619,7 +29618,7 @@ Thanatos Odium wore mask. Cute design with high def rate.
 VIT +1
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper, Middle, Lower ^000000
+Position:^6A5ACD Upper, Middle, Lower ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29630,7 +29629,7 @@ Increases resistance against Demihuman and Undead monsters by 5%.
 When dealing physical attacks, adds a chance to auto cast Level 1 Blessing.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 45 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29641,7 +29640,7 @@ INT -1, DEX +4
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29649,7 +29648,7 @@ Jobs:^6A5ACD All classes ^000000
 5792#
 A fish-shaped pin. It's pretty but doesn't seem very powerful.
 Decreases damage from fish-type monsters by 1%.
-Type : ^777777Headgear ^000000
+Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
@@ -29668,7 +29667,7 @@ INT +2
 Increases restoration gained from Healing skills by 2%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29703,7 +29702,7 @@ Adds a chance to auto cast Level 5 Heal when the wearer is attacked by physical 
 (A chance of auto casting Level 10 Heal if Level 10 Heal is learned.) 
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -29737,7 +29736,7 @@ Jobs:^6A5ACD All classes ^000000
 A hat of Poet Natalia, its made from reed and bamboo.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -29745,7 +29744,7 @@ Jobs:^6A5ACD All classes ^000000
 The cap which makes you look better in the fest.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All except Novice ^000000
@@ -29765,7 +29764,7 @@ Jobs:^6A5ACD Above Transcendent 2-1 Classes ^000000
 A hat that seems to explode at any moment.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -29805,7 +29804,7 @@ Restore small amount of SP when killing enemy with magical attacks.
 Restore HP by 1 for every 10 second.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -29817,7 +29816,7 @@ STR +1
 Increases damage inflicted on Small, Medium and Large monsters by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29828,7 +29827,7 @@ ATK +15
 Flee -5
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29850,7 +29849,7 @@ A hat which made to celebrate the festival.
 All stats +3
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 6 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -29860,7 +29859,7 @@ A Circlet that will be used in Carnival festival
 All stats +3
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 6 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -29868,7 +29867,7 @@ Jobs:^6A5ACD All classes ^000000
 An ears modeled after the ears of Elven. It has black color.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDMiddle ^000000
+Position:^6A5ACD Middle ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -29876,7 +29875,7 @@ Jobs:^6A5ACD All classes ^000000
 Made in the form of a golden tulip shiny bezel.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -29887,7 +29886,7 @@ MaxHP +100, MaxSP +100.
 Reduce damage taken from Demihuman and Brute monsters by 7%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -29920,7 +29919,7 @@ MDEF +5
 Reduces cast time by 3%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 10 ^000000
-Location: ^6A5ACDUpper ^000000
+Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 0 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -30697,74 +30696,74 @@ Weight:^0EAA0B 0 ^000000
 6104#
 A shell of an animal that's surprisingly edible.
 Class:^6A5ACD Pet Food ^000000
-Pet: ^6A5ACDGoblin Leader ^000000
+Pet:^6A5ACD Goblin Leader ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6105#
 Fresh water harvested from the leaves of plants early in the morning.
 Class:^6A5ACD Pet Food ^000000
-Pet: ^6A5ACDEvil Nymph ^000000
+Pet:^6A5ACD Evil Nymph ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6106#
 An exquisitely ripe berry.
 Class:^6A5ACD Pet Food ^000000
-Pet: ^6A5ACDMiyabi Doll ^000000
+Pet:^6A5ACD Miyabi Doll ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6107#
 A cocktail made with layers to look like a Rune Midgard sunset.
 Class:^6A5ACD Pet Food ^000000
-Pet: ^6A5ACDDullahan ^000000
+Pet:^6A5ACD Dullahan ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6108#
 Pudding flavored with ripe green apples.
 Class:^6A5ACD Pet Food ^000000
-Pet: ^6A5ACDMedusa ^000000
+Pet:^6A5ACD Medusa ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6109#
 An additive used to enhance plant growth.
 Class:^6A5ACD Pet Food ^000000
-Pet: ^6A5ACDStone Shooter ^000000
+Pet:^6A5ACD Stone Shooter ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6110#
 A flower that suppresses the hunger of an Incubus.
 Class:^6A5ACD Pet Food ^000000
-Pet: ^6A5ACDIncubus ^000000
+Pet:^6A5ACD Incubus ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6111#
 A soft crystal stone.
 Class:^6A5ACD Pet Food ^000000
-Pet: ^6A5ACDGolem ^000000
+Pet:^6A5ACD Golem ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6112#
 Select leaves from a tree in Glast Heim.
 Class:^6A5ACD Pet Food ^000000
-Pet: ^6A5ACDNightmare Terror ^000000
+Pet:^6A5ACD Nightmare Terror ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6113#
 A flower that suppresses the hunger of a Succubus.
 Class:^6A5ACD Pet Food ^000000
-Pet: ^6A5ACDSuccubus ^000000
+Pet:^6A5ACD Succubus ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6114#
 A Fiery gemstone that Imps love to eat.
 Class:^6A5ACD Pet Food ^000000
-Pet: ^6A5ACDImp ^000000
+Pet:^6A5ACD Imp ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6115#
 A type of dough that is filled with grinded meat, usually served hot.
 Green Maidens have been seen munching on this tasty treat.
 Class:^6A5ACD Pet Food ^000000
-Pet: ^6A5ACDGreen Maiden ^000000
+Pet:^6A5ACD Green Maiden ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6116#
@@ -31565,27 +31564,27 @@ Weight:^0EAA0B 0 ^000000
 #
 6279#
 Ingredients to make an Apple bomb.
-Material : ^000088Apple + Cell + Gun Powder + Detonator ^000000
+Material:^000088 Apple + Cell + Gun Powder + Detonator ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6280#
 Ingredients to make a Pineapple bomb.
-Material : ^000088Pineapple + Cactus Needle + 3 Gun Powder + Detonator ^000000
+Material:^000088 Pineapple + Cactus Needle + 3 Gun Powder + Detonator ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6281#
 Ingredients to make a Coconut bomb.
-Material : ^000088Coconut + 2 Gun Powder + Detonator ^000000
+Material:^000088 Coconut + 2 Gun Powder + Detonator ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6282#
 Ingredients to make a Melon bomb.
-Material : ^000088Melon + Sticky Mucus + 2 Gun Powder + Detonator ^000000
+Material:^000088 Melon + Sticky Mucus + 2 Gun Powder + Detonator ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6283#
 Ingredients to make a Banana bomb.
-Material : ^000088Banana + Mould Powder + 4 Gun Powder + Detonator ^000000
+Material:^000088 Banana + Mould Powder + 4 Gun Powder + Detonator ^000000
 Weight:^0EAA0B 1 ^000000
 #
 6284#
@@ -36302,26 +36301,26 @@ within Valhalla, the
 sacred battlegrounds
 of the ancient gods.
 ^FFFFFF_^000000
-Weight : ^7777771 ^000000
+Weight:^0EAA0B 1 ^000000
 #
 7511#
 A dark rune with
 ancient writing
 engraved inside it.
 ^FFFFFF_^000000
-Weight : ^7777771 ^000000
+Weight:^0EAA0B 1 ^000000
 #
 7512#
 A burnt part
 of some device.
 ^FFFFFF_^000000
-Weight : ^7777771 ^000000
+Weight:^0EAA0B 1 ^000000
 #
 7513#
 An old silver
 pocket watch.
 ^FFFFFF_^000000
-Weight : ^7777771 ^000000
+Weight:^0EAA0B 1 ^000000
 #
 7514#
 A certificate given to
@@ -38468,7 +38467,7 @@ An egg that holds a Zealotus.
 Can be hatched by using a ^33CC33Pet Incubator^000000.
 ^33CC33Cordial/Loyal Bonus^000000 When summoned,
 increases Atk and Matk against Demihuman monsters by 2%.
-Type: ^777777Pet Egg ^000000
+Class:^6A5ACD Pet Egg ^000000
 #
 9027#
 An egg in which an Alice rests.
@@ -38476,7 +38475,7 @@ Can be hatched by using a ^33CC33Pet Incubator^000000.
 ^33CC33Cordial/Loyal Bonus^000000 When summoned,
 MDEF +1
 Reduce damages taken from Demihuman monsters by 1%.
-Type: ^777777Pet Egg ^000000
+Class:^6A5ACD Pet Egg ^000000
 #
 9028#
 Cute pet Rice Cake that turned hard. It can be melted by using a ^33CC33Pet Incubator^000000.
@@ -38730,12 +38729,12 @@ using a ^33CC33Pet Incubator^000000.
 ^33CC33Cordial/Loyal Bonus ^000000
 During Christmas, increases EXP by 2%.
 MATK +2%
-Type: ^777777Pet Egg ^000000
+Class:^6A5ACD Pet Egg ^000000
 #
 9059#
 Qpet Tikbalang egg. Hatch the egg to awaken the monster with the [Pet Incubator].
 Damage to Bakonawa, Bangungot, and Buwaya 10% increase. MDEF +3.
-Type : ^777777Monster Egg ^000000
+Class:^6A5ACD Monster Egg ^000000
 #
 9060#
 #
@@ -38764,7 +38763,7 @@ Applicable Pet:
 10002#
 A protective mask for tiny Cute Pets.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pets: ^777777Chonchon, Steel Chonchon, Hunter Fly ^000000
+Pet:^6A5ACD Chonchon, Steel Chonchon, Hunter Fly ^000000
 #
 10003#
 A round, bubble-like helmet that offers magical protection to Cute Pets.
@@ -38775,27 +38774,27 @@ Applicable Pet:
 10004#
 A rubber device that helps babies endure teething, but can also be used to silence noisy Cute Pets.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pet: ^777777Deviruchi ^000000
+Pet:^6A5ACD Deviruchi ^000000
 #
 10005#
 A multi-colored wig usually worn by clowns.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pet: ^777777Dokebi ^000000
+Pet:^6A5ACD Dokebi ^000000
 #
 10006#
 A hair accessory, said to be worn by an ancient queen, that is fitting for vain, yet glamorous, Cute Pets.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pet: ^777777Isis ^000000
+Pet:^6A5ACD Isis ^000000
 #
 10007#
 A cute ribbon knit from smooth silk that would look cute on a fluffy Cute Pet.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pet: ^777777Lunatic ^000000
+Pet:^6A5ACD Lunatic ^000000
 #
 10008#
 A club that, in the olden days, was used to punish stupidity in classrooms.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pet: ^777777Munak ^000000
+Pet:^6A5ACD Munak ^000000
 #
 10009#
 A wildflower whose scent is so nice that even the most savage of warriors will admit to enjoying its fragrance.
@@ -38806,7 +38805,7 @@ Applicable Pet:
 10010#
 An old cooking pot that is just perfect (?) for placing on a Peco Peco's head.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pet: ^777777PecoPeco ^000000
+Pet:^6A5ACD PecoPeco ^000000
 #
 10011#
 A hairpin decorated with cute little stars.
@@ -38817,17 +38816,17 @@ Applicable Pet:
 10012#
 A cup shaped fragment of eggshell that would fit on top of a baby chick's head.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pet: ^777777Picky ^000000
+Pet:^6A5ACD Picky ^000000
 #
 10013#
 A backpack made especially for short, round shaped, bouncy children or Cute Pets.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pet: ^777777Poring, Drops, Poporing ^000000
+Pet:^6A5ACD Poring, Drops, Poporing ^000000
 #
 10014#
 A pair of eyeglasses that make its wearer look like a total geek.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pet: ^777777Rocker ^000000
+Pet:^6A5ACD Rocker ^000000
 #
 10015#
 Green lace that can be worn by a baby, or even a pig.
@@ -38838,7 +38837,7 @@ Applicable Pet:
 10016#
 A golden bell that can be worn in the hair of an adorable Cute Pet.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pet: ^777777Sohee ^000000
+Pet:^6A5ACD Sohee ^000000
 #
 10017#
 A pair of crude shorts made from rough tree bark.
@@ -38849,119 +38848,119 @@ Applicable Pets:
 10018#
 A circlet made to fit a monkey, just like in the old Monkey Hero tales.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pet: ^777777Yoyo ^000000
+Pet:^6A5ACD Yoyo ^000000
 #
 10019#
 A very stylish crimson muffler inspired by the one worn by a retro hero.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pet: ^777777Smokie ^000000
+Pet:^6A5ACD Smokie ^000000
 #
 10020#
 A ceremonial sword used by gravekeepers to lead the dead to the great beyond.
 Class:^6A5ACD Cute Pet Armor ^000000
-Applicable Pet: ^777777Bongun ^000000
+Pet:^6A5ACD Bongun ^000000
 #
 10021#
 A circular shape, headgear for a Goddess.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Bacsojin ^000000
+Pet:^6A5ACD Bacsojin ^000000
 #
 10022#
 Old fashioned gold earring.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Civil Servant ^000000
+Pet:^6A5ACD Civil Servant ^000000
 #
 10023#
 Green silk jewelery pouch. Contains some random stuffs and snack.
 Class:^6A5ACD Cute Pet Equipment ^000000
 Weight:^0EAA0B 0 ^000000
-Pet: ^777777Leaf Cat ^000000
+Pet:^6A5ACD Leaf Cat ^000000
 #
 10024#
 Red and blue fashionable glasses that aren't suited for everyone.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Loli Ruri ^000000
+Pet:^6A5ACD Loli Ruri ^000000
 #
 10025#
 A headgear that a little girl would like, star shaped.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Marionette ^000000
+Pet:^6A5ACD Marionette ^000000
 #
 10026#
 A tassel at the end of a durumagi. Antique feeling.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Shinobi ^000000
+Pet:^6A5ACD Shinobi ^000000
 #
 10027#
 Accessory only for the dead. Gold and shiny.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Whisper ^000000
+Pet:^6A5ACD Whisper ^000000
 #
 10028#
 A badge that indicates of high rank. Has a symbol of a special flower.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Goblin Leader ^000000
+Pet:^6A5ACD Goblin Leader ^000000
 #
 10029#
 Oriental accessory that is made of a mysterious green stone.
 Class:^6A5ACD Cute Pet Equipment ^000000
 Weight:^0EAA0B 0 ^000000
-Pet: ^777777Wicked Nymph ^000000
+Pet:^6A5ACD Wicked Nymph ^000000
 #
 10030#
 Everyone needs this for summer. It has a refreshing drawing.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Miyabi Ningyo ^000000
+Pet:^6A5ACD Miyabi Ningyo ^000000
 #
 10031#
 A ring that symbolizes one who surpassed death. It feels like metal and it's cold.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Dullahan ^000000
+Pet:^6A5ACD Dullahan ^000000
 #
 10032#
 A symbol of authority of high ranked women. Has a regal sense of feeling.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Medusa ^000000
+Pet:^6A5ACD Medusa ^000000
 #
 10033#
 Hairstyle that had huge sensation. It's for outstanding.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Stone Shooter ^000000
+Pet:^6A5ACD Stone Shooter ^000000
 #
 10034#
 A mask to disguise yourself in a party. Its gorgeously decorated.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Incubus ^000000
+Pet:^6A5ACD Incubus ^000000
 #
 10035#
 It imitated a device for exterior power of an ancient toy. It looks kind of cute.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Golem ^000000
+Pet:^6A5ACD Golem ^000000
 #
 10036#
 Horrifying horn from hell. It only has horrifying feeling not like the unicorn's.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Nightmare Terror ^000000
+Pet:^6A5ACD Nightmare Terror ^000000
 #
 10037#
 A mask that looks like a wing of a huge black butterfly decorated with beautiful symbols.
 ^FFFFFF_^000000
 Class:^6A5ACD Cute Pet Equipment ^000000
-Pet: ^777777Succubus ^000000
+Pet:^6A5ACD Succubus ^000000
 #
 10038#
 Horn protector, not implemented.
@@ -39254,28 +39253,28 @@ Red sap with amazing healing power. You wouldn't want to find out what it's made
 ^000088Restores approximately 400 HP^000000.
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 100 ^000000
-Cooldown Time : ^7777771 Second ^000000
+Cooldown Time:^777777 1 Second ^000000
 #
 11523#
 Yellow sap with amazing healing power. You wouldn't want to find out what it's made from.
 ^000088Restores approximately 600 HP^000000.
 Weight:^0EAA0B 12 ^000000
 Level Requirement:^0EAA0B 110 ^000000
-Cooldown Time : ^7777772 Seconds ^000000
+Cooldown Time:^777777 2 Seconds ^000000
 #
 11524#
 White sap with amazing healing power. You wouldn't want to find out what it's made from.
 ^000088Restores approximately 800 HP^000000.
 Weight:^0EAA0B 12 ^000000
 Level Requirement:^0EAA0B 120 ^000000
-Cooldown Time : ^7777773 Seconds ^000000
+Cooldown Time:^777777 3 Seconds ^000000
 #
 11525#
 Tea made by infusing dried plants, rarely found even in Mora Village. Smells extremely good.
 ^000088Restores approximately 1500 HP^000000.
 Weight:^0EAA0B 15 ^000000
 Level Requirement:^0EAA0B 120 ^000000
-Cooldown Time : ^7777775 Seconds ^000000
+Cooldown Time:^777777 5 Seconds ^000000
 #
 11526#
 A cold beverage made by blending Pingui berries with syrup and ice.
@@ -41855,37 +41854,37 @@ Weight:^0EAA0B 7 ^000000
 12429#
 A very wild dish made out of a whole Savage with a slight barbecue flavor!
 STR +20.
-Duration : 5 min.
+Duration: 5 min.
 Weight:^0EAA0B 5 ^000000
 #
 12430#
 A deep red colored cocktail containing wolf's blood.
 INT +20.
-Duration : 5 min.
+Duration: 5 min.
 Weight:^0EAA0B 5 ^000000
 #
 12431#
 Meat of a Minor's head. Famous for it's soft and tender textures.
 Vit +20.
-Duration : 5 min.
+Duration: 5 min.
 Weight:^0EAA0B 5 ^000000
 #
 12432#
 Fantastic combination of transparent ice and tea.
 DEX +20.
-Duration : 5 min.
+Duration: 5 min.
 Weight:^0EAA0B 5 ^000000
 #
 12433#
 One of the best delicacies in Arunafeltz that has a chewy texture.
 AGI +20.
-Duration : 5 min.
+Duration: 5 min.
 Weight:^0EAA0B 5 ^000000
 #
 12434#
 A Geffen delicacy that is decorated with the best part of the Petite, the tail.
 LUK +20.
-Duration : 5 min.
+Duration: 5 min.
 Weight:^0EAA0B 5 ^000000
 #
 12435#
@@ -42273,7 +42272,7 @@ Found in the depths of the USRC tournament this box that contains 2 headgears of
 Box can be traded and vended but the headgears inside are account bound.
 1x - Wickebine's Black Cat Ears
 1x - Gangster Scarf
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 12474#
 #
@@ -42412,11 +42411,11 @@ Weight:^0EAA0B 1 ^000000
 #
 12549#
 A box that contains 200 Condensed White Potions
-Box Weight : ^7777770 ^000000
+Box Weight:^0EAA0B 0 ^000000
 #
 12550#
 A box that contains 30 Poison Bottles.
-Box Weight : ^7777770 ^000000
+Box Weight:^0EAA0B 0 ^000000
 #
 12553#
 Contains one Brysingamen.
@@ -42556,7 +42555,7 @@ Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All ^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 12596#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
@@ -42777,7 +42776,7 @@ Weight:^0EAA0B 5 ^000000
 #
 12699#
 Special belt made to control Tikbalang as a servant. Be careful since Tikbalang will struggle violently when used.
-Type : ^777777Taming Item ^000000
+Class:^6A5ACD Taming Item ^000000
 Weight:^0EAA0B 5 ^000000
 #
 12700#
@@ -43431,7 +43430,7 @@ Description:
 ^CC0000A Pack of 5 Lucky Boxes is also being offered. ^000000
 ^FFFFFF_^000000
 Weight:^0EAA0B 1 ^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 12925#
 A pack of consumables to
@@ -44001,7 +44000,7 @@ obtaining an Injustice
 Card, Zherlthsh Card,
 or Evolved Headgear.
 ^FFFFFF_^000000
-Weight : ^7777771 ^000000
+Weight:^0EAA0B 1 ^000000
 #
 12988#
 A box that contains
@@ -44011,7 +44010,7 @@ obtaining Slippers,
 an Owl Baron Card,
 or an Owl Duke Card.
 ^FFFFFF_^000000
-Weight : ^7777771 ^000000
+Weight:^0EAA0B 1 ^000000
 #
 12991#
 #
@@ -44024,7 +44023,7 @@ Contains the following:
 5 Party Blessing 10 Scroll
 ^FF0000This box can be traded, stored, and vended only. ^000000
 ^FFFFFF_^000000
-Weight : ^7777771 ^000000
+Weight:^0EAA0B 1 ^000000
 #
 12994#
 A box that contains 10 HD Eluniums
@@ -44038,7 +44037,7 @@ This item's density ensures that refine attempts will not break the armor and if
 Only a Blacksmith named Mighty Hammer in Payon can use this ore to refine.
 ^FFFFFF_^000000
 Weight:^0EAA0B 0 ^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 12995#
 A box designed to
@@ -44086,7 +44085,7 @@ somehow imbuing this dagger with its power.
 Class:^6A5ACD Dagger ^000000
 Attack:^D80000 39 ^000000
 Weight:^0EAA0B 60 ^000000
-Property: ^7BCC70Wind ^000000
+Property:^7BCC70 Wind ^000000
 Weapon Level:^0EAA0B 1 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All except
@@ -45559,7 +45558,7 @@ the ^FF0000Fire^000000 property.
 Class:^6A5ACD Bullet ^000000
 Attack:^D80000 50 ^000000
 Weight:^0EAA0B 0.5 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 #
 13204#
 A grenade launcher
@@ -45568,7 +45567,7 @@ the ^7BCC70Wind^000000 property.
 Class:^6A5ACD Bullet ^000000
 Attack:^D80000 50 ^000000
 Weight:^0EAA0B 0.5 ^000000
-Property: ^7BCC70Wind ^000000
+Property:^7BCC70 Wind ^000000
 #
 13205#
 A grenade launcher
@@ -45697,7 +45696,7 @@ with freezing cold.
 Class:^6A5ACD Throwing Weapon ^000000
 Attack:^D80000 30 ^000000
 Weight:^0EAA0B 2 ^000000
-Property: ^6996ADWater ^000000
+Property:^6996AD Water ^000000
 #
 13256#
 An ^A68064Earth^000000 property
@@ -45707,14 +45706,14 @@ targeted enemies.
 Class:^6A5ACD Throwing Weapon ^000000
 Attack:^D80000 30 ^000000
 Weight:^0EAA0B 2 ^000000
-Property: ^A68064Earth ^000000
+Property:^A68064 Earth ^000000
 #
 13257#
 A ^7BCC70Wind^000000 property kunai that is especially sharp.
 Class:^6A5ACD Throwing Weapon ^000000
 Attack:^D80000 30 ^000000
 Weight:^0EAA0B 2 ^000000
-Property: ^7BCC70Wind ^000000
+Property:^7BCC70 Wind ^000000
 #
 13258#
 An explosive kunai
@@ -45724,7 +45723,7 @@ around its target.
 Class:^6A5ACD Throwing Weapon ^000000
 Attack:^D80000 30 ^000000
 Weight:^0EAA0B 2 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 #
 13259#
 A kunai coated with
@@ -46029,7 +46028,7 @@ DEX -2.
 Class:^6A5ACD Huuma ^000000
 Attack:^D80000 185 ^000000
 Weight:^0EAA0B 150 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 55 ^000000
 Jobs:^6A5ACD Ninja ^000000
@@ -46104,7 +46103,7 @@ DEX +2.
 Class:^6A5ACD Huuma Shuriken ^000000
 Attack:^D80000 230 ^000000
 Weight:^0EAA0B 0 ^000000
-Property: ^FF0000 Fire ^000000
+Property:^FF0000  Fire ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD Ninja ^000000
@@ -46207,7 +46206,7 @@ This item cannot be Dropped or Traded.
 Class:^6A5ACD One-handed Sword ^000000
 Attack:^D80000 120 ^000000
 Weight:^0EAA0B 0 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD Swordman,
@@ -46273,7 +46272,7 @@ INT +2, Add a 10% chance of auto casting ^008800Level 5 Fire Bolt^000000 on the 
 Class:^6A5ACD One-Handed Sword ^000000
 Attack:^D80000 120 ^000000
 Weight:^0EAA0B 0 ^000000
-Property: ^FF0000 Fire ^000000
+Property:^FF0000  Fire ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD Swordman, Merchant and Thief ^000000
@@ -46338,7 +46337,7 @@ Enables the use of ^FF0000Lv. 3 Meteor Storm^000000.
 Class:^6A5ACD One-Handed Sword ^000000
 Attack:^D80000 160 ^000000
 Weight:^0EAA0B 150 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 75 ^000000
 Jobs:^6A5ACD Transcendent Swordman, Merchant, Thief Classes ^000000
@@ -46485,7 +46484,7 @@ This item cannot be Dropped or Traded.
 Class:^6A5ACD One-handed Sword ^000000
 Attack:^D80000 120 ^000000
 Weight:^0EAA0B 0 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD Swordman,
@@ -46595,7 +46594,7 @@ This item cannot be Dropped or Traded.
 Class:^6A5ACD Axe ^000000
 Attack:^D80000 200 ^000000
 Weight:^0EAA0B 1 ^000000
-Property: ^4cbb17Wind ^000000
+Property:^4CBB17 Wind ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD Swordman and Merchant ^000000
@@ -46657,7 +46656,7 @@ This item cannot be Dropped or Traded.
 Class:^6A5ACD One-handed Sword ^000000
 Attack:^D80000 120 ^000000
 Weight:^0EAA0B 1 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD Swordman,
@@ -46999,7 +46998,7 @@ a spell or skill.
 ^FFFFFF_^000000
 Weight:^0EAA0B 1 ^000000
 ^FFFFFF_^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 13585#
 #
@@ -47367,7 +47366,7 @@ This item's density ensures that refine attempts will not break the weapon and i
 Only a Blacksmith named Mighty Hammer in Payon can use this ore to refine.
 ^FFFFFF_^000000
 Weight:^0EAA0B 0 ^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 13702#
 A box that contains 10 Gym Passes
@@ -47383,7 +47382,7 @@ can only be learned
 up to Level 10.
 ^FFFFFF_^000000
 Weight:^0EAA0B 1 ^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 13703#
 #
@@ -48031,7 +48030,7 @@ Description:
 A potion made from ground Blue Herbs that restores about ^00008860 SP^000000.
 Weight:^0EAA0B 1 ^000000
 ^FFFFFF_^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 13811#
 Contains 5 Each of all the +20 Stat foods. Box is not tradable, but the food is.
@@ -48782,7 +48781,7 @@ battle methods.
 This bonus stacks with VIP and Battle Manuals to give an additional job bonus. ^000000
 ^FFFFFF_^000000
 Weight:^0EAA0B 1 ^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 13991#
 A box containing 1 Tiger Mask
@@ -48883,7 +48882,7 @@ Weight:^0EAA0B 10 ^000000
 Weight:^0EAA0B 10 ^000000
 ^FFFFFF_^000000
 This box and it's contents are storage only.
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 14003#
 #
@@ -51756,7 +51755,7 @@ Jobs:^6A5ACD All classes except novice ^000000
 #
 15024#
 A jacket worn inside an overcoat. Mora Villagers call it 'Army Padding.'
-Type : ^777777Armor ^000000
+Class:^6A5ACD Armor ^000000
 Defense:^0000FF 0 ^000000
 Weight:^0EAA0B 1 ^000000
 Level Requirement:^0EAA0B 1 ^000000
@@ -52359,7 +52358,7 @@ A bird from the Tucan family with a fabulous yellow colored beak. It has been se
 DEX +3. Can't be refined.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
-Position : ^777777Upper, Middle ^000000
+Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 60 ^000000
 Level Requirement:^0EAA0B 45 ^000000
 Jobs:^6A5ACD Every Classes ^000000
@@ -52837,7 +52836,7 @@ Position:^6A5ACD Lower ^000000
 Weight:^0EAA0B 5 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All ^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 16373#
 #
@@ -53016,7 +53015,7 @@ Contains:
 Adventurer Pack can not be
 traded, dropped, or sold;
 it can be stored.
-Weight : ^7777771 ^000000
+Weight:^0EAA0B 1 ^000000
 #
 16421#
 A box that contains 1 Written Oath of Marriage, to be used on your wedding day.
@@ -53140,7 +53139,7 @@ This item cannot be Dropped or Traded.
 Class:^6A5ACD One-handed Sword ^000000
 Attack:^D80000 120 ^000000
 Weight:^0EAA0B 1 ^000000
-Property: ^FF0000Fire ^000000
+Property:^FF0000 Fire ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD Swordman,
@@ -53159,7 +53158,7 @@ This item cannot be Dropped or Traded.
 Class:^6A5ACD Axe ^000000
 Attack:^D80000 200 ^000000
 Weight:^0EAA0B 1 ^000000
-Property: ^4cbb17Wind ^000000
+Property:^4CBB17 Wind ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD Swordman and Merchant ^000000
@@ -55305,7 +55304,7 @@ Defense:^0000FF 0 ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All ^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 16974#
 A box that contains 2 costume headgears that give you the appearance of a famous old-timey actor.
@@ -55327,7 +55326,7 @@ Defense:^0000FF 0 ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All ^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 16976#
 Wearing these items will give you the presence of the tastiest poultry in all of Rune Midgard.
@@ -55335,7 +55334,7 @@ A box that contains 1 of each:
 -1x Costume: Chicken Beak
 -1x Costume: Rooster¡¯s Comb
 This box can be stored and traded, the items inside are account bound.
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 16977#
 A box that contains
@@ -55348,7 +55347,7 @@ Defense:^0000FF 0 ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All ^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 16978#
 #
@@ -55373,7 +55372,7 @@ Defense:^0000FF 0 ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All ^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 17015#
 A box that contains
@@ -55386,7 +55385,7 @@ Defense:^0000FF 0 ^000000
 Weight:^0EAA0B 0 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All ^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 17024#
 #
@@ -55411,7 +55410,7 @@ Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 40 ^000000
 Jobs:^6A5ACD All ^000000
-Box Weight : ^77777710 ^000000
+Box Weight:^0EAA0B 10 ^000000
 #
 17035#
 #
@@ -55460,7 +55459,7 @@ Locations: ''Ayothaya'', ''Amatsu'', ''Luoyang'', ''Kunlun''
 Warning: If no town is selected, the item will disappear.
 Weight:^0EAA0B 1 ^000000
 ^FFFFFF_^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 17065#
 #
@@ -55568,7 +55567,7 @@ Used as a material to
 strengthen weapons currently from refine levels 7 through 9.
 This item's density ensures that refine attempts will not break the weapon and if the attempt fails it will only downgrade by 1.
 Only a Blacksmith named Mighty Hammer in Payon can use this ore to refine.
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 17105#
 A box that contains 50 HD Elunium
@@ -55580,7 +55579,7 @@ Used as a material
 to strengthen armor currently from refine levels 7 through 9.
 This item's density ensures that refine attempts will not break the armor and if the attempt fails it will only downgrade by 1.
 Only a Blacksmith named Mighty Hammer in Payon can use this ore to refine.
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 17106#
 A box that contains 10 Gym Passes
@@ -55596,7 +55595,7 @@ can only be learned
 up to Level 10.
 ^FFFFFF_^000000
 Weight:^0EAA0B 1 ^000000
-Box Weight : ^7777771 ^000000
+Box Weight:^0EAA0B 1 ^000000
 #
 17107#
 A special scroll to celebrate the month of Gemini. You can get a valuable item such as Gemini Crown, Dark Snake Lord Card, Elven Ears, Gentleman's Pipe, Hawk Eyes etc.
