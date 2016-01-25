@@ -9479,7 +9479,7 @@ DEX +2
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
 Ignores Physical Defense from Demihuman monsters by 20%.
 Indestructible.
-Class:^6A5ACD Whip^00000
+Class:^6A5ACD Whip^000000
 Attack:^D80000 50 ^000000
 Weight:^0EAA0B 0 ^000000
 Weapon Level:^0EAA0B 3 ^000000
@@ -21287,6 +21287,44 @@ Fixed casting time -1% (does not stack with other fixed cast time effects).
 #
 4950#
 #
+4951#
+#
+4952#
+#
+4953#
+#
+4954#
+#
+4955#
+#
+4956#
+#
+4957#
+#
+4958#
+#
+4959#
+#
+4960#
+#
+4961#
+#
+4962#
+#
+4963#
+#
+4964#
+#
+4965#
+#
+4966#
+#
+4967#
+#
+4968#
+#
+4969#
+#
 4970#
 #
 4971#
@@ -30066,6 +30104,8 @@ Jobs:^6A5ACD All ^000000
 5890#
 #
 5891#
+#
+5896#
 #
 5897#
 #
@@ -43492,7 +43532,7 @@ opening this box.
 Weight:^0EAA0B 1 ^000000
 #
 12931#
-^CC0000Contains 5 Easter Lucky Packs^00000
+^CC0000Contains 5 Easter Lucky Packs^000000
 ^FF0000This box can be traded, vended, and stored^000000.
 Description:
 ^0000CCEasters Lucky Pack^000000, opening this up and get your prize! This item cannot be traded, but can be saved and opened at your leisure!
@@ -43986,6 +44026,8 @@ Weight:^0EAA0B 1 ^000000
 #
 12982#
 #
+12983#
+#
 12984#
 #
 12985#
@@ -44011,6 +44053,10 @@ an Owl Baron Card,
 or an Owl Duke Card.
 ^FFFFFF_^000000
 Weight:^0EAA0B 1 ^000000
+#
+12989#
+#
+12990#
 #
 12991#
 #
@@ -51958,6 +52004,8 @@ Jobs:^6A5ACD None ^000000
 #
 15121#
 #
+15122#
+#
 15123#
 #
 15126#
@@ -55894,6 +55942,8 @@ Weight:^0EAA0B 1 ^000000
 #
 17394#
 #
+17395#
+#
 17429#
 #
 17430#
@@ -57817,6 +57867,8 @@ Jobs:^6A5ACD All except Novice ^000000
 #
 18956#
 #
+18959#
+#
 18961#
 #
 18962#
@@ -57824,6 +57876,8 @@ Jobs:^6A5ACD All except Novice ^000000
 18963#
 #
 18964#
+#
+18965#
 #
 18969#
 #
@@ -57990,6 +58044,8 @@ Jobs:^6A5ACD All except Novice ^000000
 19113#
 #
 19114#
+#
+19116#
 #
 19117#
 #
@@ -60060,6 +60116,8 @@ Jobs:^6A5ACD All ^000000
 #
 20746#
 #
+20747#
+#
 20748#
 #
 20749#
@@ -60298,6 +60356,12 @@ Jobs:^6A5ACD All ^000000
 #
 22517#
 #
+22519#
+#
+22520#
+#
+22521#
+#
 22522#
 #
 22523#
@@ -60385,6 +60449,8 @@ Jobs:^6A5ACD All ^000000
 22591#
 #
 22592#
+#
+22593#
 #
 22594#
 #
@@ -60915,6 +60981,16 @@ Jobs:^6A5ACD All ^000000
 23073#
 #
 23080#
+#
+23081#
+#
+23082#
+#
+23083#
+#
+23084#
+#
+23085#
 #
 23086#
 #
