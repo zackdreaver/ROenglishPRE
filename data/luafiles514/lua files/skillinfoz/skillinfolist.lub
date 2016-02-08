@@ -2845,7 +2845,7 @@ SKILL_INFO_LIST = {
 		MaxLv = 5,
 		SpAmount = { 18, 21, 24, 27, 30 },
 		_NeedSkillList = {
-			{ SKID.KN_SPEARMASTERY,5 },
+			{ SKID.KN_SPEARMASTERY,10 },
 			{ SKID.KN_PIERCE,5 },
 			{ SKID.KN_RIDING,1 },
 			{ SKID.KN_SPEARSTAB,5 }
