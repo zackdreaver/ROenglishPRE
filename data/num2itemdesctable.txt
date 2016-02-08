@@ -10534,6 +10534,9 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 5942#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
+5943#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
 5944#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
@@ -10574,6 +10577,9 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 5980#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+5981#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 5982#
@@ -14948,6 +14954,18 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 11712#
 #
 11713#
+#
+11714#
+#
+11715#
+#
+11716#
+#
+11717#
+#
+11718#
+#
+11719#
 #
 12000#
 #
@@ -22491,6 +22509,10 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 17663#
 #
+17668#
+#
+17669#
+#
 18000#
 #
 18001#
@@ -23715,6 +23737,9 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 18880#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
+18882#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
 18883#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
@@ -23943,6 +23968,15 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 18984#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
+18985#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+18986#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+18987#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
 18997#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
@@ -24148,10 +24182,10 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 19117#
-감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 19118#
-감정되지 않음. [돋보기] 를 사용하여 감정할 수 있다.
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 19377#
 #
@@ -26907,6 +26941,9 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 20468#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
+20470#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
 20500#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
@@ -27051,6 +27088,9 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 20744#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
+20745#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
 20746#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
@@ -27061,6 +27101,9 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 20749#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+20752#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 20756#
@@ -27136,6 +27179,33 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 20798#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+20802#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+20803#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+20804#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+20805#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+20806#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+20807#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+20808#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+20809#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+20811#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 21000#
@@ -27548,6 +27618,8 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 22658#
 #
 22659#
+#
+22660#
 #
 22669#
 #
@@ -28048,6 +28120,12 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 23095#
 #
 23096#
+#
+23098#
+#
+23106#
+#
+23107#
 #
 24000#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
@@ -28913,6 +28991,45 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 24287#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
+24288#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+24289#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+24290#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+24291#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+24292#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+24293#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+24294#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+24295#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+24296#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+24297#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+24298#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+24299#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+24300#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
 25000#
 #
 25001#
@@ -29151,6 +29268,8 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 25178#
 #
+25188#
+#
 26000#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
@@ -29233,6 +29352,12 @@ Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 28321#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+28322#
+Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
+#
+28324#
 Unknown Item, can be identified by using a ^6A5ACDMagnifier^000000.
 #
 28326#

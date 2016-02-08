@@ -28035,7 +28035,7 @@ When you have it, you can feel a splendid aristocratic atmosphere of chung.
 LUK +3
 MDEF +4
 When you are under physical attack, it uses Lv5 Mammonite skill by low chance.
-(if you don’t have zeny, it doesn't work.)
+(if you don't have zeny, it doesn't work.)
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
@@ -30181,6 +30181,8 @@ Jobs:^6A5ACD All ^000000
 #
 5942#
 #
+5943#
+#
 5944#
 #
 5966#
@@ -30208,6 +30210,8 @@ Jobs:^6A5ACD All ^000000
 5979#
 #
 5980#
+#
+5981#
 #
 5982#
 #
@@ -32360,12 +32364,12 @@ Weight:^0EAA0B 1 ^000000
 #
 6535#
 ^FF0000This item cannot be dropped, traded, mailed or vended. ^000000
-A material to create Raccoon Hurray Team's Christmas Sock¡¦ though you're sure they mean Stocking
+A material to create Raccoon Hurray Team's Christmas Sock, though you're sure they mean Stocking.
 Weight:^0EAA0B 1 ^000000
 #
 6536#
 ^FF0000This item cannot be dropped, traded, mailed or vended. ^000000
-A material to create Raccoon Hurray Team's Christmas Sock¡¦ though you're sure they mean Stocking
+A material to create Raccoon Hurray Team's Christmas Sock, though you're sure they mean Stocking.
 Weight:^0EAA0B 1 ^000000
 #
 6537#
@@ -39496,6 +39500,18 @@ Weight:^0EAA0B 5 ^000000
 #
 11713#
 #
+11714#
+#
+11715#
+#
+11716#
+#
+11717#
+#
+11718#
+#
+11719#
+#
 12000#
 A spell scroll which was made by the essence of ancient magic.
 Allows to use ^000088Level 5 Frost Diver^000000.
@@ -43532,29 +43548,6 @@ opening this box.
 Weight:^0EAA0B 1 ^000000
 #
 12931#
-^CC0000Contains 5 Easter Lucky Packs^000000
-^FF0000This box can be traded, vended, and stored^000000.
-Description:
-^0000CCEasters Lucky Pack^000000, opening this up and get your prize! This item cannot be traded, but can be saved and opened at your leisure!
-^0000FFS Class: Sunglasses [1] ^000000
-^00FF00A Class: Party Hard Pack ^000000
-^00FF00A Class: Mystical Card Album ^000000
-^00FF00A Class: 1000 Marvelous Medals ^000000
-^0000CCB Class: Rune Hairband ^000000
-^0000CCB Class: 5 Battle Manual X3 ^000000
-^0000CCB Class: 400 KVM Medals ^000000
-^0000CCB Class: Mischievous Fairy Ears ^000000
-^CC0000C Class: Taurus Crown ^000000
-^CC0000C Class: Taurus Diadem ^000000
-^CC0000C Class: 30 HD Elunium ^000000
-^CC0000C Class: 30 HD Oridecon ^000000
-^CC0000C Class: Magnolia Hat ^000000
-^00CC00D Class: Spirit Auger ^000000
-^00CC00D Class: Slot Coupon ^000000
-^00CC00D Class: MVP Hunt Box ^000000
-^00CC00D Class: Party Buff Scroll Pack ^000000
-^FFFFFF_^000000
-Weight:^0EAA0B 1 ^000000
 #
 12932#
 ^FF0000This package is tradeable. ^000000
@@ -43584,27 +43577,6 @@ Tradeable and storagable.
 Weight:^0EAA0B 1 ^000000
 #
 12934#
-^0000CCEasters Lucky Pack^000000, opening this up and get your prize! This item cannot be traded, but can be saved and opened at your leisure!
-^0000FFS Class: Sunglasses [1] ^000000
-^00FF00A Class: Party Hard Pack ^000000
-^00FF00A Class: Mystical Card Album ^000000
-^00FF00A Class: 1000 Marvelous Medals ^000000
-^0000CCB Class: Rune Hairband ^000000
-^0000CCB Class: 5 Battle Manual X3 ^000000
-^0000CCB Class: 400 KVM Medals ^000000
-^0000CCB Class: Mischievous Fairy Ears ^000000
-^CC0000C Class: Taurus Crown ^000000
-^CC0000C Class: Taurus Diadem ^000000
-^CC0000C Class: 30 HD Elunium ^000000
-^CC0000C Class: 30 HD Oridecon ^000000
-^CC0000C Class: Magnolia Hat ^000000
-^00CC00D Class: Spirit Auger ^000000
-^00CC00D Class: Slot Coupon ^000000
-^00CC00D Class: MVP Hunt Box ^000000
-^00CC00D Class: Party Buff Scroll Pack ^000000
-^CC0000Playspan is offering a Pack of 5 Lucky Boxes. That 5x Pack may be traded, but the Individual boxes may not be traded. ^000000
-^FFFFFF_^000000
-Weight:^0EAA0B 1 ^000000
 #
 12935#
 A box that contains
@@ -55380,7 +55352,7 @@ Box Weight:^0EAA0B 1 ^000000
 Wearing these items will give you the presence of the tastiest poultry in all of Rune Midgard.
 A box that contains 1 of each:
 -1x Costume: Chicken Beak
--1x Costume: Rooster¡¯s Comb
+-1x Costume: Rooster's Comb
 This box can be stored and traded, the items inside are account bound.
 Box Weight:^0EAA0B 1 ^000000
 #
@@ -56127,6 +56099,10 @@ Weight:^0EAA0B 1 ^000000
 17662#
 #
 17663#
+#
+17668#
+#
+17669#
 #
 18000#
 A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
@@ -57759,6 +57735,8 @@ Jobs:^6A5ACD All except Novice ^000000
 #
 18880#
 #
+18882#
+#
 18883#
 #
 18885#
@@ -57910,6 +57888,12 @@ Jobs:^6A5ACD All except Novice ^000000
 18983#
 #
 18984#
+#
+18985#
+#
+18986#
+#
+18987#
 #
 18997#
 #
@@ -60018,6 +60002,8 @@ Jobs:^6A5ACD All ^000000
 #
 20468#
 #
+20470#
+#
 20500#
 #
 20504#
@@ -60114,6 +60100,8 @@ Jobs:^6A5ACD All ^000000
 #
 20744#
 #
+20745#
+#
 20746#
 #
 20747#
@@ -60121,6 +60109,8 @@ Jobs:^6A5ACD All ^000000
 20748#
 #
 20749#
+#
+20752#
 #
 20756#
 #
@@ -60171,6 +60161,24 @@ Jobs:^6A5ACD All ^000000
 20790#
 #
 20798#
+#
+20802#
+#
+20803#
+#
+20804#
+#
+20805#
+#
+20806#
+#
+20807#
+#
+20808#
+#
+20809#
+#
+20811#
 #
 21000#
 #
@@ -60499,6 +60507,8 @@ Jobs:^6A5ACD All ^000000
 22658#
 #
 22659#
+#
+22660#
 #
 22669#
 #
@@ -60999,6 +61009,12 @@ Jobs:^6A5ACD All ^000000
 23095#
 #
 23096#
+#
+23098#
+#
+23106#
+#
+23107#
 #
 24000#
 #
@@ -61576,6 +61592,32 @@ Jobs:^6A5ACD All ^000000
 #
 24287#
 #
+24288#
+#
+24289#
+#
+24290#
+#
+24291#
+#
+24292#
+#
+24293#
+#
+24294#
+#
+24295#
+#
+24296#
+#
+24297#
+#
+24298#
+#
+24299#
+#
+24300#
+#
 25000#
 #
 25001#
@@ -61814,6 +61856,8 @@ Jobs:^6A5ACD All ^000000
 #
 25178#
 #
+25188#
+#
 26000#
 #
 26100#
@@ -61869,6 +61913,10 @@ Jobs:^6A5ACD All ^000000
 28320#
 #
 28321#
+#
+28322#
+#
+28324#
 #
 28326#
 #
