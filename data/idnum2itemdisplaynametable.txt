@@ -4302,7 +4302,7 @@
 6308#Unknown_Relic#
 6316#[Not_for_sale]Token_of_Siegfried#
 6319#Small_Bradium#
-6320#Magical_Stone#
+6320#Reset_Stone#
 6321#Rake_Horn_Helm#
 6322#Antler_Helm#
 6323#Twin_Horn_Helm#
@@ -9031,7 +9031,7 @@
 16550#Ephemeral_Mjolnir_Trade_Box#
 16551#Ephemeral_Megingjord_Trade_Box#
 16554#Elven_Sunglasses_Box#
-16555#Playspan_Reset_Stone_Box#
+16555#Reset_Stone_Box#
 16556#Reset_Stone_Box#
 16564#Dragon_Scroll#
 16565#Capricorn_Crown_Box#

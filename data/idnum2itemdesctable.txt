@@ -3420,7 +3420,7 @@ Jobs:^6A5ACD Swordman Class ^000000
 1181#
 This is known as the sword of a brave man from the orient.
 Perfect Dodge +10.
-If player is Job Level 70 (If player is a Rune Knight job level needs to be 50) has a chance of receiving ATK + 50 for 10 seconds when physically attacked.
+If player is Job Level 70, has a chance of receiving ATK + 50 for 10 seconds when physically attacked.
 If upgrade level is 9 +, skill cast time and after-casting delay decreases by 20%.
 Class:^6A5ACD Two-Handed Sword ^000000
 Attack:^D80000 250 ^000000
@@ -6323,11 +6323,11 @@ Jobs:^6A5ACD Priest and Monk Jobs ^000000
 1530#
 A facsimile of the mighty hammer wielded by Thor, god of thunder.
 Increases Attack Speed.
-DEX +50
-STR +20
+DEX +40
+STR +15
 Class:^6A5ACD Mace ^000000
 Property:^777777 Wind ^000000
-Attack:^D80000 350 ^000000
+Attack:^D80000 250 ^000000
 Weight:^0EAA0B 600 ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 95 ^000000
@@ -9004,7 +9004,7 @@ Attack:^D80000 130 ^000000
 Weight:^0EAA0B 150 ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 70 ^000000
-Jobs:^6A5ACD Minstrel Job ^000000
+Jobs:^6A5ACD Clown ^000000
 #
 1920#
 When musicians
@@ -9028,7 +9028,7 @@ Attack:^D80000 10 ^000000
 Weight:^0EAA0B 180 ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 70 ^000000
-Jobs:^6A5ACD Minstrel Job ^000000
+Jobs:^6A5ACD Clown ^000000
 #
 1921#
 The adventurers who are brave the item which is provided from the hazard adventurer guild.
@@ -9095,7 +9095,7 @@ Attack:^D80000 110 ^000000
 Weight:^0EAA0B 70 ^000000
 Weapon Level:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 70 ^000000
-Jobs:^6A5ACD Minstrel ^000000
+Jobs:^6A5ACD Clown ^000000
 #
 1926#
 A harp with its strings made from the tentacles of Nepenthes.
@@ -9107,7 +9107,7 @@ Attack:^D80000 120 ^000000
 Weight:^0EAA0B 100 ^000000
 Weapon Level:^0EAA0B 4 ^000000
 Level Requirement:^0EAA0B 60 ^000000
-Jobs:^6A5ACD Minstrel, Gypsy, Maestro, Wanderer ^000000
+Jobs:^6A5ACD Clown and Gypsy ^000000
 #
 1927#
 Physical Attack Strength to Demihuman monsters +95%.
@@ -10950,6 +10950,7 @@ Jobs:^6A5ACD All classes except Novice ^000000
 2274#
 A traditional Japanese headpiece associated with the afterlife.
 AGI +2
+Increases resistance against Ghost property attack by 15%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6A5ACD Upper ^000000
@@ -12321,8 +12322,8 @@ Jobs:^6A5ACD All classes except Novice ^000000
 Named after Odin's trusty steed, these shoes also mimic Sleipnir's powers.
 Increase Movement Speed.
 SP Recovery +15%
-MaxHP +10%
-MaxSP +10%
+MaxHP +20%
+MaxSP +20%
 MDEF +10
 Class:^6A5ACD Footgear ^000000
 Defense:^0000FF 5 ^000000
@@ -13960,6 +13961,7 @@ AGI +6
 INT +6
 Vit +6
 LUK +10
+MDEF +5
 Class:^6A5ACD Accessory ^000000
 Defense:^0000FF 1 ^000000
 Weight:^0EAA0B 150 ^000000
@@ -15563,15 +15565,6 @@ Level Requirement:^0EAA0B 0 ^000000
 Jobs:^6A5ACD Swordman Class ^000000
 #
 2795#
-A Green Apple ring for those who have ascended to their third job. Once you are accustomed to your specific job skills it's effects begin to wear off.
-All Stats +6 at job level 1.
-Stat bonus decreases by 1 for every 5 job levels attained.
-At job level 30 stat bonus is cancelled.
-Class:^6A5ACD Accessory ^000000
-Defense:^0000FF 0 ^000000
-Weight:^0EAA0B 0 ^000000
-Level Requirement:^0EAA0B 99 ^000000
-Jobs:^6A5ACD Every Third Job Except Novice ^000000
 #
 2796#
 A stone with enormous latent magic power.
@@ -22398,7 +22391,9 @@ Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes except Novice ^000000
 #
 5104#
-A blinder enchanted with dark magic that adds immunity to Blind and 2% tolerance to Stun effect.
+A blinder enchanted with dark magic.
+Adds immunity against Blind status.
+Adds Stun resistance by 2%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6A5ACD Middle ^000000
@@ -22822,14 +22817,20 @@ Level Requirement:^0EAA0B 75 ^000000
 Jobs:^6A5ACD Swordman Class ^000000
 #
 5132#
+A hat, made especially to look like a certain monster that looks like an angel, but it hates the whole human race.
+Reduces damage taken from Demihuman monsters by 10%.
+^FF0000Unrefineable^000000
+Class:^6A5ACD Headgear ^000000
+Location:^6A5ACD Upper ^000000
+Defense:^0000FF 2 ^000000
+Weight:^0EAA0B 70 ^000000
+Level Requirement:^0EAA0B 38 ^000000
+Jobs:^6A5ACD All classes ^000000
 #
 5133#
-A hat that looks like
-a sheep's head that is
-so adorable, an enemy
-might change his mind
-about attacking. Reflects 5% physical damage.
-Impossible to Upgrade
+A hat that looks like a sheep's head that is so adorable, an enemy might change his mind about attacking.
+Reflects 5% physical damage.
+^FF0000Unrefineable^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6A5ACD Upper ^000000
@@ -22839,7 +22840,6 @@ Jobs:^6A5ACD Acolyte Class ^000000
 #
 5134#
 Wearing this item gives you the urge to shameslessly bounce around and cackle like a Jakk.
-Reduces damage from Demon monsters by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
 Position:^6A5ACD Upper ^000000
@@ -23058,6 +23058,16 @@ Weight:^0EAA0B 200 ^000000
 Jobs:^6A5ACD All ^000000
 #
 5153#
+A headgear inspire from Angeling. You body will feel lighter when you put in on.
+Flee +5
+[+^008800Angel's Dress^000000]
+LUK +6, INT +2
+Flee +5
+Class:^6A5ACD Headgear ^000000
+Defense:^0000FF 3 ^000000
+Location:^6A5ACD Upper ^000000
+Weight:^0EAA0B 70 ^000000
+Jobs:^6A5ACD All classes ^000000
 #
 5154#
 Fashionable yet strict-looking sunglasses which is usually worn by the Metaboli players.
@@ -23354,10 +23364,32 @@ Level Requirement:^0EAA0B 40 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
 5178#
+A candle used for praying after donating to the temple.
+You can feel an aura of the temple holiness on it.
+All Stats +1
+Class:^6A5ACD Headgear ^000000
+Defense:^0000FF 0 ^000000
+Location:^6A5ACD Upper ^000000
+Weight:^0EAA0B 15 ^000000
+Jobs:^6A5ACDAll classes ^000000
 #
 5179#
+A circlet which has a star-shape accessory in the middle that makes the wearer looks attractive.
+INT +2
+Class:^6A5ACD Headgear ^000000
+Defense:^0000FF 0 ^000000
+Location:^6A5ACD Upper ^000000
+Weight:^0EAA0B 10 ^000000
+Jobs:^6A5ACD All classes ^000000
 #
 5180#
+A hat that is tailor-made for the independence day of a western country.
+VIT +1
+Class:^6A5ACD Headgear ^000000
+Defense:^0000FF 1 ^000000
+Location:^6A5ACD Upper ^000000
+Weight:^0EAA0B 10 ^000000
+Jobs:^6A5ACD All classes ^000000
 #
 5181#
 A forboding helmet that hides part of the face. People wearing this have the appearance of Beelzebub.
@@ -23466,11 +23498,17 @@ Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All ^000000
 #
 5190#
+Indonesian independence celebration.
+Class:^6A5ACD Headgear ^000000
+Defense:^0000FF 3 ^000000
+Location:^6A5ACD Upper ^000000
+Weight:^0EAA0B 2 ^000000
+Jobs:^6A5ACD All classes ^000000
 #
 5191#
 A long piece of black satin tied together into a neat little ribbon that wards off harmful magic.
+INT +1
 MDEF +3
-^FFFFFF_^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6A5ACD Upper ^000000
@@ -23555,6 +23593,12 @@ Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
 5199#
+India independence celebration hat.
+Class:^6A5ACD Headgear ^000000
+Defense:^0000FF 3 ^000000
+Location:^6A5ACD Upper ^000000
+Weight:^0EAA0B 20 ^000000
+Jobs:^6A5ACD All classes ^000000
 #
 5200#
 Marco's favorite hat. Andrea has written the words ''His memories to you ...'' on the inside of the hat.
@@ -23565,6 +23609,13 @@ Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
 5201#
+Ragnarok event hat cones.
+All Stats +3
+Class:^6A5ACD Headgear ^000000
+Defense:^0000FF 3 ^000000
+Location:^6A5ACD Upper ^000000
+Weight:^0EAA0B 30 ^000000
+Jobs:^6A5ACD All classes ^000000
 #
 5202#
 A special pumpkin
@@ -30882,9 +30933,6 @@ You can enter the Endless Tower without any restriction with this item.
 Weight:^0EAA0B 0 ^000000
 #
 6128#
-An antidote for Guillotine Cross only.
-^FFFFFF_^000000
-Weight:^0EAA0B 0 ^000000
 #
 6129#
 A cute pet Nightmare Terror tickets.
@@ -31786,23 +31834,6 @@ A shard from a broken piece of Bradium.
 Weight:^0EAA0B 1 ^000000
 #
 6320#
-This item is used to access various Premium Services.
-^FFFFFF_^000000
-All third class job changes require ^006400[1 Reset Stone]^000000 or ^FF0000VIP Status^000000 on the account.
-^FFFFFF_^000000
-This item will be tradeable and vendable from ^FF0000June 9th - June 21st 2011 ^000000
-^FFFFFF_^000000
-Sam Status is accepting Reset Stones to reset your stat points.
-You can find him in Payon around 180 115.
-Reset Stones Required per level:
-Base Lvl ^0000FF1 ~ 40 ^006400[1 Reset Stone] ^000000
-Base Lvl ^0000FF41 ~ 70 ^006400[2 Reset Stone] ^000000
-Base Lvl ^0000FF71 ~ 90 ^006400[3 Reset Stone] ^000000
-Base Lvl ^0000FF91 ~ 110 ^006400[4 Reset Stone] ^000000
-Base Lvl ^0000FF111 ~ 125 ^006400[5 Reset Stone] ^000000
-Base Lvl ^0000FF126 ~ 140 ^006400[6 Reset Stone] ^000000
-Base Lvl ^0000FF141 ~ 150 ^006400[7 Reset Stone] ^000000
-Weight:^0EAA0B 0 ^000000
 #
 6321#
 A sturdy helm with hooked horns. Can be sold to Item Collectors.
@@ -53536,50 +53567,8 @@ Jobs:^6A5ACD All ^000000
 Weight:^0EAA0B 1 ^000000
 #
 16555#
-A box that contains 1 Reset Stone inside.
-^FF0000This item is not refundable.
-Can be traded and stored. ^000000
-Description:
-This item is used to access various Premium Services.
-^FFFFFF_^000000
-All third class job changes require ^006400[1 Reset Stone]^000000 or ^FF0000VIP Status^000000 on the account.
-^FFFFFF_^000000
-Sam Status is accepting Reset Stones to reset your stat points.
-You can find him in Payon around 180 115.
-Reset Stones Required per level:
-Base Lvl ^0000FF1 ~ 40 ^006400[1 Reset Stone] ^000000
-Base Lvl ^0000FF41 ~ 70 ^006400[2 Reset Stone] ^000000
-Base Lvl ^0000FF71 ~ 90 ^006400[3 Reset Stone] ^000000
-Base Lvl ^0000FF91 ~ 110 ^006400[4 Reset Stone] ^000000
-Base Lvl ^0000FF111 ~ 125 ^006400[5 Reset Stone] ^000000
-Base Lvl ^0000FF126 ~ 140 ^006400[6 Reset Stone] ^000000
-Base Lvl ^0000FF141 ~ 150 ^006400[7 Reset Stone] ^000000
-Weight:^0EAA0B 0 ^000000
-^FFFFFF_^000000
-Weight:^0EAA0B 1 ^000000
 #
 16556#
-A box that contains 1 Reset Stone inside.
-^FF0000This item is not refundable.
-Can only be put into storage. ^000000
-Description:
-This item is used to access various Premium Services.
-^FFFFFF_^000000
-All third class job changes require ^006400[1 Reset Stone]^000000 or ^FF0000VIP Status^000000 on the account.
-^FFFFFF_^000000
-Sam Status is accepting Reset Stones to reset your stat points.
-You can find him in Payon around 180 115.
-Reset Stones Required per level:
-Base Lvl ^0000FF1 ~ 40 ^006400[1 Reset Stone] ^000000
-Base Lvl ^0000FF41 ~ 70 ^006400[2 Reset Stone] ^000000
-Base Lvl ^0000FF71 ~ 90 ^006400[3 Reset Stone] ^000000
-Base Lvl ^0000FF91 ~ 110 ^006400[4 Reset Stone] ^000000
-Base Lvl ^0000FF111 ~ 125 ^006400[5 Reset Stone] ^000000
-Base Lvl ^0000FF126 ~ 140 ^006400[6 Reset Stone] ^000000
-Base Lvl ^0000FF141 ~ 150 ^006400[7 Reset Stone] ^000000
-Weight:^0EAA0B 0 ^000000
-^FFFFFF_^000000
-Weight:^0EAA0B 1 ^000000
 #
 16564#
 #
@@ -56105,39 +56094,14 @@ Weight:^0EAA0B 1 ^000000
 17669#
 #
 18000#
-A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
-Class:^6A5ACD Cannonball ^000000
-Attack:^D80000 100 ^000000
-Weight:^0EAA0B 1 ^000000
-Property:^777777 Neutral ^000000
 #
 18001#
-A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
-Class:^6A5ACD Cannonball ^000000
-Attack:^D80000 120 ^000000
-Weight:^0EAA0B 1 ^000000
-Property:^777777 Holy ^000000
 #
 18002#
-A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
-Class:^6A5ACD Cannonball ^000000
-Attack:^D80000 120 ^000000
-Weight:^0EAA0B 1 ^000000
-Property:^777777 shadow ^000000
 #
 18003#
-A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
-Class:^6A5ACD Cannonball ^000000
-Attack:^D80000 120 ^000000
-Weight:^0EAA0B 1 ^000000
-Property:^777777 Ghost ^000000
 #
 18004#
-A consumable item to use the Mechanic Magic Gear Skill, Arm's Cannon.
-Class:^6A5ACD Cannonball ^000000
-Attack:^D80000 250 ^000000
-Weight:^0EAA0B 1 ^000000
-Property:^777777 Neutral ^000000
 #
 18100#
 #
