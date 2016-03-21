@@ -4423,7 +4423,7 @@ A particularly modified Katar created for battles against Demihumans. It can be 
 STR +1, DEX +1, LUK +1
 Increases Physical Attack Strength towards Demihuman monsters by 70%.
 Increases Critical damage by 20%.
-Increases Attack Speed(delay after attacking reduces by 5%)
+ASPD +5%
 Indestructible.
 Class:^6A5ACD Katar ^000000
 Attack:^D80000 130 ^000000
@@ -4437,7 +4437,7 @@ Physical Attack Strength to Demihuman monsters +70%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade : Ignore physical defense of Demihumans +5%, ^FF0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
-+9 Upgrade : When physically attacking and weapon awakens, increase in attack speed for 3 sec(delay after attacking reduces by 100%).
++9 Upgrade : When physically attacking and weapon awakens, increase in attack speed by 100% for 3 sec.
 Class:^6A5ACD Katar ^000000
 Attack:^D80000 140 ^000000
 Weight:^0EAA0B 0 ^000000
@@ -4450,7 +4450,7 @@ Physical Attack Strength to Demihuman monsters +70%.
 Critical Attack to Demihuman monsters +20%.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade : Critical Attack to Demihuman monsters +5%, ^FF0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
-+9 Upgrade : When physically attacking and weapon awakens, increase in attack speed for 3 sec(delay after attacking reduces by 100%).
++9 Upgrade : When physically attacking and weapon awakens, increase in attack speed by 100% for 3 sec.
 Class:^6A5ACD Katar ^000000
 Attack:^D80000 140 ^000000
 Weight:^0EAA0B 0 ^000000
@@ -4622,9 +4622,9 @@ Physical Attack against Demihuman monsters +75%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade : Ignore Demihuman physical defense +5%, Aspd +5%, ^FF0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
-+9 Upgrade : Activate [Fatal Wound] 5%. Increase in attack speed(delay after attacking reduces by 5%)
++9 Upgrade : Activate [Fatal Wound] 5%. ASPD +5%
 When using [Mammonite], has a chance of casting Lv. 2 [Fatal Wound].
-Increase in attack speed(delay after attacking reduces by 5%)
+ASPD +5%
 Class:^6A5ACD Onehand Axe ^000000
 Attack:^D80000 130 ^000000
 Weight:^0EAA0B 0 ^000000
@@ -5460,7 +5460,7 @@ A special spear made for charging at the enemy's position. It is especially desi
 STR +2
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
 Ignores Physical Defense from Demihuman monsters by 20%.
-If worn by Crusader or Paladin, Increase in attack speed(Delay after attacking reduces by 20%)
+If worn by Crusader or Paladin, ASPD +20%
 Indestructible.
 Class:^6A5ACD Spear ^000000
 Attack:^D80000 60 ^000000
@@ -5473,7 +5473,7 @@ Jobs:^6A5ACD Swordman Class ^000000
 Physical Attack Strength to Demihuman monster +95%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Demihuman physical defense +5%, Increase in attack speed(Delay after attacking reduces by 5%) ^FF0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
++6 Upgrade : Ignore Demihuman physical defense +5%, ASPD +5%, ^FF0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
 +9 Upgrade : Knight Class : When using [Pierce], has a chance of inflicting Lv. 2 [Fatal Wound].
 Crusader Class : When attacking normally, has a chance of casting Lv. 5 [Gloria Domini].
 Increase in attack speed(Dealy after attacking reduces by 5%)
@@ -5953,7 +5953,7 @@ Jobs:^6A5ACD Swordman Class ^000000
 #
 1483#
 Two handed spear made of the Ivory of a Mammoth. It is very hard to be processed due to its strength, but its sharp end makes it perfect for stabbing.
-AGI +2, Aspd +3%, Increase in attack speed(Delay after attacking reduces by 3%
+AGI +2, Aspd +3%, ASPD +3%
 Enables the use of Lv.5 Spear Stab
 Has a chance of inflicting Lv.1 Fatal Wound while physically attacking.
 Class:^6A5ACD Spear ^000000
@@ -5965,7 +5965,7 @@ Jobs:^6A5ACD Transcendent Swordman Class ^000000
 #
 1484#
 Two handed spear which looks just like a miniature of a pillar from the ancient temples.
-Aspd -10%, decrease in attack speed(Delay after attacking increases by 10%)
+ASPD -10%
 additional increase in Def according to the Refining Level.
 Class:^6A5ACD Spear ^000000
 Attack:^D80000 150 ^000000
@@ -6501,9 +6501,10 @@ Jobs:^6A5ACD Novice, Swordman, Merchant, Acolyte ^000000
 #
 1544#
 An old, black and large frying pan.
-If base Str is 77 or higher, Aspd +4% inflicts, Increase in attack speed(delay after attacking reduces by 4%)
-and +15% chance to casting Stun to target when physically attacking.
-Also adds a 5% chance of dropping cooked dishes when killing Animal, Plant, or Fish monsters.
+If base STR is 77 or higher:
+ASPD +4%
+Add 15% chance of Stunning target when dealing physical attacks.
+Also adds a 5% chance of dropping cooked dishes when killing Brute, Plant or Fish monsters.
 Class:^6A5ACD Mace ^000000
 Attack:^D80000 110 ^000000
 Weight:^0EAA0B 70 ^000000
@@ -6525,7 +6526,7 @@ Jobs:^6A5ACD Novice, Swordman, Acolyte, and Merchant ^000000
 Physical Attack against Demihuman monsters +75%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
-+6 Upgrade : Ignore Demihuman physical defense +5%,Increase in attack speed(Delay after attacking reduces by 5%), ^FF0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
++6 Upgrade : Ignore Demihuman physical defense +5%, ASPD +5%, ^FF0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
 +9 Upgrade : has a chance of Inflicting [Stun] when normally attacking, increae in attack speed(Delay after ataccking reduces by 5%)
 Class:^6A5ACD Mace ^000000
 Attack:^D80000 130 ^000000
@@ -8137,7 +8138,7 @@ Jobs:^6A5ACD Sniper only ^000000
 #
 1737#
 A beautiful bow shaped as a pair of pure white wings.
-Has a chance of increasing attack speed for 7 seconds with low probability when attacking.(delay after attacking reduces by 7%)
+Has a chance of increasing attack speed by 7% for 7 seconds with low probability when attacking.
 Activation probability increases according to Refine level
 Class:^6A5ACD Bow ^000000
 Attack:^D80000 135 ^000000
@@ -9016,9 +9017,8 @@ returning only once
 they've realized that
 they've finished
 their performance.
-Increases Attack
-delay after attacking reduces by 100% 
-the cost of reducing
+ASPD +100%
+at the cost of reducing
 HP Recovery Rate by
 100%, heavily reducing
 DEX, and losing 50 HP
@@ -10123,7 +10123,7 @@ Jobs:^6A5ACD All ^000000
 A Shield that a lance can be placed on top of. Very efficient to defend oneself while attacking with a lance.
 Damage increases by 1% against all monsters.
 When equipped with Long Horn, Battle Hook, or Hunting Spear, damage increases by 4% against all monsters.
-If equipped by a Lord Knight, Attack speed decreases(Delay after attacking increasesby 5%)
+If equipped by a Lord Knight, ASPD -5%
 Class:^6A5ACD Shield ^000000
 Defense:^0000FF 5 ^000000
 Weight:^0EAA0B 100 ^000000
@@ -11997,7 +11997,7 @@ MaxHP +150, MDEF +2,
 ^FFFFFF_^000000
 When equipped with Battle Greaves and Captain's Manteau,
 AGI +3. MaxHP +12%,
-Increase in attack speed(delay after attacking reduces by 5%), Critical Rate +5%,
+Crit +5%,
 ASPD +5%
 Increases damage from non-Demihuman monsters times 3.
 When attacking physically has a chance of restoring 3,000 HP per second for 10 seconds.
@@ -12140,7 +12140,7 @@ Jobs:^6A5ACD 2nd Transcendent Class ^000000
 2388#
 A traditional garb worn by desert dwellers that is specially designed for hot weather environments.
 AGI +1
-Flee +5, Aspd +2%,Increase in attack speed(Delay after attacking reduces by 2%)
+Flee +5, Aspd +2%
 Class:^6A5ACD Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^0EAA0B 30 ^000000
@@ -14815,7 +14815,7 @@ A glove which is a favorite item among librarians.
 SP + 20.
 If equipped with a Pocket Watch and an Ancient Magic or Principles of Magic weapon,
 INT +5, HP +700,
-Increase in attack speed(delay after attacking reduces by 5%)
+ASPD +5%
 Class:^6A5ACD Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^0EAA0B 10 ^000000
@@ -14914,7 +14914,7 @@ Jobs:^6A5ACD Archer Classes ^000000
 2725#
 A medal rewarded to honorable warriors.
 ATK +5%, MATK +5%,
-Increase in attack speed(delay after attacking reduces by 10%)
+ASPD +10%
 MaxHP +500, MaxSP +50.
 Has a chance of inflicting the ^FF0000Curse^000000 status when attacking an enemy with short ranged physical attacks.
 Class:^6A5ACD Accessory ^000000
@@ -14964,7 +14964,7 @@ Jobs:^6A5ACD Above Transcendent 2-1 Classes ^000000
 #
 2730#
 A royal gift to a member of the Continental Guard.
-MaxHP +50, when equipped, attack speed increases(delay after attacking reduces by 3%)
+MaxHP +50, ASPD +3%
 Class:^6A5ACD Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^0EAA0B 5 ^000000
@@ -15117,7 +15117,6 @@ Jobs:^6A5ACD 2nd Transcendent Class ^000000
 A little something that Assassins should have. There're a number of rumors regarding the blood stain at the end of the blade.
 AGI +3
 When equipped with Ring of Rogue, damage against medium sized monsters +8% and Aspd +3%.
-Increase in attack speed(delay after attacking reduces by 3%)
 Class:^6A5ACD Accessory ^000000
 Defense:^0000FF 1 ^000000
 Weight:^0EAA0B 10 ^000000
@@ -15297,7 +15296,7 @@ Jobs:^6A5ACD All ^000000
 2770#
 A fine figure of a Thief, which has a mischievous smile on it.
 AGI +1, when equipped on Thief class,
-increase in attack speed(delay after attacking reduces by 3%)
+ASPD +3%
 Class:^6A5ACD Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^0EAA0B 0 ^000000
@@ -19995,7 +19994,7 @@ Weight:^0EAA0B 1 ^000000
 #
 4425#
 ATK +25
-When in physical attack, ASPD increases for 10 seconds with consistent chance (delay after attacking reduces by 100%)
+When in physical attack, ASPD +100% for 10 seconds.
 Class:^6A5ACD Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^0EAA0B 1 ^000000
@@ -22362,8 +22361,6 @@ Jobs:^6A5ACD All ^000000
 #
 5101#
 A Commemorative blindfold named after the most famous of Sages; Takius from the Ragnarok Anime.
-INT +2, Def +1
-^FFFFFF_^000000
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6A5ACD Middle ^000000
@@ -22644,6 +22641,12 @@ Jobs:^6A5ACD All classes except Novice ^000000
 Swordman Class :
 Additional +6 DEF 
 (Total 11 DEF)
+Class:^6A5ACD Headgear ^000000
+Defense:^0000FF 5 ^000000
+Location:^6A5ACD Upper ^000000
+Weight:^0EAA0B 100 ^000000
+Level Requirement:^0EAA0B 65 ^000000
+Jobs:^6A5ACD All except Novice ^000000
 #
 5123#
 A woolen hunting
@@ -22904,7 +22907,6 @@ MDEF +5.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6A5ACD Upper ^000000
-^FFFFFF_^000000
 Weight:^0EAA0B 3 ^000000
 Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD Magician Class/Soul Linker ^000000
@@ -23929,12 +23931,10 @@ Level Requirement:^0EAA0B 35 ^000000
 Jobs:^6A5ACD All except Novice ^000000
 #
 5224#
-A headgear that is
-only bestowed to true
-Orc Heroes, the most
-valiant warriors of
-the Orc Clan. STR +2,
-Vit +1, MaxHP +10%.
+A headgear that is only bestowed to true Orc Heroes, the most valiant warriors of the Orc Clan.
+STR +2
+Vit +1
+MaxHP +10%
 (All transferable methods except kafra storage are locked)
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 5 ^000000
@@ -24135,6 +24135,7 @@ Jobs:^6A5ACD Mage and Soul Linker ^000000
 #
 5243#
 A hat made from animal fur. They keep your ears warm in the bitter cold of winter.
+Increases resistance against Frozen by 10%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
 Position:^6A5ACD Upper, Middle ^000000
@@ -24241,7 +24242,7 @@ MATK +2%
 Increases experience gained from killing monsters by 2%.
 Refine Level +7: increases experience gained from killing monsters by 1%.
 Class:^6A5ACD Headgear ^000000
-Defense:^0000FF 1 ^000000
+Defense:^0000FF 3 ^000000
 Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 50 ^000000
 Level Requirement:^0EAA0B 20 ^000000
@@ -24265,7 +24266,7 @@ A hairband utilizing a Feather from a Valkyrie Angel.
 INT +1
 Has a low chance of auto-casting Level 1 Heal on the user when receiving physical damage.
 Class:^6A5ACD Headgear ^000000
-Defense:^0000FF 2 ^000000
+Defense:^0000FF 1 ^000000
 Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 20 ^000000
@@ -24794,7 +24795,7 @@ Jobs:^6A5ACD All classes ^000000
 5302#
 A hat made from a Brasilis Water Lily flower.
 Class:^6A5ACD Headgear ^000000
-Defense:^0000FF 1 ^000000
+Defense:^0000FF 2 ^000000
 Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Level Requirement:^0EAA0B 30 ^000000
@@ -25025,9 +25026,9 @@ Dex +3
 Low Chance of casting Level 3 Grand Cross when hit by melee physical attack.
 Position:^6A5ACD Upper ^000000
 Defense:^0000FF 2 ^000000
+Weight:^0EAA0B 30 ^000000
 Level Requirement:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
-Weight:^0EAA0B 30 ^000000
 #
 5325#
 A weird item that spreads a strange-shaped beam around the eyes. It seems to have been made in outer space.
@@ -25139,7 +25140,7 @@ A Poring hat that feels like hopping on top of your head. It brings fortune to t
 LUK +1
 Cannot be upgraded and destroyed.
 Class:^6A5ACD Headgear ^000000
-Defense:^0000FF 2 ^000000
+Defense:^0000FF 3 ^000000
 Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All ^000000
@@ -25420,7 +25421,7 @@ Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6A5ACD Lower ^000000
 Weight:^0EAA0B 10 ^000000
-Level Requirement:^0EAA0B 1 ^000000
+Level Requirement:^0EAA0B 60 ^000000
 Jobs:^6A5ACD All Except Novice ^000000
 #
 5362#
@@ -25430,7 +25431,7 @@ Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6A5ACD Lower ^000000
 Weight:^0EAA0B 20 ^000000
-Level Requirement:^0EAA0B 1 ^000000
+Level Requirement:^0EAA0B 60 ^000000
 Jobs:^6A5ACD All ^000000
 #
 5363#
@@ -25879,7 +25880,7 @@ Gentle Filir. He is too gentle. He never attacks.
 Reflects 1% of physical attacks within short range.
 ^FF0000Unrefineable ^000000
 Class:^6A5ACD Headgear ^000000
-Defense:^0000FF 0 ^000000
+Defense:^0000FF 2 ^000000
 Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
 Level Requirement:^0EAA0B 80 ^000000
@@ -25981,7 +25982,7 @@ Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 2 ^000000
 Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 60 ^000000
-Level Requirement:^0EAA0B 21 ^000000
+Level Requirement:^0EAA0B 18 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
 5417#
@@ -26244,7 +26245,7 @@ Jobs:^6A5ACD All Classes except Novice ^000000
 5442#
 A salaryman's necktie worn as a headband.
 VIT +1
-When equipped with [Blush], Attack Speed Increases(Delay after attacking reduces by 3%), Casting Speed reduces by 3%.
+When equipped with [Blush], ASPD +3%, Casting Speed reduces by 3%.
 Hit -5. Sp Consume increases by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 3 ^000000
@@ -27601,9 +27602,9 @@ A hat to commemorate the Sinulog Festival, you felt stronger while wearing it.
 STR +1
 When refined to +7, CRIT +10, HIT +10, add a chance of increasing ATK by 30 when dealing physical attacks.
 Class:^6A5ACD Headgear ^000000
-Defense:^0000FF 1 ^000000
+Defense:^0000FF 4 ^000000
 Position:^6A5ACD Upper ^000000
-Weight:^0EAA0B 30 ^000000
+Weight:^0EAA0B 100 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -27612,7 +27613,7 @@ A Bonnet looks like a cute rabbit that made by legendary hat maker. It looks so 
 INT +2
 Reduce after cast delay by 3%.
 Class:^6A5ACD Headgear ^000000
-Defense:^0000FF 1 ^000000
+Defense:^0000FF 4 ^000000
 Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 100 ^000000
 Level Requirement:^0EAA0B 1 ^000000
@@ -27795,7 +27796,7 @@ The horns imbued with full of Devil Spirit. Feels so tight and harsh.
 Reduces damage from demon monsters by 3%.
 Recover 1 SP when kill the enemies by using melee physical attack or magical attack.
 Class:^6A5ACD Headgear ^000000
-Defense:^0000FF 1 ^000000
+Defense:^0000FF 2 ^000000
 Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 40 ^000000
 Level Requirement:^0EAA0B 1 ^000000
@@ -28017,7 +28018,7 @@ Increases physical and magical damage inflicted on Demihuman monsters by 10%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 8 ^000000
 Position:^6A5ACD Upper ^000000
-Weight:^0EAA0B 25 ^000000
+Weight:^0EAA0B 250 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -28030,7 +28031,7 @@ Increases physical and magical damage inflicted on Demihuman monsters by 5%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 6 ^000000
 Position:^6A5ACD Upper ^000000
-Weight:^0EAA0B 25 ^000000
+Weight:^0EAA0B 250 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -28043,7 +28044,7 @@ Increases physical and magical damage inflicted on Demihuman monsters by 3%.
 Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 4 ^000000
 Position:^6A5ACD Upper ^000000
-Weight:^0EAA0B 25 ^000000
+Weight:^0EAA0B 250 ^000000
 Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
@@ -28900,10 +28901,10 @@ This frightening hooded mask is so scary that you don't have to worry about the 
 Increases tolerance to Undead and Demon type monsters by 10%
 If refined to +7 or higher, has a chance of adding Critical Rate +30% and Hit +10 for 10 seconds while physically attacking.
 Class:^6A5ACD Headgear ^000000
-Defense:^0000FF 1 ^000000
+Defense:^0000FF 2 ^000000
 Position:^6A5ACD Upper, Middle ^000000
 Weight:^0EAA0B 0 ^000000
-Level Requirement:^0EAA0B 10 ^000000
+Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All ^000000
 #
 5668#
@@ -29158,7 +29159,7 @@ Class:^6A5ACD Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 60 ^000000
-Level Requirement:^0EAA0B 50 ^000000
+Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All ^000000
 #
 5691#
@@ -29409,9 +29410,10 @@ A hairband that attracts men. You can wear it when you want to look sexy.
 AGI +2
 MDEF +3
 Class:^6A5ACD Headgear ^000000
-Defense:^0000FF 2 ^000000
+Defense:^0000FF 4 ^000000
 Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 20 ^000000
+Level Requirement:^0EAA0B 1 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
 5764#
@@ -29974,7 +29976,7 @@ LUK +4
 MaxHP +100, MaxSP +100.
 Reduce damage taken from Demihuman and Brute monsters by 7%.
 Class:^6A5ACD Headgear ^000000
-Defense:^0000FF 4 ^000000
+Defense:^0000FF 2 ^000000
 Position:^6A5ACD Upper ^000000
 Weight:^0EAA0B 10 ^000000
 Jobs:^6A5ACD All classes ^000000
@@ -29997,6 +29999,15 @@ Level Requirement:^0EAA0B 30 ^000000
 Jobs:^6A5ACD All classes ^000000
 #
 5825#
+A badge engraved with Pegasus patern, symbolizes the spirit of Knight.
+ATK +10%, MATK +10%
+MaxHP +1500
+MDEF +1
+Class:^6666CC Accessory^000000
+Defense:^0000FF 1^000000
+Weight:^009900 0^000000
+Level Requirement:^009900 1^000000
+Jobs:^6666CC All classes^000000
 #
 5826#
 Valkyrie helmet with the powerful energy of the Gods.
@@ -30057,6 +30068,16 @@ Jobs:^6A5ACD All ^000000
 5846#
 #
 5847#
+Helmet stupid enough electrolytes to legend.
+Bemused expression and sediment strength, slow ... but it is actually a wise action!
+INT +5, VIT -3
+Adds a low chance to auto cast Level 10 ^008800Blessing^000000 on yourself when dealing physical or magical attacks.
+Class:^6666CC Headgear^000000
+Defense:^0000FF 0^000000
+Location:^6666CC Upper^000000
+Weight:^009900 0^000000
+Level Requirement:^009900 1^000000
+Jobs:^6666CC All classes^000000
 #
 5848#
 A simple mask that you can use to disguise yourself with. Well, at least your eyes won't look the same.
@@ -44250,8 +44271,7 @@ Jobs:^6A5ACD Ninja ^000000
 A legendary weapon
 with extremely sharp
 blades. Critical +3,
-increase Attack Speed.
-delay after attacking reduces by 3%
+ASPD +3%
 Class:^6A5ACD Dagger ^000000
 Attack:^D80000 125 ^000000
 Weight:^0EAA0B 90 ^000000
@@ -44655,7 +44675,7 @@ Jobs:^6A5ACD Stalker ^000000
 #
 13039#
 A dagger made of Mammoth's Ivory. It is very hard to be processed due to the strong solidity of the ivory. It's sharply pointed tip makes it effective for stabbing rather than cutting.
-AGI +2, Aspd +3%, Increase in attack speed(delay after attacking reduces by 3%)
+AGI +2, Aspd +3%
 Has a consistent chance of inflicting bleeding or Lv.1 Fatal Wound while attacking.
 Class:^6A5ACD Dagger ^000000
 Attack:^D80000 130 ^000000
@@ -45531,7 +45551,7 @@ Ignore 20% of Physical Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade : Ignore Defense of Demihuman monsters +5%, ^FF0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
 +9 Upgrade : [Gunslinger Mine] attack strength increase based on refine level.
- Under normal attack, and when weapon awakens in cosistent chance, increase in attack speed for 20 seconds(delay after attacking reduces by 20%)
+ Under normal attack, and when weapon awakens in cosistent chance, ASPD +20% for 20 seconds
 Class:^6A5ACD Grenade Launcher ^000000
 Attack:^D80000 330 ^000000
 Weight:^0EAA0B 0 ^000000
@@ -46423,7 +46443,7 @@ Ignore 20% of Physical Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade : Ignore Demihuman physical defense +5%, ^FF0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
 +7 Upgrade : 
-Increase in attack speed(Delay after attacking reduces by 10%)
+ASPD +10%
 +9 Upgrade : When using [Bash], has a chance of activating Lv. 2 [Fatal Wound].
 Class:^6A5ACD Onehand Sword ^000000
 Attack:^D80000 130 ^000000
