@@ -8938,12 +8938,12 @@
 16346#Leo_Diadem_Box#
 16347#Shooting_Star_Box#
 16348#Bloody_Spear_Box#
-16349#,..#
+16349#Ahlspiess_Box#
 16350#Healing_of_Staff_Box#
 16351#Anti_Demon_Shield#
 16352#Shooting_Star_Box#
 16353#Bloody_Spear_Box#
-16354#,..#
+16354#Ahlspiess_Box#
 16355#Healing_of_Staff_Box#
 16356#Anti_Demon_Shield_Box#
 16357#Satanic_Bone_Helm_Box#
