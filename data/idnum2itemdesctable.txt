@@ -37,7 +37,7 @@ Weight:^009900 15 ^000000
 A potion made from grinded Green Herbs.
 ^FFFFFF_^000000
 Class:^0000FF Restorative item ^000000
-Cure:^009900 Poison, Silence, Blind, Chaos ^000000
+Cure:^009900 Poison, Silence, Blind, Confuse, Illusion ^000000
 Weight:^009900 7 ^000000
 #
 507#
@@ -2739,7 +2739,7 @@ Attack:^CC0000 60 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1117#
 A straight bladed sword that the Japanese samurai depended on during battle.
@@ -2748,7 +2748,7 @@ Attack:^CC0000 60 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1118#
 A straight bladed sword that the Japanese samurai depended on during battle.
@@ -2757,7 +2757,7 @@ Attack:^CC0000 60 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1119#
 One of the most powerful one-handed swords, the Tsurugi was favored by the Japanese samurai.
@@ -2875,11 +2875,9 @@ Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
 #
 1131#
 A one-handed, formal dress sword imbued with the ^0000BBWater^000000 element.
-Automatically casts ^008800Level 3 Cold Bolt^000000 by chance.
-Enables use of
-^008800Level 3 Cold Bolt^000000.
-Freeze monsters by 5% chance when hit.
-Freeze its owner by 1% chance when used.
+Enables use of Level 3 ^008800Cold Bolt^000000.
+Adds 1% chance of autocasting Level 3 ^008800Cold Bolt^000000 when dealing physical attacks.
+Adds 5% chance to ^663399Frozen^000000 target and 1% chance to ^663399Frozen^000000 its wielder when dealing physical attacks.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 100 ^000000
 Weight:^009900 60 ^000000
@@ -2900,8 +2898,8 @@ Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
 #
 1133#
 A one-handed, formal dress sword imbued with the ^FF0000Fire^000000 element.
-Automatically casts ^008800Level 3 Fire Bolt^000000 by chance.
-Enables use of ^008800Level 3 Fire Bolt^000000.
+Enables use of Level 3 ^008800Fire Bolt^000000.
+Adds 1% chance of autocasting Level 3 ^008800Fire Bolt^000000 when dealing physical attacks.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 100 ^000000
 Weight:^009900 50 ^000000
@@ -2923,10 +2921,9 @@ Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
 #
 1135#
 A one-handed sword popularized by its use by sea adventurers.
-Enables use of
-^008800Level 5 Bash^000000.
 STR +2
 Def +1
+Enables use of ^008800Level 5 Bash^000000.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 150 ^000000
 Weight:^009900 90 ^000000
@@ -2937,7 +2934,7 @@ Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
 1136#
 A one-handed sword adorned with an engraving of the sun, symbolizing battle spirit and vigor.
 Regains 1% of damage inflicted on its target as as HP with each attack.
-Regains 1 % of the damage inflicted on its target as HP with each attack.
+Regains 1% of the damage inflicted on its target as HP with each attack.
 Drains 15 SP from its owner every 10 seconds.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 85 ^000000
@@ -2986,9 +2983,9 @@ Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
 #
 1140#
 A giant one-handed sword used by ancient Korean war generals.
+All Stats +2
 Increase damage inflicted on boss monsters by 5%.
 Increase damage received by normal monsters by 10%.
-All Stats +2
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 150 ^000000
 Weight:^009900 90 ^000000
@@ -3093,7 +3090,7 @@ Attack:^CC0000 90 ^000000
 Weight:^009900 130 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1152#
 A fearsome sword that has slain many a warrior in battle.
@@ -3102,7 +3099,7 @@ Attack:^CC0000 90 ^000000
 Weight:^009900 130 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1153#
 A fearsome sword that has slain many a warrior in battle.
@@ -3111,7 +3108,7 @@ Attack:^CC0000 90 ^000000
 Weight:^009900 130 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1154#
 A straight bladed sword that can be brutally swung just like a baseball bat.
@@ -3120,7 +3117,7 @@ Attack:^CC0000 115 ^000000
 Weight:^009900 160 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1155#
 A straight bladed sword that can be brutally swung just like a baseball bat.
@@ -3129,7 +3126,7 @@ Attack:^CC0000 115 ^000000
 Weight:^009900 160 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1156#
 A straight bladed sword that can be brutally swung just like a baseball bat.
@@ -3138,7 +3135,7 @@ Attack:^CC0000 115 ^000000
 Weight:^009900 160 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1157#
 A mighty, yet awfully basic, two-handed sword.
@@ -3147,7 +3144,7 @@ Attack:^CC0000 160 ^000000
 Weight:^009900 220 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1158#
 A mighty, yet awfully basic, two-handed sword.
@@ -3156,7 +3153,7 @@ Attack:^CC0000 160 ^000000
 Weight:^009900 220 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1159#
 A mighty, yet awfully basic, two-handed sword.
@@ -3165,7 +3162,7 @@ Attack:^CC0000 160 ^000000
 Weight:^009900 220 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1160#
 A sword with a wide, double sided blade.
@@ -3175,7 +3172,7 @@ Attack:^CC0000 140 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1161#
 Sword wielded by mighty ^333366GOD-POING^000000, the lawless heroine.
@@ -3195,7 +3192,7 @@ Attack:^CC0000 140 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1163#
 Large, double-edged broad sword that was used by the Scottish highlanders.
@@ -3216,7 +3213,7 @@ Attack:^CC0000 155 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1165#
 An oriental sword that is the masterpiece of an ancient Japanese smith.
@@ -3228,7 +3225,7 @@ Attack:^CC0000 200 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1166#
 A giant sword, rumored to be made from a dragon's tooth, that can easily cut through dragon scales.
@@ -3239,7 +3236,7 @@ Attack:^CC0000 150 ^000000
 Weight:^009900 130 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1167#
 A two-handed, formal dress sword imbued with the Wind element.
@@ -3251,7 +3248,7 @@ Weight:^009900 160 ^000000
 Element:^4CBB17 Wind ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1168#
 An enormous, two-handed sword.
@@ -3261,7 +3258,7 @@ Attack:^CC0000 200 ^000000
 Weight:^009900 220 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1169#
 A gruesome sword used to behead criminals judged with the death penalty.
@@ -3273,7 +3270,7 @@ Weight:^009900 220 ^000000
 Element:^777777 Shadow ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1170#
 A sword with a unique, ''S'' shaped hilt.
@@ -3283,7 +3280,7 @@ Attack:^CC0000 175 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1171#
 An enormous sword that can only be swung using both hands.
@@ -3293,7 +3290,7 @@ Attack:^CC0000 200 ^000000
 Weight:^009900 220 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1172#
 A simple, two-handed sword adorned with a cross shaped hilt.
@@ -3315,7 +3312,7 @@ Attack:^CC0000 204 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1174#
 ^000088Rental Item ^000000
@@ -3329,7 +3326,7 @@ Weight:^009900 0 ^000000
 Element:^777777 Shadow ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1175#
 A massive sword wielded by Atroce that is much too large to be handled by ordinary warriors.
@@ -3372,7 +3369,7 @@ Weight:^009900 160 ^000000
 Element:^4CBB17 Wind ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1179#
 A gruesome sword used to behead criminals judged with the death penalty.
@@ -3385,7 +3382,7 @@ Weight:^009900 220 ^000000
 Element:^777777 Shadow ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1180#
 A giant sword, rumored to be made from a dragon's tooth, that can easily cut through dragon scales.
@@ -3396,7 +3393,7 @@ Attack:^CC0000 150 ^000000
 Weight:^009900 130 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1181#
 This is known as the sword of a brave man from the orient.
@@ -3433,7 +3430,7 @@ Attack:^CC0000 200 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1184#
 A Two-handed Sword made to rush at the enemy's position, especially designed for battles against Demihumans.
@@ -3446,7 +3443,7 @@ Attack:^CC0000 200 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1185#
 A huge violet Two-Handed Sword that's made from the Twin Swords of Naght Sieger.
@@ -3490,7 +3487,7 @@ Attack:^CC0000 220 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1188#
 A sword that only allows for its swordmaster to use it.
@@ -3502,7 +3499,7 @@ Attack:^CC0000 180 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1189#
 A strong-looking sword which resembles the shape of a Claymore. Its handgrip is decorated with red colors from the High Class Knights.
@@ -3971,7 +3968,7 @@ Weight:^009900 80 ^000000
 Element:^777777 Holy ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 55 ^000000
-Jobs:^6666CC Thief Class and Ninja ^000000
+Jobs:^6666CC Thief and Ninja ^000000
 #
 1245#
 A wide bladed short sword that was crafted in a western country.
@@ -4514,7 +4511,7 @@ Attack:^CC0000 140 ^000000
 Weight:^009900 120 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 44 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1306#
 A bloodthirsty axe that has aided many warriors in battle.
@@ -4563,7 +4560,7 @@ Attack:^CC0000 130 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman and Merchant classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1311#
 A luxurious axe decorated in red. It creates wind with a unique sound when you wave it.
@@ -4645,7 +4642,7 @@ Attack:^CC0000 80 ^000000
 Weight:^009900 150 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 3 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1352#
 A sturdy, two-handed axe created for fighting multiple enemies at once.
@@ -4654,7 +4651,7 @@ Attack:^CC0000 80 ^000000
 Weight:^009900 150 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 3 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1353#
 A sturdy, two-handed axe created for fighting multiple enemies at once.
@@ -4663,7 +4660,7 @@ Attack:^CC0000 80 ^000000
 Weight:^009900 150 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 3 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1354#
 A really big hammer.
@@ -4672,7 +4669,7 @@ Attack:^CC0000 120 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 16 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1355#
 A really big hammer.
@@ -4681,7 +4678,7 @@ Attack:^CC0000 120 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 16 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1356#
 A really big hammer.
@@ -4690,7 +4687,7 @@ Attack:^CC0000 120 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 16 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1357#
 A powerful axe that lives up to its mighty appearance.
@@ -4699,7 +4696,7 @@ Attack:^CC0000 155 ^000000
 Weight:^009900 220 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1358#
 A powerful axe that lives up to its mighty appearance.
@@ -4708,7 +4705,7 @@ Attack:^CC0000 155 ^000000
 Weight:^009900 220 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1359#
 A powerful axe that lives up to its mighty appearance.
@@ -4717,7 +4714,7 @@ Attack:^CC0000 155 ^000000
 Weight:^009900 220 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1360#
 A two-handed, double bladed axe.
@@ -4726,7 +4723,7 @@ Attack:^CC0000 185 ^000000
 Weight:^009900 250 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1361#
 A two-handed, double bladed axe.
@@ -4735,7 +4732,7 @@ Attack:^CC0000 185 ^000000
 Weight:^009900 250 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1362#
 A two-handed, double bladed axe.
@@ -4744,7 +4741,7 @@ Attack:^CC0000 185 ^000000
 Weight:^009900 250 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1363#
 A terrifying axe that is said to fill the entire battlefield with blood once it cuts flesh.
@@ -4755,7 +4752,7 @@ Attack:^CC0000 170 ^000000
 Weight:^009900 400 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 44 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1364#
 A humongous, double bladed axe.
@@ -4766,7 +4763,7 @@ Attack:^CC0000 187 ^000000
 Weight:^009900 180 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 44 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1365#
 An axe which is said to eradicate the darkness in mislead hearts and guide them to the afterlife.
@@ -4778,7 +4775,7 @@ Weight:^009900 230 ^000000
 Element:^777777 Shadow ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 44 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1366#
 A Greek ceremonial axe that possesses the power of holiness.
@@ -4790,7 +4787,7 @@ Weight:^009900 230 ^000000
 Element:^777777 Holy ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 44 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1367#
 An axe used for the mass slaugher of enemy forces.
@@ -4802,7 +4799,7 @@ Weight:^009900 250 ^000000
 Element:^CC5500 Earth ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 44 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1368#
 A light axe imbued with the Wind element which can be hurled at enemies.
@@ -4813,7 +4810,7 @@ Weight:^009900 250 ^000000
 Element:^4CBB17 Wind ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 44 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1369#
 A huge guillotine blade welded to a handle for active decapitation.
@@ -4824,7 +4821,7 @@ Attack:^CC0000 215 ^000000
 Weight:^009900 300 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 44 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1370#
 A gigantic and ridiculously heavy axe that requires great strength to use it properly.
@@ -4838,8 +4835,7 @@ Attack:^CC0000 10 ^000000
 Weight:^009900 600 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman and
-Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1371#
 A gigantic and ridiculously heavy axe that requires great strength to use it properly.
@@ -4853,8 +4849,7 @@ Attack:^CC0000 10 ^000000
 Weight:^009900 600 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman and
-Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1372#
 ^000088Rental Item ^000000
@@ -4998,7 +4993,7 @@ Attack:^CC0000 220 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman and Merchant classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1383#
 Increases damage against Undead monster by 10%.
@@ -5107,7 +5102,7 @@ Attack:^CC0000 28 ^000000
 Weight:^009900 70 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1402#
 A light spear that can be thrown in an attack. It'll probably be safer to keep holding on to it, though.
@@ -5116,7 +5111,7 @@ Attack:^CC0000 28 ^000000
 Weight:^009900 70 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1403#
 A light spear that can be thrown in an attack. It'll probably be safer to keep holding on to it, though.
@@ -5125,7 +5120,7 @@ Attack:^CC0000 28 ^000000
 Weight:^009900 70 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1404#
 A basic spear that allows slightly longer ranged melee attacks.
@@ -5134,7 +5129,7 @@ Attack:^CC0000 44 ^000000
 Weight:^009900 85 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1405#
 A basic spear that allows slightly longer ranged melee attacks.
@@ -5143,7 +5138,7 @@ Attack:^CC0000 44 ^000000
 Weight:^009900 85 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1406#
 A basic spear that allows slightly longer ranged melee attacks.
@@ -5152,7 +5147,7 @@ Attack:^CC0000 44 ^000000
 Weight:^009900 85 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1407#
 A long spear that is generally issued to foot soldiers.
@@ -5161,7 +5156,7 @@ Attack:^CC0000 60 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1408#
 A long spear that is generally issued to foot soldiers.
@@ -5170,7 +5165,7 @@ Attack:^CC0000 60 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1409#
 A long spear that is generally issued to foot soldiers.
@@ -5179,7 +5174,7 @@ Attack:^CC0000 60 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 1 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1410#
 A spear that is commonly used by mounted knights.
@@ -5188,7 +5183,7 @@ Attack:^CC0000 185 ^000000
 Weight:^009900 250 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1411#
 A spear that is commonly used by mounted knights.
@@ -5197,7 +5192,7 @@ Attack:^CC0000 185 ^000000
 Weight:^009900 250 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1412#
 A spear that is commonly used by mounted knights.
@@ -5206,7 +5201,7 @@ Attack:^CC0000 185 ^000000
 Weight:^009900 250 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1413#
 A legendary spear that is known for its ability to never miss its target.
@@ -5218,7 +5213,7 @@ Element:^777777 Wind ^000000
 Weight:^009900 50 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1414#
 A special spear imbued with the Earth element.
@@ -5230,7 +5225,7 @@ Weight:^009900 70 ^000000
 Element:^CC5500 Earth ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1415#
 A spear that has been made to puncture any armor worn by enemies.
@@ -5240,7 +5235,7 @@ Attack:^CC0000 85 ^000000
 Weight:^009900 85 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1416#
 A spear with the power to drain the souls of enemies it has defeated.
@@ -5250,7 +5245,7 @@ Attack:^CC0000 100 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1417#
 An axe head mounted on a long pole, this weapon was especially made to break through thick armored plates.
@@ -5262,7 +5257,7 @@ Attack:^CC0000 160 ^000000
 Weight:^009900 380 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 71 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1418#
 A legendary spear that is known for its ability to never miss its target.
@@ -5274,7 +5269,7 @@ Element:^777777 Wind ^000000
 Weight:^009900 50 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 4 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1419#
 ^000088Rental Item ^000000
@@ -5287,7 +5282,7 @@ Attack:^CC0000 195 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1420#
 A spear fashioned from a unicorn's horn, enabling it to neutralize poisons and inflict deep wounding.
@@ -5367,7 +5362,7 @@ Attack:^CC0000 60 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1426#
 Physical Attack Strength to Demihuman monster +95%.
@@ -5382,7 +5377,7 @@ Attack:^CC0000 130 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1427#
 ^000088Rental Item ^000000
@@ -5446,7 +5441,7 @@ Attack:^CC0000 195 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1432#
 #
@@ -5490,7 +5485,7 @@ Attack:^CC0000 84 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1452#
 Topped with a curved blade and puncturing spike.
@@ -5500,7 +5495,7 @@ Attack:^CC0000 84 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1453#
 Topped with a curved blade and puncturing spike.
@@ -5510,7 +5505,7 @@ Attack:^CC0000 84 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1454#
 A spear with a huge swordlike spearhead.
@@ -5519,7 +5514,7 @@ Attack:^CC0000 104 ^000000
 Weight:^009900 120 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1455#
 A spear with a huge swordlike spearhead.
@@ -5528,7 +5523,7 @@ Attack:^CC0000 104 ^000000
 Weight:^009900 120 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1456#
 A spear with a huge swordlike spearhead.
@@ -5537,7 +5532,7 @@ Attack:^CC0000 104 ^000000
 Weight:^009900 120 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1457#
 A spear topped with a double edged blade with two side blades.
@@ -5546,7 +5541,7 @@ Attack:^CC0000 124 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1458#
 A spear topped with a double edged blade with two side blades.
@@ -5555,7 +5550,7 @@ Attack:^CC0000 124 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1459#
 A spear topped with a double edged blade with two side blades.
@@ -5564,7 +5559,7 @@ Attack:^CC0000 124 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 18 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1460#
 A triple pronged spear that can also be used for fishing.
@@ -5573,7 +5568,7 @@ Attack:^CC0000 150 ^000000
 Weight:^009900 120 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1461#
 A triple pronged spear that can also be used for fishing.
@@ -5582,7 +5577,7 @@ Attack:^CC0000 150 ^000000
 Weight:^009900 120 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1462#
 A triple pronged spear that can also be used for fishing.
@@ -5591,7 +5586,7 @@ Attack:^CC0000 150 ^000000
 Weight:^009900 120 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1463#
 A spear with a steel spike and axe-blade which enable both piercing and hacking.
@@ -5600,7 +5595,7 @@ Attack:^CC0000 165 ^000000
 Weight:^009900 250 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1464#
 A spear with a steel spike and axe-blade which enable both piercing and hacking.
@@ -5609,7 +5604,7 @@ Attack:^CC0000 165 ^000000
 Weight:^009900 250 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1465#
 A spear with a steel spike and axe-blade which enable both piercing and hacking.
@@ -5618,7 +5613,7 @@ Attack:^CC0000 165 ^000000
 Weight:^009900 250 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1466#
 A heavy scythe that is usually carried by the Grim Reaper.
@@ -5629,7 +5624,7 @@ Attack:^CC0000 180 ^000000
 Weight:^009900 250 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1467#
 A spear with a hooked blade that has proven its versatility in battle.
@@ -5640,7 +5635,7 @@ Attack:^CC0000 183 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1468#
 A spear imbued with the ^33CC00Wind^000000 element.
@@ -5652,7 +5647,7 @@ Weight:^009900 200 ^000000
 Element:^7BCC70 Wind ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1469#
 A legendary spear owned by the tragic soldier, Longinus.
@@ -5663,7 +5658,7 @@ Weight:^009900 250 ^000000
 Element:^777777 Shadow ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1470#
 A spear that radiates with the warm, glowing light of pure holiness.
@@ -5676,7 +5671,7 @@ Weight:^009900 300 ^000000
 Element:^777777 Holy ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1471#
 A spear imbued with the ^FF0000Fire^000000 element and enchanted with the power to summon flame.
@@ -5688,7 +5683,7 @@ Weight:^009900 350 ^000000
 Element:^FF0000 Fire ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1472#
 A high quality, two-handed staff that amplifies psychic power.
@@ -5700,7 +5695,7 @@ Attack:^CC0000 25 ^000000
 Weight:^009900 140 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 73 ^000000
-Jobs:^6666CC Mage Class and Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 #
 1473#
 Rumored to have been crafted by an ancient wizard, this staff contains awesome energies.
@@ -5712,7 +5707,7 @@ Attack:^CC0000 120 ^000000
 Weight:^009900 240 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 90 ^000000
-Jobs:^6666CC Mage Class and Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 #
 1474#
 A spear, created from the body of a dead giant sea creature, topped with a jagged blade that leaves deep wounds.
@@ -5723,7 +5718,7 @@ Attack:^CC0000 160 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 60 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1475#
 Not much is known about the mysterious Equestrian's Spear...
@@ -5737,7 +5732,7 @@ Attack:^CC0000 180 ^000000
 Weight:^009900 250 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1477#
 The creator of this formidable Two-Handed Spear sacrificed his own life to forge it, resulting in a curse that will try to dominate the wearer's soul.
@@ -5785,7 +5780,7 @@ Attack:^CC0000 160 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 60 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1481#
 A spear imbued with the ^33CC00Wind^000000 element.
@@ -5797,7 +5792,7 @@ Weight:^009900 200 ^000000
 Element:^777777 Wind ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1482#
 A Two-handed Spear made to rush at the enemy's position, especially designed for battles against Demihumans.
@@ -5810,7 +5805,7 @@ Attack:^CC0000 160 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1483#
 Two-Handed Spear made of the Ivory of a Mammoth. It is very hard to be processed due to its strength, but its sharp end makes it perfect for stabbing.
@@ -5857,7 +5852,7 @@ Attack:^CC0000 220 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 1487#
 ^000088Rental Items ^000000
@@ -6100,7 +6095,7 @@ Attack:^CC0000 140 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 27 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1523#
 A flail, entirely covered in spikes, that swings wildly and haphazardly in battle.
@@ -6111,7 +6106,7 @@ Attack:^CC0000 85 ^000000
 Weight:^009900 70 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1524#
 A mace forged out of pure gold.
@@ -6122,7 +6117,7 @@ Attack:^CC0000 110 ^000000
 Weight:^009900 80 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1525#
 A long, thin mace built like a spear.
@@ -6133,7 +6128,7 @@ Attack:^CC0000 135 ^000000
 Weight:^009900 80 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1526#
 A heaty mace with curved, sharp blades.
@@ -6146,7 +6141,7 @@ Attack:^CC0000 145 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1527#
 A heavy and powerful iron mace with a rounded top.
@@ -6156,7 +6151,7 @@ Attack:^CC0000 165 ^000000
 Weight:^009900 90 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1528#
 A cruciform mace that was blessed by the pope of the Rune-Midgarts kingdom.
@@ -6169,7 +6164,7 @@ Weight:^009900 150 ^000000
 Element:^777777 Holy ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1529#
 A heavy, round headed mace intended for use in athletic competitions, but has proven to be effective in battle.
@@ -6191,7 +6186,7 @@ Attack:^CC0000 250 ^000000
 Weight:^009900 600 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 95 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1531#
 A heavy tool with many practical applications.
@@ -6201,7 +6196,7 @@ Attack:^CC0000 115 ^000000
 Weight:^009900 250 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 55 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1532#
 A blow from this hefty mace can cause someone to black out.
@@ -6211,7 +6206,7 @@ Attack:^CC0000 140 ^000000
 Weight:^009900 200 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 27 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1533#
 Any man holding the Warrior's Balmung will gather new inner strength.
@@ -6236,7 +6231,7 @@ Attack:^CC0000 150 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1535#
 A hammer that was used by Hollgren to refine weapons and armor;
@@ -6288,7 +6283,7 @@ Attack:^CC0000 85 ^000000
 Weight:^009900 70 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1539#
 A mace forged out of pure gold.
@@ -6299,7 +6294,7 @@ Attack:^CC0000 110 ^000000
 Weight:^009900 80 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1540#
 A cruciform mace that was blessed by the pope of the Rune-Midgarts kingdom.
@@ -6312,7 +6307,7 @@ Weight:^009900 150 ^000000
 Element:^777777 Holy ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1541#
 A large silver mace, made for exorcisms.
@@ -6414,7 +6409,7 @@ Attack:^CC0000 160 ^000000
 Weight:^009900 180 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 1549#
 #
@@ -7039,7 +7034,7 @@ Weight:^009900 50 ^000000
 Element:^777777 Wind ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Mage Class and Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 #
 1617#
 A staff developed through the united efforts of the Mage Guild and Prontera Church.
@@ -9574,14 +9569,14 @@ A well crafted shield which most kinds of attack cannot penetrate.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 6 ^000000
 Weight:^009900 130 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 2106#
 A well crafted shield which most kinds of attack cannot penetrate.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 6 ^000000
 Weight:^009900 130 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 2107#
 A shield with a surface constructed of mirror that might reflect harmful magic.
@@ -9606,7 +9601,7 @@ MDEF +2
 Class:^6666CC Shield ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 100 ^000000
-Jobs:^6666CC Mage Class and Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 #
 2110#
 A blessed guard with God's symbol engraved on it.
@@ -9651,51 +9646,25 @@ Jobs:^6666CC Novice ^000000
 A stone shield which Thor obtained by killing Hrungnir, king of giants.
 It possesses the powers of giants which rival the might of the gods.
 Reduces damage from Large sized monsters by 5%.
-^99FF66Magni Set ^000000
-^00FF00Magni's Hat ^000000
-^00FF00Stone Buckler ^000000
-^00FF00Odin's Blessing ^000000
-+2 STR
-+5 MDEF
-+5 DEF
-Swordsman Class :
-+6 Additional Defense
 Class:^6666CC Shield ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 150 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2115#
 A shield used by Gna,messenger of Freyja,when she served as a Valkyrie.
-Adds 20% resistance to ^0000BBWater^000000, ^FF0000Fire^000000, Undead and Shadow properties.
 MDEF +5
-^99FF66Frigg's Set ^000000
-^00FF00Fricca's Circlet ^000000
-^00FF00Valkyrja's Shield ^000000
-^00FF00Odin's Blessing ^000000
-+2 DEF
-+5 MDEF
-All upgrade levels of the Shield and Circlet adds to MDEF ^770000Instead^000000 of Def.
+Adds 20% resistance to ^0000BBWater^000000, ^FF0000Fire^000000, Undead and Shadow properties.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2116#
 Super Novice Guardian Angel's shield which contains holy power that can nullify evil.
 Reduces damage from Demon monsters by 5%.
-^777777_^000000
-^6666CCAngel's Protection Set ^000000
-^3CB371Angel's Kiss ^000000
-^3CB371Angelic Protection ^000000
-^3CB371Angelic Cardigan ^000000
-^3CB371Angel's Reincarnation ^000000
-^3CB371Angelic Guard ^000000
-MaxHP +900
-MaxSP +100
-A low Chance of casting level 1 Assumptio when attacked physically.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 50 ^000000
@@ -9703,13 +9672,7 @@ Level Requirement:^009900 20 ^000000
 Jobs:^6666CC Novice ^000000
 #
 2117#
-A wrist protector,
-designed exclusively
-for the Ninja class,
-that is padded with
-a steel plate for
-increased defense
-and durability.
+A wrist protector, designed exclusively for the Ninja class, that is padded with a steel plate for increased defense and durability.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 15 ^000000
@@ -9717,13 +9680,7 @@ Level Requirement:^009900 20 ^000000
 Jobs:^6666CC Ninja ^000000
 #
 2118#
-A wrist protector,
-designed exclusively
-for the Ninja class,
-that is padded with
-a steel plate for
-increased defense
-and durability.
+A wrist protector, designed exclusively for the Ninja class, that is padded with a steel plate for increased defense and durability.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 15 ^000000
@@ -9731,11 +9688,7 @@ Level Requirement:^009900 20 ^000000
 Jobs:^6666CC Ninja ^000000
 #
 2119#
-A wrist protector,
-designed exclusively
-for the Ninja class,
-that has been enhanced
-with high Magic Defense by a gifted artisan.
+A wrist protector, designed exclusively for the Ninja class, that has been enhanced with high Magic Defense by a gifted artisan.
 MDEF +5.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 4 ^000000
@@ -9744,11 +9697,7 @@ Level Requirement:^009900 50 ^000000
 Jobs:^6666CC Ninja ^000000
 #
 2120#
-A wrist protector,
-designed exclusively
-for the Ninja class,
-that has been enhanced
-with high Magic Defense by a gifted artisan.
+A wrist protector, designed exclusively for the Ninja class, that has been enhanced with high Magic Defense by a gifted artisan.
 MDEF +5.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 4 ^000000
@@ -9757,12 +9706,9 @@ Level Requirement:^009900 50 ^000000
 Jobs:^6666CC Ninja ^000000
 #
 2121#
-A spellbook that is
-impractically huge,
-and more useful as
-a shield than as a
-spell reference.
-INT +1, MDEF +2
+A spellbook that is impractically huge, and more useful as a shield than as a spell reference.
+INT +1
+MDEF +2
 Class:^6666CC Shield ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 100 ^000000
@@ -9770,19 +9716,11 @@ Jobs:^6666CC Mage Class;
 Soul Linker Job ^000000
 #
 2122#
-A magnificent
-platinum shield that
-is rumored to be able
-to reflect harmul magic. Reduces damage from
-Mid and Large sized
-monsters by 15%, and
-reduces damage from
-Undead monsters by
-10%. Has a 40% chance
-to reflect magic for
-2 seconds with each
-magic spell attack.
+A magnificent platinum shield that is rumored to be able to reflect harmul magic.
 MDEF +5
+Reduces damage taken from Medium and Large size monsters by 15%.
+Reduces damage taken from ^6666CCUndead monster^000000 by 10%.
+Adds 40% chance of reflecting magical attacks for 2 seconds when wielder receive magical attacks.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 120 ^000000
@@ -9791,9 +9729,10 @@ Jobs:^6666CC All Transcendent classes except Novice ^000000
 #
 2123#
 A shiny, round steel plate used for serving food.
-Adds 5% chance of reflecting magic.
-MDEF +2.
-Cast Time reduced by 10% when worn with Orlean's Gloves.
+MDEF +2
+Adds 5% chance of reflecting magical attacks.
++^008800Orlean's Gloves^000000
+Reduces cast time by 10%.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 100 ^000000
@@ -9801,17 +9740,11 @@ Level Requirement:^009900 55 ^000000
 Jobs:^6666CC All Transcendent classes except Novice ^000000
 #
 2124#
-A rough shield
-covered in spikes
-that deters rushing
-enemies. MDEF +2.
-When worn with
-Bison Horn:
-^6666CCBison Set ^000000
-^3CB371Thorny Buckler ^000000
-^3CB371Bison Horn ^000000
-Reduces after attack delay by 10%
-+5% Reflect Melee damage
+A rough shield covered in spikes that deters rushing enemies.
+MDEF +2
++^008800Bison Horn^000000:
+Reduces after attack delay by 10%.
+Reflect melee physical attacks by 5%.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 100 ^000000
@@ -9819,14 +9752,9 @@ Level Requirement:^009900 55 ^000000
 Jobs:^6666CC All Transcendent classes except Novice ^000000
 #
 2125#
-A massive shield
-that can withstand
-any attack, but it lacks shock absorption.
-Prevents knock-back
-effect, but increases
-Physical and Magic
-damage to the
-wearer by 20%.
+A massive shield that can withstand any attack, but it lacks shock absorption.
+Prevents knock-back effect.
+Increases damage taken from Physical and Magical attacks by 20%.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 250 ^000000
@@ -9909,10 +9837,13 @@ Level Requirement:^009900 0 ^000000
 Jobs:^6666CC All classes ^000000
 #
 2133#
-A Shield that a lance can be placed on top of. Very efficient to defend oneself while attacking with a lance.
-Damage increases by 1% against all monsters.
-When equipped with Long Horn, Battle Hook, or Hunting Spear, damage increases by 4% against all monsters.
-If equipped by a Lord Knight, Increases after attack delay by 5%
+A Shield that a lance can be placed on top of.
+Very efficient to defend oneself while attacking with a lance.
+Increases physical damage inflicted on all monsters by 1%.
++^008800Long Horn^000000, ^008800Battle Hook^000000 or ^008800Hunting Spear^000000:
+Increases physical damage inflicted on all monsters by 4%.
+[^6666CCLord Knight class^000000]
+Increases after attack delay by 5%.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 100 ^000000
@@ -10230,7 +10161,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 2217#
 A stiff, squarish formal hat usually worn by clerics.
@@ -10238,7 +10169,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 2218#
 A mask that is worn by people with the flu to prevent spreading sickness to others.
@@ -10279,7 +10210,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 30 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2223#
 A small, tight fitting headdress made of fine silk.
@@ -10287,7 +10218,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 30 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2224#
 A pair of goggles designed for pilots in order to reduce vision impairment when traveling at very high speeds.
@@ -10327,7 +10258,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 6 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 60 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 2229#
 This steel helmet, made in the style worn by roman soldiers, offers great protection, covering most of the head.
@@ -10335,7 +10266,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 6 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 60 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 2230#
 A jeweled headdress that wards off harmful magic.
@@ -10474,7 +10405,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 20 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2245#
 A dark colored and very stylish hat that was popularized by smooth crooners.
@@ -10482,7 +10413,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 40 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2246#
 A helmet forged from pure gold which blocks attacks effectively, but is also unaffordable.
@@ -10491,7 +10422,7 @@ Defense:^0000FF 5 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 90 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2247#
 An ivory hat worn by classy men during classy occasions.
@@ -10499,7 +10430,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 40 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2248#
 A broad brimmed casual hat, usually worn by cowboys and ranchers, that is rustically stylish.
@@ -10507,7 +10438,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 40 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2249#
 A small decorative crown, fashioned out of pure gold, worn by members of nobility.
@@ -10516,7 +10447,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 30 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2250#
 A small, decorative ribbon for the head.
@@ -10525,7 +10456,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2251#
 A ceremonial hat worn by monks that contains a sacred force which offers protection from evil.
@@ -10534,7 +10465,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 5 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 2252#
 A mystic hat, made specifically for wizards, which amplifies pyschic power.
@@ -10543,7 +10474,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 30 ^000000
-Jobs:^6666CC Mage Class and Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 #
 2253#
 Peculiar headgear designed to look like a sunflower.
@@ -10565,7 +10496,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2255#
 A headgear that look like the wings of a Demon.
@@ -10577,7 +10508,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2256#
 A helmet, made to look like mighty goat horns, that can increase the strength of its wearer.
@@ -10619,7 +10550,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Middle ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2261#
 A squad cap issued by the Prontera Military.
@@ -10643,7 +10574,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Middle ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2264#
 An exact replica of the turban worn by Munak, complete with a queue and talisman.
@@ -10670,7 +10601,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Lower ^000000
 Weight:^009900 30 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 2267#
 A narrow, short roll of finely cut tobacco wrapped in thin paper.
@@ -10699,7 +10630,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Lower ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2270#
 A slender leaf that is placed in the mouth for a seductive look.
@@ -10708,7 +10639,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Lower ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2271#
 A pair of glasses that are worn on the head for a more charming appearance, instead of vision related purposes.
@@ -10716,7 +10647,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2272#
 A signpost that declares its wearer's desire that people should stop whatever they are doing.
@@ -10734,7 +10665,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2274#
 A traditional Japanese headpiece associated with the afterlife.
@@ -10744,7 +10675,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2275#
 A boldly red bandana that was possibly left over from the 80's.
@@ -10769,7 +10700,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 2278#
 A simple mask with a smile carved into it.
@@ -10803,7 +10734,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 2 ^000000
 Position:^6666CC Middle, Lower ^000000
 Weight:^009900 20 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2282#
 A spiritual symbol that typically appears over the heads of those who are holy.
@@ -10829,7 +10760,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2285#
 A headgear made in the honor of the legendary archer who shot an apple, on top of a friend's head, from a long distance.
@@ -10839,7 +10770,7 @@ Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2286#
 A fashion accessory that gives ears that vaunted, elvish look.
@@ -10849,7 +10780,7 @@ Defense:^0000FF 0 ^000000
 Position:^6666CC Middle ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 70 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2287#
 A bandana that is the mark of the lawless pirates of the oceans.
@@ -10858,7 +10789,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2288#
 A mask that expresses anguish and despair borne of insanity.
@@ -10866,7 +10797,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Middle, Lower ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2289#
 A hat which looks just like fecal matter that is guaranteed to end a date on a tragic note.
@@ -10891,7 +10822,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Middle ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2292#
 A durable mask made from a fat metal plate that is usually worn by welders and Blacksmiths.
@@ -10901,7 +10832,7 @@ Defense:^0000FF 2 ^000000
 Position:^6666CC Middle, Lower ^000000
 Weight:^009900 30 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Merchant Class ^000000
+Jobs:^6666CC Merchant ^000000
 #
 2293#
 A stage prop that creates the illusion that the wearer has a knife sticking out of his head.
@@ -10926,7 +10857,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Middle ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2296#
 A special optical tool that enables one to observe objects from a great distance.
@@ -10936,7 +10867,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Middle ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Archer Class ^000000
+Jobs:^6666CC Archer ^000000
 #
 2297#
 A mask worn by Goblins to scare and intimidate unsuspecting enemies.
@@ -10944,7 +10875,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Middle, Lower ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2298#
 Large insect antennae that humans can wear.
@@ -11009,28 +10940,28 @@ A cloak that is simple, yet elegant.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 60 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2308#
 A cloak that is simple, yet elegant.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 60 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2309#
 A long coat that provides remarkable warmth in cold weather.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 120 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2310#
 A long coat that provides remarkable warmth in cold weather.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 120 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2311#
 A fur coat that is actually made using hides from Lunatics.
@@ -11038,34 +10969,28 @@ Class:^6666CC Armor ^000000
 Defense:^0000FF 6 ^000000
 Weight:^009900 230 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2312#
 Armor constructed of solid metal plates that have been padded on the inside for comfort.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 7 ^000000
 Weight:^009900 280 ^000000
-Jobs:^6666CC Swordman,
-Merchant, and
-Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 2313#
 Armor constructed of solid metal plates that have been padded on the inside for comfort.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 7 ^000000
 Weight:^009900 280 ^000000
-Jobs:^6666CC Swordman,
-Merchant, and
-Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 2314#
 Heavy mail made entirely of polished, metal chain links.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 8 ^000000
 Weight:^009900 330 ^000000
-Jobs:^6666CC Swordman,
-Merchant, and
-Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 2315#
 Heavy mail made entirely of polished, metal chain links.
@@ -11080,7 +11005,7 @@ Class:^6666CC Armor ^000000
 Defense:^0000FF 10 ^000000
 Weight:^009900 450 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 2317#
 Heavy, solid armor made of durable plates of impenetrable metal.
@@ -11088,7 +11013,7 @@ Class:^6666CC Armor ^000000
 Defense:^0000FF 10 ^000000
 Weight:^009900 450 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 2318#
 Formal clothing made in a Renaissance style that evokes thoughts of romance and elegance.
@@ -11098,7 +11023,7 @@ Class:^6666CC Armor ^000000
 Defense:^0000FF 8 ^000000
 Weight:^009900 250 ^000000
 Level Requirement:^009900 70 ^000000
-Jobs:^6666CC Merchant Class ^000000
+Jobs:^6666CC Merchant ^000000
 #
 2319#
 A jacket covered in fake, yet glamorous, rhinestones that is favored by hipsters and lounge singers.
@@ -11108,14 +11033,14 @@ Class:^6666CC Armor ^000000
 Defense:^0000FF 7 ^000000
 Weight:^009900 250 ^000000
 Level Requirement:^009900 60 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2320#
-A formal suit for males.
+A formal suit for male.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 30 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2321#
 A finely woven, silk robe that has been enchanted with magic.
@@ -11123,7 +11048,7 @@ MDEF +10
 Class:^6666CC Armor ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 40 ^000000
-Jobs:^6666CC Swordman, Mage, Acolyte, Merchant Classes, and Soul Linker ^000000
+Jobs:^6666CC Swordman, Mage, Acolyte, Merchant and Soul Linker ^000000
 #
 2322#
 A finely woven, silk robe that has been enchanted with magic.
@@ -11131,21 +11056,21 @@ MDEF +10
 Class:^6666CC Armor ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 40 ^000000
-Jobs:^6666CC Swordman, Mage, Acolyte, Merchant Classes, and Soul Linker ^000000
+Jobs:^6666CC Swordman, Mage, Acolyte, Merchant and Soul Linker ^000000
 #
 2323#
 A blessed outer garment worn by clerics for religious ceremonies.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 40 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 2324#
 A blessed outer garment worn by clerics for religious ceremonies.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 40 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 2325#
 A robe that has been baptized with saintly power.
@@ -11153,7 +11078,7 @@ MDEF +5
 Class:^6666CC Armor ^000000
 Defense:^0000FF 6 ^000000
 Weight:^009900 60 ^000000
-Jobs:^6666CC Acolyte and Merchant Classes ^000000
+Jobs:^6666CC Acolyte and Merchant ^000000
 #
 2326#
 A robe that has been baptized with saintly power.
@@ -11161,32 +11086,32 @@ MDEF +5
 Class:^6666CC Armor ^000000
 Defense:^0000FF 6 ^000000
 Weight:^009900 60 ^000000
-Jobs:^6666CC Acolyte and Merchant Classes ^000000
+Jobs:^6666CC Acolyte and Merchant ^000000
 #
 2327#
 A robe that emanates an aura of holiness.
-Increases resistance to Demon monsters by 15%
-and resistance against Shadow element by 10%.
 MDEF +5
+Reduces damage taken from ^6666CCDemon monster^000000 by 15%,
+Reduces damage taken from ^777777Shadow^000000 element attacks by 10%.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 7 ^000000
 Weight:^009900 170 ^000000
 Level Requirement:^009900 60 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 2328#
 Armor constructed out of wood.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 100 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 2329#
 A simple set of armor carved out of solid wood.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 100 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 2330#
 Skintight, form fitting clothing that allows easy movement.
@@ -11195,7 +11120,7 @@ Class:^6666CC Armor ^000000
 Defense:^0000FF 6 ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 45 ^000000
-Jobs:^6666CC Archer Class ^000000
+Jobs:^6666CC Archer ^000000
 #
 2331#
 Skintight, form fitting clothing that allows easy movement.
@@ -11204,31 +11129,31 @@ Class:^6666CC Armor ^000000
 Defense:^0000FF 6 ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 45 ^000000
-Jobs:^6666CC Archer Class ^000000
+Jobs:^6666CC Archer ^000000
 #
 2332#
 A robe knit out of silver thread.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 70 ^000000
-Jobs:^6666CC Mage Class and Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 #
 2333#
 A robe knit out of silver thread.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 70 ^000000
-Jobs:^6666CC Mage Class and Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 #
 2334#
 An exclusive robe for Mage Class characters that contains magic power.
-MDEF +5
 INT +1
+MDEF +5
 Class:^6666CC Armor ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 60 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Mage Class and Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 #
 2335#
 Extremely light clothes outfitted with many pockets, making it handy for stashing stolen goods.
@@ -11236,7 +11161,7 @@ AGI +1
 Class:^6666CC Armor ^000000
 Defense:^0000FF 6 ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC Thief Class and Ninja ^000000
+Jobs:^6666CC Thief and Ninja ^000000
 #
 2336#
 Extremely light clothes outfitted with many pockets, making it handy for stashing stolen goods.
@@ -11244,7 +11169,7 @@ AGI +1
 Class:^6666CC Armor ^000000
 Defense:^0000FF 6 ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC Thief Class and Ninja ^000000
+Jobs:^6666CC Thief and Ninja ^000000
 #
 2337#
 A suit for assassins that allows the wearer to move more quickly and stealthily.
@@ -11253,7 +11178,6 @@ MDEF +3
 ^99FF66Ninja Shinobi armor set ^000000
 ^00FF00Ninja Suit ^000000
 ^00FF00Shinobi Sash ^000000
-Set bonus
 MaxHP +300
 -20% SP consumption
 Class:^6666CC Armor ^000000
@@ -11304,13 +11228,13 @@ Jobs:^6666CC Crusader ^000000
 #
 2343#
 A robe which aids its wearer in reducing magic casting time.
-Reduce 3% Casting delay
 MDEF +4
+Reduce cast time by 3%.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 110 ^000000
 Level Requirement:^009900 75 ^000000
-Jobs:^6666CC Wizard, Sage, and Soul Linker ^000000
+Jobs:^6666CC Wizard, Sage and Soul Linker ^000000
 #
 2344#
 An armor that is enchanted with the ^FF0000Fire^000000 Element.
@@ -11319,8 +11243,7 @@ Defense:^0000FF 4 ^000000
 Weight:^009900 220 ^000000
 Element:^FF0000 Fire ^000000
 Level Requirement:^009900 45 ^000000
-Jobs:^6666CC Swordman and
-Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 2345#
 An armor that is enchanted with the ^FF0000Fire^000000 Element.
@@ -11329,7 +11252,7 @@ Defense:^0000FF 4 ^000000
 Weight:^009900 220 ^000000
 Element:^FF0000 Fire ^000000
 Level Requirement:^009900 45 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2346#
 An armor that is enchanted with the ^0000BBWater^000000 Element.
@@ -11338,7 +11261,7 @@ Defense:^0000FF 4 ^000000
 Weight:^009900 220 ^000000
 Element:^0000BB Water ^000000
 Level Requirement:^009900 45 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 2347#
 An armor that is enchanted with the ^0000BBWater^000000 Element.
@@ -11347,7 +11270,7 @@ Defense:^0000FF 4 ^000000
 Weight:^009900 220 ^000000
 Element:^0000BB Water ^000000
 Level Requirement:^009900 45 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2348#
 An armor that is enchanted with the ^7BCC70Wind^000000 Element.
@@ -11356,7 +11279,7 @@ Defense:^0000FF 4 ^000000
 Weight:^009900 220 ^000000
 Element:^7BCC70 Wind ^000000
 Level Requirement:^009900 45 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 2349#
 An armor that is enchanted with the ^7BCC70Wind^000000 Element.
@@ -11365,7 +11288,7 @@ Defense:^0000FF 4 ^000000
 Weight:^009900 220 ^000000
 Element:^7BCC70 Wind ^000000
 Level Requirement:^009900 45 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2350#
 An armor that is enchanted with the ^A68064Earth^000000 Element.
@@ -11374,7 +11297,7 @@ Defense:^0000FF 4 ^000000
 Weight:^009900 220 ^000000
 Element:^A68064 Earth ^000000
 Level Requirement:^009900 45 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 2351#
 An armor that is enchanted with the ^A68064Earth^000000 Element.
@@ -11383,7 +11306,7 @@ Defense:^0000FF 4 ^000000
 Weight:^009900 220 ^000000
 Element:^A68064 Earth ^000000
 Level Requirement:^009900 45 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2352#
 An exclusive armor for new adventurers.
@@ -11395,87 +11318,25 @@ Level Requirement:^009900 1 ^000000
 Jobs:^6666CC Novice ^000000
 #
 2353#
-The main component of
-the Hermod Armor set.
-^99FF66Magni Set ^000000
-^00FF00Magni's Hat ^000000
-^00FF00Stone Buckler ^000000
-^00FF00Odin's Blessing ^000000
-+2 STR
-+5 MDEF
-+5 DEF
-Swordsman Class :
-+6 Additional Defense
-^99FF66Frigg's Set ^000000
-^00FF00Fricca's Circlet ^000000
-^00FF00Valkyrja's Shield ^000000
-^00FF00Odin's Blessing ^000000
-+2 DEF
-+5 MDEF
-All upgrade levels of
-the Shield and Circlet
-adds to MDEF
-^770000Instead^000000 of DEF.
-^6666CCUlle's Armor Set ^000000
-^3CB371Ulle's Cap ^000000
-^3CB371Odin's Blessing ^000000
-If Base Dex is 70 or higher:
--10% SP consumption
-^6666CCNjord's Armor Set ^000000
-^3CB371Fricco's Shoes ^000000
-^3CB371Falcon Muffler ^000000
-^3CB371Odin's Blessing ^000000
-AGI +3
-MaxHP/SP +5%
-^6666CCOdin's Armor Set ^000000
-^3CB371Vali's Manteau ^000000
-^3CB371Vidar's Boots ^000000
-^3CB371Odin's Blessing ^000000
-Vit +5
-HP/SP Recovery +10%
+The main component of the Hermod Armor set.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 6 ^000000
 Weight:^009900 250 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2354#
-An armor that was
-accidentally enchanted by Goibne the blacksmith
-when he spilled the mystic ale of life all over it.
-Vit +2, MaxHP +10%.
-^6666CCGoibne's Armor Set ^000000
-^3CB371Goibne's Spaulders ^000000
-^3CB371Goibne's Greaves ^000000
-^3CB371Goibne's Armor ^000000
-^3CB371Goibne's Helm ^000000
-Vit +5
-MaxHP +15%
-MaxSP +5%
-DEF +5
-MDEF +5
-+10% Resistance to ^0000BBWater^000000,
-^7BCC70Wind^000000, ^A68064Earth^000000, and ^FF0000Fire ^000000
-element
+An armor that was accidentally enchanted by Goibne the blacksmith when he spilled the mystic ale of life all over it.
+Vit +2
+MaxHP +10%
 Class:^6666CC Armor ^000000
 Defense:^0000FF 7 ^000000
 Weight:^009900 350 ^000000
 Level Requirement:^009900 54 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2355#
 Super Novice Guardian Angel's robe. MDEF +20.
-^6666CCAngel's Protection Set ^000000
-^3CB371Angel's Kiss ^000000
-^3CB371Angelic Protection ^000000
-^3CB371Angelic Cardigan ^000000
-^3CB371Angel's Reincarnation ^000000
-^3CB371Angelic Guard ^000000
-MaxHP +900
-MaxSP +100
-A low Chance of casting
-level 1 Assumptio
-when attacked physically.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 60 ^000000
@@ -11708,18 +11569,18 @@ Class:^6666CC Armor ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 60 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Mage Class and Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 #
 2373#
 A robe that emanates an aura of holiness.
-Increases resistance to Demon monsters by 15%
-and resistance against Shadow element by 10%.
 MDEF +5
+Reduces damage taken from ^6666CCDemon monster^000000 by 15%,
+Reduces damage taken from ^777777Shadow^000000 element attacks by 10%.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 7 ^000000
 Weight:^009900 170 ^000000
 Level Requirement:^009900 60 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 2374#
 A robe which is decorated with unknown letters. The wearer feels like they're learning a new language.
@@ -11863,18 +11724,19 @@ Jobs:^6666CC Gunslinger ^000000
 #
 2383#
 Brynhild is one of the valiant valkyries, meaning 'the warrior's armor'.
-Base level*20 MHP increase.
-Base Level*5 MSP increase.
-Physical attack power +10%,
-Magic attack power +10%.
+Increase MaxHP by 20*Base level
+Increase MaxSP by 5*Base Level
+Atk +10%
+Matk +10%
 MDEF +10
-Cannot be knocked back.
-Cannot be refined and destroyed.
+Cannot be knocked back
+^FF0000Unrefineable ^000000
+^663399Indestructible ^000000
 Class:^6666CC Armor ^000000
 Defense:^0000FF 10 ^000000
 Weight:^009900 40 ^000000
 Level Requirement:^009900 94 ^000000
-Class:^6666CC All ^000000
+Jobs:^6666CC All classes ^000000
 #
 2384#
 ^000088Rental Item ^000000
@@ -11992,7 +11854,7 @@ Class:^6666CC Armor ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 0 ^000000
 Level Requirement:^009900 81 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2395#
 MaxHP +600, SP Recovery rate +10%
@@ -12000,14 +11862,14 @@ Class:^6666CC Armor ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 0 ^000000
 Level Requirement:^009900 61 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2396#
 MaxHP +500
 Class:^6666CC Armor ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 0 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2397#
 A jacket wear by showman, it make body warm and protect from cold.
@@ -12059,14 +11921,14 @@ A pair of shoes made of supple, high quality leather.
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 40 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2404#
 A pair of shoes made of supple, high quality leather.
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 40 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2405#
 A pair of heavy leather boots, padded with Lunatic fur, that is suited to warriors.
@@ -12105,7 +11967,7 @@ MDEF +5
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 60 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2410#
 Named after Odin's trusty steed, these shoes also mimic Sleipnir's powers.
@@ -12163,7 +12025,7 @@ Class:^6666CC Footgear ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 30 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2416#
 A pair of shoes made
@@ -12179,81 +12041,39 @@ Jobs:^6666CC Novice ^000000
 2417#
 A pair of shoes that were blessed by Freyr, the god of earth and the son of Njord.
 His blessing would release its owner from pain.
-Increase value of Red, Orange, Yellow and White Potion by 20%, adds Agi+ 2.
-If the owner is equipped with the armor set, it adds Agi+ 3, MHP/MSP +5%.
-^6666CCNjord's Armor Set ^000000
-^3CB371Fricco's Shoes ^000000
-^3CB371Falcon Muffler ^000000
-^3CB371Odin's Blessing ^000000
-AGI +3
-MaxHP/SP +5%
+Agi +2
+Increases healing effect of Red, Orange, Yellow and White Potion by 20%.
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2418#
-The boots worn by
-Vidar, son of Odin,
-when he killed the
-Fenrir Wolf. These
-represent the great
-physical and mental
-strength Vidar displayed in that epic final battle.
-MaxHP/MaxSP +9%.
-^6666CCOdin's Armor Set ^000000
-^3CB371Vali's Manteau ^000000
-^3CB371Vidar's Boots ^000000
-^3CB371Odin's Blessing ^000000
-Vit +5
-HP/SP Recovery +10%
+The boots worn by Vidar, son of Odin, when he killed the Fenrir Wolf.
+These represent the great physical and mental strength Vidar displayed in that epic final battle.
+MaxHP +9%
+MaxSP +9%
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 65 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2419#
-A pair of shoes rumored to be forged by Goibne in
-response to competition from his rival, Dulb.
-MaxHP/MaxSP +5%.
-MDEF +3.
-^6666CCGoibne's Armor Set ^000000
-^3CB371Goibne's Spaulders ^000000
-^3CB371Goibne's Greaves ^000000
-^3CB371Goibne's Armor ^000000
-^3CB371Goibne's Helm ^000000
-Vit +5
-MaxHP +15%
+A pair of shoes rumored to be forged by Goibne in response to competition from his rival, Dulb.
+MaxHP +5%
 MaxSP +5%
-DEF +5
-MDEF +5
-+10% Resistance to ^0000BBWater^000000,
-^7BCC70Wind^000000, ^A68064Earth^000000, and ^A68064Earth ^000000
-element
+MDEF +3
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 70 ^000000
 Level Requirement:^009900 54 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2420#
-Heavenly sandals worn
-by the Guardian Angel
-of Super Novices.
-MaxHP +100.
-^6666CCAngel's Protection Set ^000000
-^3CB371Angel's Kiss ^000000
-^3CB371Angelic Protection ^000000
-^3CB371Angelic Cardigan ^000000
-^3CB371Angel's Reincarnation ^000000
-^3CB371Angelic Guard ^000000
-MaxHP +900
-MaxSP +100
-A low Chance of casting
-level 1 Assumptio
-when attacked physically.
+Heavenly sandals worn by the Guardian Angel of Super Novices.
+MaxHP +100
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 70 ^000000
@@ -12437,7 +12257,7 @@ MDEF +5
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 60 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2433#
 Mysterious boots that automatically adjust their size to the wearer's size. They seem alive.
@@ -12565,7 +12385,7 @@ Class:^6666CC Footgear ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 0 ^000000
 Level Requirement:^009900 81 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2445#
 HP & SP +5%
@@ -12573,14 +12393,14 @@ Class:^6666CC Footgear ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 0 ^000000
 Level Requirement:^009900 61 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2446#
 MaxHP +5%
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 0 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2447#
 Boots popular among armymen.
@@ -12757,14 +12577,14 @@ A warm scarf that is worn around the neck and shoulders.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 40 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2504#
 A warm scarf that is worn around the neck and shoulders.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 40 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2505#
 A long, loose cape-like garment that protects its wearer from harsh weather.
@@ -12774,8 +12594,7 @@ Weight:^009900 60 ^000000
 Jobs:^6666CC Swordman, Merchant, Thief Classes, and Taekwon Boy/Girl, Taekwon Master ^000000
 #
 2506#
-A long, loose cape-like garment that protects its
-wearer from harsh weather.
+A long, loose cape-like garment that protects its wearer from harsh weather.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 60 ^000000
@@ -12788,16 +12607,16 @@ Class:^6666CC Garment ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 60 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2508#
 An old, worn-out cape that can protect its wearer from mystical harm, no matter how powerful it may be.
-Indestructible (except in upgrade attempts).
 MDEF +10
+^663399Indestructible ^000000
 Class:^6666CC Garment ^000000
 Defense:^0000FF 1 ^000000
 Weight:^009900 50 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2509#
 A manteau which protects its wearer from the elements.
@@ -12839,10 +12658,8 @@ Level Requirement:^009900 75 ^000000
 Jobs:^6666CC Every Job except Novice ^000000
 #
 2512#
-A cute, durable and
-lightweight manteau for
-beginning adventurers.
-Reduces Neutral element damage by 10%.
+A cute, durable and lightweight manteau for beginning adventurers.
+Reduces damage taken from ^777777Neutral^000000 element attacks by 10%.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 50 ^000000
@@ -12850,168 +12667,99 @@ Level Requirement:^009900 40 ^000000
 Jobs:^6666CC Novice ^000000
 #
 2513#
-A faint, transparent robe decorated with a beautiful
-pattern worn by celestial maidens when they fly
-through the heavens.
+A faint, transparent robe decorated with a beautiful pattern worn by celestial maidens when they fly through the heavens.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2514#
-A pair of heavy
-shoulder coverings
-that provide effective
-protection in combat.
+A pair of heavy shoulder coverings that provide effective protection in combat.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 80 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman,
-Merchant, and
-and Thief Classes ^000000
+Jobs:^6666CC Swordman, Thief and Merchant ^000000
 #
 2515#
-A robe which once
-helped the god Odin
-escape a fatal threat.
-If the Wing Staff is also equipped, this robe will
-increase the user's
-Movement Speed.
+A robe which once helped the god Odin escape a fatal threat.
++^008800Wing Staff^000000:
+Increase movement speed.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 1 ^000000
 Weight:^009900 30 ^000000
 Level Requirement:^009900 85 ^000000
-Jobs:^6666CC Mage Class and Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 #
 2516#
-A muffler owned by
-Freyja, daughter of Njord, that was often borrowed
-by Loki. Wearing it makes its wearer as nimble as
-a falcon in flight.
-Perfect Dodge +5.
-Flee +15.
+A muffler owned by Freyja, daughter of Njord, that was often borrowed by Loki.
+Wearing it makes its wearer as nimble as a falcon in flight.
+Perfect Dodge +5
+Flee +15
 ^6666CCNjord's Armor Set ^000000
 ^3CB371Fricco's Shoes ^000000
 ^3CB371Falcon Muffler ^000000
 ^3CB371Odin's Blessing ^000000
 AGI +3
-MaxHP/SP +5%
+MaxHP +5%
+MaxSP +5%
 Class:^6666CC Garment ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 40 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2517#
-A manteau once
-owned by Vali, son
-of Odin. It represents
-Vali's fighting spirit
-which allowed him to
-defeat Hoedr the warrior despite his blindness.
-Reduces Neutral element damage by 15%.
+A manteau once owned by Vali, son of Odin.
+It represents Vali's fighting spirit which allowed him to defeat Hoedr the warrior despite his blindness.
+Reduces damage taken from ^777777Neutral^000000 element attacks by 15%.
 ^6666CCOdin's Armor Set ^000000
 ^3CB371Vali's Manteau ^000000
 ^3CB371Vidar's Boots ^000000
 ^3CB371Odin's Blessing ^000000
 Vit +5
-HP/SP Recovery +10%
+Increases natural HP and SP regeneration by 10%
 Class:^6666CC Garment ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 60 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2518#
-A shawl marked with
-ancient conjuration
-patterns that is one
-of the three keys for
-releasing the seal
-that binds Morpheus.
-MDEF +3, MaxSP +10%
-^99FF66Morpheus's Set ^000000
-^00FF00Morpheus's Hood ^000000
-^00FF00Morpheus's Shawl ^000000
-^00FF00Morpheus's Ring ^000000
-^00FF00Morpheus's Bracelet ^000000
-+5 INT
-+11 MDEF
-+20% SP
-Uninteruptible Cast
-25% Slower cast time
+A shawl marked with ancient conjuration patterns that is one of the three keys for releasing the seal that binds Morpheus.
+MaxSP +10%
+MDEF +3
 Class:^6666CC Garment ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 60 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2519#
-A manteau made from
-gray crow feathers that were enchanted through
-the power of Morrigane, whose incarnation is
-the gray crow. LUK +2,
-Perfect Dodge +8.
-^6666CCMorrigane's Set ^000000
-^3CB371Morrigane's Helm ^000000
-^3CB371Morrigane's Manteau ^000000
-^3CB371Morrigane's Pendant ^000000
-^3CB371Morrigane's Belt ^000000
-STR +2
-LUK +9
-ATK +18
-Critical Attack Rate +13
-Perfect Dodge +13
+A manteau made from gray crow feathers that were enchanted through the power of Morrigane, whose incarnation is the gray crow.
+LUK +2
+Perfect Dodge +8
 Class:^6666CC Garment ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 60 ^000000
 Level Requirement:^009900 61 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2520#
-Goibne's very first
-creation, his much
-prized and precious
-armor. Reduces long
-range physical damage
-by 10%. Vit +1, MDEF +2.
-^6666CCGoibne's Armor Set ^000000
-^3CB371Goibne's Spaulders ^000000
-^3CB371Goibne's Greaves ^000000
-^3CB371Goibne's Armor ^000000
-^3CB371Goibne's Helm ^000000
-Vit +5
-MaxHP +15%
-MaxSP +5%
-DEF +5
-MDEF +5
-+10% Resistance to ^0000BBWater^000000,
-^7BCC70Wind^000000, ^A68064Earth^000000, and ^FF0000Fire ^000000
-element
+Goibne's very first creation, his much prized and precious armor.
+Vit +1
+MDEF +2
+Reduces long range physical damage by 10%.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 70 ^000000
 Level Requirement:^009900 54 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2521#
-The Super Novice
-Guardian Angel's warm
-and comforatble cardigan. Increases natural
-HP Recovery by 5%.
-^6666CCAngel's Protection Set ^000000
-^3CB371Angel's Kiss ^000000
-^3CB371Angelic Protection ^000000
-^3CB371Angelic Cardigan ^000000
-^3CB371Angel's Reincarnation ^000000
-^3CB371Angelic Guard ^000000
-MaxHP +900
-MaxSP +100
-A low Chance of casting
-level 1 Assumptio
-when attacked physically.
+The Super Novice Guardian Angel's warm and comforatble cardigan.
+Increases natural HP regeneration by 5%.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 40 ^000000
@@ -13019,54 +12767,49 @@ Level Requirement:^009900 20 ^000000
 Jobs:^6666CC Novice ^000000
 #
 2522#
-Lightweight armor
-made from 100% real
-cotton that is actually quite durable. MDEF +1.
-If the owner is also
-equipped with Pantie,
-this garment adds AGI
-+5 and Flee +10.
+Lightweight armor made from 100% real cotton that is actually quite durable.
+MDEF +1
++^008800Pantie^000000:
+AGI +5
+Flee +10
 Class:^6666CC Garment ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 15 ^000000
 Jobs:^6666CC All classes ^000000
 #
 2523#
-A cotton armor which is light yet durable.
-MDEF +1.
-Adds AGI +5, FLEE +10 if the owner is equipped with Pantie.
+Lightweight armor made from 100% real cotton that is actually quite durable.
+MDEF +1
++^008800Pantie^000000:
+AGI +5
+Flee +10
 Class:^6666CC Garment ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 15 ^000000
 Jobs:^6666CC Every Job ^000000
 #
 2524#
-A manteau that is
-worn by the Valkyries,
-Odin's battle maidens.
-Adds Perfect Dodge +5
-when worn by Mage,
-Archer, and Acolyte
-Classes. Increase the Perfect Dodge
-by as much as (upgrade level * 2).
-Enables a 5% chance
-of reflecting damage
-back to enemies when
-worn by Swordman,
-Merchant, and Thief
-Classes. (However, perfect flee or damage reflection increase
-are implemented up to upgrade level 10)
-Cannot be destroyed in battle.
+A manteau that is worn by the Valkyries, Odin's battle maidens.
+^663399Indestructible ^000000
+[^6666CCMage,Archer,Acolyte^000000]
+Perfect Dodge +5
+Increase the Perfect Dodge by (upgrade level*2).
+[^6666CCSwordman,Merchant,Thief^000000]
+Reflect 5% melee damage back to enemies.
+Increase percentage reflect damage by (upgrade level*2).
+[^6666CCValkyrian Armor Set^000000]
+^3CB371Valkyrie Helm^000000
+^3CB371Valkyrie Armor^000000
+^3CB371Valkyrie Manteau^000000
+^3CB371Valkyrie Shoes^000000
+All Stats +1
 Class:^6666CC Garment ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 50 ^000000
 Jobs:^6666CC All Transcendent classes except Novice ^000000
 #
 2525#
-A fancy cape fashioned
-after those worn by
-genteel marquises
-of a bygone age.
+A fancy cape said to have once been worn by marquises long ago.
 AGI +1
 Class:^6666CC Garment ^000000
 Defense:^0000FF 2 ^000000
@@ -13077,17 +12820,10 @@ Jobs:^6666CC All except Novice ^000000
 2526#
 #
 2527#
-A garment that's
-so warm, it makes
-the wearer feel
-as if a dragon is
-breathing on him.
-Reduces damage from
-Dragon monsters by 15%. Increases damage by
-5% when worn with
-Dragon Slayer,
-Dragon Killer,
-Gae Bolg.
+A garment that's so warm, it makes the wearer feel as if a dragon is breathing on him.
+Reduces damage taken from ^6666CCDragon monster^000000 by 15%.
++^008800Dragon Slayer^000000, ^008800Dragon Killer^000000 or ^008800Gae Bolg^000000:
+Increases damage inflicted on ^6666CCDragon monster^000000 by 5%.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 60 ^000000
@@ -13095,12 +12831,11 @@ Level Requirement:^009900 48 ^000000
 Jobs:^6666CC All Transcendent classes except Novice ^000000
 #
 2528#
-A scarf made from
-the highest quality
-wool that feels so
-comforting and cozy
-when you're exhausted.
-MDEF +4.
+A scarf made from the highest quality wool that feels so comforting and cozy when you're exhausted.
+MDEF +4
++^008800Tidal Shoes^000000:
+MaxHP +10%
+Increase HP regeneration by 5%.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 50 ^000000
@@ -13108,14 +12843,10 @@ Level Requirement:^009900 55 ^000000
 Jobs:^6666CC All Transcendent classes except Novice ^000000
 #
 2529#
-A symbol worn by
-runners that just
-makes you want to
-sprint when you
-wear it. AGI +2.
-Flee +10 when worn
-with Black Leather
-Boots.
+A symbol worn by runners that just makes you want to sprint when you wear it.
+AGI +2
++^008800Black Leather Boots^000000:
+Flee +10
 Class:^6666CC Garment ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 50 ^000000
@@ -13123,14 +12854,10 @@ Level Requirement:^009900 55 ^000000
 Jobs:^6666CC All Transcendent classes except Novice ^000000
 #
 2530#
-A symbol worn by
-runners that just
-makes you want to
-sprint when you
-wear it. AGI +2.
-Flee +10 when worn
-with Black Leather
-Boots.
+A symbol worn by runners that just makes you want to sprint when you wear it.
+AGI +2
++^008800Black Leather Boots^000000:
+Flee +10
 Class:^6666CC Garment ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 50 ^000000
@@ -13138,48 +12865,23 @@ Level Requirement:^009900 55 ^000000
 Jobs:^6666CC All Transcendent classes except Novice ^000000
 #
 2531#
-A mysterious cape
-with a protective
-spell that can convert
-the wearer's magic
-defense to physical
-defense. Each physical
-attack against the
-wearer has a chance
-reducing physical
-damage by 20% for
-2 seconds at the
-cost of reducing
-MDEF by 20%.
+A mysterious cape with a protective spell that can convert the wearer's magic defense to physical defense.
+Each physical attack against the wearer has a chance reducing physical damage by 20% for 2 seconds at the cost of reducing MDEF by 20%.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 70 ^000000
 Level Requirement:^009900 70 ^000000
-Jobs:^6666CC Transcendent
-Swordman, Merchant,
-and Thief Classes ^000000
+Jobs:^6666CC Transcendent Swordman, Merchant and Thief^000000
 #
 2532#
-A mysterious cape
-with a protective
-spell that can convert
-the wearer's physical
-defense to magic defense.
-MdefF +3.
-When receiving magic
-damage, there is a
-chance that for
-2 seconds magic
-damage will be
-reduced by 20% at
-the cost of reducing defense by 20%.
+A mysterious cape with a protective spell that can convert the wearer's physical defense to magic defense.
+MDEF +3
+When receiving magic damage, there is a chance that for 2 seconds magic damage will be reduced by 20% at the cost of reducing defense by 20%.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 40 ^000000
 Level Requirement:^009900 70 ^000000
-Jobs:^6666CC Transcendent
-Wizard, Acolyte,
-and Archer Classes ^000000
+Jobs:^6666CC Transcendent Mage, Acolyte and Archer^000000
 #
 2533#
 ^000088Rental Item ^000000
@@ -13224,22 +12926,24 @@ Level Requirement:^009900 1 ^000000
 Jobs:^6666CC Mage and Soul Linker ^000000
 #
 2536#
-Lucifer's skin, cursed by the devil's language. It can be worn as a robe.
-MDEF +2, MaxHP +200,
+Lucifer's skin, cursed by the devil's language.
+It can be worn as a robe.
+MDEF +2
 FLEE +10
+MaxHP +200
 Class:^6666CC Garment ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 25 ^000000
 Level Requirement:^009900 60 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2537#
 A manteau with an endless dark shape waving near it. Only those who overcome fear can wear this manteau.
-Decreases Neutral element damage by 5%.
 MaxHP +100
+Reduces damage taken from ^777777Neutral^000000 element attacks by 5%.
 Increases Physical Damage to Satan Morocc by 10%.
-^FFFFFF_^000000
-When equipped with Diabolus Boots, MaxHP +6%.
++^008800Diabolus Boots^000000
+MaxHP +6%
 Class:^6666CC Garment ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 25 ^000000
@@ -13286,13 +12990,14 @@ Class:^6666CC Garment ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 40 ^000000
 Level Requirement:^009900 94 ^000000
-Class:^6666CC All ^000000
+Jobs:^6666CC All classes ^000000
 #
 2542#
 A Manteau of Flame that Naght Sieger wore.
-MaxHP 5%, MDEF +2
-Increases Matk 1%.
-Additional 2% physical damage to ^FF0000Fire^000000 monsters.
+MaxHP 5%
+MDEF +2
+MATK +1%
+Increase 2% physical damage to ^FF0000Fire^000000 element monsters.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 4 ^000000
 Weight:^009900 70 ^000000
@@ -13313,8 +13018,8 @@ Jobs:^6666CC All Except Novice ^000000
 #
 2544#
 Leather of a Tendrilion with plant stems sticking out of it.
-Resistance to Earth and Water element +5%
-Resistance to animal or plant monsters +5%
+Reduces damage taken from ^CC5500Earth^000000 and ^0000BBWater^000000 element attacks by 5%.
+Reduces damage taken from ^6666CCBrute^000000 and ^6666CCPlant monster^000000 by 5%.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 50 ^000000
@@ -13322,9 +13027,9 @@ Jobs:^6666CC 2nd Transcendent Class ^000000
 #
 2545#
 An outfit for priests in order to protect the exorcists at Prontera Church.
-MDEF +3.
-Has a chance of casting Lv. 1 Heal on the wearer when physically attacked at a close distance.
-If higher level of Heal is learned, uses the level the wearer has learned.
+MDEF +3
+Adds a chance of autocasting Level 1 ^008800Heal^000000 when wearer receive melee physical attacks.
+If higher level of ^008800Heal^000000 is learned, it will use the level the wearer has learned.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 2 ^000000
 Weight:^009900 50 ^000000
@@ -13344,7 +13049,7 @@ Class:^6666CC Garment ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 0 ^000000
 Level Requirement:^009900 81 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2550#
 A nice muffler which increase your concentration by protecting you from wild wind around a fishing spot.
@@ -13360,8 +13065,9 @@ Jobs:^6666CC All classes ^000000
 #
 2553#
 Manteau from a Draco's mane.
-AGI +1, MDEF +5
-Class:^6666CC Clothes ^000000
+AGI +1
+MDEF +5
+Class:^6666CC Garment ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 100 ^000000
 Jobs:^6666CC All Transcendent classes except Novice Classes ^000000
@@ -13498,7 +13204,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 20 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2602#
 Jewelry, worn on the earlobe, that increases its wearer's intelligence.
@@ -13507,7 +13213,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 20 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2603#
 A necklace once worn by an ancient queen that enhances the vitality of whoever wears it.
@@ -13516,7 +13222,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 20 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2604#
 A specially made covering worn on the hands to improve one's grip on weapons.
@@ -13525,7 +13231,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 20 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2605#
 Mystic jewelry that attaches to clothing by means of a pin.
@@ -13534,7 +13240,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 20 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2606#
 #
@@ -13554,7 +13260,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 20 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2609#
 A weird ring adorned with a skull in which the words, ''^990000Forever, until death...^000000'' are engraved.
@@ -13600,25 +13306,26 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2615#
 A strange ring that curiously raises its wearer's defense.
+DEF +3
 MDEF +3
 Class:^6666CC Accessory ^000000
-Defense:^0000FF 3 ^000000
+Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2616#
 An esoteric ring which enables its wearer to amplify his hidden power.
-Critical Rate +5
+Crit +5
 Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 5 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2617#
 Gloves blessed with holiness that increases its wearer's intelligence.
@@ -13627,7 +13334,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 1 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 35 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2618#
 Matyr's leash.
@@ -13636,7 +13343,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 1 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 35 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2619#
 A finger accessory for archers which helps improve their accuracy.
@@ -13645,14 +13352,14 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC Archer Class ^000000
+Jobs:^6666CC Archer ^000000
 #
 2620#
 An exclusive ring for the Thief and Ninja class.
-If the wearer has base STR 90 or higher,
+If the wearer has base STR 90 or higher:
 HIT +10
 FLEE +10
-If the wearer has base AGI 90 or higher,
+If the wearer has base AGI 90 or higher:
 ATK +10
 CRIT +10
 When equipped with Black Cat, inflicts additional damage to large sized monsters by 8% and Casting Speed -3%.
@@ -13670,7 +13377,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 90 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2622#
 An ancient earring.
@@ -13679,7 +13386,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 90 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2623#
 An ancient necklace.
@@ -13688,7 +13395,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 90 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2624#
 An ancient mitten.
@@ -13697,7 +13404,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 90 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2625#
 An ancient brooch.
@@ -13706,7 +13413,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 90 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2626#
 An ancient rosary.
@@ -13716,7 +13423,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 90 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2627#
 A simple, very practical belt that has little fashion value.
@@ -13810,7 +13517,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 1 ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2641#
 A fashionable hip sack which is ideal for merchants who have to carry many goods with them.
@@ -13871,103 +13578,45 @@ Weight:^009900 10 ^000000
 Jobs:^6666CC All classes ^000000
 #
 2648#
-A ring, enchanted with
-the power of the Fate
-Stone, that is one of
-the three keys for the
-seal which binds
-Morpheus. INT +1,
+A ring, enchanted with the power of the Fate Stone, that is one of the three keys for the seal which binds Morpheus.
+INT +1
 MaxSP +5%
-^99FF66Morpheus's Set ^000000
-^00FF00Morpheus's Hood ^000000
-^00FF00Morpheus's Shawl ^000000
-^00FF00Morpheus's Ring ^000000
-^00FF00Morpheus's Bracelet ^000000
-+5 INT
-+11 MDEF
-+20% SP
-Uninteruptible Cast
-25% Slower cast time
 Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2649#
-A bracelet, rumored
-to be a memento of
-Morpheus's beloved,
-that is one of the three
-keys for the seal which
-binds Morpheus.
-INT +1, MaxSP +5%
-^99FF66Morpheus's Set ^000000
-^00FF00Morpheus's Hood ^000000
-^00FF00Morpheus's Shawl ^000000
-^00FF00Morpheus's Ring ^000000
-^00FF00Morpheus's Bracelet ^000000
-+5 INT
-+11 MDEF
-+20% SP
-Uninteruptible Cast
-25% Slower cast time
+A bracelet, rumored to be a memento of Morpheus's beloved, that is one of the three keys for the seal which binds Morpheus.
+INT +1
+MaxSP +5%
 Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2650#
-The belt that
-Morrigane kept
-as a memento of
-CuChulain after he
-perished in battle.
-ATK +5, Critical
-Attack Rate +3.
-^6666CCMorrigane's Set ^000000
-^3CB371Morrigane's Helm ^000000
-^3CB371Morrigane's Manteau ^000000
-^3CB371Morrigane's Pendant ^000000
-^3CB371Morrigane's Belt ^000000
-STR +2
-LUK +9
-ATK +18
-Critical Attack Rate +13
-Perfect Dodge +13
+The belt that Morrigane kept as a memento of CuChulain after he perished in battle.
+ATK +5
+Crit +3
 Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 61 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2651#
-The pendant that
-ChuChulain gave to
-Morrigane when they
-were both still in love. It's symoblic of her
-endless devotion, as
-she stood by his side
-even after he had
-abandoned her.
-STR +2, Critical
-Attack Rate +3.
-^6666CCMorrigane's Set ^000000
-^3CB371Morrigane's Helm ^000000
-^3CB371Morrigane's Manteau ^000000
-^3CB371Morrigane's Pendant ^000000
-^3CB371Morrigane's Belt ^000000
+The pendant that ChuChulain gave to Morrigane when they were both still in love.
+It's symoblic of her endless devotion, as she stood by his side even after he had abandoned her.
 STR +2
-LUK +9
-ATK +18
-Critical Attack Rate +13
-Perfect Dodge +13
+Crit +3
 Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 61 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2652#
 A cursed brooch
@@ -14005,7 +13654,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 1 ^000000
 Weight:^009900 30 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Thief Class and Ninja ^000000
+Jobs:^6666CC Thief and Ninja ^000000
 #
 2655#
 A heavy steel ball
@@ -14026,7 +13675,7 @@ and Skel Prisoners.
 Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 400 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2656#
 A mysterious, ancient
@@ -14126,7 +13775,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 60 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 2666#
 A coconut oil lamp
@@ -14149,7 +13798,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 30 ^000000
 Level Requirement:^009900 60 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2668#
 #
@@ -14168,7 +13817,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC Archer Class ^000000
+Jobs:^6666CC Archer ^000000
 #
 2672#
 #
@@ -14739,7 +14388,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 5 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2729#
 A ring with mysterious letters carved into it. It is so beautiful, it fascinates all people.
@@ -14758,7 +14407,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 5 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2731#
 One of the royal gifts which are given to the members of the Morocc Dispatch.
@@ -14768,7 +14417,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 5 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2732#
 One of the royal gifts which are given to the members of the Morocc Dispatch.
@@ -14777,7 +14426,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 5 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2733#
 A badge rewarded to honorable warriors.
@@ -14810,7 +14459,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 75 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2737#
 A necessity for elegant woman!
@@ -14820,7 +14469,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 15 ^000000
 Level Requirement:^009900 75 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2738#
 A shiny coin used to celebrate some events.
@@ -15117,14 +14766,14 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 0 ^000000
 Level Requirement:^009900 61 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2774#
 All stats +1
 Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 0 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2775#
 Artificially made fishing lure.
@@ -15234,7 +14883,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 70 ^000000
-Jobs:^6666CC All Classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 2784#
 A cute music box which contains a Singing Crystal in it. Listen carefully, and you can hear Christmas carols.
@@ -15350,7 +14999,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 0 ^000000
 Level Requirement:^009900 0 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 2795#
 #
@@ -21181,7 +20830,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 20 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5002#
 This crown, adorned with precious gems, is generally worn by monarchs as a symbol of their rule.
@@ -21203,7 +20852,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5004#
 Ideal for situations is poisonous or polluted, this mask supplies pure oxygen to its wearer.
@@ -21212,7 +20861,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Lower ^000000
 Weight:^009900 20 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5005#
 A special mask that filters out poisons from the air.
@@ -21221,7 +20870,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Middle, Lower ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5006#
 70's tough guy style sunglasses that give its wearer a manly swagger.
@@ -21229,7 +20878,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Middle ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5007#
 An exquisitely made circlet, typically worn by rulers or gentry.
@@ -21242,7 +20891,7 @@ Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 55 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5008#
 A wreath of wildflowers made by a woman in love.
@@ -21250,7 +20899,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5009#
 A durable safety helmet created to offer some protection from accidents.
@@ -21260,7 +20909,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5010#
 A traditional headdress worn by native peoples.
@@ -21285,7 +20934,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5013#
 A special headgear created specifically for Lord Kaho...
@@ -21309,7 +20958,7 @@ Defense:^0000FF 2 ^000000
 Position:^6666CC Middle ^000000
 Weight:^009900 30 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 5015#
 A peculiar hat that makes it wearer look freshly hatched.
@@ -21325,7 +20974,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5017#
 An incredibly heavy, yet almost impenetrable helmet constructed of bone.
@@ -21335,7 +20984,7 @@ Defense:^0000FF 7 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 80 ^000000
 Level Requirement:^009900 70 ^000000
-Jobs:^6666CC Swordman and Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 5018#
 A fabulous, feathered hat that turns men into womanizers and women into manizers.
@@ -21344,7 +20993,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 30 ^000000
-Jobs:^6666CC Archer Class ^000000
+Jobs:^6666CC Archer ^000000
 #
 5019#
 A flamboyant hat worn only by the strongest of pirates.
@@ -21353,7 +21002,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5020#
 The most recognizable piece of the standard Kafra Employee uniform.
@@ -21373,7 +21022,7 @@ Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 120 ^000000
 Level Requirement:^009900 38 ^000000
-Jobs:^6666CC Merchant Class ^000000
+Jobs:^6666CC Merchant ^000000
 #
 5022#
 A hat that is said to have been worn by the god of the sun.
@@ -21391,7 +21040,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 100 ^000000
-Jobs:^6666CC Merchant Class ^000000
+Jobs:^6666CC Merchant ^000000
 #
 5024#
 A birthday cake replica that won't fit a Dancer inside,
@@ -21422,7 +21071,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 30 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5027#
 A stylish formal hat that talented magicians usually wear during a show.
@@ -21432,7 +21081,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 30 ^000000
-Jobs:^6666CC Mage Class and Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 #
 5028#
 A large, slightly used candlestick that can be worn on the head by via a strap attachment.
@@ -21449,7 +21098,7 @@ Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 90 ^000000
 Level Requirement:^009900 20 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5030#
 A cute and cuddly headgear made in the form of a Panda's head.
@@ -21458,7 +21107,7 @@ Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 80 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5031#
 A durable safety helmet with a special flashlight attachment for exploring dark areas.
@@ -21476,7 +21125,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 80 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5033#
 A hat created in the form of Smokie the Raccoon Monster.
@@ -21485,7 +21134,7 @@ Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 90 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5034#
 A hair band with a light bulb attached to it.
@@ -21493,7 +21142,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5035#
 A hat created in the form of the Poring monster.
@@ -21502,7 +21151,7 @@ Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 70 ^000000
 Level Requirement:^009900 38 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5036#
 A hairband with a cross mounted on top.
@@ -21511,7 +21160,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 25 ^000000
 Level Requirement:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5037#
 A hat made out of half of a nut shell.
@@ -21533,7 +21182,7 @@ Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 80 ^000000
 Level Requirement:^009900 64 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5039#
 A mysteriously colorful egg shell.
@@ -21569,7 +21218,7 @@ Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 15 ^000000
 Level Requirement:^009900 14 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5043#
 A mask rumored to have been worn by a romantic hero with an unknown fate.
@@ -21578,7 +21227,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Middle ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 20 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5044#
 Widely stretched wings.
@@ -21618,7 +21267,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5048#
 A hairpin in the shape of a crescent.
@@ -21671,7 +21320,7 @@ Defense:^0000FF 5 ^000000
 Position:^6666CC Upper/Lower ^000000
 Weight:^009900 300 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 5054#
 An exclusive mask for assassins.
@@ -21721,7 +21370,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5059#
 A hat made to look like a teddy bear's face.
@@ -21770,7 +21419,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5064#
 A leaf which rumored to be worn by the Smokie monster for transformations.
@@ -21801,7 +21450,7 @@ Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 80 ^000000
 Level Requirement:^009900 70 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5067#
 A traditional Mexican hat with a wide, round brim.
@@ -21811,7 +21460,7 @@ Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 35 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5068#
 An ear accessory made with Evil Wing.
@@ -21832,7 +21481,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 30 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5070#
 A headgear which symbolizes hot-blooded challenge and battle vigor.
@@ -21842,7 +21491,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5071#
 A tribal headgear adorned with a long, white feather.
@@ -21852,7 +21501,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5072#
 A headgear which resembles the horns of Incubus.
@@ -21863,7 +21512,7 @@ Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 80 ^000000
 Level Requirement:^009900 70 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5073#
 A headgear made of a book topped with an apple.
@@ -21874,7 +21523,7 @@ Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 70 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5074#
 An ear accesory that looks just like white, beautiful angel wings.
@@ -21953,7 +21602,7 @@ Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 75 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5082#
 A headgear which you can obtain by chance when you put your head for a prolonged period of time in a dark, damp place.
@@ -21982,7 +21631,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5085#
 A pair of small red ribbons which can be used to decorate the hair of little girls.
@@ -22001,7 +21650,7 @@ Defense:^0000FF 2 ^000000
 Position:^6666CC Middle, Lower ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5087#
 A mask with a blank expression on it.
@@ -22047,7 +21696,7 @@ Defense:^0000FF 2 ^000000
 Position:^6666CC Upper, Middle ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 35 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5092#
 A tight-fitting cap worn under a veil, usually worn by nuns.
@@ -22079,7 +21728,7 @@ Defense:^0000FF 5 ^000000
 Position:^6666CC Upper, Middle ^000000
 Weight:^009900 90 ^000000
 Level Requirement:^009900 55 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5095#
 A headgear bestowed only to true Orc Heroes.
@@ -22089,7 +21738,7 @@ Defense:^0000FF 5 ^000000
 Position:^6666CC Upper, Middle ^000000
 Weight:^009900 100 ^000000
 Level Requirement:^009900 55 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5096#
 A dark mask worn by assassinators.
@@ -22174,7 +21823,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 60 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5104#
 A blinder enchanted with dark magic.
@@ -22405,31 +22054,20 @@ Defense:^0000FF 3 ^000000
 Position:^6666CC Upper, Mid ^000000
 Weight:^009900 40 ^000000
 Level Requirement:^009900 70 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5122#
-Once owned by Magni,
-son of Thor, the wearer
-of this cap is supposedly
-granted a measure of
-Magni's awesome might.
-STR +2.
-Class:^6666CC Headgear ^000000
-Defense:^0000FF 5 ^000000
-Position:^6666CC Upper ^000000
-Weight:^009900 100 ^000000
-Level Requirement:^009900 65 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Once owned by Magni, son of Thor, the wearer of this cap is supposedly granted a measure of Magni's awesome might.
+STR +2
 ^99FF66Magni Set ^000000
-^00FF00Magni's Hat ^000000
+^00FF00Magni's Cap ^000000
 ^00FF00Stone Buckler ^000000
 ^00FF00Odin's Blessing ^000000
-+2 STR
-+5 MDEF
-+5 DEF
-Swordman Class :
-Additional +6 DEF
-(Total 11 DEF)
+STR +2
+DEF +5
+MDEF +5
+Swordsman Class :
+DEF +6
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 5 ^000000
 Location:^6666CC Upper ^000000
@@ -22438,55 +22076,41 @@ Level Requirement:^009900 65 ^000000
 Jobs:^6666CC All except Novice ^000000
 #
 5123#
-A woolen hunting
-cap once worn by
-Ulle, god of hunting.
-Just wearing it makes
-you feel like you can
-hunt down any beast.
-DEX +2, AGI +1.
-^6666CCUlle's Armor Set ^000000
-^3CB371Ulle's Cap ^000000
-^3CB371Odin's Blessing ^000000
-If Base Dex is 70 or higher:
--10% SP consumption
+A woolen hunting cap once worn by Ulle, god of hunting.
+Just wearing it makes you feel like you can hunt down any beast.
+DEX +2
+AGI +1
+When combined with Odin's Blessing and weaarer's Base Dex is 70 or higher:
+Reduces SP consumption by -10%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5124#
-A circlet blessed by
-Freyja, mother of Baldur.
-MDEF +10
+A circlet blessed by Freyja, mother of Baldur.
 INT +2
 MaxSP +50
+MDEF +10
 ^99FF66Frigg's Set ^000000
 ^00FF00Fricca's Circlet ^000000
 ^00FF00Valkyrja's Shield ^000000
 ^00FF00Odin's Blessing ^000000
-+2 DEF
-+5 MDEF
-All upgrade levels of
-the Shield and Circlet
-adds to MDEF
-^770000Instead^000000 of DEF.
+DEF +2
+MDEF +5
+All upgrade levels of the Shield and Circlet adds to MDEF ^770000Instead^000000 of DEF.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 30 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5125#
-A hair ornament
-that was kissed by
-the Super Novice's
-Guardian Angel.
-Increases natural
-SP Recovery by 3%.
+A hair ornament that was kissed by the Super Novice's Guardian Angel.
+Increases natural SP regeneration by 3%.
 ^6666CCAngel's Protection Set ^000000
 ^3CB371Angel's Kiss ^000000
 ^3CB371Angelic Protection ^000000
@@ -22495,9 +22119,7 @@ SP Recovery by 3%.
 ^3CB371Angelic Guard ^000000
 MaxHP +900
 MaxSP +100
-A low Chance of casting
-level 1 Assumptio
-when attacked physically.
+Adds a low chance of autocasting level 1 Assumptio when wearer receive physical attacks.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
@@ -22506,18 +22128,16 @@ Level Requirement:^009900 50 ^000000
 Jobs:^6666CC Novice ^000000
 #
 5126#
-A hood that is one
-of the three keys to
-the seal which binds
-Morpheus. INT +2.
+A hood that is one of the three keys to the seal which binds Morpheus.
+INT +2
 ^99FF66Morpheus's Set ^000000
 ^00FF00Morpheus's Hood ^000000
 ^00FF00Morpheus's Shawl ^000000
 ^00FF00Morpheus's Ring ^000000
 ^00FF00Morpheus's Bracelet ^000000
-+5 INT
-+11 MDEF
-+20% SP
+INT +5
+MDEF +11
+MaxSP +20%
 Uninteruptible Cast
 25% slower Cast time
 Class:^6666CC Headgear ^000000
@@ -22525,13 +22145,12 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 33 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5127#
-A helm that was once
-owned by Morrigane,
-the goddess of war.
-LUK +2, ATK +3.
+A helm that was once owned by Morrigane, the goddess of war.
+LUK +2
+ATK +3
 ^6666CCMorrigane's Set ^000000
 ^3CB371Morrigane's Helm ^000000
 ^3CB371Morrigane's Manteau ^000000
@@ -22540,21 +22159,20 @@ LUK +2, ATK +3.
 STR +2
 LUK +9
 ATK +18
-Critical Attack Rate +13
+Crit +13
 Perfect Dodge +13
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 61 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5128#
-One of the few armors
-that was forged by Goibe the blacksmith. It is said
-that the gods valued his armors more than the
-weapons he had forged.
-Vit +3, MDEF +3.
+One of the few armors that was forged by Goibe the blacksmith.
+It is said that the gods valued his armors more than the weapons he had forged.
+Vit +3
+MDEF +3
 ^6666CCGoibne's Armor Set ^000000
 ^3CB371Goibne's Spaulders ^000000
 ^3CB371Goibne's Greaves ^000000
@@ -22565,20 +22183,18 @@ MaxHP +15%
 MaxSP +5%
 DEF +5
 MDEF +15
-+10% Resistance to ^0000BBWater^000000,
-^7BCC70Wind^000000, ^A68064Earth^000000, and ^FF0000Fire ^000000
-element
+Reduces damage taken from ^0000BBWater^000000, ^7BCC70Wind^000000, ^A68064Earth^000000 and ^FF0000Fire ^000000 element attacks by 10%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 5 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 54 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5129#
 A mysterious bird's nest that makes the wearer feel like flying.
 AGI +2
-Adds10% tolerance to the Animal monsters.
+Reduces damage taken from ^6666CCBrute monster^000000 by 10%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
@@ -22590,31 +22206,32 @@ Jobs:^6666CC All classes ^000000
 Head of a fierce animal that lives deep in forests
 Enemies tremble and become speechless when encountering this beast.
 MDEF +1
-Add a 5% chance of auto casting Silence on enemies.
+Add 5% chance of inflicting Silence status on target when dealing physical attacks.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
-Weight:^009900 0 ^000000
+Weight:^009900 70 ^000000
 Level Requirement:^009900 5 ^000000
 Jobs:^6666CC 2nd classes ^000000
 #
 5131#
 An iron mask that covers the whole face. By covering the whole face, it can protect the wearer from critical attacks. It helps to improve defense.
-VIT +3, MaxHP +3%
+VIT +3
+MaxHP +3%
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 8 ^000000
 Position:^6666CC Upper, Middle, Lower ^000000
 Weight:^009900 120 ^000000
 Level Requirement:^009900 75 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 5132#
 A hat, made especially to look like a certain monster that looks like an angel, but it hates the whole human race.
 Reduces damage taken from Demihuman monsters by 10%.
 ^FF0000Unrefineable^000000
 Class:^6666CC Headgear ^000000
-Location:^6666CC Upper ^000000
 Defense:^0000FF 2 ^000000
+Location:^6666CC Upper ^000000
 Weight:^009900 70 ^000000
 Level Requirement:^009900 38 ^000000
 Jobs:^6666CC All classes ^000000
@@ -22628,7 +22245,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 15 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 5134#
 Wearing this item gives you the urge to shameslessly bounce around and cackle like a Jakk.
@@ -22640,17 +22257,14 @@ Level Requirement:^009900 1 ^000000
 Jobs:^6666CC All classes ^000000
 #
 5135#
-A unique eye
-protector that
-seems to increase
-the wearer's spritual
-energy. MaxSP +50
+A unique eye protector that seems to increase the wearer's spritual energy.
+MaxSP +50
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Middle ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 75 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5136#
 A hat that Antonio used to wear.
@@ -22659,7 +22273,7 @@ MDEF +2
 ^FF0000Antonio Set
 Antonio's Santa Hat
 Grampa Beard
-Eye Patch
+Eye Patch^000000
 Adds a chance of getting Undelivered Gift when killing normal monsters. ^000000
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
@@ -22668,46 +22282,36 @@ Weight:^009900 10 ^000000
 Jobs:^6666CC All classes ^000000
 #
 5137#
-A hat adorned with an
-Alice doll. When worn,
-it seems like Alice is
-cheering you on from
-the top of your head.
-''Be strong, master!''
-+10% damage against
-Demihuman monsters,
-and has low chance of
-casting Sleep on
-its wearer.
-STR +1.
+Doll made according to the appearance of the popular Alice.
+It looks like the doll is trying to cheer its wearer from the top of the head.
+STR +1
+Increase physical damage inflicted against ^6666CCDemihuman monster^000000 by 10%.
+Adds a low chance of inflicting Sleep status on its wearer when attacking.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Every
-Job except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5138#
 A hat that looks like the eyes of a dark mage, which are rumored to blink sometimes.
-Reduce Casting Time by 10% and increase SP Consumption by 20%.
-MDEF +5.
+MDEF +5
+Reduces cast time by 10%.
+Increase SP Consumption by 20%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 3 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Magician Class/Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 #
 5139#
-A flower said to
-be as beautiful as
-a fairy in a far east
-country, and usually
-used as a medicinal
-herb. DEX +1, INT +1
-MDEF +5.
+A flower said to be as beautiful as a fairy in a far east country, and usually used as a medicinal herb.
+DEX +1
+INT +1
+MDEF +5
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
@@ -22717,12 +22321,8 @@ Level Requirement:^009900 10 ^000000
 Jobs:^6666CC All classes ^000000
 #
 5140#
-A pretty red ribbon
-decorated with a pink
-heart in the middle.
-Reduce damage from
-Undead and Demon
-monsters by 5%.
+A pretty red ribbon decorated with a pink heart in the middle.
+Reduces physical damage taken from Undead and Demon monsters by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
@@ -22731,47 +22331,35 @@ Level Requirement:^009900 10 ^000000
 Jobs:^6666CC All classes ^000000
 #
 5141#
-A Marionette doll
-that gives you strange
-chills when you wear it on your head.
+A Marionette doll that gives you strange chills when you wear it on your head.
 STR +1
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 40 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Every
-Job except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5142#
-A sturdy, decorative
-hat worn by military
-generals in a far
-east country. Vit +1.
-Reduce Demihuman
-monster damage by 5%.
+A sturdy, decorative hat worn by military generals in a far east country.
+Vit +1
+Reduces physical damage taken from Demihuman monsters by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 8 ^000000
 Position:^6666CC Upper, Middle ^000000
 Weight:^009900 300 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Swordman and
-Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 5143#
-A traditional hat
-that is mainly worn
-in plays performed
-in a far east country.
-Add +30% resistance
-to Mute status.
+A traditional hat that is mainly worn in plays performed in a far east country.
+Add 30% resistance to ^663399Silence^000000 status.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 5 ^000000
 Position:^6666CC Upper, Middle, Lower ^000000
 Weight:^009900 100 ^000000
 Level Requirement:^009900 10 ^000000
-Jobs:^6666CC Every
-Job except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5144#
 #
@@ -22895,7 +22483,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 5 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 5159#
 A gaudy helmet forged
@@ -22950,8 +22538,7 @@ Defense:^0000FF 7 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 80 ^000000
 Level Requirement:^009900 70 ^000000
-Jobs:^6666CC Swordman and
-Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 5163#
 A flamboyant hat
@@ -23004,7 +22591,7 @@ Defense:^0000FF 5 ^000000
 Position:^6666CC Upper,Lower ^000000
 Weight:^009900 300 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 5167#
 An exact replica of
@@ -25052,7 +24639,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5348#
 An over-sized red
@@ -25063,7 +24650,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 20 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5349#
 A black cap that is
@@ -25074,7 +24661,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5350#
 A bandana that is the
@@ -25085,7 +24672,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5351#
 Peculiar headgear designed to look like a sunflower.
@@ -25124,7 +24711,7 @@ Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5355#
 This is a traditional costumes for female Muslims.
@@ -25134,7 +24721,7 @@ Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5356#
 A pumpkin hat for
@@ -25906,7 +25493,7 @@ Defense:^0000FF 2 ^000000
 Weight:^009900 10 ^000000
 Position:^6666CC Upper ^000000
 Level Requirement:^009900 1 ^000000
-Class:^6666CC All ^000000
+Jobs:^6666CC All classes ^000000
 #
 5430#
 A crown with sacred fire on it.
@@ -25918,7 +25505,7 @@ Defense:^0000FF 3 ^000000
 Weight:^009900 25 ^000000
 Position:^6666CC Upper ^000000
 Level Requirement:^009900 1 ^000000
-Class:^6666CC All ^000000
+Jobs:^6666CC All classes ^000000
 #
 5431#
 This plucky bird can assist your strength and intelligence when it feels like it.
@@ -25948,7 +25535,7 @@ At refine level 9 it gives +3 Agi
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
 Position:^6666CC Upper ^000000
-Class:^6666CC All ^000000
+Jobs:^6666CC All classes ^000000
 #
 5434#
 Hat made from Cocacola can.
@@ -25997,7 +25584,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All Classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5439#
 A small Red ribbon emphasizes one's cuteness while wearing this hairband.
@@ -26006,7 +25593,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All Classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5440#
 A small Blue ribbon emphasizes one's cuteness while wearing this hairband.
@@ -26015,7 +25602,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All Classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5441#
 A small White ribbon emphasizes one's cuteness while wearing this hairband.
@@ -26024,7 +25611,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All Classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5442#
 A salaryman's necktie worn as a headband.
@@ -28063,7 +27650,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 15 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 5622#
 This hat makes the
@@ -28100,8 +27687,7 @@ Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Every
-Job except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5624#
 A must-have item for
@@ -28324,7 +27910,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 30 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Magician Class/Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 #
 5640#
 A Poring hat that feels like hopping on top of your head. It brings fortune to the wearer.
@@ -28374,8 +27960,7 @@ Defense:^0000FF 8 ^000000
 Position:^6666CC Upper, Middle ^000000
 Weight:^009900 300 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Swordman and
-Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 5644#
 A mask rumored to make its wearer ferociously aggressive.
@@ -29637,7 +29222,7 @@ Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 10 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 5811#
 A beard that seems to make you let out a guffaw.
@@ -43504,7 +43089,7 @@ Attack:^CC0000 195 ^000000
 Weight:^009900 1 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 12942#
 A box that contains
@@ -43980,7 +43565,7 @@ Weight:^009900 70 ^000000
 Element:^777777 Neutral ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 55 ^000000
-Jobs:^6666CC Thief Class and Ninja ^000000
+Jobs:^6666CC Thief and Ninja ^000000
 #
 13004#
 A dagger invented by a cowardly Assassin who was always held resentment about being unable to equip a shield.
@@ -43991,7 +43576,7 @@ Weight:^009900 70 ^000000
 Element:^777777 Neutral ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 55 ^000000
-Jobs:^6666CC Thief Class and Ninja ^000000
+Jobs:^6666CC Thief and Ninja ^000000
 #
 13005#
 Not much is known
@@ -46289,7 +45874,7 @@ Attack:^CC0000 130 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman and Merchant classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 13419#
 ^000088Rental Item ^000000
@@ -46467,7 +46052,7 @@ Weight:^009900 1 ^000000
 Element:^777777 Shadow ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 13506#
 #
@@ -46591,7 +46176,7 @@ Attack:^CC0000 150 ^000000
 Weight:^009900 1 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 13515#
 #
@@ -48721,8 +48306,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper^000000 Weight : ^77777750 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Every
-Job except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 ^777777_^000000
 Weight:^009900 1 ^000000
 #
@@ -51622,7 +51206,7 @@ Class:^6666CC Armor ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 280 ^000000
 Level Requirement:^009900 22 ^000000
-Jobs:^6666CC All classes except novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 15014#
 #
@@ -51961,7 +51545,7 @@ Attack:^CC0000 150 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 16010#
 #
@@ -52971,7 +52555,7 @@ Weight:^009900 1 ^000000
 Element:^777777 Shadow ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 16425#
 A box that contains:
@@ -53030,7 +52614,7 @@ Attack:^CC0000 150 ^000000
 Weight:^009900 1 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 #
 16428#
 A box that contains:
@@ -53108,7 +52692,7 @@ Attack:^CC0000 195 ^000000
 Weight:^009900 1 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC Swordman Class ^000000
+Jobs:^6666CC Swordman ^000000
 #
 16432#
 #
@@ -53803,8 +53387,7 @@ Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Every
-Job except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 ^777777_^000000
 Weight:^009900 1 ^000000
 #
@@ -53820,8 +53403,7 @@ monster damage by 5%.
 Class:^6666CC Headgear^000000 Defense :^7777778 ^000000
 Position:^6666CC Upper, Mid^000000 Weight : ^777777300 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Swordman and
-Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 ^777777_^000000
 Weight:^009900 1 ^000000
 #
@@ -53837,8 +53419,7 @@ monster damage by 5%.
 Class:^6666CC Headgear^000000 Defense :^7777778 ^000000
 Position:^6666CC Upper, Mid^000000 Weight : ^777777300 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Swordman and
-Merchant Classes ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 ^777777_^000000
 Weight:^009900 1 ^000000
 #
@@ -54142,7 +53723,7 @@ Position:^6666CC Upper ^000000
 ^FFFFFF_^000000
 Weight:^009900 3 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Magician Class/Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 ^777777_^000000
 Weight:^009900 1 ^000000
 #
@@ -54158,7 +53739,7 @@ Position:^6666CC Upper ^000000
 ^FFFFFF_^000000
 Weight:^009900 3 ^000000
 Level Requirement:^009900 30 ^000000
-Jobs:^6666CC Magician Class/Soul Linker ^000000
+Jobs:^6666CC Mage and Soul Linker ^000000
 ^777777_^000000
 Weight:^009900 1 ^000000
 #
@@ -54250,7 +53831,7 @@ Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 15 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 ^777777_^000000
 Weight:^009900 1 ^000000
 #
@@ -54268,7 +53849,7 @@ Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 15 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Acolyte Class ^000000
+Jobs:^6666CC Acolyte ^000000
 ^777777_^000000
 Weight:^009900 1 ^000000
 #
@@ -56546,7 +56127,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Middle ^000000
 Weight:^009900 10 ^000000
-Jobs:^6666CC All classes except Novice ^000000
+Jobs:^6666CC All except Novice ^000000
 #
 18592#
 #
