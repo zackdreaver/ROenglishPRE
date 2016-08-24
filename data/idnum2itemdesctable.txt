@@ -2766,7 +2766,7 @@ Attack:^CC0000 130 ^000000
 Weight:^009900 120 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 27 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1120#
 One of the most powerful one-handed swords, the Tsurugi was favored by the Japanese samurai.
@@ -2775,7 +2775,7 @@ Attack:^CC0000 130 ^000000
 Weight:^009900 120 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 27 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1121#
 One of the most powerful one-handed swords, the Tsurugi was favored by the Japanese samurai.
@@ -2784,7 +2784,7 @@ Attack:^CC0000 130 ^000000
 Weight:^009900 120 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 27 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1122#
 A one-handed sword with an elaborately designed hilt.
@@ -2793,17 +2793,17 @@ Attack:^CC0000 100 ^000000
 Weight:^009900 90 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 14 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1123#
 A one-handed, ancient Korean sword that is said to have the mysterious power to control minds.
-INT +3
+Int +3
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 120 ^000000
 Weight:^009900 90 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 27 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1124#
 Crafted by Orcish smiths and used by Orc Warriors, this one-handed sword is symbolic to the Orc tribe.
@@ -2822,7 +2822,7 @@ Attack:^CC0000 100 ^000000
 Weight:^009900 90 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 14 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1126#
 A heavy one-handed cavalry sword with a slightly curved blade.
@@ -2831,7 +2831,7 @@ Attack:^CC0000 115 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 27 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1127#
 A heavy one-handed cavalry sword with a slightly curved blade.
@@ -2840,17 +2840,17 @@ Attack:^CC0000 115 ^000000
 Weight:^009900 100 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 27 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1128#
 A one-handed, ancient Korean sword that is said to have the mysterious power to control minds.
-INT +3
+Int +3
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 120 ^000000
 Weight:^009900 90 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 27 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1129#
 A powerful one-handed sword with a decoratively wavy, flame-like blade.
@@ -2863,38 +2863,38 @@ Jobs:^6666CC Knight and Crusader ^000000
 #
 1130#
 A one-handed sword topped with several extra edges for making wounds deeper and more unsightly.
-Increases damage against Demihuman monsters by 5%.
-Enables use of
-^008800Level 5 Double Attack^000000.
+Increases physical damage inflicted against Demihuman monster by 5%.
+Enables ^008800Level 5 Double Attack^000000.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 120 ^000000
 Weight:^009900 50 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1131#
 A one-handed, formal dress sword imbued with the ^0000BBWater^000000 element.
 Enables use of Level 3 ^008800Cold Bolt^000000.
 Adds 1% chance of autocasting Level 3 ^008800Cold Bolt^000000 when dealing physical attacks.
-Adds 5% chance to ^663399Frozen^000000 target and 1% chance to ^663399Frozen^000000 its wielder when dealing physical attacks.
+Adds 5% chance of inflicting ^663399Frozen^000000 status on target when dealing physical attacks.
+Adds 0.1% chance of inflicting ^663399Frozen^000000 status on wielder when dealing physical attacks.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 100 ^000000
 Weight:^009900 60 ^000000
 Element:^0000BB Water ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1132#
 A one-handed sword with an extremely sharp blade that can cause the Coma effect by low chance.
-Places Curse effect on its target by a 3% chance.
+Adds 0.3% chance of inflicting Curse status on target when dealing physical attacks.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 115 ^000000
 Weight:^009900 70 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1133#
 A one-handed, formal dress sword imbued with the ^FF0000Fire^000000 element.
@@ -2906,22 +2906,22 @@ Weight:^009900 50 ^000000
 Element:^FF0000 Fire ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1134#
 A one-handed sword which looks just like a pair of scissors.
-Increase damage inflicted on Plant monsters by 25%.
 Pierces Defense of Plant monsters.
+Increase physical damage inflicted on Plant monsters by 25%.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 140 ^000000
 Weight:^009900 70 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1135#
 A one-handed sword popularized by its use by sea adventurers.
-STR +2
+Str +2
 Def +1
 Enables use of ^008800Level 5 Bash^000000.
 Class:^6666CC One-Handed Sword ^000000
@@ -2929,24 +2929,23 @@ Attack:^CC0000 150 ^000000
 Weight:^009900 90 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1136#
 A one-handed sword adorned with an engraving of the sun, symbolizing battle spirit and vigor.
-Regains 1% of damage inflicted on its target as as HP with each attack.
-Regains 1% of the damage inflicted on its target as HP with each attack.
-Drains 15 SP from its owner every 10 seconds.
+Drains 1% of damage inflicted on its target as HP with each attack.
+Drains 15 SP from wielder every 10 seconds.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 85 ^000000
 Weight:^009900 120 ^000000
 Element:^FF0000 Fire ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1137#
 The one-handed sword of Arthurian legend, it supposedly selects its owner by its own will to wield its holy powers.
-LUK +10
+Luk +10
 Dex -1
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 150 ^000000
@@ -2954,21 +2953,21 @@ Weight:^009900 120 ^000000
 Element:^777777 Holy ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1138#
 A one-handed sword inspired by the legendary twig said to have killed Baldur, god of light.
-similar to the legendary twig which was rumored to have murdered Baldur, the God of Light.
-Causes Stone Curse effect by low chance.
-Increase damage inflicted on Ghost element by 15%.
-DEX +3
+Dex +3
+Increase physical damage inflicted against Ghost element monsters by 15%.
+Adds 1% chance of autocasting Level 3 Stone Curse on target when dealing physical attacks.
+Adds 0.1% chance of inflicting Stone Curse on target when dealing physical attacks.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 170 ^000000
 Weight:^009900 100 ^000000
 Element:^777777 Shadow ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1139#
 A one-handed sword said to bring a horrific fate to whoever wields it.
@@ -2979,24 +2978,24 @@ Weight:^009900 100 ^000000
 Element:^777777 Shadow ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1140#
 A giant one-handed sword used by ancient Korean war generals.
 All Stats +2
-Increase damage inflicted on boss monsters by 5%.
-Increase damage received by normal monsters by 10%.
+Increase physical damage inflicted on Boss monsters by 5%.
+Increase physical damage taken from Normal monsters by 10%.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 150 ^000000
 Weight:^009900 90 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1141#
 A one-handed, formless sword imbued with the Ghost element that can derange the enemy's mind.
-Drains 30% of target's SP by a low chance.
-Each attack drains 1 SP from owner.
+Adds 0.3% chance of draining 30% SP of target when dealing physical attacks.
+Drains 1 SP from wielder on each attack.
 ^663399Indestructible ^000000
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 140 ^000000
@@ -3004,36 +3003,38 @@ Weight:^009900 90 ^000000
 Element:^777777 Ghost ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 40 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1142#
 A sword that has a beautiful, transparent blade and a hilt adorned with a princely jewel.
+Adds a chance a defeated monster will drop ^6666CCJewelry items^000000.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 104 ^000000
 Weight:^009900 220 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 68 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1143#
 An enchanted sword that draws ore out from fallen monsters.
+Adds a chance a defeated monster will drop ^6666CCOre items^000000.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 115 ^000000
 Weight:^009900 250 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 74 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1144#
 An extremely sharp, thin bladed sword that is very efficient when slicing fish to make Japanese cuisine.
-Increases Sushi drop chance when killing Fish monsters by 40%.
+Adds 40% chance a defeated Fish monster will drop ^6666CCSushi^000000.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 75 ^000000
 Weight:^009900 140 ^000000
-Element:^777777 Wind ^000000
+Element:^33CC00 Wind ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 48 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 1145#
 A sword that symbolizes the Lord's holy retribution.
@@ -3065,8 +3066,8 @@ Jobs:^6666CC Novice ^000000
 #
 1148#
 A spectacular sword with a blade forged out of meteorite that shines with starlight during the night.
-Has a 5% chance of causing Stun effect on enemies with each attack.
-Cannot be destroyed in battle.
+Adds 5% chance of inflicting Stun status on target when dealing physical attacks.
+^663399Indestructible^000000
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 140 ^000000
 Weight:^009900 100 ^000000
@@ -3166,7 +3167,7 @@ Jobs:^6666CC Swordman ^000000
 #
 1160#
 A sword with a wide, double sided blade.
-DEF +5
+Def +5
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 140 ^000000
 Weight:^009900 200 ^000000
@@ -3176,7 +3177,8 @@ Jobs:^6666CC Swordman ^000000
 #
 1161#
 Sword wielded by mighty ^333366GOD-POING^000000, the lawless heroine.
-INT +20, LUK +20
+Int +20
+Luk +20
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 250 ^000000
 Weight:^009900 100 ^000000
@@ -3186,7 +3188,7 @@ Jobs:^6666CC All classes ^000000
 #
 1162#
 A sword with a wide, double sided blade.
-DEF +5
+Def +5
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 140 ^000000
 Weight:^009900 200 ^000000
@@ -3205,9 +3207,9 @@ Jobs:^6666CC Knight, Crusader ^000000
 #
 1164#
 An oriental sword named after a legendary Japanese swordsmith.
-Curses its owner by a low chance.
-Critical rate +30%.
-Increases Attack Speed.(Decreases Attack After Delay by 8%)
+Crit +30
+Adds 0.1% chance of inflicting Curse status on wielder when dealing physical attacks.
+Reduces delay after attack by 8%.
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 155 ^000000
 Weight:^009900 100 ^000000
@@ -3217,9 +3219,9 @@ Jobs:^6666CC Swordman ^000000
 #
 1165#
 An oriental sword that is the masterpiece of an ancient Japanese smith.
-Decreases all Defense applied on owner by half.
-Attack Speed +2
-STR -5
+Str -5
+Def -5%
+Aspd +2
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 200 ^000000
 Weight:^009900 100 ^000000
@@ -3229,8 +3231,8 @@ Jobs:^6666CC Swordman ^000000
 #
 1166#
 A giant sword, rumored to be made from a dragon's tooth, that can easily cut through dragon scales.
-Increases damage inflicted on Dragon monsters by 15%.
 Pierces defense of Dragon monsters.
+Increases physical damage inflicted against Dragon monsters by 15%.
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 150 ^000000
 Weight:^009900 130 ^000000
@@ -3240,12 +3242,12 @@ Jobs:^6666CC Swordman ^000000
 #
 1167#
 A two-handed, formal dress sword imbued with the Wind element.
-Automatically casts ^008800Level 3 Lightning Bolt^000000 by chance.
-DEF +1
+Def +1
+Adds 1% chance of autocasting ^008800Level 3 Lightning Bolt^000000 when dealing physical attacks.
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 160 ^000000
 Weight:^009900 160 ^000000
-Element:^4CBB17 Wind ^000000
+Element:^33CC00 Wind ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
 Jobs:^6666CC Swordman ^000000
@@ -3262,8 +3264,9 @@ Jobs:^6666CC Swordman ^000000
 #
 1169#
 A gruesome sword used to behead criminals judged with the death penalty.
-Pierces Defense of Demihuman monsters.
-Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
+Pierces defense of Demihuman monsters.
+Increases physical damage inflicted on Demihuman monsters by 20%.
+Increases physical damage taken from Demihuman monsters by 10%.
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 155 ^000000
 Weight:^009900 220 ^000000
@@ -3274,7 +3277,8 @@ Jobs:^6666CC Swordman ^000000
 #
 1170#
 A sword with a unique, ''S'' shaped hilt.
-VIT +5, DEF +10
+Vit +5
+Def +10
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 175 ^000000
 Weight:^009900 200 ^000000
@@ -3304,9 +3308,9 @@ Jobs:^6666CC Knight, Crusader ^000000
 1173#
 ^000088Rental Item ^000000
 An oriental sword named after a legendary Japanese swordsmith.
-Has a low chance of cursing its wielder.
-Critical +30%
-Attack Speed +8%
+Crit +30
+Adds 0.1% chance of inflicting Curse status on wielder when dealing physical attacks.
+Reduces delay after attack by 8%.
 Class:^6666CC Two Handed Sword ^000000
 Attack:^CC0000 204 ^000000
 Weight:^009900 0 ^000000
@@ -3317,9 +3321,9 @@ Jobs:^6666CC Swordman ^000000
 1174#
 ^000088Rental Item ^000000
 A gruesome sword used to behead criminals judged with the death penalty.
-Pierces Defense of
-Demihuman monsters.
-Increases damage inflicted on Demihuman monsters by 20%, but increases damage received by Demihuman monsters by 10%.
+Pierces defense of Demihuman monsters.
+Increases physical damage inflicted on Demihuman monsters by 20%.
+Increases physical damage taken from Demihuman monsters by 10%.
 Class:^6666CC Two-handed Sword ^000000
 Attack:^CC0000 190 ^000000
 Weight:^009900 0 ^000000
@@ -3330,8 +3334,8 @@ Jobs:^6666CC Swordman ^000000
 #
 1175#
 A massive sword wielded by Atroce that is much too large to be handled by ordinary warriors.
-CRIT +10
-Adds a chance to destroys enemy's armor while attacking if the base STR is 80 or greater.
+Crit +10
+If base Str is 80 or higher: Adds 5% chance of destroying target's armor when dealing physical attacks.
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 200 ^000000
 Weight:^009900 350 ^000000
@@ -3348,7 +3352,7 @@ Attack:^CC0000 160 ^000000
 Weight:^009900 220 ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 55 ^000000
-Jobs:^6666CC Transcendent Swordman Classes ^000000
+Jobs:^6666CC Transcendent Swordman ^000000
 #
 1177#
 Item For Brave Guild Adventurers.
@@ -3361,21 +3365,21 @@ Jobs:^6666CC Swordman ^000000
 #
 1178#
 A two-handed, formal dress sword imbued with the ^33CC00Wind^000000 element.
-DEF +1
+Def +1
 Adds 1% chance of autocasting Level 3 ^008800Lightning Bolt^000000 when dealing physical attacks.
 Class:^6666CC Two-handed Sword ^000000
 Attack:^CC0000 160 ^000000
 Weight:^009900 160 ^000000
-Element:^4CBB17 Wind ^000000
+Element:^33CC00 Wind ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 48 ^000000
 Jobs:^6666CC Swordman ^000000
 #
 1179#
 A gruesome sword used to behead criminals judged with the death penalty.
-Pierces Defense of ^6666CCDemihuman monster^000000.
-Increases physical damage inflicted on ^6666CCDemihuman monster^000000 by 20%.
-Increases damage taken from ^6666CCDemihuman monster^000000 by 10%.
+Pierces defense of Demihuman monsters.
+Increases physical damage inflicted on Demihuman monsters by 20%.
+Increases physical damage taken from Demihuman monsters by 10%.
 Class:^6666CC Two-handed Sword ^000000
 Attack:^CC0000 155 ^000000
 Weight:^009900 220 ^000000
@@ -3386,8 +3390,8 @@ Jobs:^6666CC Swordman ^000000
 #
 1180#
 A giant sword, rumored to be made from a dragon's tooth, that can easily cut through dragon scales.
-Pierces defense of ^6666CCDragon monster^000000.
-Increases physical damage inflicted on ^6666CCDragon monster^000000 by 15%.
+Pierces defense of Dragon monsters.
+Increases physical damage inflicted against Dragon monsters by 15%.
 Class:^6666CC Two-handed Sword ^000000
 Attack:^CC0000 150 ^000000
 Weight:^009900 130 ^000000
@@ -3398,8 +3402,11 @@ Jobs:^6666CC Swordman ^000000
 1181#
 This is known as the sword of a brave man from the orient.
 Perfect Dodge +10.
-If Job Level is 70, has a chance of receiving ATK +50 for 10 seconds when physically attacked.
-If upgrade level is +9, skill cast time and after-casting delay decreases by 20%.
+If Job Level is 70:
+Adds 1% chance of increasing Atk by 50 for 10 seconds when dealing physical attacks.
+Refine level +9:
+Reduces cast time by 20%.
+Reduces after cast delay by 20%.
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 250 ^000000
 Weight:^009900 200 ^000000
@@ -3409,21 +3416,21 @@ Jobs:^6666CC Transcendent Swordman ^000000
 #
 1182#
 A magical sword which releases a dismal black aura.
-When dealing physical damage, has a low chance of gaining CRIT +100 and ATK +50 for 5 seconds.
-Recover 100 HP when killing an enemy.
+Adds 0.1% chance of increasing Crit by 100 and Atk by 50 for 5 seconds when dealing physical attacks.
+Restore HP by 100 when defeating an enemy.
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 200 ^000000
 Weight:^009900 120 ^000000
 Element:^777777 Ghost ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Transcendent Swordman Class ^000000
+Jobs:^6666CC Transcendent Swordman ^000000
 #
 1183#
 A Two-handed Sword made to rush at the enemy's position, especially designed for battles against Demihumans.
-STR +2
-Increases Physical Attack Strength towards Demihuman monsters by 55%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Str +2
+Increases physical damage inflicted against Demihuman monsters by 55%.
+Ignores physical defense of Demihuman monsters by 20%.
 ^663399Indestructible ^000000
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 200 ^000000
@@ -3434,9 +3441,9 @@ Jobs:^6666CC Swordman ^000000
 #
 1184#
 A Two-handed Sword made to rush at the enemy's position, especially designed for battles against Demihumans.
-CRIT +20
-Increases Physical Attack Strength to Demihuman monsters by 55%.
-Increases Critical damage by 20%.
+Crit +20
+Increases physical damage inflicted against Demihuman monsters by 55%.
+Increases critical damage by 20%.
 ^663399Indestructible ^000000
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 200 ^000000
@@ -3447,7 +3454,7 @@ Jobs:^6666CC Swordman ^000000
 #
 1185#
 A huge violet Two-Handed Sword that's made from the Twin Swords of Naght Sieger.
-Adds 5% chance for 5 seconds of ignoring Normal monster's physical defense when dealing physical attacks.
+Adds 5% chance of ignoring Normal monster's physical defense for 5 seconds when dealing physical attacks.
 Adds 3% chance of autocasting Level 3 ^008800Meteor Storm^000000 on target when dealing physical attacks.
 Adds 5% chance of autocasting Level 5 ^008800Frost Nova^000000 on target when dealing physical attacks.
 Class:^6666CC Two-Handed Sword ^000000
@@ -3460,11 +3467,11 @@ Jobs:^6666CC Transcendent Swordman Class ^000000
 1186#
 It is a cursed weapon exists only for the destruction of all living being.
 The curse of this sword event affects the owner that it leads the person to misery.
-STR +5
-AGI +2
+Str +5
+Agi +2
 Perfect Dodge +20
-Has a chance of inflicting Hell Power on the user or target when dealing physical attacks.
-Has a chance of giving 100% damage to all monsters within the area of 11x11 cells around wielder and recovers 100% of HP.
+Adds a chance of inflicting Hell Power on the user or target when dealing physical attacks.
+Adds a chance of giving 100% damage to all monsters within the area of 11x11 cells around wielder and recovers 100% of HP.
 Refine Level +9:
 Exerts the power to monsters within 15x15 cells and gives 200% damage while it recovers HP.
 Class:^6666CC Two Handed Sword ^000000
@@ -3509,7 +3516,7 @@ Attack:^CC0000 200 ^000000
 Weight:^009900 380 ^000000
 Weapon Level:^009900 2 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Transcendent Swordman Classes ^000000
+Jobs:^6666CC Transcendent Swordman ^000000
 #
 1190#
 ^000088Rental Items ^000000
@@ -4603,7 +4610,7 @@ This item cannot be Dropped or Traded.
 Class:^6666CC One-Handed Axe ^000000
 Attack:^CC0000 200 ^000000
 Weight:^009900 0 ^000000
-Element:^4CBB17 Wind ^000000
+Element:^33CC00 Wind ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 1 ^000000
 Jobs:^6666CC Swordman and Merchant ^000000
@@ -4807,7 +4814,7 @@ Enables use of ^008800Tomahawk Throwing^000000.
 Class:^6666CC Two-Handed Axe ^000000
 Attack:^CC0000 165 ^000000
 Weight:^009900 250 ^000000
-Element:^4CBB17 Wind ^000000
+Element:^33CC00 Wind ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 44 ^000000
 Jobs:^6666CC Swordman and Merchant ^000000
@@ -4887,7 +4894,7 @@ This item cannot be Dropped or Traded.
 Class:^6666CC Two-Handed Axe ^000000
 Attack:^CC0000 200 ^000000
 Weight:^009900 0 ^000000
-Element:^4CBB17 Wind ^000000
+Element:^33CC00 Wind ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 1 ^000000
 Jobs:^6666CC Swordman and Merchant ^000000
@@ -6677,7 +6684,7 @@ the Wind element.
 Class:^6666CC Book ^000000
 Attack:^CC0000 90 ^000000
 Weight:^009900 75 ^000000
-Element:^4CBB17 Wind ^000000
+Element:^33CC00 Wind ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 27 ^000000
 Jobs:^6666CC Priest
@@ -8087,7 +8094,7 @@ An arrow enchanted by the power of the Wind.
 Class:^6666CC Arrow ^000000
 Attack:^CC0000 30 ^000000
 Weight:^009900 0.2 ^000000
-Element:^4CBB17 Wind ^000000
+Element:^33CC00 Wind ^000000
 #
 1756#
 An arrow made of stone imbued with the power of Earth.
@@ -10275,7 +10282,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 2231#
 A jeweled headdress that wards off harmful magic.
@@ -10284,7 +10291,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 2232#
 A jeweled, metal band worn on the head that wards off the effects of harmful magic.
@@ -10558,7 +10565,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 40 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 2262#
 A fashion accessory used in clown or town drunk disguises.
@@ -10891,7 +10898,7 @@ Class:^6666CC Headgear ^000000
 Defense:^0000FF 5 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 50 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 2301#
 A simple, sturdily made shirt of cotton.
@@ -10997,7 +11004,7 @@ Heavy mail made entirely of polished, metal chain links.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 8 ^000000
 Weight:^009900 330 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 2316#
 Heavy, solid armor made of durable plates of impenetrable metal.
@@ -14274,13 +14281,13 @@ Jobs:^6666CC Mage Jobs/Soul Linker ^000000
 2718#
 A crescent-shaped golden shining brooch.
 When equipped with Luna Bow,
-DEX +1, SP +50,
+DEX +1, MaxSP +50,
 SP recovery rate +10%.
 Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 20 ^000000
 Level Requirement:^009900 65 ^000000
-Jobs:^6666CC Archer Class Jobs ^000000
+Jobs:^6666CC Archer ^000000
 #
 2719#
 A strong steel wrist protector.
@@ -14289,7 +14296,7 @@ Class:^6666CC Accessory ^000000
 Defense:^0000FF 1 ^000000
 Weight:^009900 70 ^000000
 Level Requirement:^009900 50 ^000000
-Jobs:^6666CC Swordman, Merchant Class Jobs ^000000
+Jobs:^6666CC Swordman, Merchant Class ^000000
 #
 2720#
 A medal rewarded to honorable warriors.
@@ -20842,7 +20849,7 @@ Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
 Weight:^009900 60 ^000000
 Level Requirement:^009900 60 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 5003#
 A comical hat worn by clowns and jesters that is rumored to protect its wearer from magic.
@@ -30744,7 +30751,7 @@ Weight:^009900 0.1 ^000000
 #
 6211#
 An unpleasant seed that is used for reddish fruits, it looks as if blood is inside of it.
-It's used for Geneticistist Skill, 'Blood	Sucker'.
+It's used for Geneticistist Skill, 'Blood Sucker'.
 Weight:^009900 0.1 ^000000
 #
 6212#
@@ -44874,7 +44881,7 @@ Jobs:^6666CC Gunslinger ^000000
 #
 13175#
 ^000088Rental Items ^000000
-A masterpiece that brings the power of the Rifles to the max. This beautiful gun steals the heart of the Gunslingers, and its high performance will put a hole through the heart of the enemy. Only downside is that, due to the fact it is lever-action oriented, the Attack Speed is somewhat poor.
+A masterpiece that brings the power of the Rifles to the max. This beautiful gun steals the heart of the Gunslingers, and its high performance will put a hole through the heart of the enemy.
 HIT+ 20, Cri+ 50, Adds 40% damage to the monster.
 Class:^6666CC Rifle ^000000
 Attack:^CC0000 170 ^000000
@@ -45642,7 +45649,7 @@ Weight:^009900 0 ^000000
 Element:^777777 Holy ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 1 ^000000
-Jobs:^6666CC Swordman, Merchant, and Thief Classes ^000000
+Jobs:^6666CC Swordman, Merchant and Thief Classes ^000000
 #
 13402#
 ^000088Rental Item ^000000
@@ -46068,7 +46075,7 @@ This item cannot be Dropped or Traded.
 Class:^6666CC One-Handed Axe ^000000
 Attack:^CC0000 200 ^000000
 Weight:^009900 1 ^000000
-Element:^4CBB17 Wind ^000000
+Element:^33CC00 Wind ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 1 ^000000
 Jobs:^6666CC Swordman and Merchant ^000000
@@ -49187,98 +49194,28 @@ Level Requirement:^009900 1^000000 Jobs: ^777777All Except Novice ^000000
 14143#
 #
 14144#
-placeholder
 #
 14145#
-placeholder
 #
 14146#
-placeholder
 #
 14147#
-placeholder
 #
 14148#
-placeholder
 #
 14149#
-placeholder
 #
 14150#
-placeholder
 #
 14151#
-placeholder
 #
 14152#
-The Start your Journey Pack contains several items that will allow you move around Rune Midgard kingdom's cities so you can complete your job change quest quickly, get more exp for 30 minutes, and keep yourself heal during early adventure battles.
-Also 20 Red Envelopes are given to help you get that last little bit of experience needed for that next level.
-Contains:
-20 Red Envelopes
-200 Novice Red Potions
-1 Battle Manual
-3 Rune Midgard Butterfly Wings
-Can only be stored.
-Weight:^009900 1 ^000000
 #
 14153#
-The Siege Mode Pack is designed to Maximize mobility, Survival and Offense for the hardcore WoE participant.
-Contains:
-5x +10 STR Food,
-5x +10 DEX Food,
-5x +10 INT Food,
-10x Mega Resist Potion,
-10x Big Defense Potion,
-10x Big Mdef Potion,
-50x WoE White Potion,
-25x WoE Blue Potion,
-20x Turbo Speed Potion,
-5x Rachel Town Scroll,
-5x Schwartzwalt Town Scroll,
-5x Rune Midgard Town Scroll, and
-20x WoE Teleport Scrolls.
-Cannot be dropped or placed in Cart.
-Weight:^009900 1 ^000000
 #
 14154#
-The 1 Hour Survivor Pack maximizes your survival chances and minimizes your possibility of Experience loss when hunting dangerous prey.
-Contains:
-20x Assumptio Scrolls,
-15x Big Defense Potion,
-15x Mdef Potion,
-6x Medium Life Potion,
-10x Token of Siegfried,
-3x Insurance,
-5x Regeneration Potion,
-4x Mega Resist Potion,
-50x WoE White Potions, and
-25x WoE Blue Potions.''
-Cannot be dropped or placed in Cart.
-Weight:^009900 1 ^000000
 #
 14155#
-The Weekend Hunting Pack contains the following consumable items to maximize your hunting efficiency.
-You will earn 150% normal Exp for 5 hours,
-Double item drop rates for 5 hours,
-Avoid death penalty for 5 hours,
-and be able to travel all over Rune-Midgard very quickly with the Town and Dungeon Teleport scrolls,
-and restore HP at an astronomical rate with the Small Life Potion.
-Contains:
-10x Battle Manuals,
-10x Bubble Gum,
-20x Increase Agility 10 Scrolls,
-20x Blessing 10 Scrolls,
-10x Token of Siegfried,
-10x Insurance,
-5x Kafra Cards,
-20x Greed Scrolls,
-10x Dungeon Teleport Scrolls,
-5x Rachel Town Butterfly Wing,
-5x Schwartzwalt Town Butterfly Wing,
-5x Rune-Midgard Town Butterfly Wing, and
-12x Small Life Potions.
-Cannot be dropped or placed in Cart.
-Weight:^009900 1 ^000000
 #
 14156#
 A box that contains
@@ -52013,68 +51950,20 @@ Weight:^009900 1 ^000000
 16257#
 #
 16258#
-A box which contains 5 high density bradiums.
-A high density Bradium used in upgrading weapons. Take this to Mighty Hammer in Eden Group or Payon next to the Kafra Shop Ladies to help you upgrade weapons at +10 and higher.
-This Bradium's density guarantees that your weapon will NOT break when attempting to upgrade and if the upgrade attempt fails, it will only downgrade 1 level instead of 3 like a normal Bradium.
-Weight:^009900 1 ^000000
-^FF0000This item is excluded from subscription withdrawal or refund. ^000000
-Weight:^009900 1 ^000000
 #
 16259#
-A box which contains 5 high density carniums.
-A high density Carnium used in upgrading armor. Take this to Mighty Hammer in Eden Group or Payon next to the Kafra Shop Ladies to help you upgrade armor at +10 and higher.
-This Carnium's density guarantees that your armor will NOT break when attempting to upgrade and if the upgrade attempt fails, it will only downgrade 1 level instead of 3 like a normal Carnium.
-Weight:^009900 1 ^000000
-^FF0000This item is excluded from subscription withdrawal or refund. ^000000
-Weight:^009900 1 ^000000
 #
 16260#
-A box which contains 10 high density bradiums.
-The density and solidity has been heightened by repeated experiments from Rune Midgard's scholars. It seems that it becomes more difficult for weapon upgrade.
-When you fail while upgrading defense weapon whose upgrade level is over +10, it won't be destroyed. (When the upgrade fails, upgrade level gets -1)
-Weight:^009900 1 ^000000
-^FF0000This item is excluded from subscription withdrawal or refund. ^000000
-Weight:^009900 1 ^000000
 #
 16261#
-A box which contains 10 high density carniums.
-It has been compressed for such a long time that the density and solidity is heightened. It seems that it becomes more difficult for Defense Weapon Upgrade.
-When you fail while upgrading defense weapon whose upgrade level is over +10, it won't be destroyed. (When the upgrade fails, upgrade level gets -1)
-Weight:^009900 1 ^000000
-^FF0000This item is excluded from subscription withdrawal or refund. ^000000
-Weight:^009900 1 ^000000
 #
 16262#
-A box which contains 5 high density bradiums.
-The density and solidity has been heightened by repeated experiments from Rune Midgard's scholars. It seems that it becomes more difficult for weapon upgrade.
-When you fail while upgrading defense weapon whose upgrade level is over +10, it won't be destroyed. (When the upgrade fails, upgrade level gets -1)
-Weight:^009900 1 ^000000
-^FF0000This item is excluded from subscription withdrawal or refund. ^000000
-Weight:^009900 1 ^000000
 #
 16263#
-A box which contains 5 high density carniums.
-It has been compressed for such a long time that the density and solidity is heightened. It seems that it becomes more difficult for Defense Weapon Upgrade.
-When you fail while upgrading defense weapon whose upgrade level is over +10, it won't be destroyed. (When the upgrade fails, upgrade level gets -1)
-Weight:^009900 1 ^000000
-^FF0000This item is excluded from subscription withdrawal or refund. ^000000
-Weight:^009900 1 ^000000
 #
 16264#
-A box which contains 10 high density bradiums.
-The density and solidity has been heightened by repeated experiments from Rune Midgard's scholars. It seems that it becomes more difficult for weapon upgrade.
-When you fail while upgrading defense weapon whose upgrade level is over +10, it won't be destroyed. (When the upgrade fails, upgrade level gets -1)
-Weight:^009900 1 ^000000
-^FF0000This item is excluded from subscription withdrawal or refund. ^000000
-Weight:^009900 1 ^000000
 #
 16265#
-A box which contains 10 high density carniums.
-It has been compressed for such a long time that the density and solidity is heightened. It seems that it becomes more difficult for Defense Weapon Upgrade.
-When you fail while upgrading defense weapon whose upgrade level is over +10, it won't be destroyed. (When the upgrade fails, upgrade level gets -1)
-Weight:^009900 1 ^000000
-^FF0000This item is excluded from subscription withdrawal or refund. ^000000
-Weight:^009900 1 ^000000
 #
 16266#
 #
@@ -52083,7 +51972,6 @@ A box containing 10 High Efficiency Battle Manuals.
 ^FFFFFF_^000000
 High Efficiency Battle Manual - This well written, detailed manual explains High Efficiency battle methods.
 ^000088EXP rate increases to 200% for 15 minutes. ^000000
-^FF0000Duration is 30 minutes until October 2, 2013 ^000000
 Weight:^009900 1 ^000000
 #
 16268#
@@ -52649,7 +52537,7 @@ This item cannot be Dropped or Traded.
 Class:^6666CC One-Handed Axe ^000000
 Attack:^CC0000 200 ^000000
 Weight:^009900 1 ^000000
-Element:^4CBB17 Wind ^000000
+Element:^33CC00 Wind ^000000
 Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 1 ^000000
 Jobs:^6666CC Swordman and Merchant ^000000
