@@ -596,7 +596,7 @@
 1261#Infiltrator#
 1262#Loki's_Nail#
 1263#Unholy_Touch#
-1264#Specialty_Jur#
+1264#Various_Jur#
 1265#Bloody_Roar#
 1266#Infiltrator#
 1267#Infiltrator#

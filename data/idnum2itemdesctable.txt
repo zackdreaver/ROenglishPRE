@@ -1216,7 +1216,7 @@ A tropical delicacy known as the king of fruits. It's big, green and heavy, and 
 Its odor may offend some people, but it tastes delicious.
 ^FFFFFF_^000000
 Class:^0000FF Usable item ^000000
-Effect: ^009900Atk +10, Matk +10 ^000000
+Effect: ^009900ATK +10, Matk +10 ^000000
 Duration: ^00990010^000000 minutes
 Weight:^009900 30 ^000000
 #
@@ -2863,7 +2863,7 @@ Jobs:^6666CC Knight and Crusader ^000000
 #
 1130#
 A one-handed sword topped with several extra edges for making wounds deeper and more unsightly.
-Increases physical damage inflicted against Demihuman monster by 5%.
+Increases physical damage inflicted against Demihuman monsters by 5%.
 Enables ^008800Level 5 Double Attack^000000.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 120 ^000000
@@ -3232,7 +3232,7 @@ Jobs:^6666CC Swordman ^000000
 1166#
 A giant sword, rumored to be made from a dragon's tooth, that can easily cut through dragon scales.
 Pierces defense of Dragon monsters.
-Increases physical damage inflicted against Dragon monsters by 15%.
+Increases physical damage inflicted against ^6666CCDragon^000000 monsters by 15%.
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 150 ^000000
 Weight:^009900 130 ^000000
@@ -3265,8 +3265,8 @@ Jobs:^6666CC Swordman ^000000
 1169#
 A gruesome sword used to behead criminals judged with the death penalty.
 Pierces defense of Demihuman monsters.
-Increases physical damage inflicted against Demihuman monsters by 20%.
-Increases physical damage taken from Demihuman monsters by 10%.
+Increases physical damage inflicted against ^6666CCDemihuman^000000 monsters by 20%.
+Increases physical damage taken from ^6666CCDemihuman^000000 monsters by 10%.
 Class:^6666CC Two-Handed Sword ^000000
 Attack:^CC0000 155 ^000000
 Weight:^009900 220 ^000000
@@ -3322,8 +3322,8 @@ Jobs:^6666CC Swordman ^000000
 ^000088Rental Item ^000000
 A gruesome sword used to behead criminals judged with the death penalty.
 Pierces defense of Demihuman monsters.
-Increases physical damage inflicted against Demihuman monsters by 20%.
-Increases physical damage taken from Demihuman monsters by 10%.
+Increases physical damage inflicted against ^6666CCDemihuman^000000 monsters by 20%.
+Increases physical damage taken from ^6666CCDemihuman^000000 monsters by 10%.
 Class:^6666CC Two-handed Sword ^000000
 Attack:^CC0000 190 ^000000
 Weight:^009900 0 ^000000
@@ -3378,8 +3378,8 @@ Jobs:^6666CC Swordman ^000000
 1179#
 A gruesome sword used to behead criminals judged with the death penalty.
 Pierces defense of Demihuman monsters.
-Increases physical damage inflicted against Demihuman monsters by 20%.
-Increases physical damage taken from Demihuman monsters by 10%.
+Increases physical damage inflicted against ^6666CCDemihuman^000000 monsters by 20%.
+Increases physical damage taken from ^6666CCDemihuman^000000 monsters by 10%.
 Class:^6666CC Two-handed Sword ^000000
 Attack:^CC0000 155 ^000000
 Weight:^009900 220 ^000000
@@ -3391,7 +3391,7 @@ Jobs:^6666CC Swordman ^000000
 1180#
 A giant sword, rumored to be made from a dragon's tooth, that can easily cut through dragon scales.
 Pierces defense of Dragon monsters.
-Increases physical damage inflicted against Dragon monsters by 15%.
+Increases physical damage inflicted against ^6666CCDragon^000000 monsters by 15%.
 Class:^6666CC Two-handed Sword ^000000
 Attack:^CC0000 150 ^000000
 Weight:^009900 130 ^000000
@@ -3429,7 +3429,7 @@ Jobs:^6666CC Transcendent Swordman ^000000
 1183#
 A Two-handed Sword made to rush at the enemy's position, especially designed for battles against Demihumans.
 Str +2
-Increases physical damage inflicted against Demihuman monsters by 55%.
+Increases physical damage inflicted against ^6666CCDemihuman^000000 monsters by 55%.
 Ignores physical defense of Demihuman monsters by 20%.
 ^663399Indestructible ^000000
 Class:^6666CC Two-Handed Sword ^000000
@@ -3442,7 +3442,7 @@ Jobs:^6666CC Swordman ^000000
 1184#
 A Two-handed Sword made to rush at the enemy's position, especially designed for battles against Demihumans.
 Crit +20
-Increases physical damage inflicted against Demihuman monsters by 55%.
+Increases physical damage inflicted against ^6666CCDemihuman^000000 monsters by 55%.
 Increases critical damage by 20%.
 ^663399Indestructible ^000000
 Class:^6666CC Two-Handed Sword ^000000
@@ -3792,9 +3792,9 @@ Level Requirement:^009900 36 ^000000
 Jobs:^6666CC Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker and Ninja ^000000
 #
 1228#
-Military combat knife made for battles against ^6666CCDemihuman monster^000000.
-Pierces Defense of ^6666CCDemihuman monster^000000.
-Reduces damage taken from ^6666CCDemihuman monster^000000 by 10%.
+Military combat knife made for battles against ^6666CCDemihuman^000000 monster.
+Pierces Defense of ^6666CCDemihuman^000000 monster.
+Reduces damage taken from ^6666CCDemihuman^000000 monsters by 10%.
 Increases damage taken from ^6666CCDemon monster^000000 by 10%.
 Class:^6666CC Dagger ^000000
 Attack:^CC0000 80 ^000000
@@ -3806,7 +3806,7 @@ Jobs:^6666CC Swordman, Mage, Archer, Merchant, Thief Classes, Soul Linker and Ni
 1229#
 A domestic knife used for cooking by housewives.
 Crit +30
-Increases damage inflicted on ^6666CCDemihuman monster^000000 by 3%.
+Increases damage inflicted on ^6666CCDemihuman^000000 monsters by 3%.
 Adds 50% chance a defeated ^6666CCBrute^000000 monster will drop ^6666CCMeat^000000.
 Class:^6666CC Dagger ^000000
 Attack:^CC0000 75 ^000000
@@ -4140,7 +4140,7 @@ A lethal Katar that has been perfectly designed to carry out quick assasinations
 Def +3
 Flee +5
 Perfect Dodge +2
-Increases physical damage inflicted against ^6666CCDemihuman monster^000000 by 50%.
+Increases physical damage inflicted against ^6666CCDemihuman^000000 monsters by 50%.
 Class:^6666CC Katar ^000000
 Attack:^CC0000 140 ^000000
 Weight:^009900 150 ^000000
@@ -4182,7 +4182,7 @@ Jobs:^6666CC Assassin ^000000
 #
 1265#
 This katar, known for being effective against humans, is rumored to give a beastial roar when drenched in blood, hence its name.
-Pierces Defense of ^6666CCDemihuman monster^000000.
+Pierces Defense of ^6666CCDemihuman^000000 monster.
 Reduces FLEE and Perfect Dodge.
 Disables natural HP and SP regeneration.
 Class:^6666CC Katar ^000000
@@ -4197,7 +4197,7 @@ A lethal Katar that has been designed for quick assassinations.
 Def +3
 Flee +5
 Perfect Dodge +2
-Increases physical damage inflicted against ^6666CCDemihuman monster^000000 by 50%.
+Increases physical damage inflicted against ^6666CCDemihuman^000000 monsters by 50%.
 Class:^6666CC Katar ^000000
 Attack:^CC0000 140 ^000000
 Weight:^009900 150 ^000000
@@ -4212,7 +4212,7 @@ Def +3
 Flee +5
 Perfect Dodge +2
 Reduces after attack delay by 5%.
-Increases physical damage inflicted against ^6666CCDemihuman monster^000000 by 50%.
+Increases physical damage inflicted against ^6666CCDemihuman^000000 monsters by 50%.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Katar ^000000
 Attack:^CC0000 189 ^000000
@@ -4277,7 +4277,7 @@ Jobs:^6666CC Assassin ^000000
 1273#
 ^000088Rental Item ^000000
 This katar, known for being effective against humans, is rumored to give a bestial roar when drenched in blood, hence its name.
-Pierces Defense of ^6666CCDemihuman monster^000000.
+Pierces Defense of ^6666CCDemihuman^000000 monster.
 Recover HP +3 every 5 seconds.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Katar ^000000
@@ -4349,7 +4349,7 @@ Jobs:^6666CC Assassin ^000000
 1279#
 A particularly modified Katar created for battles against Demihumans. It makes for a battlefield full of blood and terrible crimes if equipped by a Master Assassin.
 Str +1, Dex +1, Luk +1
-Increases physical damage inflicted against Demihuman monsters by 70%.
+Increases physical damage inflicted against ^6666CCDemihuman^000000 monsters by 70%.
 Ignores Physical Defense of Demihuman monsters by 20%.
 ^663399Indestructible ^000000
 Class:^6666CC Katar ^000000
@@ -4362,7 +4362,7 @@ Jobs:^6666CC Assassin ^000000
 1280#
 A particularly modified Katar created for battles against Demihumans. It can be used for terrible crimes if equipped by a Master Assassin.
 Str +1, Dex +1, Luk +1
-Increases physical damage inflicted against Demihuman monsters by 70%.
+Increases physical damage inflicted against ^6666CCDemihuman^000000 monsters by 70%.
 Increases Critical damage by 20%.
 Reduces after attack delay by 5%.
 ^663399Indestructible ^000000
@@ -4508,7 +4508,7 @@ Assassin Job ^000000
 #
 1305#
 A heavy, broad bladed hatchet used by butchers.
-Increases damage against Demihuman monsters by 5%.
+Increases damage against ^6666CCDemihuman^000000 monsters by 5%.
 Adds 30% additional chance of dropping Meat each time a Brute monster is killed.
 Class:^6666CC One-Handed Axe ^000000
 Attack:^CC0000 140 ^000000
@@ -4553,7 +4553,7 @@ Jobs:^6666CC Novice, Swordman, and Merchant Classes;
 Assassin Job ^000000
 #
 1310#
-Physical Attack against Demihuman monsters +75%.
+Physical Attack against ^6666CCDemihuman^000000 monster +75%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade : Ignore Demihuman physical defense +5%, Reduces after attack delay by 5%, ^FF0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
@@ -4783,7 +4783,7 @@ Jobs:^6666CC Swordman and Merchant ^000000
 #
 1366#
 A Greek ceremonial axe that possesses the power of holiness.
-Increases physical damage inflicted against Demon monsters by 3%.
+Increases physical damage inflicted against ^6666CCDemon^000000 monsters by 3%.
 Enables use of ^008800Level 3 Heal^000000.
 Class:^6666CC Two-Handed Axe ^000000
 Attack:^CC0000 180 ^000000
@@ -4949,15 +4949,15 @@ Jobs:^6666CC Swordman and Merchant ^000000
 1379#
 A terrifying two-handed axe that is said to stimulate the nerves in order to kill Demihumans, once it's in the wearer's hands.
 Str +3
-Increases Physical damage inflicted against Demihuman monsters by 55%.
-Ignores physical defense from Demihuman monsters by 20%.
+Increases Physical damage inflicted against ^6666CCDemihuman^000000 monsters by 55%.
+Ignores physical defense from ^6666CCDemihuman^000000 monsters by 20%.
 ^663399Indestructible ^000000
 Class:^6666CC Two-Handed Axe ^000000
 Attack:^CC0000 200 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman,Merchant ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1380#
 A terrifying two-handed axe that is said to stimulate the nerves in order to kill Demihumans, once it's in the wearer's hands.
@@ -4970,7 +4970,7 @@ Attack:^CC0000 200 ^000000
 Weight:^009900 0 ^000000
 Weapon Level:^009900 3 ^000000
 Level Requirement:^009900 80 ^000000
-Jobs:^6666CC Swordman,Merchant ^000000
+Jobs:^6666CC Swordman and Merchant ^000000
 #
 1381#
 A sturdy two-handed axe useful for defeating many foes.
@@ -4998,7 +4998,7 @@ Level Requirement:^009900 80 ^000000
 Jobs:^6666CC Swordman and Merchant ^000000
 #
 1383#
-Increases damage against Undead monster by 10%.
+Increases damage against Undead monsters by 10%.
 Add a chance of auto casting ^008800Level 5 Blessing^000000 on the enemy when attacking.
 Class:^6666CC Two-Handed Axe ^000000
 Attack:^CC0000 200 ^000000
@@ -5232,7 +5232,7 @@ Jobs:^6666CC Swordman ^000000
 #
 1415#
 A spear that has been made to puncture any armor worn by enemies.
-Increases damage inflicted on Neutral element by 25% Pierces Defense of its target.
+Increases damage inflicted on ^777777Neutral^000000 element by 25% Pierces Defense of its target.
 Class:^6666CC One-Handed Spear ^000000
 Attack:^CC0000 85 ^000000
 Weight:^009900 85 ^000000
@@ -5306,7 +5306,7 @@ Swordman Classes ^000000
 1421#
 A spear that is tipped with a hook that can push and pull enemies.
 Enables use of Level 3 ^008800Pierce^000000.
-Increase physical damage inflicted on ^6666CCDemihuman monster^000000 by 20%.
+Increase physical damage inflicted on ^6666CCDemihuman^000000 monsters by 20%.
 Adds 5% chance of inflicting ^663399Stun^000000 status to target when dealing physical attacks.
 Class:^6666CC One-Handed Spear ^000000
 Attack:^CC0000 140 ^000000
@@ -5344,7 +5344,7 @@ Jobs:^6666CC Swordman ^000000
 ^000088Rental Items ^000000
 A spear that has been made to puncture any armor worn by enemies.
 Pierces Defense of its target.
-Increase damage inflicted on Medium size monster by 20%.
+Increase damage inflicted on Medium size monsters by 20%.
 ^FF0000Unrefineable ^000000
 Class:^6666CC One-Handed Spear ^000000
 Attack:^CC0000 149 ^000000
@@ -5357,7 +5357,7 @@ Jobs:^6666CC Swordman ^000000
 A special spear made for charging at the enemy's position. It is especially designed for battles against Demihumans.
 Str +2
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 If worn by Crusader or Paladin, Reduces after attack delay by 20%
 ^663399Indestructible ^000000
 Class:^6666CC One-Handed Spear ^000000
@@ -5632,7 +5632,7 @@ Jobs:^6666CC Swordman ^000000
 1467#
 A spear with a hooked blade that has proven its versatility in battle.
 Increases damage inflicted on Brute monsters by 10%.
-Increases damage against Demihuman monsters by 5%.
+Increases damage against ^6666CCDemihuman^000000 monsters by 5%.
 Class:^6666CC Two-Handed Spear ^000000
 Attack:^CC0000 183 ^000000
 Weight:^009900 100 ^000000
@@ -5752,7 +5752,7 @@ Jobs:^6666CC Swordman ^000000
 1478#
 An auger shaped spear that is designed for striking the weak points of an enemy.
 Ignores physical defense of target.
-Increases physical damage inflicted against ^6666CCDemihuman monster^000000 by 10%.
+Increases physical damage inflicted against ^6666CCDemihuman^000000 monsters by 10%.
 Adds a chance of autocasting Level 5 ^008800Pierce^000000 on target when dealing physical attacks.
 Class:^6666CC Two-Handed Spear ^000000
 Attack:^CC0000 120 ^000000
@@ -5801,7 +5801,7 @@ Jobs:^6666CC Swordman ^000000
 A Two-handed Spear made to rush at the enemy's position, especially designed for battles against Demihumans.
 Str +2
 Increases Physical Attack Strength to Demihuman monsters by 25%.
-Ignores Physical Defense from Demihuman monsters.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters.
 ^663399Indestructible ^000000
 Class:^6666CC Two-Handed Spear ^000000
 Attack:^CC0000 160 ^000000
@@ -5871,7 +5871,7 @@ Jobs:^6666CC Swordman ^000000
 ^000088Rental item ^000000
 Ignore enemy's defense.
 Chance to activate level 5 pierce when attacking.
-Increase damage against Demihuman monster by 20%.
+Increase damage against Demihuman monsters by 20%.
 Class:^6666CC Two-Handed Spear ^000000
 Attack:^CC0000 135 ^000000
 Weight:^009900 0 ^000000
@@ -6114,7 +6114,7 @@ Jobs:^6666CC Acolyte ^000000
 1524#
 A mace forged out of pure gold.
 Increases damage inflicted on Undead monsters by 10%.
-Indestructible (except in upgrade attempts).
+^663399Indestructible ^000000
 Class:^6666CC Mace ^000000
 Attack:^CC0000 110 ^000000
 Weight:^009900 80 ^000000
@@ -6136,7 +6136,7 @@ Jobs:^6666CC Acolyte ^000000
 1526#
 A heaty mace with curved, sharp blades.
 Increases damage inflicted on Undead monsters by 15%.
-15 % additional damage on Undead monsters.
+15% additional damage on Undead monsters.
 5% more EXP rewarded when defeating Undead monsters.
 Causes Coma effect on Undead by a low chance.
 Class:^6666CC Mace ^000000
@@ -6264,8 +6264,8 @@ Jobs:^6666CC Swordman Class, Acolyte Class, Merchant Class ^000000
 1537#
 ^000088Rental Items ^000000
 A heavy and powerful iron mace with a rounded top.
-Increases damage against Undead Element monster and Demon monster by 40%.
-Increases damage against DemiHuman monsters by 30%.
+Increases damage against ^777777Undead^000000 element monster and Demon monsters by 40%.
+Increases damage against ^6666CCDemihuman^000000 monsters by 30%.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Mace ^000000
 Attack:^CC0000 193 ^000000
@@ -6291,7 +6291,7 @@ Jobs:^6666CC Acolyte ^000000
 1539#
 A mace forged out of pure gold.
 Increases damage inflicted on Undead monsters by 10%.
-Indestructible (except in upgrade attempts).
+^663399Indestructible ^000000
 Class:^6666CC Mace ^000000
 Attack:^CC0000 110 ^000000
 Weight:^009900 80 ^000000
@@ -6331,7 +6331,7 @@ A deadly mace that is usually worn by the best fighter; it seems to be capable o
 It is especially designed for battles against Demihumans.
 Str +1, Dex +1
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 ^663399Indestructible ^000000
 Class:^6666CC Mace ^000000
 Attack:^CC0000 105 ^000000
@@ -6378,7 +6378,7 @@ Level Requirement:^009900 2 ^000000
 Jobs:^6666CC Novice, Swordman, Acolyte, and Merchant ^000000
 #
 1546#
-Physical Attack against Demihuman monsters +75%.
+Physical Attack against ^6666CCDemihuman^000000 monster +75%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade : Ignore Demihuman physical defense +5%, Reduces after attack delay by 5%, ^FF0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
@@ -6498,7 +6498,7 @@ Jobs:^6666CC Priest, Sage, and Taekwon Master ^000000
 #
 1558#
 A cute diary in which the innermost thoughts of a young girl have been recorded, but you can never bear to open it.
-Increases damage on Bongun monster by 150%.
+Increases damage on Bongun monsters by 150%.
 Class:^6666CC Book ^000000
 Attack:^CC0000 60 ^000000
 Weight:^009900 30 ^000000
@@ -6719,7 +6719,7 @@ Jobs:^6666CC Priest, Sage and Taekwon Master ^000000
 A battlefield book written by ancient strategists from a far east country. It is still being studied by many militarists.
 Str +2, Int +1, Matk +15%
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 ^663399Indestructible ^000000
 Class:^6666CC Book ^000000
 Attack:^CC0000 90 ^000000
@@ -6731,7 +6731,7 @@ Jobs:^6666CC Priest, Sage and Taekwon Master ^000000
 1575#
 A battlefield book written by ancient strategists from a far east country. It is still being studied by many militarists.
 Str +1, Int +2, Matk +15%
-Ignores Magical Defense from Demihuman monsters by 25%.
+Ignores Magical Defense from ^6666CCDemihuman^000000 monsters by 25%.
 ^663399Indestructible ^000000
 Class:^6666CC Book ^000000
 Attack:^CC0000 90 ^000000
@@ -7061,7 +7061,7 @@ MaxHP +400
 MaxHP +300
 Matk -5%
 Matk +1% per upgrade level of Survivor's Rod
-Resist Neutral Element by 3 times the upgrade level of Survivor's Manteau.
+Resist ^777777Neutral^000000 element by 3 times the upgrade level of Survivor's Manteau.
 Class:^6666CC One-Handed Staff ^000000
 Attack:^CC0000 50 ^000000
 Weight:^009900 100 ^000000
@@ -7094,7 +7094,7 @@ MaxHP +400
 MaxHP +300
 Matk -5%
 Matk +1% per upgrade level of Survivor's Rod
-Resist Neutral Element by 3 times the upgrade level of Survivor's Manteau.
+Resist ^777777Neutral^000000 element by 3 times the upgrade level of Survivor's Manteau.
 Class:^6666CC One-Handed Staff ^000000
 Attack:^CC0000 50 ^000000
 Weight:^009900 100 ^000000
@@ -7253,7 +7253,7 @@ Jobs:^6666CC Priest, Monk ^000000
 A Rod that has been modified for brave magicians who face enemies in battle.
 It is especially designed for battles against Demihumans.
 Matk +15%, Int +4, Dex +3
-Ignores Magic Defense from Demihuman monsters by 25%.
+Ignores Magic Defense from ^6666CCDemihuman^000000 monsters by 25%.
 Enables a 5% chance to inflict the Stun effect when using magical attacks.
 ^663399Indestructible ^000000
 Class:^6666CC One-Handed Staff ^000000
@@ -7267,7 +7267,7 @@ Jobs:^6666CC Mage, Acolyte and Soul Linker ^000000
 A Rod that has been modified for brave magicians who face enemies in battle.
 It is especially designed for battles against Demihumans.
 Matk +15%, Int +3, Dex +3
-Increases Magic Damage against Demihuman monsters by 15%.
+Increases Magic Damage against ^6666CCDemihuman^000000 monsters by 15%.
 Enables a 5% chance to inflict the Stun effect when using magical attacks.
 ^663399Indestructible ^000000
 Class:^6666CC One-Handed Staff ^000000
@@ -7355,7 +7355,7 @@ Jobs:^6666CC Novice, Mage, Acolyte Classes, and Soul Linker ^000000
 #
 1640#
 Increases Matk to Demihuman monsters by 15%.
-Ignores Mdef from Demihuman monsters by 25%.
+Ignores Mdef from ^6666CCDemihuman^000000 monsters by 25%.
 Indestructible
 ***Additional Weapon Refining Level Option***
 +6 Upgrade : Ignore Mdef of Demihuman monsters +5%.
@@ -7941,7 +7941,7 @@ Jobs:^6666CC Sniper ^000000
 A Crossbow that has been designed to deal more damage to Demihuman monsters.
 Dex +2
 Increases Physical Attack Strength towards Demihuman monsters by 55%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 ^663399Indestructible ^000000
 Class:^6666CC Bow ^000000
 Attack:^CC0000 100 ^000000
@@ -8491,7 +8491,7 @@ Monk Classes ^000000
 Battle Gloves used by combatants in the field of battle. Its wearer is never exhausted because it brings unlimited power once worn.
 Str +2, Agi +1
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 Each physical attack adds the chance of auto casting ^FF0000Zen^000000 skill.
 ^663399Indestructible ^000000
 Class:^6666CC Claw ^000000
@@ -8852,7 +8852,7 @@ A guitar which was created to encourage armies amidst battle.
 It looks useful for battles against Demihumans.
 Dex +2
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 ^663399Indestructible ^000000
 Class:^6666CC Musical Instrument ^000000
 Attack:^CC0000 50 ^000000
@@ -9268,7 +9268,7 @@ Jobs:^6666CC Dancer ^000000
 An especially made whip for battling against Demihumans; this whip is strong enough to cut their flesh.
 Dex +2
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 ^663399Indestructible ^000000
 Class:^6666CC Whip^000000
 Attack:^CC0000 50 ^000000
@@ -9634,7 +9634,7 @@ Jobs:^6666CC Novice ^000000
 #
 2113#
 A cute shield made out of a special metal for the Novice class.
-Reduce all element damage by 20%, with the exception of Neutral element damage.
+Reduce all element damage by 20%, with the exception of ^777777Neutral^000000 element damage.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 100 ^000000
@@ -9663,7 +9663,7 @@ Jobs:^6666CC All except Novice ^000000
 #
 2116#
 Super Novice Guardian Angel's shield which contains holy power that can nullify evil.
-Reduces damage taken from Demon monsters by 5%.
+Reduces damage taken from ^6666CCDemon^000000 monsters by 5%.
 Class:^6666CC Shield ^000000
 Defense:^0000FF 3 ^000000
 Weight:^009900 50 ^000000
@@ -9784,7 +9784,9 @@ Jobs:^6666CC All excepet Novice ^000000
 #
 2128#
 A symbolic shield, rumored to have been given from God to his messenger.
-Int +2, Vit +3, Mdef +3
+Int +2
+Vit +3
+Mdef +3
 ^663399Indestructible ^000000
 Class:^6666CC Shield ^000000
 Defense:^0000FF 5 ^000000
@@ -9816,7 +9818,7 @@ Jobs:^6666CC Crusader Jobs ^000000
 #
 2131#
 A thick book which is full of unknown words. It seems to be published in series.
-INT +2
+Int +2
 Mdef +3
 Adds a chance of inflicting ^FF0000Stun^000000 status on attacker when receiving physical damage.
 Class:^6666CC Shield ^000000
@@ -10080,7 +10082,7 @@ All jobs ^000000
 #
 2207#
 A floral decoration used to adorn the head.
-Reduces damage from Plant monsters by 10%.
+Reduces damage from ^6666CCPlant^000000 monsters by 10%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
@@ -10478,7 +10480,7 @@ Jobs:^6666CC Mage and Soul Linker ^000000
 #
 2253#
 Peculiar headgear designed to look like a sunflower.
-Reduces damage from Insect monsters by 10%.
+Reduces damage from ^6666CCInsect^000000 monsters by 10%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
@@ -10488,7 +10490,7 @@ Jobs:^6666CC All classes ^000000
 2254#
 A headband adorned with what appears to be the wings of an angel.
 It contains holiness that blesses the wearer's soul and offers protection from dark forces.
-Reduces damage from Demon monsters by 3%.
+Reduces damage from ^6666CCDemon^000000 monsters by 3%.
 Agi +1
 Luk +1
 Mdef +3
@@ -10501,7 +10503,7 @@ Jobs:^6666CC All except Novice ^000000
 2255#
 A headgear that look like the wings of a Demon.
 Demonic power increases the wearer's strength and offers protection from sacred powers.
-Reduce damage taken from Angel monsters by 3 %.
+Reduce damage taken from ^6666CCAngel^000000 monsters by 3 %.
 Str +1
 Mdef +2
 Class:^6666CC Headgear ^000000
@@ -10605,7 +10607,7 @@ Jobs:^6666CC Swordman ^000000
 #
 2267#
 A narrow, short roll of finely cut tobacco wrapped in thin paper.
-Reduces damage from Insect monsters by 3%.
+Reduces damage from ^6666CCInsect^000000 monsters by 3%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Lower ^000000
@@ -10615,7 +10617,7 @@ Jobs:^6666CC All classes except Novice
 #
 2268#
 A refined, wooden pipe used for smoking high quality tobacco.
-Reduces damage from Insect monsters by 3%.
+Reduces damage from ^6666CCInsect^000000 monsters by 3%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Lower ^000000
@@ -10625,7 +10627,7 @@ Jobs:^6666CC All classes except Novice
 #
 2269#
 A delicate flower that is placed in the mouth for romantic seduction.
-Reduces damage from Plant monsters by 3%.
+Reduces damage from ^6666CCPlant^000000 monsters by 3%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Lower ^000000
@@ -10634,7 +10636,7 @@ Jobs:^6666CC All except Novice ^000000
 #
 2270#
 A slender leaf that is placed in the mouth for a seductive look.
-Reduces damage from Plant monsters by 3%.
+Reduces damage from ^6666CCPlant^000000 monsters by 3%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Lower ^000000
@@ -10801,7 +10803,7 @@ Jobs:^6666CC All except Novice ^000000
 #
 2289#
 A hat which looks just like fecal matter that is guaranteed to end a date on a tragic note.
-Reduces damage from Demihuman monsters by 10%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 10%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
@@ -11520,7 +11522,7 @@ Jobs:^6666CC All classes ^000000
 2369#
 ^000088Rental Item ^000000
 The coat of the queen 'Freya', protected by frozen power.
-Reduces damage from Demihuman monsters by 10%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 10%.
 ^FF0000Unrefineable ^000000
 ^663399Indestructible ^000000
 [^6666CCFreya Armor Set^000000]
@@ -11530,7 +11532,7 @@ Reduces damage from Demihuman monsters by 10%.
 ^3CB371Freya Cape ^000000
 MaxHP +20%
 Immune to Frozen status
-Increases resistance against Demihuman monsters by 10%.
+Increases resistance against ^6666CCDemihuman^000000 monsters by 10%.
 Enable use Level 10 ^008800Frost Nova^000000.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 12 ^000000
@@ -11609,7 +11611,7 @@ Jobs:^6666CC Transcendent Swordman, Merchant, Thief ^000000
 #
 2376#
 Designed for brave warriors who face enemies at the forefront. It gives off multiple effects when compounded as a set.
-Reduces damage from Demihuman monsters by 2%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 2%.
 MaxHP +150, Mdef +2.
 ^FFFFFF_^000000
 When equipped with Battle Greaves and Captain's Manteau,
@@ -11625,7 +11627,7 @@ Jobs:^6666CC Swordman, Merchant, Taekwon Boy/Girl, Taekwon Master ^000000
 #
 2377#
 Designed to be used by outstanding warriors who have remarkable attack skills. It gives off multiple effects when compounded as a set.
-Reduces damage from Demihuman monsters by 2%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 2%.
 MHP +150, Mdef +2,
 ^FFFFFFf000000 ^000000
 When equipped with Combat Greaves and Captain's Manteau,
@@ -11642,7 +11644,7 @@ Jobs:^6666CC Merchant ^000000
 #
 2378#
 If you desire to move more quickly, this might help. It gives off multiple effects when compounded as a set.
-Reduces damage from Demihuman monsters by 2%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 2%.
 MaxHP +150, Mdef +2,
 ^FFFFFF_^000000
 When equipped with Battle Greaves and Captain's Manteau,
@@ -11659,7 +11661,7 @@ Jobs:^6666CC Thief Classes and Ninja ^000000
 #
 2379#
 A Battle Robe that helps increase the possibility of survival. It gives off multiple effects when compounded as a set.
-Reduces damage from Demihuman monsters by 2%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 2%.
 MaxHP +150, Mdef +2,
 ^FFFFFF_^000000
 When equipped with Combat Boots and Commander's Manteau,
@@ -11676,7 +11678,7 @@ Jobs:^6666CC Mage/Soul Linker ^000000
 2380#
 Designed to be used by responsible warriors who take charge of the survival of the guild or party.
 It gives off multiple effects when compounded as a set.
-Reduces damage from Demihuman monsters by 2%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 2%.
 MaxHP +150, Mdef +2.
 ^FFFFFF_^000000
 When equipped with Combat Boots and Commander's Manteau,
@@ -11694,7 +11696,7 @@ Jobs:^6666CC Acolyte ^000000
 2381#
 If you desire to become an accurate and efficient warrior in battle, this might help.
 It gives off multiple effects when compounded as a set.
-Reduces damage from Demihuman monsters by 2%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 2%.
 MaxHP +150, Mdef +2.
 ^FFFFFF_^000000
 When equipped with Combat Boots and Commander's Manteau,
@@ -11709,7 +11711,7 @@ Jobs:^6666CC Archer ^000000
 #
 2382#
 If you are a true Gunslinger, you might want this suit! It gives off multiple effects when compounded as a set.
-Reduces damage from Demihuman monsters by 2%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 2%.
 MHP +150, Mdef +2.
 ^FFFFFF_^000000
 When equipped with Battle Boots and Sheriff's Manteau,
@@ -11848,7 +11850,7 @@ Jobs:^6666CC All classes ^000000
 #
 2394#
 MaxHP +20%
-7% additional resistance to the attack from Demihuman monsters.
+7% additional resistance to the attack from ^6666CCDemihuman^000000 monsters.
 When equipped with Glorious Shoes and Glorious Muffler, attack strength to all enemies increase by 5%, Matk +5%, and gives 3% increase in the recovery amount of using Heal, Potion Pitcher, Sanctuary. Never gets freezed.
 Class:^6666CC Armor ^000000
 Defense:^0000FF 0 ^000000
@@ -12209,7 +12211,7 @@ Jobs:^6666CC All classes ^000000
 #
 2428#
 The boots of the queen 'Freya',surrounded by mysterious hints of mist.
-Increases resistance against Demihuman monsters by 5%.
+Increases resistance against ^6666CCDemihuman^000000 monsters by 5%.
 ^FF0000Unrefineable ^000000
 [^6666CCFreya Armor Set^000000]
 ^3CB371Freya Crown ^000000
@@ -12218,7 +12220,7 @@ Increases resistance against Demihuman monsters by 5%.
 ^3CB371Freya Cape ^000000
 MaxHP +20%
 Immune to Frozen status
-Increases resistance against Demihuman monsters by 10%.
+Increases resistance against ^6666CCDemihuman^000000 monsters by 10%.
 Enable use Level 10 ^008800Frost Nova^000000.
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 10 ^000000
@@ -12286,7 +12288,7 @@ Jobs:^6666CC All Transcendent classes except Novice ^000000
 #
 2435#
 A Greave that optimizes the quality of one's ability for battle.
-Reduces damage from Demihuman monsters by 1%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 1%.
 MaxHP +100. Mdef +1.
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 4 ^000000
@@ -12296,7 +12298,7 @@ Jobs:^6666CC Swordman, Merchant, Thief Classes, Ninja, Taekwon Boy/Girl and Taek
 #
 2436#
 Shoes that are comfortable and solidly made for battle.
-Reduces damage from Demihuman monsters by 1%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 1%.
 MaxHP +100. Mdef +1.
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 3 ^000000
@@ -12306,7 +12308,7 @@ Jobs:^6666CC Mage, Acolyte, Archer, Soul Linker ^000000
 #
 2437#
 They don't look any different than other boots, but they are designed exclusively for Gunslingers.
-Reduces damage from Demihuman monsters by 1%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 1%.
 MaxHP +100. Mdef +1.
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 3 ^000000
@@ -12379,7 +12381,7 @@ Jobs:^6666CC All classes ^000000
 #
 2444#
 MaxHP +10%
-4% additional resistance to the attack from Demihuman monsters.
+4% additional resistance to the attack from ^6666CCDemihuman^000000 monsters.
 When attacked, Moving Speed increases at a certain rate
 Class:^6666CC Footgear ^000000
 Defense:^0000FF 0 ^000000
@@ -12627,7 +12629,7 @@ Vit +10
 MaxHP +300
 MATK -5%
 Matk +1% per upgrade level of Survivor's Rod
-Resist Neutral Element by 3 times the upgrade level of Survivor's Manteau.
+Resist ^777777Neutral^000000 element by 3 times the upgrade level of Survivor's Manteau.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 55 ^000000
@@ -12886,7 +12888,7 @@ Jobs:^6666CC Transcendent Mage, Acolyte and Archer^000000
 2533#
 ^000088Rental Item ^000000
 Manteau of Freya, thin like a feather.
-Increases resistance against Demihuman monsters by 15%.
+Increases resistance against ^6666CCDemihuman^000000 monsters by 15%.
 ^FF0000Unrefineable ^000000
 [^6666CCFreya Armor Set^000000]
 ^3CB371Freya Crown ^000000
@@ -12895,7 +12897,7 @@ Increases resistance against Demihuman monsters by 15%.
 ^3CB371Freya Cape ^000000
 MaxHP +20%
 Immune to Frozen status
-Increases resistance against Demihuman monsters by 10%.
+Increases resistance against ^6666CCDemihuman^000000 monsters by 10%.
 Enable use Level 10 ^008800Frost Nova^000000.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 10 ^000000
@@ -12918,7 +12920,7 @@ Vit +10
 Mdef +10
 [+^008800Survivor's Rod^000000]
 Matk +5%
-Increases resistance against Neutral element attack by 25%
+Increases resistance against ^777777Neutral^000000 element attack by 25%
 Class:^6666CC Garment ^000000
 Defense:^0000FF 5 ^000000
 Weight:^009900 0 ^000000
@@ -12951,7 +12953,7 @@ Jobs:^6666CC Above Transcendent 2-1 Classes ^000000
 #
 2538#
 A dignified, splendid Manteau that is provided to any warrior who brings great honor from the battlefield.
-Reduces damage from Demihuman monsters by 1%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 1%.
 MaxHP +50. Mdef +1.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 4 ^000000
@@ -12961,7 +12963,7 @@ Jobs:^6666CC Swordman, Merchant, Thief Classes, Ninja, Taekwon Boy/Girl and Taek
 #
 2539#
 A Manteau that is provided to any superior commander who has the outstanding ability to support their base.
-Reduces damage from Demihuman monsters by 1%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 1%.
 MaxHP +50. Mdef +1.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 3 ^000000
@@ -12971,7 +12973,7 @@ Jobs:^6666CC Mage, Acolyte, Archer, Soul Linker ^000000
 #
 2540#
 A Manteau imbued with tension and the mysterious spirit of desolate wilderness.
-Reduces damage from Demihuman monsters by 1%.
+Reduces damage from ^6666CCDemihuman^000000 monsters by 1%.
 MaxHP +50. Mdef +1.
 Class:^6666CC Garment ^000000
 Defense:^0000FF 3 ^000000
@@ -13008,7 +13010,7 @@ Jobs:^6666CC All Transcendent Jobs except Novice ^000000
 ^000088Rental Item ^000000
 A Soft Manteau that has been blessed by a Wind Fairy.
 It is said to allow the wearer to be protected from danger.
-Flee +13, Reduce 13% of Neutral Element damage.
+Flee +13, Reduce 13% of ^777777Neutral^000000 element damage.
 Perfect Dodge +1
 Class:^6666CC Garment ^000000
 Defense:^0000FF 9 ^000000
@@ -13097,7 +13099,7 @@ Jobs:^6666CC All Transcendent classes except Novice Classes ^000000
 2560#
 A manteau which is only for Eden Group members.
 It is designed to flatter anyone's backside.
-Increases tolerance to neutral element by 10%.
+Increases tolerance to ^777777Neutral^000000 element by 10%.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Garment ^000000
 Defense:^0000FF 0 ^000000
@@ -13301,7 +13303,7 @@ Jobs:^6666CC All classes ^000000
 #
 2614#
 Add imunity to Poison status.
-Reduce damage taken from undead and demon race monster by 4%.
+Reduce damage taken from undead and demon race monsters by 4%.
 Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
@@ -14805,7 +14807,7 @@ SP recovery +3%.
 ^0000FFShaman Earring^000000.
 MaxHP +300,
 Matk +5%,
-Increases resistance to Neutral element by 5%.
+Increases resistance to ^777777Neutral^000000 element by 5%.
 Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
@@ -14820,7 +14822,7 @@ Int +2.
 ^0000FFShaman Earring^000000.
 MaxHP +300,
 Matk +5%,
-Increases resistance to Neutral element by 5%.
+Increases resistance to ^777777Neutral^000000 element by 5%.
 Class:^6666CC Accessory ^000000
 Defense:^0000FF 0 ^000000
 Weight:^009900 10 ^000000
@@ -15655,7 +15657,7 @@ Weight:^009900 1 ^000000
 #
 4025#
 Atk +10
-Enable a 2% chance of inflicting the ^FF0000Stun^000000 status on an enemy with each attack.
+Adds 2% chance of inflicting ^FF0000Stun^000000 status on target when dealing physical attacks.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
@@ -15717,7 +15719,7 @@ Compound on:^B40088 Accessory ^000000
 Weight:^009900 1 ^000000
 #
 4035#
-Increases physical damage inflicted against Demihuman monsters by 20%.
+Increases physical damage inflicted against ^6666CCDemihuman^000000 monsters by 20%.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
@@ -15745,7 +15747,7 @@ Weight:^009900 1 ^000000
 #
 4037#
 Atk +5
-Adds 5% chance of inflicting ^FF0000Poison^000000 status when dealing physical attacks.
+Adds 5% chance of inflicting ^FF0000Poison^000000 status on target when dealing physical attacks.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
@@ -15757,7 +15759,7 @@ Compound on:^999900 Footgear ^000000
 Weight:^009900 1 ^000000
 #
 4039#
-Increases resistance to ^FF0000Silence^000000 status by 20%.
+Increases resistance against ^FF0000Silence^000000 status by 20%.
 ^FFFFFF_^000000
 [^6666CCRogue Card Set^000000]
 ^3CB371Wanderer Card ^000000
@@ -15784,7 +15786,7 @@ Weight:^009900 1 ^000000
 #
 4041#
 Def +1
-Increases resistance to ^FF0000Sleep^000000 status by 20%.
+Increases resistance against ^FF0000Sleep^000000 status by 20%.
 Class:^6666CC Card ^000000
 Compound on:^6600FF Headgear ^000000
 Weight:^009900 1 ^000000
@@ -15893,19 +15895,19 @@ Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
 #
 4058#
-Reduces damage taken from Demihuman monsters by 30%.
+Reduces damage taken from ^6666CCDemihuman^000000 monsters by 30%.
 Class:^6666CC Card ^000000
 Compound on:^6666CC Shield ^000000
 Weight:^009900 1 ^000000
 #
 4059#
-Reduces damage taken from Plant monsters by 30%.
+Reduces damage taken from ^6666CCPlant^000000 monsters by 30%.
 Class:^6666CC Card ^000000
 Compound on:^6666CC Shield ^000000
 Weight:^009900 1 ^000000
 #
 4060#
-Increases physical damage inflicted against Brute monsters by 20%.
+Increases physical damage inflicted against ^6666CCBrute^000000 monsters by 20%.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
@@ -15925,7 +15927,7 @@ Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
 #
 4063#
-Increases physical damage inflicted against Insect monsters by 20%.
+Increases physical damage inflicted against ^6666CCInsect^000000 monsters by 20%.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
@@ -15943,20 +15945,20 @@ Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
 #
 4066#
-Reduces damage taken from Brute monsters by 30%.
+Reduces damage taken from ^6666CCBrute^000000 monsters by 30%.
 Class:^6666CC Card ^000000
 Compound on:^6666CC Shield ^000000
 Weight:^009900 1 ^000000
 #
 4067#
 Def +1
-Increases resistance to the ^FF0000Frozen^000000 status by 20%.
+Increases resistance against ^FF0000Frozen^000000 status by 20%.
 Class:^6666CC Card ^000000
 Compound on:^6666CC Shield ^000000
 Weight:^009900 1 ^000000
 #
 4068#
-Increases physical damage inflicted against Plant monsters by 20%.
+Increases physical damage inflicted against ^6666CCPlant^000000 monsters by 20%.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
@@ -15975,7 +15977,7 @@ Weight:^009900 1 ^000000
 #
 4071#
 Flee +5
-Reduces damage taken from Undead element attacks by 30%.
+Reduces damage taken from ^777777Undead^000000 element attacks by 30%.
 Class:^6666CC Card ^000000
 Compound on:^008C99 Garment ^000000
 Weight:^009900 1 ^000000
@@ -15995,7 +15997,7 @@ Compound on:^B40088 Accessory ^000000
 Weight:^009900 1 ^000000
 #
 4074#
-Reduces damage taken from Insect monsters by 30%.
+Reduces damage taken from ^6666CCInsect^000000 monsters by 30%.
 Class:^6666CC Card ^000000
 Compound on:^6666CC Shield ^000000
 Weight:^009900 1 ^000000
@@ -16033,7 +16035,7 @@ Compound on:^B40088 Accessory ^000000
 Weight:^009900 1 ^000000
 #
 4080#
-Increases physical damage inflicted against Fish monsters by 20%.
+Increases physical damage inflicted against ^6666CCFish^000000 monsters by 20%.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
@@ -16053,7 +16055,7 @@ Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
 #
 4083#
-Reduces damage taken from Fish monsters by 30%.
+Reduces damage taken from ^6666CCFish^000000 monsters by 30%.
 Class:^6666CC Card ^000000
 Compound on:^6666CC Shield ^000000
 Weight:^009900 1 ^000000
@@ -16077,7 +16079,7 @@ Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
 #
 4087#
-Gain immunity to the ^FF0000Chaos^000000 status.
+Gain immunity against ^FF0000Chaos^000000 status.
 Reduces damage taken from ^CC5500Earth^000000 element attacks by 15%.
 Class:^6666CC Card ^000000
 Compound on:^6600FF Headgear ^000000
@@ -16098,7 +16100,8 @@ Weight:^009900 1 ^000000
 #
 4090#
 Def +1
-Increases resistance to the ^FF0000Stone Curse^000000 status by 15% and ^CC5500Earth^000000 element attacks by 5%.
+Increases resistance against ^FF0000Stone Curse^000000 status by 15%.
+Reduces damage taken from ^CC5500Earth^000000 element attacks by 5%.
 ^FFFFFF_^000000
 [^6666CCTragic Trio Card Set^000000]
 ^3CB371Munak Card ^000000
@@ -16244,13 +16247,13 @@ Compound on:^6600FF Headgear ^000000
 Weight:^009900 1 ^000000
 #
 4111#
-Increases physical damage inflicted against Demon monsters by 20%.
+Increases physical damage inflicted against ^6666CCDemon^000000 monsters by 20%.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
 #
 4112#
-Gain immunity to the ^FF0000Silence^000000 status.
+Gain immunity against ^FF0000Silence^000000 status.
 Class:^6666CC Card ^000000
 Compound on:^6600FF Headgear ^000000
 Weight:^009900 1 ^000000
@@ -16290,7 +16293,7 @@ Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
 #
 4118#
-Increases physical damage inflicted against Dragon monsters by 20%.
+Increases physical damage inflicted against ^6666CCDragon^000000 monsters by 20%.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
@@ -16302,7 +16305,7 @@ Compound on:^00CC33 Armor ^000000
 Weight:^009900 1 ^000000
 #
 4120#
-Reduces damage taken from Dragon monsters by 30%.
+Reduces damage taken from ^6666CCDragon^000000 monsters by 30%.
 Class:^6666CC Card ^000000
 Compound on:^6666CC Shield ^000000
 Weight:^009900 1 ^000000
@@ -16315,7 +16318,7 @@ Weight:^009900 1 ^000000
 #
 4122#
 Str +1
-Gain immunity to the ^FF0000Blind^000000 status.
+Gain immunity against ^FF0000Blind^000000 status.
 Class:^6666CC Card ^000000
 Compound on:^6600FF Headgear ^000000
 Weight:^009900 1 ^000000
@@ -16329,13 +16332,13 @@ Weight:^009900 1 ^000000
 #
 4124#
 Gain immunity to the ^FF0000Stone Curse^000000 status.
-Reduces damage from Demon monsters by 15%.
+Reduces damage taken from ^6666CCDemon^000000 monsters by 15%.
 Class:^6666CC Card ^000000
 Compound on:^6666CC Shield ^000000
 Weight:^009900 1 ^000000
 #
 4125#
-Increases physical damage inflicted against Demihuman, Brute, Plant and Insect monsters by 7%.
+Increases physical damage inflicted against ^6666CCDemihuman^000000, ^6666CCBrute^000000, ^6666CCPlant^000000 and ^6666CCInsect^000000 monsters by 7%.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
@@ -16386,7 +16389,7 @@ Compound on:^6600FF Headgear ^000000
 Weight:^009900 1 ^000000
 #
 4133#
-Increases resistance against Neutral element attack by 20%.
+Increases resistance against ^777777Neutral^000000 element attack by 20%.
 Class:^6666CC Card ^000000
 Compound on:^008C99 Garment ^000000
 Weight:^009900 1 ^000000
@@ -16404,7 +16407,7 @@ Compound on:^00CC33 Armor ^000000
 Weight:^009900 1 ^000000
 #
 4136#
-Reduces damage taken from Demon monsters by 30%.
+Reduces damage taken from ^6666CCDemon^000000 monsters by 30%.
 Class:^6666CC Card ^000000
 Compound on:^6666CC Shield ^000000
 Weight:^009900 1 ^000000
@@ -16416,7 +16419,7 @@ Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
 #
 4138#
-Reduces damage taken from Angel monsters by 30%.
+Reduces damage taken from ^6666CCAngel^000000 monsters by 30%.
 Class:^6666CC Card ^000000
 Compound on:^6666CC Shield ^000000
 Weight:^009900 1 ^000000
@@ -16428,7 +16431,7 @@ Compound on:^B40088 Accessory ^000000
 Weight:^009900 1 ^000000
 #
 4140#
-Increases physical damage inflicted against Boss monsters by 25%.
+Increases physical damage inflicted against ^6666CCBoss^000000 monsters by 25%.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
@@ -16449,7 +16452,7 @@ Weight:^009900 1 ^000000
 #
 4143#
 Vit +3
-Gain immunity to the ^FF0000Stun^000000 status.
+Gain immunity against ^FF0000Stun^000000 status.
 Class:^6666CC Card ^000000
 Compound on:^6600FF Headgear ^000000
 Weight:^009900 1 ^000000
@@ -16498,8 +16501,8 @@ Compound on:^00CC33 Armor ^000000
 Weight:^009900 1 ^000000
 #
 4151#
-Receive 10% more Experience Points from Plant monsters.
-Receive 20% more damage from Plant monsters.
+Receive 10% more Experience Points from ^6666CCPlant^000000 monsters.
+Receive 20% more damage from ^6666CCPlant^000000 monsters.
 Class:^6666CC Card ^000000
 Compound on:^999900 Footgear ^000000
 Weight:^009900 1 ^000000
@@ -16540,14 +16543,14 @@ Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
 #
 4156#
-Inflict 10% more damage with Critical Attack.
+Critical damage +10%.
 Crit +7 on Formless monsters.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
 #
 4157#
-Inflict 10% more damage with Critical Attack.
+Critical damage +10%.
 Crit +7 on Undead monsters.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
@@ -16600,7 +16603,7 @@ Weight:^009900 1 ^000000
 #
 4164#
 Receive 10% more experience points each time a Fish monster is killed.
-Receive 20% more damage from Fish monsters.
+Receive 20% more damage from ^6666CCFish^000000 monsters.
 Class:^6666CC Card ^000000
 Compound on:^999900 Footgear ^000000
 Weight:^009900 1 ^000000
@@ -16686,7 +16689,7 @@ Compound on:^00CC33 Armor ^000000
 Weight:^009900 1 ^000000
 #
 4174#
-Increases resistance against Neutral element attack by 50%.
+Increases resistance against ^777777Neutral^000000 element attack by 50%.
 Reduces resistance against other element attack by 50%.
 Class:^6666CC Card ^000000
 Compound on:^008C99 Garment ^000000
@@ -16699,7 +16702,7 @@ Compound on:^B40088 Accessory ^000000
 Weight:^009900 1 ^000000
 #
 4176#
-Inflict 10% more damage with Critical Attack.
+Critical damage +10%.
 Crit +7 on Dragon monsters.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
@@ -16729,7 +16732,7 @@ Dex +3
 +20% Perfect Hit (which never miss its target)
 Archer Class Bonus:
 A low chance of auto casting Coma on Brute monsters when attacking.
-+5% EXP from Brute monsters.
++5% EXP from ^6666CCBrute^000000 monsters.
 ^FFFFFF_^000000
 [^6666CCBard/Dancer Card Set^000000]
 ^3CB371Cruiser Card ^000000
@@ -16909,7 +16912,7 @@ Compound on:^00CC33 Armor ^000000
 Weight:^009900 1 ^000000
 #
 4192#
-Inflict 10% more damage with Critical Attack.
+Critical damage +10%.
 Crit +7 on Fish monsters.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
@@ -16970,7 +16973,7 @@ Dex +3
 +20% Perfect Hit (which never miss its target)
 Archer Class Bonus:
 A low chance of auto casting Coma on Brute monsters when attacking.
-+5% EXP from Brute monsters.
++5% EXP from ^6666CCBrute^000000 monsters.
 ^FFFFFF_^000000
 Class:^6666CC Card ^000000
 Compound on:^999900 Footgear ^000000
@@ -17003,8 +17006,8 @@ Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
 #
 4204#
-Receive 10% more Experience Points from Brute Monsters.
-Receive 20% more damage from Brute Monsters.
+Receive 10% more Experience Points from ^6666CCBrute^000000 monsters.
+Receive 20% more damage from ^6666CCBrute^000000 monsters.
 Class:^6666CC Card ^000000
 Compound on:^999900 Footgear ^000000
 Weight:^009900 1 ^000000
@@ -17153,7 +17156,7 @@ Compound on:^00CC33 Armor ^000000
 Weight:^009900 1 ^000000
 #
 4214#
-Inflict 10% more damage with Critical Attack.
+Critical damage +10%.
 Crit +7 on Insect monsters.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
@@ -17230,8 +17233,8 @@ Compound on:^00CC33 Armor ^000000
 Weight:^009900 1 ^000000
 #
 4221#
-Receive 10% more Experience Points from Insect monsters.
-Receive 20% more damage from Insect monsters.
+Receive 10% more Experience Points from ^6666CCInsect^000000 monsters.
+Receive 20% more damage from ^6666CCInsect^000000 monsters.
 Class:^6666CC Card ^000000
 Compound on:^999900 Footgear ^000000
 Weight:^009900 1 ^000000
@@ -17430,8 +17433,8 @@ Compound on:^00CC33 Armor ^000000
 Weight:^009900 1 ^000000
 #
 4235#
-Receive 10% more Experience Points from Angel monsters.
-Receive 20% more damage from Angel monsters.
+Receive 10% more Experience Points from ^6666CCAngel^000000 monsters.
+Receive 20% more damage from ^6666CCAngel^000000 monsters.
 Class:^6666CC Card ^000000
 Compound on:^999900 Footgear ^000000
 Weight:^009900 1 ^000000
@@ -17509,14 +17512,14 @@ Compound on:^999900 Footgear ^000000
 Weight:^009900 1 ^000000
 #
 4245#
-Receive 10% more Experience Points from Demihuman monsters.
-Receive 20% more damage from Demihuman monsters.
+Receive 10% more Experience Points from ^6666CCDemihuman^000000 monsters.
+Receive 20% more damage from ^6666CCDemihuman^000000 monsters.
 Class:^6666CC Card ^000000
 Compound on:^999900 Footgear ^000000
 Weight:^009900 1 ^000000
 #
 4246#
-Inflict 10% more damage with Critical Attack.
+Critical damage +10%.
 Crit +7 on Demihuman monsters.
 ^FFFFFF_^000000
 ^6666CCSwordman Card Set ^000000
@@ -17563,8 +17566,8 @@ Compound on:^6666CC Shield ^000000
 Weight:^009900 1 ^000000
 #
 4249#
-Receive 10% more Experience Points from Demon monsters.
-Receive 20% more damage from Demon monsters.
+Receive 10% more Experience Points from ^6666CCDemon^000000 monsters.
+Receive 20% more damage from ^6666CCDemon^000000 monsters.
 Class:^6666CC Card ^000000
 Compound on:^999900 Footgear ^000000
 Weight:^009900 1 ^000000
@@ -17788,8 +17791,8 @@ Compound on:^008C99 Garment ^000000
 Weight:^009900 1 ^000000
 #
 4267#
-Recieve 10% more Experience Points from Dragon monsters.
-Receive 20% more damage from Dragon monsters.
+Recieve 10% more Experience Points from ^6666CCDragon^000000 monsters.
+Receive 20% more damage from ^6666CCDragon^000000 monsters.
 Class:^6666CC Card ^000000
 Compound on:^999900 Footgear ^000000
 Weight:^009900 1 ^000000
@@ -18043,7 +18046,7 @@ Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
 #
 4292#
-Inflict 10% more damage with Critical Attack.
+Critical damage +10%.
 Crit +7 on Plant monsters.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
@@ -18110,7 +18113,7 @@ Compound on:^6600FF Headgear ^000000
 Weight:^009900 1 ^000000
 #
 4297#
-Inflict 10% more damage with Critical Attack.
+Critical damage +10%.
 Crit +7 on Brute monsters.
 ^FFFFFF_^000000
 ^6666CCHunter Card Set ^000000
@@ -18261,14 +18264,14 @@ Compound on:^6666CC Shield ^000000
 Weight:^009900 1 ^000000
 #
 4310#
-Inflict 10% more damage with Critical Attack.
+Critical damage +10%.
 Crit +7 on Demon monsters.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
 #
 4311#
-Add 15% more tolerance against Shadow and Undead Element Attack.
+Add 15% more tolerance against Shadow and ^777777Undead^000000 element Attack.
 ^FFFFFF_^000000
 ^6666CCSwordman Card Set ^000000
 ^3CB371Assaulter Card ^000000
@@ -18669,7 +18672,7 @@ Weight:^009900 1 ^000000
 #
 4334#
 Increases resistance against long ranged physical attacks by 10%.
-Increases resistance against Neutral element attack by 10%.
+Increases resistance against ^777777Neutral^000000 element attack by 10%.
 Class:^6666CC Card ^000000
 Compound on:^008C99 Garment ^000000
 Weight:^009900 1 ^000000
@@ -19012,7 +19015,7 @@ Weight:^009900 1 ^000000
 #
 4375#
 Flee +10
-Increases resistance against Neutral element attack by 10%.
+Increases resistance against ^777777Neutral^000000 element attack by 10%.
 When the compounded garmet's upgrade level is 9 or greater, increase Flee +5 and ^777777Neutral^000000 element resistance +5%
 Class:^6666CC Card ^000000
 Compound on:^008C99 Garment ^000000
@@ -19287,7 +19290,7 @@ Compound on:^00CC33 Armor ^000000
 Weight:^009900 1 ^000000
 #
 4406#
-Increases magic damage against Demon monsters by 2%.
+Increases magic damage against ^6666CCDemon^000000 monsters by 2%.
 Class:^6666CC Card ^000000
 Compound on:^FF0000 Weapon ^000000
 Weight:^009900 1 ^000000
@@ -19572,8 +19575,8 @@ Compound on:^999900 Footgear ^000000
 Weight:^009900 1 ^000000
 #
 4442#
-Increases resistance against Neutral element attack by 20%.
-Increase physical damage inflicted on Neutral element monsters by 5%.
+Increases resistance against ^777777Neutral^000000 element attack by 20%.
+Increase physical damage inflicted on ^777777Neutral^000000 element monsters by 5%.
 Class:^6666CC Card ^000000
 Compound on:^6666CC Shield ^000000
 Weight:^009900 1 ^000000
@@ -20906,7 +20909,7 @@ Jobs:^6666CC All except Novice ^000000
 #
 5009#
 A durable safety helmet created to offer some protection from accidents.
-Indestructible (except in upgrade attempts).
+^663399Indestructible ^000000
 Mdef +3
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
@@ -21436,7 +21439,7 @@ Jobs:^6666CC All classes ^000000
 5065#
 A headgear which looks just like a scrumptious fish.
 It even has the same smell!
-Increase 10% damage against Fish monsters.
+Increase 10% damage against ^6666CCFish^000000 monsters.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
@@ -21779,7 +21782,7 @@ A cute cat-looking hat which enhances its wearer's look.
 Has a cat tail which emphasises the appearance.
 Luk +2
 Mdef +10
-Reduce 5% of damage taken from Brute monsters.
+Reduce 5% of damage taken from ^6666CCBrute^000000 monsters.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
@@ -22049,7 +22052,7 @@ symbolic of Zealotus,
 mistress of the Glast
 Heim Underground Prison, makes its wearer feel like
 looking down on normal human peons. Increases
-damage against Demihuman monsters by 5% and reduces
+damage against ^6666CCDemihuman^000000 monsters by 5% and reduces
 damage from Demihuman
 monsters by 5%.
 Class:^6666CC Headgear ^000000
@@ -22230,7 +22233,7 @@ Jobs:^6666CC Swordman ^000000
 #
 5132#
 A hat, made especially to look like a certain monster that looks like an angel, but it hates the whole human race.
-Reduces damage taken from Demihuman monsters by 10%.
+Reduces damage taken from ^6666CCDemihuman^000000 monsters by 10%.
 ^FF0000Unrefineable^000000
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 2 ^000000
@@ -22288,7 +22291,7 @@ Jobs:^6666CC All classes ^000000
 Doll made according to the appearance of the popular Alice.
 It looks like the doll is trying to cheer its wearer from the top of the head.
 Str +1
-Increase physical damage inflicted against ^6666CCDemihuman monster^000000 by 10%.
+Increase physical damage inflicted against ^6666CCDemihuman^000000 monsters by 10%.
 Adds a low chance of inflicting Sleep status on its wearer when attacking.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
@@ -22346,7 +22349,7 @@ Jobs:^6666CC All except Novice ^000000
 5142#
 A sturdy, decorative hat worn by military generals in a far east country.
 Vit +1
-Reduces physical damage taken from Demihuman monsters by 5%.
+Reduces physical damage taken from ^6666CCDemihuman^000000 monsters by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 8 ^000000
 Position:^6666CC Upper, Middle ^000000
@@ -23042,7 +23045,7 @@ Jobs:^6666CC All classes ^000000
 #
 5206#
 A cute and romantic white flower that is fashionable and functional at the same time.
-Increases defense against Plant monsters by 3%.
+Increases defense against ^6666CCPlant^000000 monsters by 3%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Lower ^000000
@@ -23220,7 +23223,7 @@ Jobs:^6666CC All except Novice ^000000
 5220#
 Just say no. Especially if you're underage.
 Vit +1
-Reduce damage taken from Brute monsters by 5%.
+Reduce damage taken from ^6666CCBrute^000000 monsters by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Lower ^000000
@@ -23490,7 +23493,7 @@ Jobs:^6666CC All classes ^000000
 5246#
 Agi +1, Luk +1
 Mdef +3
-Reduces damage from Demon monster by 3%.
+Reduces damage from ^6666CCDemon^000000 monsters by 3%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper ^000000
@@ -23500,7 +23503,7 @@ Jobs:^6666CC All classes ^000000
 5247#
 Agi +1, Luk +1
 Mdef +3
-Reduces damage from Demon monster by 3%.
+Reduces damage from ^6666CCDemon^000000 monsters by 3%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 4 ^000000
 Position:^6666CC Upper ^000000
@@ -23613,7 +23616,7 @@ Jobs:^6666CC All classes ^000000
 5258#
 A fluffy afro-style wig. Wearing it makes you want to party like it's 1999.
 Add a 30% chance of auto casting First Aid on the user when receiving Physical Damage.
-Increase resistance to Neutral Element attacks by 1%.
+Increase resistance to ^777777Neutral^000000 element attacks by 1%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Upper, Middle ^000000
@@ -24081,7 +24084,7 @@ Jobs:^6666CC All classes ^000000
 5298#
 A fluffy afro style wig which is something teenagers go crazy for. Once you wear it, you might want to dance.
 Receive 5% more damage from ^0000FFWater^000000 and ^FF0000Fire^000000 Element attacks.
-Increases resistance against Neutral element attack by 5%.
+Increases resistance against ^777777Neutral^000000 element attack by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper, Middle ^000000
@@ -24156,7 +24159,7 @@ Jobs:^6666CC Every Job ^000000
 #
 5306#
 Crown of Goddess Freya. Transparent crystal in the middle shines in various colors.
-Increases resistance against Demihuman monsters by 5%.
+Increases resistance against ^6666CCDemihuman^000000 monsters by 5%.
 ^FF0000Unrefineable ^000000
 [^6666CCFreya Armor Set^000000]
 ^3CB371Freya Crown ^000000
@@ -24165,7 +24168,7 @@ Increases resistance against Demihuman monsters by 5%.
 ^3CB371Freya Cape ^000000
 MaxHP +20%
 Immune to Frozen status
-Increases resistance against Demihuman monsters by 10%.
+Increases resistance against ^6666CCDemihuman^000000 monsters by 10%.
 Enable use Level 10 ^008800Frost Nova^000000.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 12 ^000000
@@ -24506,7 +24509,7 @@ Jobs:^6666CC All classes ^000000
 #
 5340#
 So hot! A headgear with the figure of Kafra Defolty! Numerous users are using Kafra storage more than 20 times a day, fascinated by her smiling face.
-Decreases 5% damage from Demihuman monsters.
+Decreases 5% damage from ^6666CCDemihuman^000000 monsters.
 Autocasts Lv 10 Angelus when physically attacked within short range.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
@@ -24518,7 +24521,7 @@ Jobs:^6666CC All classes ^000000
 #
 5341#
 So hot! A headgear with the figure of Kafra Glaris! Fascinated by her mature appearance, her advocates call her a teacher.
-Decreases 5% damage from Demihuman monsters.
+Decreases 5% damage from ^6666CCDemihuman^000000 monsters.
 Recovers HP 50 when a monster is killed by magical attack.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
@@ -24530,7 +24533,7 @@ Jobs:^6666CC All classes ^000000
 #
 5342#
 So hot! A headgear with the figure of Kafra Sorin! Her cute appearance made the price of this hat rise at the auction place.
-Decreases 5% damage from Demihuman monsters.
+Decreases 5% damage from ^6666CCDemihuman^000000 monsters.
 Increases ATK +50 for 10 seconds with low chance when physically attacked.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
@@ -24542,7 +24545,7 @@ Jobs:^6666CC All classes ^000000
 #
 5343#
 So hot! A headgear with the figure of Kafra Telling! She is such an active and hard-working lady. So she became the most favorite Kafra among users.
-Decreases 5% damage from Demihuman monsters.
+Decreases 5% damage from ^6666CCDemihuman^000000 monsters.
 Increases 10% HP recovery rate when White Potion or White Slim Potion is used.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
@@ -24554,7 +24557,7 @@ Jobs:^6666CC All classes ^000000
 #
 5344#
 So hot! A headgear with the figure of Kafra Bennit! She has a boyish look, but her hobby is knitting and reading romance novels. She is fully supported by male users who like the short-cut style.
-Decreases 5% damage from Demihuman monsters.
+Decreases 5% damage from ^6666CCDemihuman^000000 monsters.
 Increases attack speed 5% for 30 seconds with low chance when physically attacked.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
@@ -24566,7 +24569,7 @@ Jobs:^6666CC All classes ^000000
 #
 5345#
 So hot! A headgear with the figure of Kafra W! There is a rumor that an assassin association wants to scout her, because there are so many guys who become frightened and faint when she calls them.
-Decreases 5% damage from Demihuman monsters.
+Decreases 5% damage from ^6666CCDemihuman^000000 monsters.
 Additional 5% damage to Undead monsters when dealing physical and magical attacks.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
@@ -24628,7 +24631,7 @@ Jobs:^6666CC All except Novice ^000000
 #
 5351#
 Peculiar headgear designed to look like a sunflower.
-Reduces damage taken from Insect monsters by 10%.
+Reduces damage taken from ^6666CCInsect^000000 monsters by 10%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
@@ -24803,7 +24806,7 @@ Jobs:^6666CC All classes ^000000
 5367#
 A monster Hyegun's hat. It looks nasty and tattered but it has better defense than what you thought.
 Mdef +3
-Increases resistance against Demon monster by 10%.
+Increases resistance against ^6666CCDemon^000000 monsters by 10%.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 5 ^000000
@@ -24824,7 +24827,7 @@ Jobs:^6666CC All classes ^000000
 #
 5369#
 The dark feathers collected to make this mysterious headdress.
-Adds a low chance of dropping Undead Elemental Scroll when killing a monster.
+Adds a low chance of dropping ^777777Undead^000000 elemental Scroll when killing a monster.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
@@ -24962,8 +24965,8 @@ Jobs:^6666CC All classes ^000000
 #
 5383#
 This hat is made especially for hunting Brute type Monsters!
-Increases damage inflicted on Brute monster by 10%.
-Increases physical attack against Demi human monster by 5%.
+Increases damage inflicted on Brute monsters by 10%.
+Increases physical attack against Demi human monsters by 5%.
 Luk +1
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
@@ -25241,7 +25244,7 @@ Jobs:^6666CC All classes ^000000
 #
 5410#
 A hat in the form of an upside-down paperbag, to celebrate the festival.
-Decrease the damage from Demihuman monsters by 4%.
+Decrease the damage from ^6666CCDemihuman^000000 monsters by 4%.
 Increase the resistance against stun by 4%, MHP +100
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 6 ^000000
@@ -25335,7 +25338,7 @@ Jobs:^6666CC All classes ^000000
 5419#
 Thin leaves that attached to lips.
 Vit +1
-Increases resistance against Plant monster by 5%.
+Increases resistance against ^6666CCPlant^000000 monsters by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Lower ^000000
@@ -25386,7 +25389,7 @@ Jobs:^6666CC All classes ^000000
 5423#
 A heart pounding hat that shows the love for China.
 Dex +3
-Increases resistance against Demihuman monsters by 10%.
+Increases resistance against ^6666CCDemihuman^000000 monsters by 10%.
 ^FF0000Unrefineable^000000
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 5 ^000000
@@ -25430,7 +25433,7 @@ Jobs:^6666CC All classes ^000000
 #
 5428#
 A bread bag specially designed to celebrate RWC.
-Increases resistance against Demihuman monsters by 12%.
+Increases resistance against ^6666CCDemihuman^000000 monsters by 12%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Location:^6666CC Upper, Middle, Lower ^000000
@@ -25657,7 +25660,7 @@ Jobs:^6666CC All except Novice ^000000
 A legendary helm, inspired by god of Dragon.
 Reduces after attack delay by 10%
 All stats +3
-Increases damage inflicted against Demihuman monsters by 5%.
+Increases damage inflicted against ^6666CCDemihuman^000000 monsters by 5%.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 7 ^000000
@@ -25670,7 +25673,7 @@ Jobs:^6666CC All classes ^000000
 A legendary helm, inspired by god of Dragon.
 Reduces after attack delay by 7%
 All stats +2
-Increases damage inflicted against Demihuman monsters by 3%.
+Increases damage inflicted against ^6666CCDemihuman^000000 monsters by 3%.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 5 ^000000
@@ -25683,7 +25686,7 @@ Jobs:^6666CC All classes ^000000
 A legendary helm, inspired by god of Dragon.
 Reduces after attack delay by 5%
 All stats +2
-Increases damage inflicted against Demihuman monsters by 1%.
+Increases damage inflicted against ^6666CCDemihuman^000000 monsters by 1%.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
@@ -25930,13 +25933,13 @@ Jobs:^6666CC All classes ^000000
 5479#
 A hair ornament with pink feathers of a Shaman.
 MaxHP +50, Mdef +3,
-Increases resistance to Neutral element by 5%.
+Increases resistance to ^777777Neutral^000000 element by 5%.
 ^FF0000Shaman Set ^000000
 ^0000FFShaman Ring ^000000
 ^0000FFShaman's Hair Ornament ^000000
 ^0000FFShaman Earring^000000.
 MaxHP +300, Matk +5%,
-Increases resistance to Neutral element by 5%.
+Increases resistance to ^777777Neutral^000000 element by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
@@ -25996,8 +25999,8 @@ Jobs:^6666CC Every Job except Novice ^000000
 #
 5485#
 Tigers Face.
-Decreases damage taken from Brute monsters by 5%.
-Increase Physical and Magical damage inflicted on Brute Monster by 5%.
+Decreases damage taken from ^6666CCBrute^000000 monsters by 5%.
+Increase Physical and Magical damage inflicted on Brute monsters by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper, Middle, Lower ^000000
@@ -26069,7 +26072,7 @@ Jobs:^6666CC All classes ^000000
 #
 5492#
 A black cap that is usually worn by boys attending schools that require uniforms.
-Reduces damage taken from Demihuman monsters by 5%.
+Reduces damage taken from ^6666CCDemihuman^000000 monsters by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 5 ^000000
 Position:^6666CC Upper ^000000
@@ -26260,7 +26263,7 @@ Jobs:^6666CC All classes ^000000
 Let's protect the hair!
 Mdef +3, FLEE +3.
 Increases resistance against Water element attack by 10%.
-Increases resistance against Fish monster by 10%.
+Increases resistance against ^6666CCFish^000000 monsters by 10%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
@@ -26473,7 +26476,7 @@ Jobs:^6666CC All except Novice ^000000
 People say it is made of a frost giant's bones. But nobody can confirm whether it is true or not.
 Dex +3
 Enables use of Level 1 Frost Nova.
-Reduces damage from Neutral element attacks by 5%.
+Reduces damage from ^777777Neutral^000000 element attacks by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 6 ^000000
 Position:^6666CC Upper, Middle ^000000
@@ -26756,7 +26759,7 @@ Jobs:^6666CC All classes ^000000
 5553#
 ^000088Rental Item ^000000
 Limited Promo! Summer Festival Bunny Band! 4 weeks rental item.
-Mdef +4, Reduces damage from Demihuman monsters by 9%.
+Mdef +4, Reduces damage from ^6666CCDemihuman^000000 monsters by 9%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 7 ^000000
 Position:^6666CC Upper ^000000
@@ -26790,7 +26793,7 @@ Jobs:^6666CC All classes ^000000
 Very warm hat which a monster 'Fur Seal' is wearing.
 Atk +5, Matk +5
 Increases resistance against Water element attack by 7%.
-Increase damage inflicted on Water element monster by 25%.
+Increase damage inflicted on Water element monsters by 25%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
 Position:^6666CC Upper, Middle, Lower ^000000
@@ -27109,7 +27112,7 @@ Jobs:^6666CC All classes ^000000
 #
 5584#
 The horns imbued with full of Devil Spirit. Feels so tight and harsh.
-Reduces damage from demon monsters by 3%.
+Reduces damage from ^6666CCDemon^000000 monsters by 3%.
 Recover 1 SP when kill the enemies by using melee physical attack or magical attack.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 2 ^000000
@@ -27120,7 +27123,7 @@ Jobs:^6666CC All classes ^000000
 #
 5585#
 A hairband embroidered with Runes and golden thread.
-Increases resistance to Neutral Element attacks by 3%.
+Increases resistance to ^777777Neutral^000000 element attacks by 3%.
 Add a low chance of recovering HP/SP when the user receives Physical Melee Damage.
 Hit +5.
 Class:^6666CC Headgear ^000000
@@ -27132,7 +27135,7 @@ Jobs:^6666CC All classes ^000000
 #
 5586#
 A hat which gives out a smell that mosquitos hates.
-Increase damage on Insect monster by 100%.
+Increase damage on Insect monsters by 100%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 5 ^000000
 Position:^6666CC Upper ^000000
@@ -27142,7 +27145,7 @@ Jobs:^6666CC All classes ^000000
 #
 5587#
 A hat which gives out a smell that mosquitos hates.
-Increase damage on Insect monster by 100%.
+Increase damage on Insect monsters by 100%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 5 ^000000
 Position:^6666CC Upper ^000000
@@ -27377,7 +27380,7 @@ Jobs:^6666CC All classes ^000000
 5607#
 A doll resemble lyria, her innocence empower people.
 MaxHP +500
-Reduces damage taken from Demihuman monsters by 5%.
+Reduces damage taken from ^6666CCDemihuman^000000 monsters by 5%.
 ^FF0000Unrefineable ^000000
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
@@ -27543,7 +27546,7 @@ A cute cat-looking hat which enhances its wearer's look.
 Has a cat tail which emphasises the appearance.
 Luk +2
 Mdef +10
-Reduce 5% of damage taken from Brute monsters.
+Reduce 5% of damage taken from ^6666CCBrute^000000 monsters.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
@@ -28266,12 +28269,12 @@ Ignores 5% magic defense of Boss monsters.
 Refine Level +6:
 Increases the effect of ignoring magic defense of Boss monsters.
 [+^008800Magical Booster^000000]
-Increases magical attacks against Boss monsters by 2%.
+Increases magical attacks against ^6666CCBoss^000000 monsters by 2%.
 When refine level of Southern Cross is +5 or higher:
-Increases magical attacks against Boss monsters by 3%.
+Increases magical attacks against ^6666CCBoss^000000 monsters by 3%.
 Increases damage taken from Normal monsters by 5%.
 When refine level of Southern Cross is +7 or higher:
-Increases magical attacks against Boss monsters by 4%.
+Increases magical attacks against ^6666CCBoss^000000 monsters by 4%.
 Increases damage taken from Normal monsters by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 3 ^000000
@@ -28348,7 +28351,7 @@ Jobs:^6666CC All classes ^000000
 #
 5679#
 An old engineer cap.
-Increases physical damage inflicted against Formless monster by 10%.
+Increases physical damage inflicted against Formless monsters by 10%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 2 ^000000
 Position:^6666CC Upper ^000000
@@ -28450,7 +28453,7 @@ Jobs:^6666CC All classes ^000000
 5689#
 Beautiful and bright crown queen ants.
 When attacked by physical attacks, adds a chance to auto cast Level 1 Sight.
-Reduces damage taken from Insect monsters by 5%.
+Reduces damage taken from ^6666CCInsect^000000 monsters by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
@@ -28500,10 +28503,10 @@ Str +1
 Int +1
 Dex +1
 MaxHP +700
-Reduces damage taken from Demihuman monsters by 2%.
+Reduces damage taken from ^6666CCDemihuman^000000 monsters by 2%.
 [+^008800NoFear Shoes and NoFear Belt^000000]
 Adds immunity against Frozen status
-Increases experience gained from killing monster by 5%.
+Increases experience gained from killing monsters by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 10 ^000000
 Position:^6666CC Upper ^000000
@@ -28740,7 +28743,7 @@ Jobs:^6666CC All classes ^000000
 5765#
 Dark neat black ribbon.
 Mdef +5
-Increases resistance against Neutral element attacks by 5%.
+Increases resistance against ^777777Neutral^000000 element attacks by 5%.
 Increases resistance against long range physical attacks by 5%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
@@ -28816,7 +28819,7 @@ Jobs:^6666CC All classes ^000000
 5772#
 This is the hat worn by great Admirals of the navy fleet that defends the port of Alberta.
 Only those who have spent a lot of time helping the people of Alberta can earn this honorable hat.
-Increases resistance against Demihuman monsters by 10%.
+Increases resistance against ^6666CCDemihuman^000000 monsters by 10%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
@@ -28827,7 +28830,7 @@ Jobs:^6666CC All classes ^000000
 5773#
 This is a navy blue beret worn by the elite soldiers of the Navy of Alberta.
 It is very effective when battling pirates on the high seas.
-Increases resistance against Demihuman monsters by 10%.
+Increases resistance against ^6666CCDemihuman^000000 monsters by 10%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 1 ^000000
 Position:^6666CC Upper ^000000
@@ -28902,7 +28905,7 @@ Jobs:^6666CC All classes ^000000
 5780#
 A masterpiece of craftmanship which modeled after the monster Tendrillion.
 Enables use of Level 3 ^008800Earth Spike ^000000
-Increases resistance against Demihuman monsters by 10%.
+Increases resistance against ^6666CCDemihuman^000000 monsters by 10%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Upper ^000000
@@ -29096,7 +29099,7 @@ Jobs:^6666CC All classes ^000000
 5801#
 Pretty red ribbon. You can feel the sweetness of love.
 All stats +2
-Reduces damage taken from Demihuman monsters by 10%.
+Reduces damage taken from ^6666CCDemihuman^000000 monsters by 10%.
 Adds a chance to auto cast Level 5 Heal when the wearer is attacked by physical attacks.
 (A chance of auto casting Level 10 Heal if Level 10 Heal is learned.)
 Class:^6666CC Headgear ^000000
@@ -37873,7 +37876,7 @@ Class:^6666CC Monster Egg ^000000
 An egg that holds a Zealotus.
 Can be hatched by using a ^33CC33Pet Incubator^000000.
 ^33CC33Cordial/Loyal Bonus^000000 When summoned,
-increases Atk and Matk against Demihuman monsters by 2%.
+increases Atk and Matk against ^6666CCDemihuman^000000 monsters by 2%.
 Class:^6666CC Pet Egg ^000000
 #
 9027#
@@ -37881,7 +37884,7 @@ An egg in which an Alice rests.
 Can be hatched by using a ^33CC33Pet Incubator^000000.
 ^33CC33Cordial/Loyal Bonus^000000 When summoned,
 Mdef +1
-Reduce damages taken from Demihuman monsters by 1%.
+Reduce damages taken from ^6666CCDemihuman^000000 monsters by 1%.
 Class:^6666CC Pet Egg ^000000
 #
 9028#
@@ -38004,7 +38007,7 @@ Can be hatched by
 using a ^33CC33Pet Incubator^000000.
 ^33CC33Cordial/Loyal Bonus ^000000
 When summoned,
-Has a low chance of activating +20 tolerance to Neutral element monsters while being physically attacked.
+Has a low chance of activating +20 tolerance to ^777777Neutral^000000 element monsters while being physically attacked.
 #
 9044#
 An egg in which a
@@ -43632,7 +43635,7 @@ enough to divide
 oceans or cut
 through the air to
 make it bleed water.
-Add Critical +10 against Demihuman monsters
+Add Critical +10 against ^6666CCDemihuman^000000 monster
 when inflicting short range physical attacks.
 Class:^6666CC Dagger ^000000
 Attack:^CC0000 95 ^000000
@@ -43649,7 +43652,7 @@ enough to divide
 oceans or cut
 through the air to
 make it bleed water.
-Add Critical +10 against Demihuman monsters
+Add Critical +10 against ^6666CCDemihuman^000000 monster
 when inflicting short range physical attacks.
 Class:^6666CC Dagger ^000000
 Attack:^CC0000 95 ^000000
@@ -43958,7 +43961,7 @@ Jobs:^6666CC Assassin Cross ^000000
 A dagger especially used for assassinations such as killing Demihumans.
 Str +1, Agi +1
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 If worn by Ninja, Rogue, or Stalker Class characters, it adds Matk +15%.
 ^663399Indestructible ^000000
 Class:^6666CC Dagger ^000000
@@ -44029,7 +44032,7 @@ Jobs:^6666CC Novice, Swordman, Mage, Archer, Merchant,
 Thief Classes, Soul Linker, and Ninja ^000000
 #
 13042#
-Physical Attack against Demihuman monsters +75%.
+Physical Attack against ^6666CCDemihuman^000000 monster +75%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 When physically attacking, has a chance of autocasting [Lex Divina] Lv 1.
 ***Additional Weapon Refining Level Option***
@@ -44358,7 +44361,7 @@ A Pistol made for short and medium ranged battles against Demihumans.
 It seems to be capable of doing damage even through a bulletproof vest.
 Dex +2, Accuracy -10
 Increases Physical Attack Strength towards Demihuman monsters by 55%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 When attacking, and weapon awakening in consistent probability, Has a chance of Increasing Attack Speed by 100% for 3 seconds.
 ^663399Indestructible ^000000
 Class:^6666CC Pistol ^000000
@@ -44570,7 +44573,7 @@ Jobs:^6666CC Gunslinger ^000000
 #
 13158#
 A Gatling Gun imbued with enormous destructive
-power. Adds +10 Critical against Brute monsters.
+power. Adds +10 Critical against ^6666CCBrute^000000 monsters.
 Class:^6666CC Gatling Gun ^000000
 Attack:^CC0000 75 ^000000
 Weight:^009900 250 ^000000
@@ -44580,7 +44583,7 @@ Jobs:^6666CC Gunslinger ^000000
 #
 13159#
 A Gatling Gun imbued with enormous destructive
-power. Adds +10 Critical against Brute monsters.
+power. Adds +10 Critical against ^6666CCBrute^000000 monsters.
 Class:^6666CC Gatling Gun ^000000
 Attack:^CC0000 75 ^000000
 Weight:^009900 250 ^000000
@@ -44768,7 +44771,7 @@ A Rifle made for short and medium ranged battles against Demihumans, that enable
 as it is designed to limit the trembling of the shooter's hands.
 Dex +2, Hit +10, Critical +10
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 Reduce Tracking skill Casting Time by 25%.
 ^663399Indestructible ^000000
 Class:^6666CC Rifle ^000000
@@ -44782,7 +44785,7 @@ Jobs:^6666CC Gunslinger ^000000
 A specialized Gatling Gun made for battles against Demihumans; occasionally, it shoots high-powered bullets.
 Dex +2
 Increases Physical Attack Strength towards Demihuman monsters by 35%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 Has a chance of adding 80 ATK for 6 seconds,
 but due to the recoil will drain 120 HP every second.
 ^663399Indestructible ^000000
@@ -44798,7 +44801,7 @@ A Shotgun that has a great attack in short ranged battles against Demihumans.
 It shows a wide variety of strength between each attack.
 Dex +2, Inflicts splash attack.
 Increases Physical Attack Strength towards Demihuman monsters by 55%.
-Ignores Physical Defense from Demihuman monster by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 Has a chance of adding 80 ATK for 6 seconds,
 but drains 100 HP every second.
 ^663399Indestructible ^000000
@@ -44813,7 +44816,7 @@ Jobs:^6666CC Gunslinger ^000000
 A Grenade Launcher that shows great fire-power in battles against Demihumans.
 Dex +2
 Increases Physical Attack Strength towards Demihuman monsters by 35%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 Has a chance of adding 300 ATK for 9 seconds,
 but drains 120 HP every second.
 ^663399Indestructible ^000000
@@ -44835,7 +44838,7 @@ Weapon Level:^009900 3 ^000000
 Jobs:^6666CC Gunslinger ^000000
 #
 13176#
-Physical Attack against Demihuman monsters +75%.
+Physical Attack against ^6666CCDemihuman^000000 monster +75%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 30% increase in damage of [Triple Action].
 ***Additional Weapon Refining Level Option***
@@ -44864,8 +44867,8 @@ Level Requirement:^009900 80 ^000000
 Jobs:^6666CC Gunslinger ^000000
 #
 13178#
-Increases Physical Attack Strength to Demihuman monster by 55%..
-Ignores physical defense from Demihuman monster by 20%.
+Increases Physical Attack Strength to Demihuman monsters by 55%..
+Ignores physical defense from ^6666CCDemihuman^000000 monsters by 20%.
 Splash Attack
 30% increase in Damage of [Triple Action]
 ^663399Indestructible ^000000
@@ -45470,7 +45473,7 @@ Jobs:^6666CC Ninja ^000000
 Huuma Shuriken that holds great strength and brings extraordinary power in battles against Demihumans.
 Str +2, Dex +1
 Increases Physical Attack Strength towards Demihuman monsters by 95%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 ^663399Indestructible ^000000
 Class:^6666CC Huuma ^000000
 Attack:^CC0000 55 ^000000
@@ -45493,8 +45496,8 @@ Level Requirement:^009900 80 ^000000
 Jobs:^6666CC Ninja ^000000
 #
 13307#
-Increases Physical Attack Strength to Demihuman monster by 95%.
-Ignores physical defense from Demihuman monster by 20%.
+Increases Physical Attack Strength to Demihuman monsters by 95%.
+Ignores physical defense from ^6666CCDemihuman^000000 monsters by 20%.
 Matk +15%
 Increase damage by 100% of [Throw Huuma Shuriken] and [Killing Strike] for 10 sec. when attacking and synchronizing the weapon by 5%
 ^663399Indestructible ^000000
@@ -45673,7 +45676,7 @@ Jobs:^6666CC Swordman, Merchant and Thief ^000000
 13407#
 ^000088Rental Items ^000000
 An one-handed sword topped with several extra edges for making wounds deeper and more unsightly.
-Increases damage against DemiHuman monster by 40%
+Increases damage against DemiHuman monsters by 40%
 ,..
 ^FF0000Unrefineable ^000000
 Class:^6666CC One-Handed Sword ^000000
@@ -45716,7 +45719,7 @@ Jobs:^6666CC Swordman, Merchant and Thief ^000000
 A sword favored by gladiators, it is especially designed for battles against Demihumans.
 Str +1, Dex +1
 Increases Physical Attack Strength towards Demihuman monsters by 75%.
-Ignores Physical Defense from Demihuman monsters by 20%.
+Ignores Physical Defense from ^6666CCDemihuman^000000 monsters by 20%.
 ^663399Indestructible ^000000
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 115 ^000000
@@ -45765,7 +45768,7 @@ Jobs:^6666CC Transcendent Swordman, Merchant, Thief Classes ^000000
 13414#
 A magical sword that bears 4 different properties of nature.
 Very effective to enemies without the properties of ^0000BBWater^000000, ^33CC00Wind^000000, ^A68064Earth^000000 and ^FF0000Fire^000000.
-10% additional damage to Monsters with Neutral element.
+10% additional damage to Monsters with ^777777Neutral^000000 element.
 When attacking, has a chance of adding an additional elemental magic attack.
 Str +2
 Int +4
@@ -45789,7 +45792,7 @@ Level Requirement:^009900 2 ^000000
 Jobs:^6666CC Novice, Swordman, Merchant and Thief ^000000
 #
 13416#
-Physical Attack against Demihuman monsters +75%.
+Physical Attack against ^6666CCDemihuman^000000 monster +75%.
 Ignore 20% of Physical Defense of Demihuman monsters.
 ***Additional Weapon Refining Level Option***
 +6 Upgrade : Ignore Demihuman physical defense +5%, ^FF0000[Slaughter]^000000 Lv 1 (Damage bonus of Slaughter increases up to the upgrade level 14.)
@@ -45831,7 +45834,7 @@ Jobs:^6666CC Swordman and Merchant ^000000
 13419#
 ^000088Rental Item ^000000
 Saber Sacred.
-Increases damage against Undead monster by 40%.
+Increases damage against Undead monsters by 40%.
 Class:^6666CC One-Hand Sword ^000000
 Attack:^CC0000 160 ^000000
 Weight:^009900 0 ^000000
@@ -45840,7 +45843,9 @@ Jobs:^6666CC Swordman Class, Merchant Class, Rogue Class ^000000
 #
 13420#
 A sword used at rite for the heavenly god.
-Str +2, Int +2.
+Str +2
+Int +2
+Adds a chance of autocasting Level 1 ^008800Meteor Storm^000000 when dealing physical attacks.
 Class:^6666CC One-Handed Sword ^000000
 Attack:^CC0000 160 ^000000
 Weight:^009900 120 ^000000
@@ -48125,7 +48130,7 @@ A box containing 1 Telling Doll Hat
 ^FF0000Can be traded, stored, and put into a cart. ^000000
 Description:
 So hot! A headgear with the figure of Kafra Telling! She is such an active and hard-working lady. So she became the most favorite Kafra among users.
-Decreases 5% damage from Demihuman monsters.
+Decreases 5% damage from ^6666CCDemihuman^000000 monsters.
 Increases 10% HP recovery rate when White Potion or White Slim Potion is used.
 Cannot be upgraded or traded.
 Class:^6666CC Headgear ^000000
@@ -48230,7 +48235,7 @@ Description:
 A cute cat-looking hat which enhances its wearer's look.
 Has a cat tail which emphasises the appearance.
 Luk +2, Mdef +10
-Reduce 5% of damage taken from Brute monsters.
+Reduce 5% of damage taken from ^6666CCBrute^000000 monsters.
 Class:^6666CC Headgear^000000 Defense: ^7777772 ^000000
 Position:^6666CC Upper^000000 Weight : ^77777730 ^000000
 Level Requirement:^009900 1 ^000000
@@ -48634,7 +48639,7 @@ Description:
 A cute cat-looking hat which enhances its wearer's look.
 Has a cat tail which emphasises the appearance.
 Luk +2, Mdef +10
-Reduce 5% of damage taken from Brute monsters.
+Reduce 5% of damage taken from ^6666CCBrute^000000 monsters.
 Class:^6666CC Headgear^000000 Defense: ^7777772 ^000000
 Position:^6666CC Upper^000000 Weight : ^77777730 ^000000
 Level Requirement:^009900 1 ^000000
@@ -55500,7 +55505,7 @@ Jobs:^6666CC Archer Class / Thief / Rogue ^000000
 18500#
 ^000088Rental item ^000000
 Passionate red scarf.
-Increase experience received from killing monster by 60%.
+Increase experience received from killing monsters by 60%.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Lower ^000000
@@ -55658,8 +55663,8 @@ Increases resistance to attacks from Demon and Angel monsters by 1%
 When killing a Demon monster, there's a chance of obtaining 'Holy Water'.
 When killing an Angel type emonster, there's a chance of obtaining 'Cursed Water'.
 Special Effect:
-If equipped in combination with the Heart Hairpin[0], adds an additional 9% resistance to attacks from Angel monsters.
-If equipped in combination with the Crescent Hairpin[0], adds an additional 9% resistance to attacks from Demon monsters.
+If equipped in combination with the Heart Hairpin[0], adds an additional 9% resistance to attacks from ^6666CCAngel^000000 monsters.
+If equipped in combination with the Crescent Hairpin[0], adds an additional 9% resistance to attacks from ^6666CCDemon^000000 monsters.
 Class:^6666CC Headgear ^000000
 Defense:^0000FF 0 ^000000
 Position:^6666CC Middle ^000000
@@ -55847,7 +55852,7 @@ For every upgrade 5 and higher add 1% more damage to Boss Class monsters.
 ^99FF66Set Bonus ^000000
 ^00FF00Lord of the Dead Helm ^000000
 ^00FF00Abysmal Knight Card ^000000
-Increase Damage to Boss Type Monster by additional 5%.
+Increase Damage to Boss Type monsters by additional 5%.
 If Lord of the Dead Helm +11 negates the damage from normal Monsters and Players.
 ^FF0000The Abysmal Knight Card effect is only effective once. ^000000
 Position:^6666CC Upper Middle ^000000
