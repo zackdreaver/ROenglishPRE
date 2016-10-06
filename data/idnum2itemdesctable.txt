@@ -4627,6 +4627,8 @@ Weapon Level:^009900 4 ^000000
 Level Requirement:^009900 1 ^000000
 Jobs:^6666CC Swordman and Merchant ^000000
 #
+1317#
+#
 1318#
 #
 1319#
@@ -11357,20 +11359,12 @@ Level Requirement:^009900 70 ^000000
 Jobs:^6666CC Priest, Monk ^000000
 #
 2357#
-A set of shining white
-armor worn by Valkyries, the battle maidens that
-serve the god Odin.
-Increases resistance
-to Mute status when
-worn by Mage, Archer,
-and Acolyte Classes.
-Increases resistance
-to Stun status when
-worn by Swordman,
-Merchant, and Thief
-Classes. Cannot be
-destroyed in battle.
-All Stats +1.
+A set of shining white armor worn by Valkyries, the battle maidens that serve the god Odin.
+All Stats +1
+[^0000FFMage,Archer,Acolyte^000000]
+Increases resistance against ^663399Silence^000000 status by 50%.
+[^0000FFSwordman,Merchant,Thief^000000]
+Increases resistance against ^663399Stun^000000 status by 50%.
 ^6666CCValkyrian Armor Set ^000000
 ^3CB371Valkyrie Helm ^000000
 ^3CB371Valkyrie Armor ^000000
@@ -15280,6 +15274,10 @@ Jobs:^6666CC All classes ^000000
 2893#
 #
 2894#
+#
+2895#
+#
+2896#
 #
 2897#
 #
@@ -29572,6 +29570,8 @@ Jobs:^6666CC All classes ^000000
 #
 5944#
 #
+5946#
+#
 5966#
 #
 5967#
@@ -38173,6 +38173,22 @@ Class:^6666CC Monster Egg ^000000
 9091#
 #
 9092#
+#
+9093#
+#
+9094#
+#
+9095#
+#
+9096#
+#
+9097#
+#
+9098#
+#
+9099#
+#
+9100#
 #
 10001#
 A pristine helmet made from an animal skull.
@@ -51370,6 +51386,18 @@ Jobs:^6666CC None ^000000
 #
 15174#
 #
+15181#
+#
+15182#
+#
+15183#
+#
+15184#
+#
+15185#
+#
+15186#
+#
 16000#
 This mace's shape is inspired by a Snake, which symbolizes the fountain of knowledge.
 MaxSP +50.
@@ -55396,6 +55424,12 @@ Weight:^009900 1 ^000000
 #
 17713#
 #
+17716#
+#
+17717#
+#
+17718#
+#
 18000#
 #
 18001#
@@ -57378,7 +57412,17 @@ Jobs:^6666CC All except Novice ^000000
 #
 19162#
 #
+19163#
+#
+19164#
+#
+19165#
+#
 19166#
+#
+19168#
+#
+19169#
 #
 19377#
 #
@@ -64991,6 +65035,16 @@ Jobs:^6666CC All classes^000000
 #
 20819#
 #
+20823#
+#
+20824#
+#
+20825#
+#
+20826#
+#
+20830#
+#
 21000#
 #
 21001#
@@ -65153,6 +65207,8 @@ Jobs:^6666CC All classes^000000
 #
 22081#
 #
+22082#
+#
 22083#
 #
 22084#
@@ -65166,6 +65222,8 @@ Jobs:^6666CC All classes^000000
 22101#
 #
 22102#
+#
+22103#
 #
 22107#
 #
@@ -65190,6 +65248,16 @@ Jobs:^6666CC All classes^000000
 22117#
 #
 22118#
+#
+22122#
+#
+22123#
+#
+22124#
+#
+22125#
+#
+22126#
 #
 22507#
 #
@@ -65527,6 +65595,8 @@ Jobs:^6666CC All classes^000000
 #
 22821#
 #
+22822#
+#
 22823#
 #
 22826#
@@ -65761,6 +65831,14 @@ Jobs:^6666CC All classes^000000
 #
 23007#
 #
+23008#
+#
+23010#
+#
+23011#
+#
+23012#
+#
 23013#
 #
 23014#
@@ -65929,6 +66007,10 @@ Jobs:^6666CC All classes^000000
 #
 23145#
 #
+23148#
+#
+23149#
+#
 23150#
 #
 23151#
@@ -65941,9 +66023,13 @@ Jobs:^6666CC All classes^000000
 #
 23159#
 #
+23160#
+#
 23161#
 #
 23162#
+#
+23163#
 #
 23167#
 #
@@ -65960,6 +66046,20 @@ Jobs:^6666CC All classes^000000
 23173#
 #
 23174#
+#
+23175#
+#
+23176#
+#
+23177#
+#
+23178#
+#
+23187#
+#
+23188#
+#
+23189#
 #
 24000#
 #
@@ -66919,6 +67019,8 @@ Jobs:^6666CC All classes^000000
 #
 25210#
 #
+25223#
+#
 25224#
 #
 25225#
@@ -66930,6 +67032,12 @@ Jobs:^6666CC All classes^000000
 25228#
 #
 25229#
+#
+25231#
+#
+25232#
+#
+25233#
 #
 26000#
 #
@@ -66958,6 +67066,8 @@ Jobs:^6666CC All classes^000000
 27019#
 #
 27020#
+#
+27025#
 #
 28000#
 #
@@ -67135,6 +67245,92 @@ Jobs:^6666CC All classes^000000
 #
 28440#
 #
+28443#
+#
+28444#
+#
+28445#
+#
+28446#
+#
+28447#
+#
+28448#
+#
+28449#
+#
+28450#
+#
+28451#
+#
+28452#
+#
+28453#
+#
+28454#
+#
+28455#
+#
+28456#
+#
+28457#
+#
+28458#
+#
+28459#
+#
+28460#
+#
+28461#
+#
+28462#
+#
+28463#
+#
+28464#
+#
+28465#
+#
+28466#
+#
+28467#
+#
+28468#
+#
+28469#
+#
+28470#
+#
+28471#
+#
+28472#
+#
+28473#
+#
+28474#
+#
+28475#
+#
+28476#
+#
+28477#
+#
+28478#
+#
+28479#
+#
+28480#
+#
+28481#
+#
+28482#
+#
+28483#
+#
+28484#
+#
+28485#
+#
 28600#
 #
 28604#
@@ -67179,9 +67375,19 @@ Jobs:^6666CC All classes^000000
 #
 28905#
 #
+28906#
+#
+28907#
+#
+28908#
+#
+28909#
+#
 28913#
 #
 28914#
+#
+28918#
 #
 29000#
 #
@@ -67931,6 +68137,26 @@ Weight:^009900 0^000000
 Level Requirement:^009900 1^000000
 Jobs:^6666CC All classes^000000
 #
+31095#
+#
+31096#
+#
+31097#
+#
+31098#
+#
+31099#
+#
+31100#
+#
+31101#
+#
+31102#
+#
+31103#
+#
+31104#
+#
 31105#
 ^000088Rental item^000000
 A very rare limited celebration hat.
@@ -67939,6 +68165,8 @@ Location:^6666CC Upper^000000
 Weight:^009900 0^000000
 Level Requirement:^009900 1^000000
 Jobs:^6666CC All classes^000000
+#
+31125#
 #
 32000#
 #
