@@ -6570,11 +6570,11 @@ H구역의 탐색을 마쳤다. 현재 상황을 엘론드 로렌스에게 전달하자.#
 //-- 6000
 //Taekwondo
 6000#Job Change to Taekwon#SG_FEEL#QUE_NOIMAGE#
-You've chosen you're path to become a Taekwon. You must increase your base level and talk to Phoenix.#
+You've chosen your path to become a Taekwon. You must increase your base level and talk to Phoenix.#
 #
 
 6001#Job Change to Taekwon#SG_FEEL#QUE_NOIMAGE#
-You've chosen you're path to become a Taekwon. You must take the mental aptitude exam from Phoenix.#
+You've chosen your path to become a Taekwon. You must take the mental aptitude exam from Phoenix.#
 #
 
 6002#Job Change to Taekwon#SG_FEEL#QUE_NOIMAGE#
