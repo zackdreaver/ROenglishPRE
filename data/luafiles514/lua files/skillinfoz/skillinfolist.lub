@@ -3000,6 +3000,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Whirlwind Kick",
 		MaxLv = 7,
 		SpAmount = { 14, 12, 10, 8, 6, 4, 2 },
+		bSeperateLv = false,
 	},
 	[SKID.TK_READYDOWN] = {
 		"TK_READYDOWN",
@@ -3016,6 +3017,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Axe Kick",
 		MaxLv = 7,
 		SpAmount = { 14, 12, 10, 8, 6, 4, 2 },
+		bSeperateLv = false,
 	},
 	[SKID.TK_READYTURN] = {
 		"TK_READYTURN",
@@ -3032,6 +3034,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Round Kick",
 		MaxLv = 7,
 		SpAmount = { 14, 12, 10, 8, 6, 4, 2 },
+		bSeperateLv = false,
 	},
 	[SKID.TK_READYCOUNTER] = {
 		"TK_READYCOUNTER",
@@ -3047,6 +3050,8 @@ SKILL_INFO_LIST = {
 		"TK_COUNTER",
 		SkillName = "Counter Kick",
 		MaxLv = 7,
+		SpAmount = { 14, 12, 10, 8, 6, 4, 2 },
+		bSeperateLv = false,
 	},
 	[SKID.TK_DODGE] = {
 		"TK_DODGE",
@@ -3085,6 +3090,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Warm Wind",
 		MaxLv = 7,
 		SpAmount = { 20, 20, 20, 20, 50, 50, 50 },
+		bSeperateLv = true,
 		_NeedSkillList = {
 			{ SKID.TK_HPTIME,5 },
 			{ SKID.TK_SPTIME,5 },
@@ -3095,7 +3101,8 @@ SKILL_INFO_LIST = {
 		"TK_HIGHJUMP",
 		SkillName = "High Jump",
 		MaxLv = 5,
-		SpAmount = { 50, 50, 50, 50, 50 }
+		SpAmount = { 50, 50, 50, 50, 50 },
+		bSeperateLv = true,
 	},
 	[SKID.SG_FEEL] = {
 		"SG_FEEL",
