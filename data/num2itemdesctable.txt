@@ -17,8 +17,8 @@
 A potion made from grinded Green Herbs.
 ^FFFFFF_^000000
 Class:^0000FF Restorative item^000000
-Cure:^009900 Poison, Silence, Blind, Confuse, Illusion^000000
-Weight:^009900 7^000000
+Cure:^006600 Poison, Silence, Blind, Confuse, Illusion^000000
+Weight:^006600 7^000000
 #
 507#
 ...
@@ -72,8 +72,8 @@ Weight:^009900 7^000000
 Blessed water used in sacred ceremonies.
 ^FFFFFF_^000000
 Class:^0000FF Restorative item^000000
-Cure:^009900 Curse^000000
-Weight:^009900 3^000000
+Cure:^006600 Curse^000000
+Weight:^006600 3^000000
 #
 525#
 ...
@@ -348,9 +348,9 @@ Weight:^009900 3^000000
 617#
 An old purple box holding contents that are a mystery until it is opened.
 ^FFFFFF_^000000
-Class:^0000FF Usable item^000000
-Effect:^009900 Gives random item^000000
-Weight:^009900 20^000000
+Class:^0000FF Item container^000000
+Effect:^006600 Gives random item^000000
+Weight:^006600 20^000000
 #
 618#
 ...
@@ -623,7 +623,7 @@ Weight:^009900 20^000000
 An enchanted crystal that is used in conjuction with certain magic spells. Once used, it is powerless and immediately destroyed.
 ^FFFFFF_^000000
 Class:^0000FF Miscellaneous^000000
-Weight:^009900 3^000000
+Weight:^006600 3^000000
 #
 718#
 ...
@@ -770,7 +770,7 @@ Weight:^009900 3^000000
 A small crystallization created by some monsters.
 ^FFFFFF_^000000
 Class:^0000FF Miscellaneous^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 910#
 ...
@@ -827,61 +827,61 @@ Weight:^009900 1^000000
 Antennae that serve as sense organs for insects.
 ^FFFFFF_^000000
 Class:^0000FF Miscellaneous^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 929#
 A heart which will never stop beating. It contains some sort of dreadful power.
 ^FFFFFF_^000000
 Class:^0000FF Miscellaneous^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 930#
 Old, dirty bandage that's so soiled, it's almost worthless.
 ^FFFFFF_^000000
 Class:^0000FF Miscellaneous^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 931#
 A small sculpture that serves as the token for every true Orc Warrior.
 ^FFFFFF_^000000
 Class:^0000FF Miscellaneous^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 932#
 A bone taken from an Undead skeleton.
 ^FFFFFF_^000000
 Class:^0000FF Miscellaneous^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 934#
 A box that is buried with the dead. It contains gems and someone's mementos...
 ^FFFFFF_^000000
 Class:^0000FF Miscellaneous^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 935#
 A hard shell that used to protect a monster.
 ^FFFFFF_^000000
 Class:^0000FF Miscellaneous^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 936#
 A shell-like piece of tough monster skin that is covered with hard scales.
 ^FFFFFF_^000000
 Class:^0000FF Miscellaneous^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 937#
 A sharp, poisonous fang from a monster.
 ^FFFFFF_^000000
 Class:^0000FF Miscellaneous^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 938#
 Mysteriously sticky liquid.
 ^FFFFFF_^000000
 Class:^0000FF Miscellaneous^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 939#
 ...
@@ -1020,7 +1020,7 @@ Mysterious Metal known as the Metal of Gods. It is harder than anything and can 
 Used to strengthen ^000088Level 3 and 4 weapons^000000.
 ^FFFFFF_^000000
 Class:^0000FF Crafting item^000000
-Weight:^009900 20^000000
+Weight:^006600 20^000000
 #
 985#
 ...
@@ -1068,7 +1068,7 @@ Weight:^009900 20^000000
 An iron and carbon alloy known for its structural durability and usually used in the crafting of high-quality arms.
 ^FFFFFF_^000000
 Class:^0000FF Crafting item^000000
-Weight:^009900 10^000000
+Weight:^006600 10^000000
 #
 1000#
 ...
@@ -1350,7 +1350,7 @@ Weight:^009900 10^000000
 An empty test tube that can be used to contain some kind of solution.
 ^FFFFFF_^000000
 Class:^0000FF Miscellaneous^000000
-Weight:^009900 2^000000
+Weight:^006600 2^000000
 #
 1093#
 ...
@@ -1958,6 +1958,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 1299#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+1300#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 1301#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -2012,6 +2015,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 1319#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+1320#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 1321#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -2022,6 +2028,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 1324#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1325#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1326#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 1351#
@@ -2288,6 +2300,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 1438#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+1439#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 1440#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -2313,6 +2328,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 1448#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1449#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 1450#
@@ -2753,6 +2771,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 1596#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+1597#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 1598#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -2924,6 +2945,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 1654#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+1656#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 1657#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -2970,6 +2994,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 1672#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1673#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1674#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 1675#
@@ -3386,6 +3416,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 1837#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+1838#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 1839#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -3393,6 +3426,27 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 1841#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1842#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1843#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1844#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1845#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1846#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1847#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1848#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 1900#
@@ -3528,6 +3582,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 1944#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1945#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1946#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1947#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+1948#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 1950#
@@ -3783,6 +3849,42 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 2034#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2035#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2036#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2037#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2038#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2039#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2040#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2041#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2042#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2043#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2044#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2045#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2046#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 2101#
@@ -5264,6 +5366,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 2599#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+2600#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 2601#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -6035,6 +6140,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 2866#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+2867#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2868#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2869#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 2870#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -6435,6 +6549,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 3737#
+...
+#
+3770#
 ...
 #
 4001#
@@ -8265,6 +8382,42 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 4610#
+...
+#
+4611#
+...
+#
+4612#
+...
+#
+4613#
+...
+#
+4614#
+...
+#
+4615#
+...
+#
+4616#
+...
+#
+4617#
+...
+#
+4618#
+...
+#
+4619#
+...
+#
+4620#
+...
+#
+4621#
+...
+#
+4622#
 ...
 #
 4623#
@@ -11867,6 +12020,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 5871#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+5872#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 5873#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -11951,6 +12107,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 5909#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+5910#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 5911#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -11982,6 +12141,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 5921#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5924#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5925#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 5926#
@@ -12035,7 +12200,61 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 5944#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+5945#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 5946#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5947#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5948#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5949#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5950#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5951#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5952#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5953#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5954#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5955#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5956#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5957#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5958#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5959#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5960#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5961#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5963#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5965#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 5966#
@@ -12068,7 +12287,13 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 5975#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+5976#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 5977#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5978#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 5979#
@@ -12090,6 +12315,45 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 5986#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5987#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5988#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5989#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5990#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5991#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5992#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5993#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5994#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5995#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5996#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5997#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+5998#
+...
+#
+5999#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 6000#
@@ -12359,7 +12623,7 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 6090#
 Purified Bradium which is the Ore of another world. It looks like ice, but it's warm.
 ^FFFFFF_^000000
-Weight:^009900 5^000000
+Weight:^006600 5^000000
 #
 6091#
 ...
@@ -13000,7 +13264,7 @@ Weight:^009900 5^000000
 6304#
 A certificate given by Sapha leaders for meritorious deeds.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6305#
 ...
@@ -13200,7 +13464,7 @@ Weight:^009900 0^000000
 6380#
 A small coin with a polished surface. It is used for many purposes in the Village of Mora.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6381#
 ...
@@ -13211,52 +13475,52 @@ Weight:^009900 0^000000
 6383#
 A piece of paper with a few words written on it. When you put all of them together, you may be able to find out Lope's whereabouts.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6384#
 A wedding ring, a symbol of Lope's love for Euridi.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6385#
 A bag that contains all the research tools used by researchers.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6386#
 A sample of bath water, taken to study the mysterious power of the bath water.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6387#
 A tooth sample thought to be from the unidentified creature in the mysterious bath in Mora Village.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6388#
 A scale sample thought to be from the unidentified creature in the mysterious bath in Mora Village.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6389#
 A sample of puddle water, taken to study the bath in Mora Village.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6390#
 A small pocket dropped by a Rapine. It contains something.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6391#
 A box containing all kinds of commodities and food. Feels quite heavy.
 ^FFFFFF_^000000
-Weight:^009900 200^000000
+Weight:^006600 200^000000
 #
 6392#
 A box full of Bradium mined in Manuk. It is made to look plain so that one can't tell what's inside by looking at it.
 ^FFFFFF_^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 6393#
 ...
@@ -13285,27 +13549,27 @@ Weight:^009900 1^000000
 6401#
 Vegetable oil from oil palm fruit. It's very heavy!!
 ^FFFFFF_^000000
-Weight:^009900 50^000000
+Weight:^006600 50^000000
 #
 6402#
 An oil palm fruit. It is used when vegetable oil is made.
 ^FFFFFF_^000000
-Weight:^009900 5^000000
+Weight:^006600 5^000000
 #
 6403#
 A leather of comodo. It is used when weapon or shield is made.
 ^FFFFFF_^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 6404#
 It's a handle of weapon.
 ^FFFFFF_^000000
-Weight:^009900 10^000000
+Weight:^006600 10^000000
 #
 6405#
 It's a feather of bird called Cendrawasih. It's splendid and has a strong green color.
 ^FFFFFF_^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 6406#
 ...
@@ -13460,6 +13724,21 @@ Weight:^009900 1^000000
 6458#
 ...
 #
+6459#
+...
+#
+6460#
+...
+#
+6461#
+...
+#
+6462#
+...
+#
+6463#
+...
+#
 6464#
 ...
 #
@@ -13476,6 +13755,27 @@ Weight:^009900 1^000000
 ...
 #
 6472#
+...
+#
+6473#
+...
+#
+6474#
+...
+#
+6475#
+...
+#
+6476#
+...
+#
+6477#
+...
+#
+6478#
+...
+#
+6479#
 ...
 #
 6480#
@@ -13508,6 +13808,15 @@ Weight:^009900 1^000000
 6489#
 ...
 #
+6490#
+...
+#
+6491#
+...
+#
+6492#
+...
+#
 6493#
 ...
 #
@@ -13524,12 +13833,12 @@ Weight:^009900 1^000000
 Paper that protects a player from harm's way or casts special abilities.
 A faint energy can be felt.
 ^FFFFFF_^000000
-Weight:^009900 5^000000
+Weight:^006600 5^000000
 #
 6498#
 Looks similar to a Large Jellopy but with a shinier crystal.
 ^FFFFFF_^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 6499#
 ...
@@ -13537,62 +13846,62 @@ Weight:^009900 1^000000
 6500#
 Bamboo piece trimmed to be pointy. Looks like it was cut tilted from a thick bamboo.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6501#
 Bag used to contain sea salt manufactured from the seashore. Said to scare off bad spirits.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6502#
 Cross-shaped ornament made of silver. Used to scare off demons.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6503#
 Portable spiritual protection made with holy energy from silver and exorcising energy from salt. Used to prevent bad spirits from approaching.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6504#
 Large caldron made from hard iron. Lets off a rich and full clunk sound when hit. Used to stun Bakonawa by making loud noises from it instead of cooking with it.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6505#
 Wholly cleaned out bone was an Evil Spirit Bone purified by Mumbaki to get rid of all evilness. Guard dog Vantai especially likes it.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6506#
 Flower bouquet made to comfort wandering or victimized souls. Offer flowers with a true heart and the souls may actually rest.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6507#
 Animal bones with a hint of evil spirit. Won't be able to as dog treats at this state.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6508#
 Hellish silver bracelet. Looks more like a restraint.
 ^FFFFFF_^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 6509#
 Mysteriously colorful flower. Looks like it was made from a rainbow.
 ^FFFFFF_^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 6510#
 Soft and gentle looking elegant flower.
 ^FFFFFF_^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 6511#
 Ordinary flower that can be found anywhere.
 ^FFFFFF_^000000
-Weight:^009900 1^000000
+Weight:^006600 1^000000
 #
 6512#
 ...
@@ -13621,7 +13930,7 @@ Weight:^009900 1^000000
 6520#
 Belong to a missing Port Malaya villager.
 ^FFFFFF_^000000
-Weight:^009900 0^000000
+Weight:^006600 0^000000
 #
 6521#
 ...
@@ -14208,6 +14517,18 @@ Weight:^009900 0^000000
 6727#
 ...
 #
+6728#
+...
+#
+6729#
+...
+#
+6730#
+...
+#
+6731#
+...
+#
 6732#
 ...
 #
@@ -14268,6 +14589,30 @@ Weight:^009900 0^000000
 6757#
 ...
 #
+6758#
+...
+#
+6759#
+...
+#
+6760#
+...
+#
+6761#
+...
+#
+6762#
+...
+#
+6763#
+...
+#
+6764#
+...
+#
+6765#
+...
+#
 6766#
 ...
 #
@@ -14319,6 +14664,9 @@ Weight:^009900 0^000000
 6782#
 ...
 #
+6783#
+...
+#
 6784#
 ...
 #
@@ -14346,7 +14694,31 @@ Weight:^009900 0^000000
 6792#
 ...
 #
+6793#
+...
+#
+6794#
+...
+#
+6795#
+...
+#
+6796#
+...
+#
 6797#
+...
+#
+6798#
+...
+#
+6799#
+...
+#
+6800#
+...
+#
+6801#
 ...
 #
 6802#
@@ -14359,6 +14731,27 @@ Weight:^009900 0^000000
 ...
 #
 6805#
+...
+#
+6806#
+...
+#
+6807#
+...
+#
+6808#
+...
+#
+6809#
+...
+#
+6810#
+...
+#
+6811#
+...
+#
+6812#
 ...
 #
 6813#
@@ -14388,6 +14781,12 @@ Weight:^009900 0^000000
 6821#
 ...
 #
+6822#
+...
+#
+6823#
+...
+#
 6824#
 ...
 #
@@ -14401,6 +14800,12 @@ Weight:^009900 0^000000
 ...
 #
 6828#
+...
+#
+6829#
+...
+#
+6830#
 ...
 #
 6832#
@@ -14490,6 +14895,9 @@ Weight:^009900 0^000000
 6860#
 ...
 #
+6861#
+...
+#
 6862#
 ...
 #
@@ -14563,6 +14971,21 @@ Weight:^009900 0^000000
 ...
 #
 6886#
+...
+#
+6887#
+...
+#
+6888#
+...
+#
+6889#
+...
+#
+6890#
+...
+#
+6891#
 ...
 #
 6892#
@@ -14641,6 +15064,9 @@ Weight:^009900 0^000000
 ...
 #
 6917#
+...
+#
+6918#
 ...
 #
 6919#
@@ -14742,6 +15168,9 @@ Weight:^009900 0^000000
 6951#
 ...
 #
+6952#
+...
+#
 6953#
 ...
 #
@@ -14758,6 +15187,9 @@ Weight:^009900 0^000000
 ...
 #
 6958#
+...
+#
+6959#
 ...
 #
 6960#
@@ -14841,6 +15273,24 @@ Weight:^009900 0^000000
 6986#
 ...
 #
+6987#
+...
+#
+6988#
+...
+#
+6989#
+...
+#
+6990#
+...
+#
+6991#
+...
+#
+6992#
+...
+#
 6993#
 ...
 #
@@ -14854,6 +15304,9 @@ Weight:^009900 0^000000
 ...
 #
 6997#
+...
+#
+6998#
 ...
 #
 6999#
@@ -16809,6 +17262,30 @@ Weight:^009900 0^000000
 7651#
 ...
 #
+7654#
+...
+#
+7655#
+...
+#
+7656#
+...
+#
+7657#
+...
+#
+7659#
+...
+#
+7660#
+...
+#
+7661#
+...
+#
+7662#
+...
+#
 7663#
 ...
 #
@@ -16839,7 +17316,34 @@ Weight:^009900 0^000000
 7672#
 ...
 #
+7673#
+...
+#
+7677#
+...
+#
+7678#
+...
+#
+7683#
+...
+#
+7684#
+...
+#
+7689#
+...
+#
 7690#
+...
+#
+7696#
+...
+#
+7698#
+...
+#
+7700#
 ...
 #
 7701#
@@ -17919,6 +18423,18 @@ Weight:^009900 0^000000
 9063#
 ...
 #
+9064#
+...
+#
+9065#
+...
+#
+9066#
+...
+#
+9067#
+...
+#
 9068#
 ...
 #
@@ -17929,6 +18445,27 @@ Weight:^009900 0^000000
 ...
 #
 9071#
+...
+#
+9074#
+...
+#
+9075#
+...
+#
+9076#
+...
+#
+9077#
+...
+#
+9078#
+...
+#
+9079#
+...
+#
+9080#
 ...
 #
 9087#
@@ -17974,6 +18511,39 @@ Weight:^009900 0^000000
 ...
 #
 9101#
+...
+#
+9102#
+...
+#
+9103#
+...
+#
+9104#
+...
+#
+9105#
+...
+#
+9106#
+...
+#
+9107#
+...
+#
+9108#
+...
+#
+9109#
+...
+#
+9111#
+...
+#
+9112#
+...
+#
+9113#
 ...
 #
 10001#
@@ -18094,6 +18664,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 10040#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+10042#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 11000#
@@ -18375,6 +18948,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 11558#
 ...
 #
+11559#
+...
+#
+11560#
+...
+#
+11561#
+...
+#
+11562#
+...
+#
 11563#
 ...
 #
@@ -18471,6 +19056,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 11595#
 ...
 #
+11596#
+...
+#
 11597#
 ...
 #
@@ -18499,6 +19087,36 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 11606#
+...
+#
+11607#
+...
+#
+11608#
+...
+#
+11609#
+...
+#
+11610#
+...
+#
+11611#
+...
+#
+11612#
+...
+#
+11613#
+...
+#
+11614#
+...
+#
+11615#
+...
+#
+11616#
 ...
 #
 11701#
@@ -18556,6 +19174,48 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 11719#
+...
+#
+11720#
+...
+#
+11722#
+...
+#
+11723#
+...
+#
+11724#
+...
+#
+11725#
+...
+#
+11726#
+...
+#
+11727#
+...
+#
+11728#
+...
+#
+11729#
+...
+#
+11730#
+...
+#
+11735#
+...
+#
+11736#
+...
+#
+11737#
+...
+#
+11740#
 ...
 #
 12000#
@@ -20043,6 +20703,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 12514#
 ...
 #
+12515#
+...
+#
 12516#
 ...
 #
@@ -20106,6 +20769,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 12546#
 ...
 #
+12547#
+...
+#
 12548#
 ...
 #
@@ -20131,6 +20797,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 12558#
+...
+#
+12559#
+...
+#
+12560#
 ...
 #
 12561#
@@ -20232,6 +20904,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 12596#
 ...
 #
+12597#
+...
+#
+12598#
+...
+#
 12599#
 ...
 #
@@ -20328,7 +21006,19 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 12630#
 ...
 #
+12631#
+...
+#
+12632#
+...
+#
 12633#
+...
+#
+12634#
+...
+#
+12635#
 ...
 #
 12636#
@@ -20706,6 +21396,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 12779#
 ...
 #
+12784#
+...
+#
 12785#
 ...
 #
@@ -20715,7 +21408,25 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 12787#
 ...
 #
+12788#
+...
+#
+12789#
+...
+#
 12790#
+...
+#
+12791#
+...
+#
+12792#
+...
+#
+12793#
+...
+#
+12794#
 ...
 #
 12795#
@@ -20841,6 +21552,33 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 12835#
 ...
 #
+12836#
+...
+#
+12837#
+...
+#
+12838#
+...
+#
+12839#
+...
+#
+12840#
+...
+#
+12841#
+...
+#
+12842#
+...
+#
+12843#
+...
+#
+12844#
+...
+#
 12845#
 ...
 #
@@ -20854,6 +21592,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 12849#
+...
+#
+12850#
+...
+#
+12851#
+...
+#
+12852#
+...
+#
+12853#
 ...
 #
 12854#
@@ -20871,7 +21621,16 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 12858#
 ...
 #
+12859#
+...
+#
 12860#
+...
+#
+12861#
+...
+#
+12862#
 ...
 #
 12863#
@@ -21441,6 +22200,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 13062#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+13064#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13065#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 13066#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -21528,6 +22293,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 13094#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+13096#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 13097#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -21600,7 +22368,13 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 13120#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+13121#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 13122#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13123#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13124#
@@ -21619,6 +22393,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13129#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13130#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13131#
@@ -21643,6 +22420,24 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13138#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13139#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13140#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13141#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13142#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13143#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13144#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13150#
@@ -21759,10 +22554,16 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 13187#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+13188#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 13189#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13190#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13191#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13192#
@@ -22077,10 +22878,31 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 13317#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+13318#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13319#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13320#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13321#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 13322#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13323#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13324#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13325#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13326#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13327#
@@ -22099,6 +22921,33 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13332#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13333#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13334#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13335#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13336#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13337#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13338#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13339#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13340#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13341#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13400#
@@ -22224,6 +23073,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 13444#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+13445#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13446#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13447#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13448#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 13449#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -22231,6 +23092,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13451#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13452#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13453#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13454#
@@ -22245,6 +23112,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 13457#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+13458#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 13459#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -22255,6 +23125,42 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13462#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13463#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13464#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13465#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13466#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13467#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13468#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13469#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13470#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13471#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13472#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13473#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13483#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13500#
@@ -25248,6 +26154,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 14500#
 ...
 #
+14501#
+...
+#
+14503#
+...
+#
 14504#
 ...
 #
@@ -25255,6 +26167,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 14506#
+...
+#
+14507#
 ...
 #
 14508#
@@ -25563,6 +26478,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 14609#
 ...
 #
+14610#
+...
+#
 14611#
 ...
 #
@@ -25573,6 +26491,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 14614#
+...
+#
+14615#
 ...
 #
 14616#
@@ -25596,6 +26517,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 14623#
 ...
 #
+14624#
+...
+#
+14625#
+...
+#
+14626#
+...
+#
 14627#
 ...
 #
@@ -25605,10 +26535,43 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 14629#
 ...
 #
+14630#
+...
+#
+14643#
+...
+#
+14644#
+...
+#
+14645#
+...
+#
+14646#
+...
+#
+14647#
+...
+#
+14648#
+...
+#
+14649#
+...
+#
 14663#
 ...
 #
+14664#
+...
+#
 14665#
+...
+#
+14666#
+...
+#
+14667#
 ...
 #
 14672#
@@ -25620,6 +26583,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 14675#
 ...
 #
+14676#
+...
+#
+14677#
+...
+#
+14678#
+...
+#
 14679#
 ...
 #
@@ -25629,7 +26601,31 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 14682#
 ...
 #
+14683#
+...
+#
+14687#
+...
+#
+14688#
+...
+#
 14689#
+...
+#
+14690#
+...
+#
+14691#
+...
+#
+14692#
+...
+#
+14693#
+...
+#
+14694#
 ...
 #
 14695#
@@ -25638,19 +26634,82 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 14696#
 ...
 #
+14697#
+...
+#
+14698#
+...
+#
+14699#
+...
+#
+14700#
+...
+#
+14701#
+...
+#
+14702#
+...
+#
+14703#
+...
+#
 14704#
 ...
 #
 14705#
 ...
 #
+14706#
+...
+#
+14707#
+...
+#
+14708#
+...
+#
+14709#
+...
+#
+14710#
+...
+#
+14711#
+...
+#
+14712#
+...
+#
 14713#
+...
+#
+14714#
+...
+#
+14715#
+...
+#
+14716#
 ...
 #
 14717#
 ...
 #
 14718#
+...
+#
+14719#
+...
+#
+14720#
+...
+#
+14721#
+...
+#
+14722#
 ...
 #
 14723#
@@ -25686,13 +26745,88 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 14733#
 ...
 #
+14734#
+...
+#
+14735#
+...
+#
+14736#
+...
+#
+14737#
+...
+#
+14738#
+...
+#
 14739#
 ...
 #
 14740#
 ...
 #
+14741#
+...
+#
+14742#
+...
+#
+14743#
+...
+#
+14744#
+...
+#
+14745#
+...
+#
+14749#
+...
+#
+14750#
+...
+#
+14751#
+...
+#
+14752#
+...
+#
+14753#
+...
+#
+14754#
+...
+#
+14755#
+...
+#
+14756#
+...
+#
+14757#
+...
+#
 14758#
+...
+#
+14759#
+...
+#
+14760#
+...
+#
+14761#
+...
+#
+14762#
+...
+#
+14763#
+...
+#
+14764#
 ...
 #
 14765#
@@ -25701,19 +26835,190 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 14766#
 ...
 #
+14768#
+...
+#
+14769#
+...
+#
+14770#
+...
+#
+14771#
+...
+#
+14772#
+...
+#
+14773#
+...
+#
+14774#
+...
+#
+14775#
+...
+#
+14776#
+...
+#
+14777#
+...
+#
+14778#
+...
+#
+14779#
+...
+#
 14780#
 ...
 #
 14781#
 ...
 #
+14782#
+...
+#
+14783#
+...
+#
+14784#
+...
+#
+14785#
+...
+#
+14786#
+...
+#
+14787#
+...
+#
+14788#
+...
+#
+14789#
+...
+#
+14790#
+...
+#
+14791#
+...
+#
+14792#
+...
+#
+14793#
+...
+#
+14794#
+...
+#
+14795#
+...
+#
+14796#
+...
+#
+14797#
+...
+#
+14798#
+...
+#
 14799#
+...
+#
+14800#
+...
+#
+14801#
+...
+#
+14802#
+...
+#
+14803#
+...
+#
+14804#
+...
+#
+14805#
 ...
 #
 14806#
 ...
 #
 14807#
+...
+#
+14808#
+...
+#
+14809#
+...
+#
+14810#
+...
+#
+14811#
+...
+#
+14812#
+...
+#
+14813#
+...
+#
+14815#
+...
+#
+14816#
+...
+#
+14817#
+...
+#
+14818#
+...
+#
+14819#
+...
+#
+14821#
+...
+#
+14822#
+...
+#
+14823#
+...
+#
+14826#
+...
+#
+14827#
+...
+#
+14828#
+...
+#
+14829#
+...
+#
+14902#
+...
+#
+14903#
+...
+#
+14904#
+...
+#
+14905#
 ...
 #
 15000#
@@ -26028,10 +27333,34 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 15105#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+15106#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15107#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15108#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15109#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 15110#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 15111#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15112#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15113#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15114#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15115#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 15116#
@@ -26058,10 +27387,16 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 15123#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+15124#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 15125#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 15126#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15127#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 15128#
@@ -26070,10 +27405,46 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 15129#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+15130#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15132#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15133#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15134#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15135#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15136#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15137#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 15138#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+15139#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15140#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 15141#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15142#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15143#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15144#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 15145#
@@ -26112,6 +27483,21 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 15156#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+15157#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15158#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15159#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15160#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15161#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 15162#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -26121,10 +27507,34 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 15164#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+15165#
+...
+#
+15166#
+...
+#
 15167#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+15169#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15170#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15171#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15172#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15173#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 15174#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15175#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 15176#
@@ -26160,7 +27570,85 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 15186#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+15187#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15188#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 15189#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15190#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15191#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15192#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15193#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15194#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15195#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15196#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15204#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15205#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15208#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15209#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15210#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15212#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15213#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15237#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15241#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15242#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15243#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15244#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15245#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15246#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15247#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15249#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15250#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16000#
@@ -26191,6 +27679,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16010#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16012#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16013#
@@ -26256,7 +27747,16 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16033#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+16034#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16035#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 16036#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16037#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16038#
@@ -26271,8 +27771,23 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16041#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+16042#
+...
+#
 16043#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16044#
+...
+#
+16045#
+...
+#
+16046#
+...
+#
+16047#
+...
 #
 16048#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -26283,7 +27798,13 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16050#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+16051#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 16052#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16053#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16054#
@@ -26292,7 +27813,43 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16055#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+16056#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16057#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16058#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16059#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 16060#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16061#
+...
+#
+16062#
+...
+#
+16063#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16064#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16065#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16066#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16075#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+16076#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16100#
@@ -27423,6 +28980,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16515#
 ...
 #
+16542#
+...
+#
 16543#
 ...
 #
@@ -27450,6 +29010,21 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16556#
 ...
 #
+16557#
+...
+#
+16558#
+...
+#
+16559#
+...
+#
+16560#
+...
+#
+16561#
+...
+#
 16564#
 ...
 #
@@ -27468,6 +29043,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16569#
 ...
 #
+16570#
+...
+#
+16571#
+...
+#
 16573#
 ...
 #
@@ -27475,6 +29056,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 16575#
+...
+#
+16576#
+...
+#
+16577#
 ...
 #
 16578#
@@ -27534,6 +29121,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16599#
 ...
 #
+16600#
+...
+#
 16601#
 ...
 #
@@ -27550,6 +29140,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 16606#
+...
+#
+16607#
+...
+#
+16608#
 ...
 #
 16615#
@@ -27598,6 +29194,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 16632#
+...
+#
+16633#
 ...
 #
 16634#
@@ -27657,6 +29256,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16652#
 ...
 #
+16653#
+...
+#
+16654#
+...
+#
 16655#
 ...
 #
@@ -27684,10 +29289,19 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16663#
 ...
 #
+16664#
+...
+#
+16665#
+...
+#
 16666#
 ...
 #
 16667#
+...
+#
+16668#
 ...
 #
 16671#
@@ -27729,10 +29343,22 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16683#
 ...
 #
+16684#
+...
+#
+16685#
+...
+#
+16686#
+...
+#
 16689#
 ...
 #
 16690#
+...
+#
+16691#
 ...
 #
 16692#
@@ -28587,6 +30213,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16979#
 ...
 #
+16992#
+...
+#
+16993#
+...
+#
 16995#
 ...
 #
@@ -28596,6 +30228,36 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16999#
 ...
 #
+17000#
+...
+#
+17001#
+...
+#
+17002#
+...
+#
+17003#
+...
+#
+17004#
+...
+#
+17005#
+...
+#
+17006#
+...
+#
+17007#
+...
+#
+17008#
+...
+#
+17009#
+...
+#
 17013#
 ...
 #
@@ -28603,6 +30265,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17015#
+...
+#
+17018#
+...
+#
+17019#
+...
+#
+17020#
+...
+#
+17021#
 ...
 #
 17024#
@@ -28653,7 +30327,22 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17046#
 ...
 #
+17047#
+...
+#
+17048#
+...
+#
+17049#
+...
+#
+17052#
+...
+#
 17053#
+...
+#
+17064#
 ...
 #
 17065#
@@ -28692,7 +30381,19 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17076#
 ...
 #
+17079#
+...
+#
+17080#
+...
+#
 17081#
+...
+#
+17082#
+...
+#
+17083#
 ...
 #
 17084#
@@ -28770,7 +30471,13 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17108#
 ...
 #
+17109#
+...
+#
 17110#
+...
+#
+17113#
 ...
 #
 17114#
@@ -28786,6 +30493,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17118#
+...
+#
+17119#
 ...
 #
 17120#
@@ -28809,6 +30519,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17126#
 ...
 #
+17127#
+...
+#
+17134#
+...
+#
 17135#
 ...
 #
@@ -28819,6 +30535,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17138#
+...
+#
+17139#
 ...
 #
 17140#
@@ -28839,6 +30558,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17145#
 ...
 #
+17146#
+...
+#
+17147#
+...
+#
+17152#
+...
+#
 17153#
 ...
 #
@@ -28848,10 +30576,22 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17155#
 ...
 #
+17156#
+...
+#
+17157#
+...
+#
+17158#
+...
+#
 17159#
 ...
 #
 17160#
+...
+#
+17161#
 ...
 #
 17162#
@@ -28861,6 +30601,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17164#
+...
+#
+17165#
 ...
 #
 17166#
@@ -28896,7 +30639,16 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17180#
 ...
 #
+17181#
+...
+#
 17182#
+...
+#
+17183#
+...
+#
+17184#
 ...
 #
 17193#
@@ -28917,6 +30669,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17198#
 ...
 #
+17199#
+...
+#
 17200#
 ...
 #
@@ -28926,10 +30681,61 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17202#
 ...
 #
+17204#
+...
+#
 17205#
 ...
 #
 17206#
+...
+#
+17207#
+...
+#
+17209#
+...
+#
+17210#
+...
+#
+17211#
+...
+#
+17212#
+...
+#
+17213#
+...
+#
+17214#
+...
+#
+17215#
+...
+#
+17216#
+...
+#
+17217#
+...
+#
+17218#
+...
+#
+17219#
+...
+#
+17220#
+...
+#
+17221#
+...
+#
+17222#
+...
+#
+17223#
 ...
 #
 17224#
@@ -28938,22 +30744,67 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17229#
 ...
 #
+17230#
+...
+#
 17231#
 ...
 #
 17232#
 ...
 #
+17233#
+...
+#
+17234#
+...
+#
+17235#
+...
+#
+17236#
+...
+#
+17237#
+...
+#
+17238#
+...
+#
+17239#
+...
+#
+17240#
+...
+#
 17241#
 ...
 #
+17242#
+...
+#
+17243#
+...
+#
 17244#
+...
+#
+17245#
 ...
 #
 17246#
 ...
 #
 17247#
+...
+#
+17248#
+...
+#
+17249#
+...
+#
+17250#
 ...
 #
 17251#
@@ -28966,6 +30817,27 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17254#
+...
+#
+17255#
+...
+#
+17256#
+...
+#
+17257#
+...
+#
+17258#
+...
+#
+17259#
+...
+#
+17260#
+...
+#
+17261#
 ...
 #
 17262#
@@ -28981,6 +30853,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17266#
+...
+#
+17267#
+...
+#
+17268#
+...
+#
+17269#
 ...
 #
 17270#
@@ -29001,6 +30882,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17275#
 ...
 #
+17276#
+...
+#
 17277#
 ...
 #
@@ -29008,6 +30892,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17279#
+...
+#
+17280#
 ...
 #
 17281#
@@ -29034,6 +30921,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17288#
 ...
 #
+17289#
+...
+#
+17290#
+...
+#
+17291#
+...
+#
 17292#
 ...
 #
@@ -29043,6 +30939,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17294#
 ...
 #
+17295#
+...
+#
 17296#
 ...
 #
@@ -29050,6 +30949,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17299#
+...
+#
+17300#
+...
+#
+17301#
 ...
 #
 17302#
@@ -29067,6 +30972,27 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17306#
 ...
 #
+17307#
+...
+#
+17308#
+...
+#
+17309#
+...
+#
+17310#
+...
+#
+17311#
+...
+#
+17312#
+...
+#
+17313#
+...
+#
 17314#
 ...
 #
@@ -29076,10 +31002,28 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17316#
 ...
 #
+17317#
+...
+#
+17320#
+...
+#
 17321#
 ...
 #
 17322#
+...
+#
+17323#
+...
+#
+17324#
+...
+#
+17325#
+...
+#
+17326#
 ...
 #
 17331#
@@ -29094,10 +31038,178 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17334#
 ...
 #
+17336#
+...
+#
+17337#
+...
+#
 17338#
 ...
 #
 17339#
+...
+#
+17340#
+...
+#
+17341#
+...
+#
+17342#
+...
+#
+17343#
+...
+#
+17344#
+...
+#
+17345#
+...
+#
+17346#
+...
+#
+17347#
+...
+#
+17348#
+...
+#
+17349#
+...
+#
+17350#
+...
+#
+17351#
+...
+#
+17352#
+...
+#
+17353#
+...
+#
+17354#
+...
+#
+17355#
+...
+#
+17356#
+...
+#
+17357#
+...
+#
+17358#
+...
+#
+17359#
+...
+#
+17360#
+...
+#
+17361#
+...
+#
+17362#
+...
+#
+17363#
+...
+#
+17364#
+...
+#
+17365#
+...
+#
+17366#
+...
+#
+17367#
+...
+#
+17368#
+...
+#
+17369#
+...
+#
+17370#
+...
+#
+17371#
+...
+#
+17372#
+...
+#
+17373#
+...
+#
+17374#
+...
+#
+17375#
+...
+#
+17376#
+...
+#
+17377#
+...
+#
+17378#
+...
+#
+17379#
+...
+#
+17380#
+...
+#
+17381#
+...
+#
+17382#
+...
+#
+17383#
+...
+#
+17384#
+...
+#
+17385#
+...
+#
+17386#
+...
+#
+17387#
+...
+#
+17388#
+...
+#
+17389#
+...
+#
+17390#
+...
+#
+17391#
+...
+#
+17392#
+...
+#
+17393#
 ...
 #
 17394#
@@ -29106,16 +31218,130 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17395#
 ...
 #
+17396#
+...
+#
+17397#
+...
+#
+17398#
+...
+#
+17399#
+...
+#
+17400#
+...
+#
+17401#
+...
+#
+17402#
+...
+#
+17403#
+...
+#
+17404#
+...
+#
+17405#
+...
+#
+17406#
+...
+#
+17407#
+...
+#
+17408#
+...
+#
+17409#
+...
+#
+17410#
+...
+#
+17411#
+...
+#
+17412#
+...
+#
+17413#
+...
+#
+17414#
+...
+#
+17415#
+...
+#
+17416#
+...
+#
+17417#
+...
+#
+17418#
+...
+#
+17419#
+...
+#
+17420#
+...
+#
+17421#
+...
+#
+17422#
+...
+#
+17423#
+...
+#
+17424#
+...
+#
+17425#
+...
+#
+17426#
+...
+#
+17427#
+...
+#
+17428#
+...
+#
 17429#
 ...
 #
 17430#
 ...
 #
+17431#
+...
+#
 17432#
 ...
 #
 17433#
+...
+#
+17434#
+...
+#
+17435#
+...
+#
+17436#
+...
+#
+17437#
 ...
 #
 17438#
@@ -29136,7 +31362,28 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17443#
 ...
 #
+17444#
+...
+#
+17447#
+...
+#
+17448#
+...
+#
 17449#
+...
+#
+17450#
+...
+#
+17452#
+...
+#
+17453#
+...
+#
+17454#
 ...
 #
 17455#
@@ -29146,6 +31393,27 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17457#
+...
+#
+17458#
+...
+#
+17459#
+...
+#
+17460#
+...
+#
+17461#
+...
+#
+17462#
+...
+#
+17463#
+...
+#
+17464#
 ...
 #
 17465#
@@ -29163,6 +31431,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17469#
 ...
 #
+17470#
+...
+#
+17471#
+...
+#
 17472#
 ...
 #
@@ -29175,10 +31449,25 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17475#
 ...
 #
+17476#
+...
+#
 17477#
 ...
 #
 17478#
+...
+#
+17479#
+...
+#
+17480#
+...
+#
+17481#
+...
+#
+17482#
 ...
 #
 17483#
@@ -29187,10 +31476,34 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17484#
 ...
 #
+17485#
+...
+#
+17486#
+...
+#
+17487#
+...
+#
+17488#
+...
+#
+17489#
+...
+#
+17490#
+...
+#
 17491#
 ...
 #
 17492#
+...
+#
+17493#
+...
+#
+17494#
 ...
 #
 17495#
@@ -29199,16 +31512,34 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17496#
 ...
 #
+17497#
+...
+#
 17498#
 ...
 #
 17499#
 ...
 #
+17500#
+...
+#
 17501#
 ...
 #
 17502#
+...
+#
+17503#
+...
+#
+17504#
+...
+#
+17505#
+...
+#
+17506#
 ...
 #
 17507#
@@ -29232,10 +31563,22 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17513#
 ...
 #
+17514#
+...
+#
 17515#
 ...
 #
 17516#
+...
+#
+17517#
+...
+#
+17518#
+...
+#
+17519#
 ...
 #
 17520#
@@ -29247,19 +31590,34 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17522#
 ...
 #
+17523#
+...
+#
 17524#
 ...
 #
 17525#
 ...
 #
+17526#
+...
+#
 17527#
+...
+#
+17528#
+...
+#
+17532#
 ...
 #
 17544#
 ...
 #
 17545#
+...
+#
+17546#
 ...
 #
 17547#
@@ -29274,6 +31632,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17550#
 ...
 #
+17551#
+...
+#
+17552#
+...
+#
 17567#
 ...
 #
@@ -29284,6 +31648,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17570#
+...
+#
+17571#
+...
+#
+17572#
 ...
 #
 17573#
@@ -29298,16 +31668,43 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17576#
 ...
 #
+17577#
+...
+#
+17578#
+...
+#
+17579#
+...
+#
+17580#
+...
+#
+17581#
+...
+#
 17582#
 ...
 #
 17583#
 ...
 #
+17584#
+...
+#
+17585#
+...
+#
 17586#
 ...
 #
 17587#
+...
+#
+17588#
+...
+#
+17589#
 ...
 #
 17590#
@@ -29322,10 +31719,19 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17593#
 ...
 #
+17594#
+...
+#
+17595#
+...
+#
 17596#
 ...
 #
 17597#
+...
+#
+17598#
 ...
 #
 17599#
@@ -29340,6 +31746,21 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17602#
 ...
 #
+17603#
+...
+#
+17604#
+...
+#
+17605#
+...
+#
+17606#
+...
+#
+17607#
+...
+#
 17608#
 ...
 #
@@ -29349,10 +31770,52 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17610#
 ...
 #
+17611#
+...
+#
+17612#
+...
+#
+17613#
+...
+#
+17614#
+...
+#
 17616#
 ...
 #
 17617#
+...
+#
+17619#
+...
+#
+17620#
+...
+#
+17621#
+...
+#
+17622#
+...
+#
+17623#
+...
+#
+17624#
+...
+#
+17625#
+...
+#
+17626#
+...
+#
+17628#
+...
+#
+17629#
 ...
 #
 17631#
@@ -29361,13 +31824,34 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17632#
 ...
 #
+17633#
+...
+#
+17634#
+...
+#
+17635#
+...
+#
+17638#
+...
+#
 17639#
 ...
 #
 17640#
 ...
 #
+17641#
+...
+#
+17645#
+...
+#
 17646#
+...
+#
+17648#
 ...
 #
 17650#
@@ -29376,10 +31860,25 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17651#
 ...
 #
+17659#
+...
+#
+17661#
+...
+#
 17662#
 ...
 #
 17663#
+...
+#
+17664#
+...
+#
+17665#
+...
+#
+17667#
 ...
 #
 17668#
@@ -29388,10 +31887,19 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17669#
 ...
 #
+17670#
+...
+#
+17671#
+...
+#
 17672#
 ...
 #
 17673#
+...
+#
+17674#
 ...
 #
 17675#
@@ -29403,10 +31911,25 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17677#
 ...
 #
+17678#
+...
+#
+17679#
+...
+#
+17680#
+...
+#
+17681#
+...
+#
 17683#
 ...
 #
 17684#
+...
+#
+17687#
 ...
 #
 17689#
@@ -29416,6 +31939,51 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17691#
+...
+#
+17692#
+...
+#
+17693#
+...
+#
+17696#
+...
+#
+17697#
+...
+#
+17698#
+...
+#
+17699#
+...
+#
+17700#
+...
+#
+17701#
+...
+#
+17702#
+...
+#
+17703#
+...
+#
+17704#
+...
+#
+17705#
+...
+#
+17706#
+...
+#
+17707#
+...
+#
+17709#
 ...
 #
 17710#
@@ -29428,6 +31996,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17713#
+...
+#
+17714#
+...
+#
+17715#
 ...
 #
 17716#
@@ -29445,10 +32019,43 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17724#
 ...
 #
+17726#
+...
+#
+17727#
+...
+#
+17728#
+...
+#
+17729#
+...
+#
+17730#
+...
+#
+17731#
+...
+#
+17732#
+...
+#
+17733#
+...
+#
+17735#
+...
+#
+17741#
+...
+#
 17742#
 ...
 #
 17743#
+...
+#
+17747#
 ...
 #
 17748#
@@ -29456,6 +32063,190 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 17749#
 ...
+#
+17750#
+...
+#
+17751#
+...
+#
+17752#
+...
+#
+17756#
+...
+#
+17759#
+...
+#
+17760#
+...
+#
+17761#
+...
+#
+17762#
+...
+#
+17763#
+...
+#
+17764#
+...
+#
+17765#
+...
+#
+17766#
+...
+#
+17767#
+...
+#
+17768#
+...
+#
+17774#
+...
+#
+17775#
+...
+#
+17776#
+...
+#
+17777#
+...
+#
+17779#
+...
+#
+17780#
+...
+#
+17781#
+...
+#
+17782#
+...
+#
+17783#
+...
+#
+17784#
+...
+#
+17785#
+...
+#
+17789#
+...
+#
+17792#
+...
+#
+17793#
+...
+#
+17794#
+...
+#
+17795#
+...
+#
+17796#
+...
+#
+17797#
+...
+#
+17799#
+...
+#
+17800#
+...
+#
+17803#
+...
+#
+17808#
+...
+#
+17832#
+...
+#
+17833#
+...
+#
+17835#
+...
+#
+17836#
+...
+#
+17881#
+...
+#
+17882#
+...
+#
+17883#
+...
+#
+17884#
+...
+#
+17885#
+...
+#
+17886#
+...
+#
+17887#
+...
+#
+17888#
+...
+#
+17889#
+...
+#
+17894#
+...
+#
+17895#
+...
+#
+17899#
+...
+#
+17901#
+한정판 파워 부스터 100개와 2017 스페셜 스크롤이 11개 들어있는 상자.
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+체내 에너지를 활성화하여, 파워를 대폭 향상시켜주는 부스터. 
+30분간 ATK, MATK + 30, ATK, MATK + 1%,
+HIT, FLEE + 30, ASPD + 1, SP 소모량 5% 감소,
+고정 캐스팅 30% 감소.
+(고정 캐스팅의 % 증감 효과는 가장 큰 효과만 적용됩니다.)
+^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
+^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000
+#
+17902#
+한정판 파워 부스터 10개와 2017 스페셜 스크롤이 1개 들어있는 상자.
+^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
+체내 에너지를 활성화하여, 파워를 대폭 향상시켜주는 부스터. 
+30분간 ATK, MATK + 30, ATK, MATK + 1%,
+HIT, FLEE + 30, ASPD + 1, SP 소모량 5% 감소,
+고정 캐스팅 30% 감소.
+(고정 캐스팅의 % 증감 효과는 가장 큰 효과만 적용됩니다.)
+^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
+^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000
+#
+17914#
+2017년 지스타 기념 상자.
+11월 냥다래 신규 의상 4종을 먼저 만나볼 수 있는 기회! 
+총 22종의 의상 중 1개를 랜덤으로 얻을 수 있다.
+Weight:^006600 1^000000
 #
 18000#
 ...
@@ -29479,6 +32270,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18103#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18105#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18106#
@@ -29544,10 +32338,19 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 18126#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+18127#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 18128#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+18129#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 18130#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18131#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18132#
@@ -29557,6 +32360,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18134#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18135#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18136#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18137#
@@ -29580,7 +32389,52 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 18143#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+18144#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 18145#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18146#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18147#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18148#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18149#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18150#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18151#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18152#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18153#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18154#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18155#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18163#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18164#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18165#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18166#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18500#
@@ -30690,6 +33544,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 18874#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+18875#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18876#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18877#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 18878#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -30699,11 +33562,17 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 18880#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+18881#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 18882#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18883#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18884#
+...
 #
 18885#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -30747,10 +33616,25 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 18898#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+18899#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 18900#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18901#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18903#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18904#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18905#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18906#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18907#
@@ -30796,6 +33680,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18921#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18922#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18923#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18924#
@@ -30861,7 +33751,31 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 18946#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+18947#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18948#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18949#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18950#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18951#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18952#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 18953#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18954#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18955#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18956#
@@ -30883,6 +33797,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18965#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18967#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18968#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18969#
@@ -30942,16 +33862,97 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 18987#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+18988#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18989#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18990#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18991#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18992#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18993#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18994#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18995#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18996#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 18997#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+18998#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+18999#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19000#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19001#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19002#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19003#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19004#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19005#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19006#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19007#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19008#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19009#
+...
+#
+19010#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19011#
+...
+#
 19012#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19013#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19014#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19015#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19016#
+...
+#
+19017#
+...
+#
+19018#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19019#
@@ -30993,6 +33994,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19031#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19032#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 19033#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -31002,6 +34006,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19035#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19036#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 19037#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -31009,6 +34016,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19039#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19040#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19041#
@@ -31035,6 +34045,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19048#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19049#
+...
+#
+19050#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 19051#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -31042,6 +34058,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19053#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19079#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19080#
@@ -31104,6 +34123,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19099#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19100#
+...
+#
 19101#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -31161,6 +34183,24 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19119#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19120#
+...
+#
+19121#
+...
+#
+19122#
+...
+#
+19123#
+...
+#
+19124#
+...
+#
+19125#
+...
+#
 19126#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -31194,7 +34234,16 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19136#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19137#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 19138#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19139#
+...
+#
+19140#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19141#
@@ -31242,6 +34291,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19155#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19156#
+...
+#
 19157#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -31249,6 +34301,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19159#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19160#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19161#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19162#
@@ -31275,6 +34333,24 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19169#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19170#
+...
+#
+19171#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19172#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19173#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19174#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19175#
+...
+#
 19176#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -31291,6 +34367,318 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19181#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19184#
+...
+#
+19185#
+...
+#
+19186#
+...
+#
+19187#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19188#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19189#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19190#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19191#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19192#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19193#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19194#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19195#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19196#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19197#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19198#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19199#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19200#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19201#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19202#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19203#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19204#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19205#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19206#
+...
+#
+19207#
+...
+#
+19208#
+...
+#
+19209#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19210#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19211#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19212#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19213#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19214#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19215#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19218#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19219#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19223#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19224#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19225#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19226#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19227#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19228#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19229#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19230#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19231#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19232#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19233#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19234#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19235#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19236#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19237#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19238#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19239#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19240#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19241#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19242#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19243#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19244#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19245#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19246#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19247#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19249#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19256#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19262#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19263#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19264#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19265#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19266#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19267#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19268#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19269#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19272#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19273#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19274#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19275#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19277#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19279#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19280#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19281#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19282#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19283#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19284#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19285#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19288#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19289#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19290#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19291#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19292#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19293#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19294#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19296#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19299#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19300#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19302#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19303#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19304#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19306#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19307#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19308#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19310#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19311#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19312#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19313#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19314#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19324#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19325#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19377#
@@ -31363,6 +34751,48 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 19400#
+...
+#
+19401#
+...
+#
+19402#
+...
+#
+19403#
+...
+#
+19404#
+...
+#
+19405#
+...
+#
+19406#
+...
+#
+19407#
+...
+#
+19408#
+...
+#
+19409#
+...
+#
+19410#
+...
+#
+19411#
+...
+#
+19412#
+...
+#
+19413#
+...
+#
+19414#
 ...
 #
 19500#
@@ -31743,6 +35173,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19625#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19626#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 19627#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -31971,7 +35404,13 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19702#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19703#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 19704#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19705#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19706#
@@ -31987,6 +35426,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19710#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19711#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19712#
@@ -32071,6 +35513,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19739#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19740#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19741#
@@ -32370,6 +35815,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19839#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19840#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 19841#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -32454,8 +35902,14 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19869#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19870#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 19871#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19872#
+...
 #
 19873#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -32583,6 +36037,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19914#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19915#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 19916#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -32598,10 +36055,25 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19920#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19921#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 19922#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19923#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19924#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 19925#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19926#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19927#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19928#
@@ -32637,10 +36109,40 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19939#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19940#
+...
+#
 19941#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19942#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19943#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19944#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19945#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19946#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19947#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19948#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 19949#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19950#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19951#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19952#
@@ -32712,6 +36214,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19974#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19975#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 19976#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -32726,6 +36231,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19980#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19981#
+...
 #
 19982#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -32760,7 +36268,13 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 19992#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+19993#
+...
+#
 19994#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19995#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19996#
@@ -32827,6 +36341,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20017#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20018#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20019#
@@ -33594,6 +37111,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20274#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20275#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20276#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20277#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -33631,6 +37154,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20289#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20290#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20291#
@@ -33676,6 +37202,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20305#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20306#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20307#
@@ -33756,6 +37285,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20335#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20336#
+...
+#
+20337#
+...
+#
 20338#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -33769,6 +37304,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20342#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20343#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20344#
@@ -33897,6 +37435,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20386#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20387#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20388#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -33916,6 +37457,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20394#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20395#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20396#
@@ -33958,6 +37502,24 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20409#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20410#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20411#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20412#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20413#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20414#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20415#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20416#
@@ -34041,6 +37603,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20442#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20443#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20444#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20445#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20446#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -34062,10 +37633,19 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20452#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20453#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20454#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20455#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20456#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20457#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20458#
@@ -34101,10 +37681,64 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20468#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20469#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20470#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20471#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20472#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20473#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20474#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20475#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20476#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20477#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20478#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20479#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20480#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20481#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20482#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20483#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20484#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20485#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20486#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20487#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20488#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20489#
@@ -34114,6 +37748,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20491#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20493#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20494#
@@ -34153,6 +37790,24 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20509#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20510#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20511#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20512#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20514#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20515#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20516#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20700#
@@ -34278,6 +37933,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20740#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20741#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20742#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20743#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -34299,7 +37960,22 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20749#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20750#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20751#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20752#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20753#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20754#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20755#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20756#
@@ -34309,6 +37985,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20758#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20759#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20760#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20761#
@@ -34326,13 +38008,34 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20765#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20766#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20767#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20768#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20769#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20770#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20771#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20772#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20773#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20774#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20775#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20776#
@@ -34365,6 +38068,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20785#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20786#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20787#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -34377,13 +38083,34 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20790#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20791#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20792#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20793#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20794#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20795#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20796#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20797#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20798#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20799#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20800#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20801#
@@ -34416,10 +38143,25 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20811#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20812#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20813#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20814#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20815#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20816#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20817#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20818#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20819#
@@ -34446,13 +38188,112 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20826#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20827#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20828#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20829#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20830#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20831#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20832#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20834#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 20835#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20836#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20837#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20838#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20840#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20842#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20843#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20844#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20845#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20846#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20847#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20852#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20853#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20854#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20855#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20856#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20857#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20858#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20859#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20860#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20861#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20863#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20899#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20900#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20901#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20902#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20903#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20906#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+20907#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 21000#
@@ -34506,13 +38347,52 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 21016#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+21017#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 21018#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 21019#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+21020#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+21021#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+21022#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 21023#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+21024#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+21025#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+21026#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+21027#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+21028#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+21029#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+21030#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+21031#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+21037#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 22000#
@@ -34553,6 +38433,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 22012#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22013#
+...
 #
 22014#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -34656,7 +38539,61 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22047#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+22048#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22049#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22050#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22051#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22052#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22053#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22054#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22055#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22056#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22057#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22058#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 22059#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22060#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22061#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22062#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22063#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22064#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22065#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22066#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 22067#
@@ -34666,6 +38603,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 22069#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22070#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22071#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 22072#
@@ -34710,7 +38653,46 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22085#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+22086#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22087#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22088#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 22089#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22090#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22091#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22092#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22093#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22094#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22095#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22096#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22097#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22098#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22099#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 22100#
@@ -34723,6 +38705,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 22103#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22104#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22105#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22106#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 22107#
@@ -34761,6 +38752,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22118#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+22119#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22120#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22121#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 22122#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -34776,7 +38776,70 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22126#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+22127#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22128#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22129#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22130#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 22131#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22132#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22133#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22134#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22138#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22140#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22141#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22142#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22143#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22145#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22168#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22169#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22170#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22171#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22172#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22173#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22174#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+22178#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 22506#
@@ -34788,10 +38851,16 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22508#
 ...
 #
+22509#
+...
+#
 22510#
 ...
 #
 22511#
+...
+#
+22512#
 ...
 #
 22513#
@@ -34807,6 +38876,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 22517#
+...
+#
+22518#
 ...
 #
 22519#
@@ -34840,6 +38912,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 22529#
+...
+#
+22530#
+...
+#
+22531#
+...
+#
+22532#
 ...
 #
 22533#
@@ -34923,6 +39004,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22559#
 ...
 #
+22564#
+...
+#
+22565#
+...
+#
 22566#
 ...
 #
@@ -34959,10 +39046,49 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22594#
 ...
 #
+22595#
+...
+#
+22596#
+...
+#
+22597#
+...
+#
+22598#
+...
+#
+22599#
+...
+#
+22600#
+...
+#
+22601#
+...
+#
+22602#
+...
+#
+22603#
+...
+#
+22604#
+...
+#
 22605#
 ...
 #
+22606#
+...
+#
 22607#
+...
+#
+22608#
+...
+#
+22609#
 ...
 #
 22610#
@@ -34980,6 +39106,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22614#
 ...
 #
+22615#
+...
+#
+22616#
+...
+#
 22617#
 ...
 #
@@ -34993,6 +39125,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 22621#
+...
+#
+22622#
 ...
 #
 22623#
@@ -35010,6 +39145,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22649#
 ...
 #
+22650#
+...
+#
+22651#
+...
+#
 22652#
 ...
 #
@@ -35017,6 +39158,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 22654#
+...
+#
+22655#
+...
+#
+22656#
 ...
 #
 22657#
@@ -35029,6 +39176,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 22660#
+...
+#
+22667#
+...
+#
+22668#
 ...
 #
 22669#
@@ -35058,6 +39211,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22679#
 ...
 #
+22680#
+...
+#
+22681#
+...
+#
+22682#
+...
+#
 22685#
 ...
 #
@@ -35065,6 +39227,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 22687#
+...
+#
+22688#
+...
+#
+22689#
+...
+#
+22690#
 ...
 #
 22691#
@@ -35080,6 +39251,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 22695#
+...
+#
+22696#
+...
+#
+22698#
 ...
 #
 22699#
@@ -35112,6 +39289,30 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22708#
 ...
 #
+22709#
+...
+#
+22710#
+...
+#
+22711#
+...
+#
+22712#
+...
+#
+22713#
+...
+#
+22714#
+...
+#
+22715#
+...
+#
+22716#
+...
+#
 22717#
 ...
 #
@@ -35125,6 +39326,27 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 22721#
+...
+#
+22722#
+...
+#
+22723#
+...
+#
+22728#
+...
+#
+22729#
+...
+#
+22730#
+...
+#
+22731#
+...
+#
+22733#
 ...
 #
 22734#
@@ -35214,7 +39436,22 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22762#
 ...
 #
+22763#
+...
+#
 22764#
+...
+#
+22765#
+...
+#
+22766#
+...
+#
+22767#
+...
+#
+22768#
 ...
 #
 22770#
@@ -35241,6 +39478,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22777#
 ...
 #
+22778#
+...
+#
+22779#
+...
+#
+22780#
+...
+#
 22781#
 ...
 #
@@ -35256,7 +39502,28 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22802#
 ...
 #
+22803#
+...
+#
+22804#
+...
+#
+22805#
+...
+#
+22806#
+...
+#
 22808#
+...
+#
+22809#
+...
+#
+22810#
+...
+#
+22811#
 ...
 #
 22812#
@@ -35266,6 +39533,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 22814#
+...
+#
+22815#
 ...
 #
 22816#
@@ -35292,6 +39562,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22823#
 ...
 #
+22824#
+...
+#
+22825#
+...
+#
 22826#
 ...
 #
@@ -35304,10 +39580,16 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22829#
 ...
 #
+22836#
+...
+#
 22837#
 ...
 #
 22838#
+...
+#
+22839#
 ...
 #
 22842#
@@ -35370,6 +39652,24 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22861#
 ...
 #
+22862#
+...
+#
+22863#
+...
+#
+22864#
+...
+#
+22865#
+...
+#
+22866#
+...
+#
+22867#
+...
+#
 22868#
 ...
 #
@@ -35377,6 +39677,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 22870#
+...
+#
+22871#
 ...
 #
 22873#
@@ -35389,6 +39692,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 22876#
+...
+#
+22877#
+...
+#
+22878#
+...
+#
+22879#
+...
+#
+22880#
 ...
 #
 22881#
@@ -35415,6 +39730,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22888#
 ...
 #
+22889#
+...
+#
+22890#
+...
+#
+22891#
+...
+#
+22892#
+...
+#
 22893#
 ...
 #
@@ -35427,13 +39754,28 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22896#
 ...
 #
+22897#
+...
+#
+22898#
+...
+#
 22899#
+...
+#
+22900#
 ...
 #
 22901#
 ...
 #
 22902#
+...
+#
+22903#
+...
+#
+22904#
 ...
 #
 22905#
@@ -35538,6 +39880,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22938#
 ...
 #
+22939#
+...
+#
+22940#
+...
+#
+22941#
+...
+#
+22942#
+...
+#
 22943#
 ...
 #
@@ -35569,6 +39923,57 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 22953#
+...
+#
+22954#
+...
+#
+22955#
+...
+#
+22956#
+...
+#
+22957#
+...
+#
+22958#
+...
+#
+22959#
+...
+#
+22960#
+...
+#
+22961#
+...
+#
+22962#
+...
+#
+22963#
+...
+#
+22964#
+...
+#
+22965#
+...
+#
+22966#
+...
+#
+22967#
+...
+#
+22968#
+...
+#
+22969#
+...
+#
+22970#
 ...
 #
 22971#
@@ -35616,10 +40021,31 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22985#
 ...
 #
+22986#
+...
+#
+22987#
+...
+#
 22988#
 ...
 #
 22989#
+...
+#
+22991#
+...
+#
+22992#
+...
+#
+22993#
+...
+#
+22994#
+...
+#
+22995#
 ...
 #
 22996#
@@ -35635,6 +40061,21 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 23001#
+...
+#
+23002#
+...
+#
+23003#
+...
+#
+23004#
+...
+#
+23005#
+...
+#
+23006#
 ...
 #
 23007#
@@ -35662,6 +40103,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 23016#
+...
+#
+23017#
+...
+#
+23018#
+...
+#
+23019#
+...
+#
+23020#
 ...
 #
 23021#
@@ -35706,6 +40159,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 23034#
 ...
 #
+23035#
+...
+#
 23036#
 ...
 #
@@ -35728,6 +40184,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 23043#
+...
+#
+23044#
 ...
 #
 23045#
@@ -35754,7 +40213,31 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 23052#
 ...
 #
+23053#
+...
+#
+23054#
+...
+#
+23055#
+...
+#
+23056#
+...
+#
+23057#
+...
+#
 23058#
+...
+#
+23059#
+...
+#
+23060#
+...
+#
+23061#
 ...
 #
 23062#
@@ -35763,10 +40246,28 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 23063#
 ...
 #
+23064#
+...
+#
+23065#
+...
+#
+23066#
+...
+#
+23067#
+...
+#
+23068#
+...
+#
 23069#
 ...
 #
 23070#
+...
+#
+23071#
 ...
 #
 23072#
@@ -35817,6 +40318,24 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 23087#
 ...
 #
+23088#
+...
+#
+23089#
+...
+#
+23090#
+...
+#
+23091#
+...
+#
+23092#
+...
+#
+23093#
+...
+#
 23094#
 ...
 #
@@ -35835,10 +40354,46 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 23100#
 ...
 #
+23101#
+...
+#
+23102#
+...
+#
+23103#
+...
+#
+23104#
+...
+#
+23105#
+...
+#
 23106#
 ...
 #
 23107#
+...
+#
+23108#
+...
+#
+23109#
+...
+#
+23110#
+...
+#
+23111#
+...
+#
+23112#
+...
+#
+23113#
+...
+#
+23114#
 ...
 #
 23115#
@@ -35851,6 +40406,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 23120#
+...
+#
+23121#
+...
+#
+23122#
 ...
 #
 23123#
@@ -35898,6 +40459,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 23137#
 ...
 #
+23138#
+...
+#
+23139#
+...
+#
+23140#
+...
+#
+23141#
+...
+#
 23142#
 ...
 #
@@ -35908,6 +40481,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 23145#
+...
+#
+23146#
+...
+#
+23147#
 ...
 #
 23148#
@@ -35946,7 +40525,13 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 23163#
 ...
 #
+23164#
+...
+#
 23165#
+...
+#
+23166#
 ...
 #
 23167#
@@ -35985,6 +40570,24 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 23178#
 ...
 #
+23179#
+...
+#
+23180#
+...
+#
+23181#
+...
+#
+23182#
+...
+#
+23183#
+...
+#
+23184#
+...
+#
 23187#
 ...
 #
@@ -35992,6 +40595,24 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 23189#
+...
+#
+23190#
+...
+#
+23191#
+...
+#
+23192#
+...
+#
+23193#
+...
+#
+23194#
+...
+#
+23195#
 ...
 #
 23198#
@@ -36004,6 +40625,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 23201#
+...
+#
+23202#
 ...
 #
 23203#
@@ -36051,6 +40675,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 23218#
 ...
 #
+23219#
+...
+#
+23220#
+...
+#
 23221#
 ...
 #
@@ -36072,8 +40702,920 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 23227#
 ...
 #
+23228#
+...
+#
 23229#
 ...
+#
+23234#
+...
+#
+23235#
+...
+#
+23236#
+...
+#
+23237#
+...
+#
+23238#
+...
+#
+23239#
+...
+#
+23240#
+...
+#
+23241#
+...
+#
+23242#
+...
+#
+23243#
+...
+#
+23245#
+...
+#
+23246#
+...
+#
+23247#
+...
+#
+23248#
+...
+#
+23249#
+...
+#
+23250#
+...
+#
+23251#
+...
+#
+23252#
+...
+#
+23253#
+...
+#
+23254#
+...
+#
+23255#
+...
+#
+23256#
+...
+#
+23257#
+...
+#
+23258#
+...
+#
+23259#
+...
+#
+23260#
+...
+#
+23261#
+...
+#
+23262#
+...
+#
+23263#
+...
+#
+23264#
+...
+#
+23267#
+...
+#
+23268#
+...
+#
+23269#
+...
+#
+23270#
+...
+#
+23271#
+...
+#
+23272#
+...
+#
+23273#
+...
+#
+23274#
+...
+#
+23275#
+...
+#
+23276#
+...
+#
+23277#
+...
+#
+23278#
+...
+#
+23280#
+...
+#
+23281#
+...
+#
+23282#
+...
+#
+23283#
+...
+#
+23284#
+...
+#
+23285#
+...
+#
+23286#
+...
+#
+23287#
+...
+#
+23288#
+...
+#
+23289#
+...
+#
+23290#
+...
+#
+23291#
+...
+#
+23296#
+...
+#
+23297#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+23298#
+...
+#
+23299#
+...
+#
+23300#
+...
+#
+23301#
+...
+#
+23302#
+...
+#
+23303#
+...
+#
+23304#
+...
+#
+23305#
+...
+#
+23307#
+...
+#
+23308#
+...
+#
+23309#
+...
+#
+23310#
+...
+#
+23311#
+...
+#
+23312#
+...
+#
+23317#
+...
+#
+23318#
+...
+#
+23320#
+...
+#
+23321#
+...
+#
+23322#
+...
+#
+23323#
+...
+#
+23324#
+...
+#
+23325#
+...
+#
+23328#
+...
+#
+23329#
+...
+#
+23330#
+...
+#
+23331#
+...
+#
+23332#
+...
+#
+23333#
+...
+#
+23334#
+...
+#
+23335#
+...
+#
+23336#
+...
+#
+23338#
+날짐승들의 날개를 잘라 주술을 걸어놓은것. ^000088맵상의 임의의 곳으로 워프할 수 있다.^000000
+Weight:^006600 5^000000
+#
+23342#
+...
+#
+23343#
+...
+#
+23344#
+...
+#
+23345#
+...
+#
+23346#
+...
+#
+23347#
+...
+#
+23348#
+...
+#
+23349#
+...
+#
+23350#
+...
+#
+23351#
+...
+#
+23352#
+...
+#
+23353#
+...
+#
+23354#
+...
+#
+23355#
+...
+#
+23356#
+...
+#
+23357#
+...
+#
+23358#
+...
+#
+23359#
+...
+#
+23360#
+...
+#
+23361#
+...
+#
+23362#
+...
+#
+23363#
+...
+#
+23364#
+...
+#
+23365#
+...
+#
+23367#
+...
+#
+23368#
+...
+#
+23372#
+...
+#
+23374#
+...
+#
+23375#
+...
+#
+23376#
+...
+#
+23377#
+...
+#
+23383#
+...
+#
+23405#
+...
+#
+23436#
+...
+#
+23438#
+...
+#
+23440#
+...
+#
+23444#
+...
+#
+23445#
+...
+#
+23446#
+...
+#
+23473#
+...
+#
+23474#
+...
+#
+23475#
+...
+#
+23484#
+간단한 약품들이 들어있는 구급상자.
+아래와 같은 아이템들이 들어있다.
+――――――――――――― 
+갓 짜낸 우유 20개
+초보자용 파란포션 10개
+초보자용 돋보기 15개
+[비매품] 집중의 포션 1개
+구급 상자(10) 1개
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
+^ffffff_^000000 
+Level Requirement:^006600 5^000000 
+Weight:^006600 0^000000
+#
+23485#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+갓 짜낸 우유 40개 
+초보자용 파란포션 15개 
+초보자용 돋보기 15개
+[비매품] 집중의 포션 1개
+구급 상자(15) 1개
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
+^ffffff_^000000 
+Level Requirement:^006600 10^000000 
+Weight:^006600 0^000000
+#
+23486#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+갓 짜낸 우유 60개 
+초보자용 파란포션 20개 
+초보자용 돋보기 10개
+[비매품] 집중의 포션 2개
+구급 상자(20) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
+^ffffff_^000000 
+Level Requirement:^006600 15^000000 
+Weight:^006600 0^000000
+#
+23487#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+―――――――――――――
+생고구마 80개 
+초보자용 파란포션 15개
+초보자용 돋보기 10개
+[비매품] 집중의 포션 2개
+구급 상자(25) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000 
+Level Requirement:^006600 20^000000 
+Weight:^006600 0^000000
+#
+23488#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+생고구마 100개 
+초보자용 파란포션 20개 
+초보자용 돋보기 5개
+[비매품] 집중의 포션 3개
+구급 상자(30) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000 
+Level Requirement:^006600 25^000000 
+Weight:^006600 0^000000
+#
+23489#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+생고구마 120개 
+초보자용 파란포션 25개 
+초보자용 돋보기 5개
+[비매품] 집중의 포션 3개
+구급 상자(35) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000 
+Level Requirement:^006600 30^000000 
+Weight:^006600 0^000000
+#
+23490#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+[비매품] 빨간포션 20개 상자 5개 
+[비매품] 파란포션 15개
+[비매품] 집중의 포션 3개 
+구급 상자(40) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 35^000000 
+Weight:^006600 0^000000
+#
+23491#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+[비매품] 빨간포션 20개 상자 6개 
+[비매품] 파란포션 15개 
+[비매품] 각성의 포션 2개
+구급 상자(45) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000 
+Level Requirement:^006600 40^000000 
+Weight:^006600 0^000000
+#
+23492#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+[비매품] 빨간포션 20개 상자 7개 
+[비매품] 파란포션 20개 
+[비매품] 각성의 포션 2개
+구급 상자(50) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 45^000000 
+Weight:^006600 0^000000
+#
+23493#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+[비매품] 주홍포션 20개 상자 7개 
+[비매품] 파란포션 20개 
+[비매품] 각성의 포션 2개
+구급 상자(55) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 50^000000 
+Weight:^006600 0^000000
+#
+23494#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+[비매품] 주홍포션 20개 상자 8개 
+[비매품] 파란포션 25개 
+[비매품] 각성의 포션 2개
+구급 상자(60) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 55^000000 
+Weight:^006600 0^000000
+#
+23495#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+[비매품] 주홍포션 20개 상자 9개 
+[비매품] 파란포션 25개 
+구급 상자(65) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 60^000000 
+Weight:^006600 0^000000
+#
+23496#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+[비매품] 노란포션 20개 상자 5개 
+[비매품] 파란포션 30개 
+구급 상자(70) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 65^000000 
+Weight:^006600 0^000000
+#
+23497#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+[비매품] 노란포션 20개 상자 6개 
+[비매품] 파란포션 30개 
+구급 상자(75) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 70^000000 
+Weight:^006600 0^000000
+#
+23498#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+[비매품] 노란포션 20개 상자 7개 
+[비매품] 파란포션 35개 
+구급 상자(80) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 75^000000 
+Weight:^006600 0^000000
+#
+23499#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+[비매품] 노란포션 20개 상자 8개 
+[비매품] 파란포션 35개 
+구급 상자(85) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 80^000000 
+Weight:^006600 0^000000
+#
+23500#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+[비매품] 하얀포션 20개 상자 7개 
+[비매품] 파란포션 40개 
+[비매품] 버서크 포션 2개 
+구급 상자(90) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 85^000000 
+Weight:^006600 0^000000
+#
+23501#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+[비매품] 하얀포션 20개 상자 8개 
+[비매품] 파란포션 40개 
+[비매품] 버서크 포션 2개 
+구급 상자(95) 1개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 90^000000 
+Weight:^006600 0^000000
+#
+23502#
+간단한 약품들이 들어있는 구급 상자. 
+아래와 같은 아이템들이 들어있다. 
+――――――――――――― 
+[비매품] 하얀포션 20개 상자 8개 
+[비매품] 파란포션 45개 
+[비매품] 버서크 포션 2개 
+――――――――――――― 
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 95^000000 
+Weight:^006600 0^000000 
+#
+23503#
+[비매품] 빨간포션 20개를 담아놓은 상자.
+필요할 때마다 꺼내쓰기에 딱이다.
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
+Weight:^006600 0^000000
+#
+23504#
+[비매품] 주홍포션 20개를 담아놓은 상자. 
+필요할 때마다 꺼내쓰기에 알맞다.
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
+Weight:^006600 0^000000
+#
+23505#
+[비매품] 노란포션 20개를 담아놓은 상자. 
+필요할 때마다 꺼내쓰기에 바람직하다.
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
+Weight:^006600 0^000000
+#
+23506#
+[비매품] 하얀포션 20개를 담아놓은 상자. 
+필요할 때마다 꺼내쓰기에 안성맞춤.
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
+Weight:^006600 0^000000
+#
+23524#
+...
+#
+23533#
+사냥대회 임무를 완수하면 받을 수 있는 장미.
+^ffffff<NAVI>^4D4DFF[사냥대회 본영]^000000<INFO>prt_fild01,101,155,0,100,0,0</INFO></NAVI>^000000에서 왕실 인기투표나 상거래에 사용할 수 있다.
+^ff0000사용하면 사냥대회 본영으로 이동할 수 있으니, 함부로 사용하지 않도록 주의하자.^000000
+(해당 아이템은 2017년 12월 첫번째 정기점검시 삭제됩니다.) 
+^ffffff_^000000
+Weight:^006600 0^000000
+#
+23537#
+...
+#
+23538#
+...
+#
+23545#
+...
+#
+23546#
+...
+#
+23547#
+...
+#
+23556#
+왕실 사냥 대회 버프 아이템.
+고구마, 고기 회복량 2000% 증가.
+지속시간 : 6시간
+#
+23575#
+모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
+아래와 같은 아이템이 들어 있다.
+^ffffff_^000000 
+보물상자 1개
+의문의 알 1개
+[비매품] 전투교범&풍선껌 5개
+[비매품] 생명보험 증서 5개
+[비매품] 초보자용 포션 100개
+[비매품] 파리의 날개 50개
+모험가 지원 상자(15) 1개
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Weight:^006600 0^000000
+#
+23576#
+모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
+아래와 같은 아이템이 들어 있다.
+^ffffff_^000000 
+[비매품] 초보자용 포션 150개
+[비매품] 파리의 날개 50개
+모험가 지원 상자(30) 1개
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 15^000000 
+Weight:^006600 0^000000
+#
+23577#
+모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
+아래와 같은 아이템이 들어 있다.
+^ffffff_^000000 
+[비매품] 빨간 포션 20개 상자 20개
+[비매품] 파리의 날개 50개
+모험가 지원 상자(45) 1개
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 30^000000 
+Weight:^006600 0^000000
+#
+23578#
+모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
+아래와 같은 아이템이 들어 있다.
+^ffffff_^000000 
+[비매품] 빨간 포션 20개 상자 25개
+[비매품] 파리의 날개 50개
+모험가 지원 상자(60) 1개
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 45^000000 
+Weight:^006600 0^000000
+#
+23579#
+모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
+아래와 같은 아이템이 들어 있다.
+^ffffff_^000000 
+[비매품] 주홍포션 20개 상자 20개
+[비매품] 파리의 날개 50개
+모험가 지원 상자(75) 1개
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 60^000000 
+Weight:^006600 0^000000
+#
+23580#
+모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
+아래와 같은 아이템이 들어있다.
+^ffffff_^000000 
+[비매품] 주홍포션 20개 상자 25개
+[비매품] 파리의 날개 50개
+모험가 지원 상자(90) 1개
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 75^000000 
+Weight:^006600 0^000000
+#
+23581#
+모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
+아래와 같은 아이템이 들어 있다.
+^ffffff_^000000 
+[비매품] 노란 포션 20개 상자 20개
+[비매품] 파리의 날개 50개
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 90^000000 
+Weight:^006600 0^000000
+#
+23582#
+3일간 사용 가능한 무한 파리의 날개가 1개 들어있는 상자. 
+^ffffff_^000000 
+^000088임대 아이템^000000 
+날짐승들의 날개를 잘라 주술을 걸어놓은것. ^000088맵상의 임의의 곳으로 워프할 수 있다.^000000 
+Weight:^006600 0^000000 
+^ffffff_^000000 
+Weight:^006600 0^000000
+#
+23583#
+또 다른 모험이 시작되는 초심자 모험가들을 위해 룬 미드가츠 왕국에서 지원하는 방어구 상자.
+아래 아이템이 모두 들어있다.
+^ffffff_^000000 
+초심자의 캡 1개
+초심자의 슈츠 1개
+초심자의 망토 1개
+초심자의 부츠 1개
+초심자의 반지 1개
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 100^000000 
+Weight:^006600 0^000000
+#
+23584#
+또 다른 모험이 시작되는 초심자 모험가들을 위해 룬 미드가츠 왕국에서 지원하는 상자.
+아래 아이템이 모두 들어있다.
+^ffffff_^000000 
+초심자의 아머 쉐도우 1개
+초심자의 쉴드 쉐도우 1개
+초심자의 웨폰 쉐도우 1개
+초심자의 슈즈 쉐도우 1개
+초심자의 이어링 쉐도우 1개
+초심자의 펜던트 쉐도우 1개
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 120^000000 
+Weight:^006600 0^000000
+#
+23585#
+또 다른 모험이 시작되는 초심자 모험가들을 위해 룬 미드가츠 왕국에서 지원하는 상자.
+아래와 같은 아이템이 들어 있으며,
+초심자 방어구가 들어 있는 상자 및 초심자 무기를 교환받을 수 있는 교환권이 포함되어 있다.
+^ffffff_^000000 
+[비매품] 노란포션 20개 상자 25개
+[비매품] 무한 파리의 날개 3일 상자 1개
+초심자 방어구 상자 1개
+초심자 장비 교환권 1개
+초심자 지원 상자(110) 1개
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 100^000000 
+Weight:^006600 0^000000
+#
+23586#
+또 다른 모험이 시작되는 초심자 모험가들을 위해 룬 미드가츠 왕국에서 지원하는 상자.
+아래와 같은 아이템이 들어있으며,
+초심자 무기를 7제련할 수 있는 이용권까지 포함되어 있다.
+^ffffff_^000000 
+[비매품] 하얀포션 20개 상자 20개
+[비매품] 무한 파리의 날개 3일 상자 2개
+초심자 무기 7제련 이용권 1개
+초심자 지원 상자(120) 1개
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 110^000000 
+Weight:^006600 0^000000
+#
+23587#
+또 다른 모험이 시작되는 초심자 모험가들을 위해 룬 미드가츠 왕국에서 지원하는 상자.
+아래와 같은 아이템이 들어 있으며,
+초심자 전용 쉐도우 6종이 모두 들어있는 상자가 추가적으로 포함되어있다.
+^ffffff_^000000 
+[비매품] 하얀포션 20개 상자 25개
+[비매품] 무한 파리의 날개 3일 상자 3개
+초심자 전용 쉐도우 박스 1개
+"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
+^ffffff_^000000
+Level Requirement:^006600 120^000000 
+Weight:^006600 0^000000
+#
+23618#
+기간 한정 2017 스페셜 스크롤. 
+무기 11제련 상품권, 방어구 11제련 상품권, 2017 스페셜 상자, 뉴 쉐도우 큐브, 고급 테이밍 세트등등 여러가지 희귀한 아이템 중 하나를 얻을 수 있다. 
+Weight:^006600 1^000000
+#
+23619#
+2017년에 행운의 알에서 나온 인기 있는 아이템을 모아둔 상자.
+총 19종의 다양한 아이템중 1개의 아이템을 얻을 수 있습니다.
+――――――――――――― 
+저주받은 기사의 방패 상자
+고대 영웅의 부츠
+왕가의 활
+쉐도우 스태프
+아이언 네일
+아미스트르 베레모
+멍멍장교
+멋진 페더 햇
+장군의 투구
+신상 모자 상자 III
+스펠 서킷
+장난감 주사기
+매지컬 부스터 상자
+고양이 헤드드레스 포장 바구니
+쪽빛 리어 리본
+로자리오의 목걸이
+사탕 주머니 상자(물리)
+사탕 주머니 상자(원거리)
+사탕 주머니 상자(마법)
+――――――――――――― 
+Weight:^006600 20^000000
 #
 24000#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -37053,6 +42595,207 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 24325#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+24326#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24327#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24328#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24329#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24330#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24331#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24332#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24333#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24334#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24335#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24336#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24337#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24338#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24339#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24340#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24341#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24342#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24343#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24344#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24345#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24346#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24347#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24348#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24349#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24350#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24351#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24352#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24353#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24354#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24355#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24356#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24357#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24358#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24359#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24360#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24361#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24362#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24363#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24364#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24365#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24366#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24367#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24368#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24369#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24370#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24371#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24372#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24373#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24374#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24375#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24376#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24377#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24378#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24379#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24380#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24381#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24382#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24383#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24384#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24385#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24386#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24387#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24388#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24389#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24390#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24391#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24392#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 25000#
 ...
 #
@@ -37107,10 +42850,34 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 25017#
 ...
 #
+25018#
+...
+#
+25019#
+...
+#
+25020#
+...
+#
+25022#
+...
+#
+25023#
+...
+#
+25024#
+...
+#
+25025#
+...
+#
 25038#
 ...
 #
 25039#
+...
+#
+25040#
 ...
 #
 25041#
@@ -37140,7 +42907,28 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 25049#
 ...
 #
+25050#
+...
+#
 25051#
+...
+#
+25052#
+...
+#
+25053#
+...
+#
+25054#
+...
+#
+25055#
+...
+#
+25056#
+...
+#
+25057#
 ...
 #
 25058#
@@ -37212,6 +43000,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 25080#
 ...
 #
+25081#
+...
+#
+25082#
+...
+#
 25083#
 ...
 #
@@ -37231,6 +43025,30 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 25089#
+...
+#
+25090#
+...
+#
+25091#
+...
+#
+25092#
+...
+#
+25093#
+...
+#
+25094#
+...
+#
+25095#
+...
+#
+25096#
+...
+#
+25097#
 ...
 #
 25098#
@@ -37311,6 +43129,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 25123#
 ...
 #
+25124#
+...
+#
+25125#
+...
+#
+25126#
+...
+#
 25127#
 ...
 #
@@ -37330,6 +43157,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 25133#
+...
+#
+25134#
 ...
 #
 25135#
@@ -37431,6 +43261,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 25167#
 ...
 #
+25168#
+...
+#
 25169#
 ...
 #
@@ -37482,16 +43315,58 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 25185#
 ...
 #
+25186#
+...
+#
 25187#
 ...
 #
 25188#
 ...
 #
+25189#
+...
+#
+25190#
+...
+#
+25191#
+...
+#
+25192#
+...
+#
+25193#
+...
+#
+25194#
+...
+#
+25195#
+...
+#
+25196#
+...
+#
+25197#
+...
+#
+25198#
+...
+#
 25200#
 ...
 #
 25201#
+...
+#
+25202#
+...
+#
+25203#
+...
+#
+25204#
 ...
 #
 25205#
@@ -37510,6 +43385,42 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 25210#
+...
+#
+25211#
+...
+#
+25212#
+...
+#
+25213#
+...
+#
+25214#
+...
+#
+25215#
+...
+#
+25216#
+...
+#
+25217#
+...
+#
+25218#
+...
+#
+25219#
+...
+#
+25220#
+...
+#
+25221#
+...
+#
+25222#
 ...
 #
 25223#
@@ -37542,6 +43453,39 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 25233#
 ...
 #
+25234#
+...
+#
+25235#
+...
+#
+25236#
+...
+#
+25237#
+...
+#
+25238#
+...
+#
+25239#
+...
+#
+25240#
+...
+#
+25241#
+...
+#
+25242#
+...
+#
+25243#
+...
+#
+25244#
+...
+#
 25245#
 ...
 #
@@ -37560,13 +43504,415 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 25250#
 ...
 #
+25251#
+...
+#
+25252#
+...
+#
+25253#
+...
+#
+25254#
+...
+#
+25256#
+...
+#
+25257#
+...
+#
+25258#
+...
+#
+25259#
+...
+#
 25260#
+...
+#
+25261#
+...
+#
+25262#
+...
+#
+25263#
+...
+#
+25264#
+...
+#
+25265#
+...
+#
+25266#
+...
+#
+25267#
+...
+#
+25268#
+...
+#
+25269#
+...
+#
+25270#
+...
+#
+25271#
+...
+#
+25272#
+...
+#
+25273#
+...
+#
+25274#
+...
+#
+25276#
+...
+#
+25277#
+...
+#
+25278#
+...
+#
+25279#
+...
+#
+25280#
+...
+#
+25281#
+...
+#
+25282#
+...
+#
+25283#
+...
+#
+25284#
+...
+#
+25285#
+...
+#
+25286#
+...
+#
+25287#
+...
+#
+25290#
+...
+#
+25291#
+...
+#
+25292#
+...
+#
+25293#
+...
+#
+25294#
+...
+#
+25295#
+...
+#
+25296#
+...
+#
+25297#
+...
+#
+25298#
+...
+#
+25299#
+...
+#
+25300#
+...
+#
+25302#
+...
+#
+25303#
+...
+#
+25304#
+...
+#
+25305#
+...
+#
+25306#
+...
+#
+25307#
+...
+#
+25308#
+...
+#
+25309#
+...
+#
+25311#
+...
+#
+25312#
+...
+#
+25313#
+...
+#
+25314#
+...
+#
+25315#
+...
+#
+25316#
+...
+#
+25318#
+...
+#
+25319#
+...
+#
+25320#
+...
+#
+25340#
+...
+#
+25341#
+...
+#
+25342#
+...
+#
+25344#
+...
+#
+25345#
+...
+#
+25346#
+...
+#
+25347#
+...
+#
+25348#
+...
+#
+25349#
+...
+#
+25350#
+...
+#
+25351#
+...
+#
+25352#
+...
+#
+25353#
+...
+#
+25354#
+...
+#
+25355#
+...
+#
+25356#
+...
+#
+25357#
+...
+#
+25358#
+...
+#
+25359#
+...
+#
+25360#
+...
+#
+25361#
+...
+#
+25362#
+...
+#
+25363#
+...
+#
+25364#
+...
+#
+25365#
+...
+#
+25366#
+...
+#
+25367#
+...
+#
+25374#
+...
+#
+25375#
+...
+#
+25376#
+...
+#
+25377#
+...
+#
+25389#
+...
+#
+25390#
+...
+#
+25391#
+...
+#
+25392#
+...
+#
+25393#
+...
+#
+25394#
+...
+#
+25395#
+...
+#
+25396#
+...
+#
+25397#
+...
+#
+25401#
+...
+#
+25404#
+...
+#
+25408#
+...
+#
+25409#
+...
+#
+25410#
+...
+#
+25411#
+...
+#
+25412#
+...
+#
+25413#
+...
+#
+25414#
+...
+#
+25415#
+...
+#
+25416#
+...
+#
+25417#
+...
+#
+25418#
+...
+#
+25419#
+...
+#
+25420#
+...
+#
+25421#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+25422#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+25427#
+또 다른 모험이 시작되는 초심자 모험가들을 위해 룬 미드가츠 왕국에서 지원하는 무기를 교환받을 수 있는 교환권.
+^ffffff<NAVI>^4D4DFF[초심자 무기 담당자]^000000<INFO>prontera,157,191,0,100,0,0</INFO></NAVI>^000000에게 가져다주면 직업에 맞는 장비를 지급받을 수 있다.
+^ffffff_^000000 
+Weight:^006600 0^000000
+#
+25428#
+초심자 전용 무기 7제련 서비스를 이용할 수 있는 이용권.
+^ffffff<NAVI>^4D4DFF[초심자 무기 담당자]^000000<INFO>prontera,157,191,0,100,0,0</INFO></NAVI>^000000에게 건네주면 장착한 초심자 전용 무기를 7제련해준다.
+^ffffff_^000000 
+Weight:^006600 0^000000
+#
+25442#
+...
+#
+25443#
+...
+#
+25444#
 ...
 #
 26000#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 26001#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26002#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26003#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26004#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26005#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26006#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26007#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26008#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26015#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 26100#
@@ -37578,11 +43924,98 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 26102#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+26103#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26104#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26105#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26106#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 26107#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26108#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26109#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26110#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26111#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26112#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26113#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26118#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26119#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26120#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 26200#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26201#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26202#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26203#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+26204#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+27000#
+...
+#
+27001#
+...
+#
+27002#
+...
+#
+27003#
+...
+#
+27004#
+...
+#
+27005#
+...
+#
+27006#
+...
+#
+27007#
+...
+#
+27008#
+...
+#
+27009#
+...
+#
+27010#
+...
+#
+27011#
+...
 #
 27012#
 ...
@@ -37641,6 +44074,477 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 27030#
 ...
 #
+27031#
+...
+#
+27032#
+...
+#
+27033#
+...
+#
+27034#
+...
+#
+27035#
+...
+#
+27036#
+...
+#
+27037#
+...
+#
+27038#
+...
+#
+27039#
+...
+#
+27040#
+...
+#
+27041#
+...
+#
+27042#
+...
+#
+27043#
+...
+#
+27044#
+...
+#
+27045#
+...
+#
+27046#
+...
+#
+27047#
+...
+#
+27048#
+...
+#
+27049#
+...
+#
+27050#
+...
+#
+27051#
+...
+#
+27052#
+...
+#
+27053#
+...
+#
+27054#
+...
+#
+27055#
+...
+#
+27056#
+...
+#
+27057#
+...
+#
+27058#
+...
+#
+27059#
+...
+#
+27060#
+...
+#
+27061#
+...
+#
+27062#
+...
+#
+27063#
+...
+#
+27064#
+...
+#
+27065#
+...
+#
+27066#
+...
+#
+27067#
+...
+#
+27068#
+...
+#
+27069#
+...
+#
+27070#
+...
+#
+27071#
+...
+#
+27072#
+...
+#
+27073#
+...
+#
+27074#
+...
+#
+27075#
+...
+#
+27076#
+...
+#
+27077#
+...
+#
+27078#
+...
+#
+27079#
+...
+#
+27080#
+...
+#
+27081#
+...
+#
+27082#
+...
+#
+27083#
+...
+#
+27084#
+...
+#
+27085#
+...
+#
+27086#
+...
+#
+27087#
+...
+#
+27088#
+...
+#
+27089#
+...
+#
+27090#
+...
+#
+27091#
+...
+#
+27092#
+...
+#
+27093#
+...
+#
+27094#
+...
+#
+27095#
+...
+#
+27096#
+...
+#
+27097#
+...
+#
+27098#
+...
+#
+27099#
+...
+#
+27100#
+...
+#
+27101#
+...
+#
+27102#
+...
+#
+27103#
+...
+#
+27104#
+...
+#
+27105#
+...
+#
+27106#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+27107#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+27108#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+27109#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+27110#
+...
+#
+27111#
+...
+#
+27112#
+...
+#
+27113#
+...
+#
+27114#
+...
+#
+27115#
+...
+#
+27116#
+...
+#
+27117#
+...
+#
+27118#
+...
+#
+27119#
+...
+#
+27120#
+...
+#
+27121#
+...
+#
+27122#
+...
+#
+27123#
+...
+#
+27124#
+...
+#
+27125#
+...
+#
+27126#
+...
+#
+27127#
+...
+#
+27128#
+...
+#
+27129#
+...
+#
+27130#
+...
+#
+27131#
+...
+#
+27132#
+...
+#
+27133#
+...
+#
+27134#
+...
+#
+27135#
+...
+#
+27136#
+...
+#
+27137#
+...
+#
+27138#
+...
+#
+27139#
+...
+#
+27140#
+...
+#
+27141#
+...
+#
+27142#
+...
+#
+27143#
+...
+#
+27144#
+...
+#
+27145#
+...
+#
+27146#
+...
+#
+27147#
+...
+#
+27148#
+...
+#
+27149#
+...
+#
+27150#
+...
+#
+27151#
+...
+#
+27152#
+...
+#
+27155#
+...
+#
+27156#
+...
+#
+27157#
+...
+#
+27158#
+...
+#
+27159#
+...
+#
+27160#
+...
+#
+27161#
+...
+#
+27162#
+...
+#
+27163#
+...
+#
+27164#
+...
+#
+27165#
+...
+#
+27166#
+...
+#
+27167#
+...
+#
+27168#
+...
+#
+27169#
+...
+#
+27185#
+...
+#
+27186#
+...
+#
+27187#
+...
+#
+27188#
+...
+#
+27189#
+...
+#
+27190#
+...
+#
+27191#
+...
+#
+27192#
+...
+#
+27194#
+...
+#
+27195#
+...
+#
+27196#
+...
+#
+27197#
+...
+#
+27198#
+...
+#
+27199#
+...
+#
+27200#
+...
+#
+27201#
+...
+#
+27202#
+...
+#
+27203#
+...
+#
+27204#
+...
+#
+27205#
+...
+#
 28000#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -37650,7 +44554,16 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28002#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28003#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28004#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28005#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28006#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28007#
@@ -37659,10 +44572,19 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28008#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28009#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28010#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28011#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28012#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28013#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28014#
@@ -37671,13 +44593,52 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28015#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28016#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28017#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28018#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28019#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28020#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28021#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28022#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28023#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28024#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28026#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28027#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28100#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28101#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28102#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28103#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28104#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28105#
@@ -37689,13 +44650,52 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28107#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28108#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28109#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28110#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28111#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28112#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28113#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28114#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28115#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28116#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28117#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28118#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28119#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28120#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28121#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28122#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28127#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28200#
@@ -37707,7 +44707,40 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28202#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28203#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28204#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28205#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28206#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28207#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28208#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28209#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28210#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28211#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28212#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28213#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28214#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28215#
@@ -37722,6 +44755,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28218#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28219#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28220#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28221#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28222#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28223#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -37734,13 +44779,76 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28226#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28227#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28228#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28229#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28230#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28231#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28232#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28233#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28234#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28235#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28300#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28301#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28302#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28303#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28304#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28305#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28306#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28307#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28308#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28309#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28310#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28311#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28312#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28313#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28314#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28319#
@@ -37755,7 +44863,13 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28322#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28323#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28324#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28325#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28326#
@@ -37764,10 +44878,61 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28327#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28328#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28329#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28332#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28333#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28334#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28335#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28336#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28337#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28338#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28339#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28340#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28341#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28342#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28346#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28347#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28348#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28349#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28350#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28351#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28352#
@@ -37794,6 +44959,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28359#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28360#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28361#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28362#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -37818,13 +44989,34 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28369#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28370#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28371#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28372#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28373#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28374#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28375#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28376#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28377#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28378#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28379#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28380#
@@ -37834,6 +45026,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28382#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28383#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28384#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28385#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28386#
@@ -37848,6 +45049,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28389#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28390#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28391#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -37855,6 +45059,54 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28393#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28394#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28395#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28396#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28397#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28398#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28399#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28400#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28401#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28402#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28403#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28404#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28405#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28406#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28407#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28410#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28411#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28412#
@@ -37900,6 +45152,42 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28426#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28427#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28428#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28429#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28430#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28431#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28432#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28433#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28434#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28435#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28436#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28437#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28438#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28439#
@@ -38043,10 +45331,28 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28485#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28486#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28487#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28488#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28489#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28490#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28491#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28492#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28494#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28495#
@@ -38055,7 +45361,163 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28496#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28497#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28498#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28499#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28500#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28501#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28502#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28503#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28504#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28505#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28506#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28507#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28508#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28509#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28510#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28511#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28513#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28514#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28517#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28518#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28519#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28520#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28521#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28522#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28523#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28524#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28525#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28526#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28527#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28528#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28529#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28530#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28531#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28533#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28534#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28535#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28550#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28551#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28552#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28554#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28555#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28556#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28557#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28560#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28561#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28562#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28563#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28564#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28565#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28566#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28600#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28601#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28602#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28603#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28604#
@@ -38073,6 +45535,39 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28608#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28609#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28610#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28611#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28612#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28613#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28614#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28615#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28616#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28700#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28701#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28702#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28703#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -38085,10 +45580,19 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28706#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28707#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28708#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28709#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28710#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28711#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28712#
@@ -38103,10 +45607,49 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28715#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28716#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28717#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28718#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28719#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28720#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28721#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28722#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28723#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28724#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28725#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28726#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28727#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28737#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28738#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28740#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28900#
@@ -38139,13 +45682,70 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28909#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28910#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28911#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28912#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28913#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28914#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28915#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28916#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28917#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28918#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28919#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28920#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28921#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28922#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28927#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28928#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28929#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28940#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28941#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28942#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28943#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28945#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28946#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 29000#
@@ -38182,6 +45782,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 29011#
+...
+#
+29012#
 ...
 #
 29013#
@@ -38247,10 +45850,37 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 29033#
 ...
 #
+29034#
+...
+#
+29035#
+...
+#
+29036#
+...
+#
+29037#
+...
+#
+29038#
+...
+#
 29040#
 ...
 #
 29041#
+...
+#
+29042#
+...
+#
+29043#
+...
+#
+29044#
+...
+#
+29045#
 ...
 #
 29046#
@@ -38496,6 +46126,30 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 29126#
 ...
 #
+29127#
+...
+#
+29128#
+...
+#
+29129#
+...
+#
+29130#
+...
+#
+29131#
+...
+#
+29132#
+...
+#
+29133#
+...
+#
+29134#
+...
+#
 29135#
 ...
 #
@@ -38503,6 +46157,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 29137#
+...
+#
+29138#
+...
+#
+29139#
+...
+#
+29140#
+...
+#
+29141#
 ...
 #
 29142#
@@ -38568,6 +46234,132 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 29162#
 ...
 #
+29166#
+...
+#
+29167#
+...
+#
+29168#
+...
+#
+29169#
+...
+#
+29170#
+...
+#
+29171#
+...
+#
+29172#
+...
+#
+29173#
+...
+#
+29174#
+...
+#
+29175#
+...
+#
+29176#
+...
+#
+29177#
+...
+#
+29178#
+...
+#
+29179#
+...
+#
+29180#
+...
+#
+29181#
+...
+#
+29182#
+...
+#
+29183#
+...
+#
+29184#
+...
+#
+29185#
+...
+#
+29186#
+...
+#
+29187#
+...
+#
+29188#
+...
+#
+29189#
+...
+#
+29190#
+...
+#
+29191#
+...
+#
+29192#
+...
+#
+29193#
+...
+#
+29194#
+...
+#
+29195#
+...
+#
+29196#
+...
+#
+29197#
+...
+#
+29198#
+...
+#
+29199#
+...
+#
+29200#
+...
+#
+29201#
+...
+#
+29202#
+...
+#
+29203#
+...
+#
+29204#
+...
+#
+29205#
+...
+#
+29206#
+...
+#
+29207#
+...
+#
 29208#
 ...
 #
@@ -38578,6 +46370,42 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 29211#
+...
+#
+29212#
+...
+#
+29213#
+...
+#
+29214#
+...
+#
+29215#
+...
+#
+29216#
+...
+#
+29217#
+...
+#
+29218#
+...
+#
+29219#
+...
+#
+29220#
+...
+#
+29221#
+...
+#
+29222#
+...
+#
+29223#
 ...
 #
 29224#
@@ -38599,6 +46427,528 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 29230#
+...
+#
+29231#
+...
+#
+29232#
+...
+#
+29233#
+...
+#
+29234#
+...
+#
+29235#
+...
+#
+29236#
+...
+#
+29237#
+...
+#
+29238#
+...
+#
+29239#
+...
+#
+29240#
+...
+#
+29241#
+...
+#
+29242#
+...
+#
+29243#
+...
+#
+29244#
+...
+#
+29245#
+...
+#
+29246#
+...
+#
+29247#
+...
+#
+29248#
+...
+#
+29249#
+...
+#
+29250#
+...
+#
+29251#
+...
+#
+29252#
+...
+#
+29253#
+...
+#
+29254#
+...
+#
+29255#
+...
+#
+29256#
+...
+#
+29257#
+...
+#
+29258#
+...
+#
+29259#
+...
+#
+29260#
+...
+#
+29261#
+...
+#
+29262#
+...
+#
+29263#
+...
+#
+29264#
+...
+#
+29265#
+...
+#
+29266#
+...
+#
+29267#
+...
+#
+29268#
+...
+#
+29269#
+...
+#
+29270#
+...
+#
+29271#
+...
+#
+29272#
+...
+#
+29273#
+...
+#
+29274#
+...
+#
+29275#
+...
+#
+29276#
+...
+#
+29277#
+...
+#
+29278#
+...
+#
+29279#
+...
+#
+29280#
+...
+#
+29281#
+...
+#
+29282#
+...
+#
+29300#
+...
+#
+29302#
+...
+#
+29303#
+...
+#
+29304#
+...
+#
+29305#
+...
+#
+29306#
+...
+#
+29307#
+...
+#
+29308#
+...
+#
+29309#
+...
+#
+29310#
+...
+#
+29311#
+...
+#
+29312#
+...
+#
+29313#
+...
+#
+29314#
+...
+#
+29315#
+...
+#
+29316#
+...
+#
+29317#
+...
+#
+29318#
+...
+#
+29319#
+...
+#
+29320#
+...
+#
+29321#
+...
+#
+29322#
+...
+#
+29323#
+...
+#
+29324#
+...
+#
+29325#
+...
+#
+29326#
+...
+#
+29327#
+...
+#
+29328#
+...
+#
+29329#
+...
+#
+29330#
+...
+#
+29331#
+...
+#
+29332#
+...
+#
+29333#
+...
+#
+29334#
+...
+#
+29335#
+...
+#
+29336#
+...
+#
+29337#
+...
+#
+29338#
+...
+#
+29339#
+...
+#
+29340#
+...
+#
+29341#
+...
+#
+29342#
+...
+#
+29343#
+...
+#
+29344#
+...
+#
+29345#
+...
+#
+29346#
+...
+#
+29347#
+...
+#
+29348#
+...
+#
+29349#
+...
+#
+29350#
+...
+#
+29351#
+...
+#
+29352#
+...
+#
+29353#
+...
+#
+29354#
+...
+#
+29355#
+...
+#
+29356#
+...
+#
+29357#
+...
+#
+29358#
+...
+#
+29359#
+...
+#
+29360#
+...
+#
+29361#
+...
+#
+29362#
+...
+#
+29363#
+...
+#
+29366#
+...
+#
+29367#
+...
+#
+29368#
+...
+#
+29371#
+...
+#
+29372#
+...
+#
+29373#
+...
+#
+29374#
+...
+#
+29375#
+...
+#
+29376#
+...
+#
+29377#
+...
+#
+29378#
+...
+#
+29379#
+...
+#
+29380#
+...
+#
+29381#
+...
+#
+29382#
+...
+#
+29383#
+...
+#
+29384#
+...
+#
+29385#
+...
+#
+29386#
+...
+#
+29423#
+...
+#
+29424#
+...
+#
+29425#
+...
+#
+29426#
+...
+#
+29428#
+...
+#
+29429#
+...
+#
+29430#
+...
+#
+29431#
+...
+#
+29432#
+...
+#
+29433#
+...
+#
+29434#
+...
+#
+29435#
+...
+#
+29436#
+...
+#
+29437#
+...
+#
+29450#
+...
+#
+29451#
+...
+#
+29452#
+...
+#
+29453#
+...
+#
+29454#
+...
+#
+29455#
+...
+#
+29456#
+...
+#
+29457#
+...
+#
+29458#
+...
+#
+29459#
+...
+#
+31000#
+...
+#
+31001#
+...
+#
+31002#
+...
+#
+31003#
+...
+#
+31004#
+...
+#
+31005#
+...
+#
+31006#
+...
+#
+31007#
+...
+#
+31008#
+...
+#
+31009#
+...
+#
+31010#
+...
+#
+31011#
+...
+#
+31012#
+...
+#
+31013#
+...
+#
+31014#
+...
+#
+31015#
 ...
 #
 31016#
@@ -38706,6 +47056,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 31050#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+31051#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 31052#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -38716,6 +47069,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 31055#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31056#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 31057#
@@ -38820,6 +47176,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 31090#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+31091#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31092#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 31093#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -38859,6 +47221,21 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 31105#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+31106#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31107#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31113#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31114#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31117#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 31118#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -38883,10 +47260,25 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 31125#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+31126#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31127#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 31128#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 31129#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31130#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31131#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31132#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 31133#
@@ -38916,9 +47308,669 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 31141#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+31142#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 31144#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+31145#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31146#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31147#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31148#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31149#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31150#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31151#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31152#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31153#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31158#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31160#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31161#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31162#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31163#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31164#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31165#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31166#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31167#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31168#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31169#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31170#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31171#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31172#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31173#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31174#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31175#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31176#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31177#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31178#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31179#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31180#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31181#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31182#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31183#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31184#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31185#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31186#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31187#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31188#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31189#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31190#
+...
+#
+31191#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31192#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31193#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31194#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31195#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31196#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31197#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31198#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31199#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31200#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31201#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31202#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31203#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31204#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31205#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31206#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31207#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31208#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31209#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31210#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31211#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31212#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31213#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31214#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31215#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31216#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31217#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31218#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31219#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31220#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31221#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31222#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31223#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31224#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31225#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31226#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31227#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31228#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31229#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31230#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31231#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31232#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31233#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31234#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31235#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31236#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31237#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31238#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31239#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31240#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31241#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31242#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31243#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31244#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31245#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31246#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31247#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31248#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31249#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31250#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31251#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31252#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31253#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31254#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31255#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31256#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31260#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31261#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31262#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31263#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31264#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31265#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31266#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31267#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31268#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31269#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31270#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31271#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31272#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31273#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31274#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31275#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31276#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31277#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31278#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31279#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31280#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31281#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31282#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31283#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31284#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31285#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31286#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31287#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31288#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31289#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31290#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31291#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31293#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31294#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31295#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31296#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31297#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31298#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31299#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31300#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31301#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31302#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31303#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31304#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31306#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31307#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31308#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31309#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31310#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31311#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31312#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31313#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31314#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31315#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31316#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31317#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31318#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31319#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31320#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31321#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31322#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31323#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31325#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31326#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31327#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31328#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31329#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31330#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31331#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31332#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31368#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31369#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31370#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31373#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31374#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31375#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31376#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31377#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31378#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31379#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31380#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31381#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31382#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31383#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31384#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31385#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31387#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31389#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31391#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31392#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31393#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31394#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31395#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31396#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31397#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31398#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31399#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31409#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31410#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31411#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31412#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31413#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31414#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31415#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 32000#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+32001#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+32002#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+32003#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+32004#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+32005#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+32006#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+32007#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+32008#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
