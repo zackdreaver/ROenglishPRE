@@ -14,11 +14,7 @@
 ...
 #
 506#
-A potion made from grinded Green Herbs.
-^FFFFFF_^000000
-Class:^0000FF Restorative item^000000
-Cure:^006600 Poison, Silence, Blind, Confuse, Illusion^000000
-Weight:^006600 7^000000
+...
 #
 507#
 ...
@@ -69,11 +65,7 @@ Weight:^006600 7^000000
 ...
 #
 523#
-Blessed water used in sacred ceremonies.
-^FFFFFF_^000000
-Class:^0000FF Restorative item^000000
-Cure:^006600 Curse^000000
-Weight:^006600 3^000000
+...
 #
 525#
 ...
@@ -346,11 +338,7 @@ Weight:^006600 3^000000
 ...
 #
 617#
-An old purple box holding contents that are a mystery until it is opened.
-^FFFFFF_^000000
-Class:^0000FF Item container^000000
-Effect:^006600 Gives random item^000000
-Weight:^006600 20^000000
+...
 #
 618#
 ...
@@ -620,10 +608,7 @@ Weight:^006600 20^000000
 ...
 #
 717#
-An enchanted crystal that is used in conjuction with certain magic spells. Once used, it is powerless and immediately destroyed.
-^FFFFFF_^000000
-Class:^0000FF Miscellaneous^000000
-Weight:^006600 3^000000
+...
 #
 718#
 ...
@@ -767,10 +752,7 @@ Weight:^006600 3^000000
 ...
 #
 909#
-A small crystallization created by some monsters.
-^FFFFFF_^000000
-Class:^0000FF Miscellaneous^000000
-Weight:^006600 1^000000
+...
 #
 910#
 ...
@@ -824,64 +806,34 @@ Weight:^006600 1^000000
 ...
 #
 928#
-Antennae that serve as sense organs for insects.
-^FFFFFF_^000000
-Class:^0000FF Miscellaneous^000000
-Weight:^006600 1^000000
+...
 #
 929#
-A heart which will never stop beating. It contains some sort of dreadful power.
-^FFFFFF_^000000
-Class:^0000FF Miscellaneous^000000
-Weight:^006600 1^000000
+...
 #
 930#
-Old, dirty bandage that's so soiled, it's almost worthless.
-^FFFFFF_^000000
-Class:^0000FF Miscellaneous^000000
-Weight:^006600 1^000000
+...
 #
 931#
-A small sculpture that serves as the token for every true Orc Warrior.
-^FFFFFF_^000000
-Class:^0000FF Miscellaneous^000000
-Weight:^006600 1^000000
+...
 #
 932#
-A bone taken from an Undead skeleton.
-^FFFFFF_^000000
-Class:^0000FF Miscellaneous^000000
-Weight:^006600 1^000000
+...
 #
 934#
-A box that is buried with the dead. It contains gems and someone's mementos...
-^FFFFFF_^000000
-Class:^0000FF Miscellaneous^000000
-Weight:^006600 1^000000
+...
 #
 935#
-A hard shell that used to protect a monster.
-^FFFFFF_^000000
-Class:^0000FF Miscellaneous^000000
-Weight:^006600 1^000000
+...
 #
 936#
-A shell-like piece of tough monster skin that is covered with hard scales.
-^FFFFFF_^000000
-Class:^0000FF Miscellaneous^000000
-Weight:^006600 1^000000
+...
 #
 937#
-A sharp, poisonous fang from a monster.
-^FFFFFF_^000000
-Class:^0000FF Miscellaneous^000000
-Weight:^006600 1^000000
+...
 #
 938#
-Mysteriously sticky liquid.
-^FFFFFF_^000000
-Class:^0000FF Miscellaneous^000000
-Weight:^006600 1^000000
+...
 #
 939#
 ...
@@ -1016,11 +968,7 @@ Weight:^006600 1^000000
 ...
 #
 984#
-Mysterious Metal known as the Metal of Gods. It is harder than anything and can cause great destruction when made into weapons.
-Used to strengthen ^000088Level 3 and 4 weapons^000000.
-^FFFFFF_^000000
-Class:^0000FF Crafting item^000000
-Weight:^006600 20^000000
+...
 #
 985#
 ...
@@ -1065,10 +1013,7 @@ Weight:^006600 20^000000
 ...
 #
 999#
-An iron and carbon alloy known for its structural durability and usually used in the crafting of high-quality arms.
-^FFFFFF_^000000
-Class:^0000FF Crafting item^000000
-Weight:^006600 10^000000
+...
 #
 1000#
 ...
@@ -1347,10 +1292,7 @@ Weight:^006600 10^000000
 ...
 #
 1092#
-An empty test tube that can be used to contain some kind of solution.
-^FFFFFF_^000000
-Class:^0000FF Miscellaneous^000000
-Weight:^006600 2^000000
+...
 #
 1093#
 ...
@@ -3885,6 +3827,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 2046#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+2048#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 2101#
@@ -6422,6 +6367,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 2960#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+2961#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 2962#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -6549,9 +6497,6 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 3737#
-...
-#
-3770#
 ...
 #
 4001#
@@ -12176,6 +12121,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 5934#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+5935#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 5936#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -12621,9 +12569,7 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 6090#
-Purified Bradium which is the Ore of another world. It looks like ice, but it's warm.
-^FFFFFF_^000000
-Weight:^006600 5^000000
+...
 #
 6091#
 ...
@@ -13262,9 +13208,7 @@ Weight:^006600 5^000000
 ...
 #
 6304#
-A certificate given by Sapha leaders for meritorious deeds.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6305#
 ...
@@ -13462,9 +13406,7 @@ Weight:^006600 0^000000
 ...
 #
 6380#
-A small coin with a polished surface. It is used for many purposes in the Village of Mora.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6381#
 ...
@@ -13473,54 +13415,34 @@ Weight:^006600 0^000000
 ...
 #
 6383#
-A piece of paper with a few words written on it. When you put all of them together, you may be able to find out Lope's whereabouts.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6384#
-A wedding ring, a symbol of Lope's love for Euridi.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6385#
-A bag that contains all the research tools used by researchers.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6386#
-A sample of bath water, taken to study the mysterious power of the bath water.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6387#
-A tooth sample thought to be from the unidentified creature in the mysterious bath in Mora Village.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6388#
-A scale sample thought to be from the unidentified creature in the mysterious bath in Mora Village.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6389#
-A sample of puddle water, taken to study the bath in Mora Village.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6390#
-A small pocket dropped by a Rapine. It contains something.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6391#
-A box containing all kinds of commodities and food. Feels quite heavy.
-^FFFFFF_^000000
-Weight:^006600 200^000000
+...
 #
 6392#
-A box full of Bradium mined in Manuk. It is made to look plain so that one can't tell what's inside by looking at it.
-^FFFFFF_^000000
-Weight:^006600 1^000000
+...
 #
 6393#
 ...
@@ -13547,29 +13469,19 @@ Weight:^006600 1^000000
 ...
 #
 6401#
-Vegetable oil from oil palm fruit. It's very heavy!!
-^FFFFFF_^000000
-Weight:^006600 50^000000
+...
 #
 6402#
-An oil palm fruit. It is used when vegetable oil is made.
-^FFFFFF_^000000
-Weight:^006600 5^000000
+...
 #
 6403#
-A leather of comodo. It is used when weapon or shield is made.
-^FFFFFF_^000000
-Weight:^006600 1^000000
+...
 #
 6404#
-It's a handle of weapon.
-^FFFFFF_^000000
-Weight:^006600 10^000000
+...
 #
 6405#
-It's a feather of bird called Cendrawasih. It's splendid and has a strong green color.
-^FFFFFF_^000000
-Weight:^006600 1^000000
+...
 #
 6406#
 ...
@@ -13715,6 +13627,9 @@ Weight:^006600 1^000000
 6454#
 ...
 #
+6455#
+...
+#
 6456#
 ...
 #
@@ -13830,78 +13745,49 @@ Weight:^006600 1^000000
 ...
 #
 6497#
-Paper that protects a player from harm's way or casts special abilities.
-A faint energy can be felt.
-^FFFFFF_^000000
-Weight:^006600 5^000000
+...
 #
 6498#
-Looks similar to a Large Jellopy but with a shinier crystal.
-^FFFFFF_^000000
-Weight:^006600 1^000000
+...
 #
 6499#
 ...
 #
 6500#
-Bamboo piece trimmed to be pointy. Looks like it was cut tilted from a thick bamboo.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6501#
-Bag used to contain sea salt manufactured from the seashore. Said to scare off bad spirits.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6502#
-Cross-shaped ornament made of silver. Used to scare off demons.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6503#
-Portable spiritual protection made with holy energy from silver and exorcising energy from salt. Used to prevent bad spirits from approaching.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6504#
-Large caldron made from hard iron. Lets off a rich and full clunk sound when hit. Used to stun Bakonawa by making loud noises from it instead of cooking with it.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6505#
-Wholly cleaned out bone was an Evil Spirit Bone purified by Mumbaki to get rid of all evilness. Guard dog Vantai especially likes it.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6506#
-Flower bouquet made to comfort wandering or victimized souls. Offer flowers with a true heart and the souls may actually rest.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6507#
-Animal bones with a hint of evil spirit. Won't be able to as dog treats at this state.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6508#
-Hellish silver bracelet. Looks more like a restraint.
-^FFFFFF_^000000
-Weight:^006600 1^000000
+...
 #
 6509#
-Mysteriously colorful flower. Looks like it was made from a rainbow.
-^FFFFFF_^000000
-Weight:^006600 1^000000
+...
 #
 6510#
-Soft and gentle looking elegant flower.
-^FFFFFF_^000000
-Weight:^006600 1^000000
+...
 #
 6511#
-Ordinary flower that can be found anywhere.
-^FFFFFF_^000000
-Weight:^006600 1^000000
+...
 #
 6512#
 ...
@@ -13928,9 +13814,7 @@ Weight:^006600 1^000000
 ...
 #
 6520#
-Belong to a missing Port Malaya villager.
-^FFFFFF_^000000
-Weight:^006600 0^000000
+...
 #
 6521#
 ...
@@ -14245,6 +14129,21 @@ Weight:^006600 0^000000
 ...
 #
 6625#
+...
+#
+6626#
+...
+#
+6627#
+...
+#
+6628#
+...
+#
+6629#
+...
+#
+6630#
 ...
 #
 6635#
@@ -17319,6 +17218,9 @@ Weight:^006600 0^000000
 7673#
 ...
 #
+7674#
+...
+#
 7677#
 ...
 #
@@ -18867,6 +18769,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 11527#
 ...
 #
+11528#
+...
+#
 11532#
 ...
 #
@@ -19117,6 +19022,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 11616#
+...
+#
+11617#
 ...
 #
 11701#
@@ -22440,6 +22348,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 13144#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+13146#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 13150#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -23161,6 +23072,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13483#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+13485#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 13500#
@@ -26580,6 +26494,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 14673#
 ...
 #
+14674#
+...
+#
 14675#
 ...
 #
@@ -26593,6 +26510,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 14679#
+...
+#
+14680#
 ...
 #
 14681#
@@ -26779,6 +26699,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 14745#
+...
+#
+14746#
+...
+#
+14747#
+...
+#
+14748#
 ...
 #
 14749#
@@ -27508,10 +27437,10 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 15165#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 15166#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 15167#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -27651,6 +27580,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 15250#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+15278#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15279#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+15280#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 16000#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -27772,22 +27710,22 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16042#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16043#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16044#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16045#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16046#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16047#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16048#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -27829,10 +27767,10 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16061#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16062#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 16063#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -28788,6 +28726,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 16415#
 ...
 #
+16416#
+...
+#
+16417#
+...
+#
 16418#
 ...
 #
@@ -29023,6 +28967,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 16561#
+...
+#
+16563#
 ...
 #
 16564#
@@ -31026,6 +30973,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17326#
 ...
 #
+17327#
+...
+#
+17328#
+...
+#
+17329#
+...
+#
+17330#
+...
+#
 17331#
 ...
 #
@@ -31036,6 +30995,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17334#
+...
+#
+17335#
 ...
 #
 17336#
@@ -31213,9 +31175,6 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17394#
-...
-#
-17395#
 ...
 #
 17396#
@@ -31812,10 +31771,16 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17626#
 ...
 #
+17627#
+...
+#
 17628#
 ...
 #
 17629#
+...
+#
+17630#
 ...
 #
 17631#
@@ -31921,6 +31886,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17681#
+...
+#
+17682#
 ...
 #
 17683#
@@ -32172,6 +32140,75 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 17808#
 ...
 #
+17809#
+...
+#
+17810#
+...
+#
+17811#
+...
+#
+17812#
+...
+#
+17813#
+...
+#
+17814#
+...
+#
+17815#
+...
+#
+17816#
+...
+#
+17817#
+...
+#
+17818#
+...
+#
+17819#
+...
+#
+17820#
+...
+#
+17821#
+...
+#
+17822#
+...
+#
+17823#
+...
+#
+17824#
+...
+#
+17825#
+...
+#
+17826#
+...
+#
+17827#
+...
+#
+17828#
+...
+#
+17829#
+...
+#
+17830#
+...
+#
+17831#
+...
+#
 17832#
 ...
 #
@@ -32221,32 +32258,34 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 17901#
-한정판 파워 부스터 100개와 2017 스페셜 스크롤이 11개 들어있는 상자.
-^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
-체내 에너지를 활성화하여, 파워를 대폭 향상시켜주는 부스터. 
-30분간 ATK, MATK + 30, ATK, MATK + 1%,
-HIT, FLEE + 30, ASPD + 1, SP 소모량 5% 감소,
-고정 캐스팅 30% 감소.
-(고정 캐스팅의 % 증감 효과는 가장 큰 효과만 적용됩니다.)
-^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
-^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000
+...
 #
 17902#
-한정판 파워 부스터 10개와 2017 스페셜 스크롤이 1개 들어있는 상자.
-^ff0000타 계정과 거래가 불가능한 아이템 입니다.^000000
-체내 에너지를 활성화하여, 파워를 대폭 향상시켜주는 부스터. 
-30분간 ATK, MATK + 30, ATK, MATK + 1%,
-HIT, FLEE + 30, ASPD + 1, SP 소모량 5% 감소,
-고정 캐스팅 30% 감소.
-(고정 캐스팅의 % 증감 효과는 가장 큰 효과만 적용됩니다.)
-^000088캐릭터가 전투불능상태가 되면 아이템 효과도 사라집니다.^000000
-^ff0000본 아이템을 개봉하시면 청약철회 대상에서 제외 됩니다.^000000
+...
 #
 17914#
-2017년 지스타 기념 상자.
-11월 냥다래 신규 의상 4종을 먼저 만나볼 수 있는 기회! 
-총 22종의 의상 중 1개를 랜덤으로 얻을 수 있다.
-Weight:^006600 1^000000
+...
+#
+17922#
+...
+#
+17923#
+...
+#
+17924#
+...
+#
+17925#
+...
+#
+17926#
+...
+#
+17935#
+...
+#
+17936#
+...
 #
 18000#
 ...
@@ -33572,7 +33611,7 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18884#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 18885#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -33926,13 +33965,13 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19009#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19010#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19011#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19012#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -34046,7 +34085,7 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19049#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19050#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -34124,7 +34163,7 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19100#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19101#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -34184,22 +34223,22 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19120#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19121#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19122#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19123#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19124#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19125#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19126#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -34241,7 +34280,7 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19139#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19140#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -34292,7 +34331,7 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19156#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19157#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -34334,7 +34373,7 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19170#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19171#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -34349,7 +34388,7 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19175#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19176#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -34370,13 +34409,13 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19184#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19185#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19186#
-...
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19187#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -34679,6 +34718,15 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19325#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19326#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19327#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19329#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19377#
@@ -35855,6 +35903,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19853#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+19854#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 19855#
@@ -37750,6 +37801,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 20491#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+20492#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 20493#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -38395,6 +38449,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 21037#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+21038#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 22000#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -38881,12 +38938,6 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22518#
 ...
 #
-22519#
-...
-#
-22520#
-...
-#
 22521#
 ...
 #
@@ -39040,9 +39091,6 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 22592#
 ...
 #
-22593#
-...
-#
 22594#
 ...
 #
@@ -39131,6 +39179,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 22623#
+...
+#
+22624#
+...
+#
+22625#
 ...
 #
 22626#
@@ -40970,8 +41024,10 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 23338#
-날짐승들의 날개를 잘라 주술을 걸어놓은것. ^000088맵상의 임의의 곳으로 워프할 수 있다.^000000
-Weight:^006600 5^000000
+...
+#
+23340#
+...
 #
 23342#
 ...
@@ -41100,305 +41156,79 @@ Weight:^006600 5^000000
 ...
 #
 23484#
-간단한 약품들이 들어있는 구급상자.
-아래와 같은 아이템들이 들어있다.
-――――――――――――― 
-갓 짜낸 우유 20개
-초보자용 파란포션 10개
-초보자용 돋보기 15개
-[비매품] 집중의 포션 1개
-구급 상자(10) 1개
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
-^ffffff_^000000 
-Level Requirement:^006600 5^000000 
-Weight:^006600 0^000000
+...
 #
 23485#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-갓 짜낸 우유 40개 
-초보자용 파란포션 15개 
-초보자용 돋보기 15개
-[비매품] 집중의 포션 1개
-구급 상자(15) 1개
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
-^ffffff_^000000 
-Level Requirement:^006600 10^000000 
-Weight:^006600 0^000000
+...
 #
 23486#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-갓 짜낸 우유 60개 
-초보자용 파란포션 20개 
-초보자용 돋보기 10개
-[비매품] 집중의 포션 2개
-구급 상자(20) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
-^ffffff_^000000 
-Level Requirement:^006600 15^000000 
-Weight:^006600 0^000000
+...
 #
 23487#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-―――――――――――――
-생고구마 80개 
-초보자용 파란포션 15개
-초보자용 돋보기 10개
-[비매품] 집중의 포션 2개
-구급 상자(25) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000 
-Level Requirement:^006600 20^000000 
-Weight:^006600 0^000000
+...
 #
 23488#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-생고구마 100개 
-초보자용 파란포션 20개 
-초보자용 돋보기 5개
-[비매품] 집중의 포션 3개
-구급 상자(30) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000 
-Level Requirement:^006600 25^000000 
-Weight:^006600 0^000000
+...
 #
 23489#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-생고구마 120개 
-초보자용 파란포션 25개 
-초보자용 돋보기 5개
-[비매품] 집중의 포션 3개
-구급 상자(35) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000 
-Level Requirement:^006600 30^000000 
-Weight:^006600 0^000000
+...
 #
 23490#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-[비매품] 빨간포션 20개 상자 5개 
-[비매품] 파란포션 15개
-[비매품] 집중의 포션 3개 
-구급 상자(40) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 35^000000 
-Weight:^006600 0^000000
+...
 #
 23491#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-[비매품] 빨간포션 20개 상자 6개 
-[비매품] 파란포션 15개 
-[비매품] 각성의 포션 2개
-구급 상자(45) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000 
-Level Requirement:^006600 40^000000 
-Weight:^006600 0^000000
+...
 #
 23492#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-[비매품] 빨간포션 20개 상자 7개 
-[비매품] 파란포션 20개 
-[비매품] 각성의 포션 2개
-구급 상자(50) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 45^000000 
-Weight:^006600 0^000000
+...
 #
 23493#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-[비매품] 주홍포션 20개 상자 7개 
-[비매품] 파란포션 20개 
-[비매품] 각성의 포션 2개
-구급 상자(55) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 50^000000 
-Weight:^006600 0^000000
+...
 #
 23494#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-[비매품] 주홍포션 20개 상자 8개 
-[비매품] 파란포션 25개 
-[비매품] 각성의 포션 2개
-구급 상자(60) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 55^000000 
-Weight:^006600 0^000000
+...
 #
 23495#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-[비매품] 주홍포션 20개 상자 9개 
-[비매품] 파란포션 25개 
-구급 상자(65) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 60^000000 
-Weight:^006600 0^000000
+...
 #
 23496#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-[비매품] 노란포션 20개 상자 5개 
-[비매품] 파란포션 30개 
-구급 상자(70) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 65^000000 
-Weight:^006600 0^000000
+...
 #
 23497#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-[비매품] 노란포션 20개 상자 6개 
-[비매품] 파란포션 30개 
-구급 상자(75) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 70^000000 
-Weight:^006600 0^000000
+...
 #
 23498#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-[비매품] 노란포션 20개 상자 7개 
-[비매품] 파란포션 35개 
-구급 상자(80) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 75^000000 
-Weight:^006600 0^000000
+...
 #
 23499#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-[비매품] 노란포션 20개 상자 8개 
-[비매품] 파란포션 35개 
-구급 상자(85) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 80^000000 
-Weight:^006600 0^000000
+...
 #
 23500#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-[비매품] 하얀포션 20개 상자 7개 
-[비매품] 파란포션 40개 
-[비매품] 버서크 포션 2개 
-구급 상자(90) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 85^000000 
-Weight:^006600 0^000000
+...
 #
 23501#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-[비매품] 하얀포션 20개 상자 8개 
-[비매품] 파란포션 40개 
-[비매품] 버서크 포션 2개 
-구급 상자(95) 1개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 90^000000 
-Weight:^006600 0^000000
+...
 #
 23502#
-간단한 약품들이 들어있는 구급 상자. 
-아래와 같은 아이템들이 들어있다. 
-――――――――――――― 
-[비매품] 하얀포션 20개 상자 8개 
-[비매품] 파란포션 45개 
-[비매품] 버서크 포션 2개 
-――――――――――――― 
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 95^000000 
-Weight:^006600 0^000000 
+...
 #
 23503#
-[비매품] 빨간포션 20개를 담아놓은 상자.
-필요할 때마다 꺼내쓰기에 딱이다.
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
-Weight:^006600 0^000000
+...
 #
 23504#
-[비매품] 주홍포션 20개를 담아놓은 상자. 
-필요할 때마다 꺼내쓰기에 알맞다.
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
-Weight:^006600 0^000000
+...
 #
 23505#
-[비매품] 노란포션 20개를 담아놓은 상자. 
-필요할 때마다 꺼내쓰기에 바람직하다.
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
-Weight:^006600 0^000000
+...
 #
 23506#
-[비매품] 하얀포션 20개를 담아놓은 상자. 
-필요할 때마다 꺼내쓰기에 안성맞춤.
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000"
-Weight:^006600 0^000000
+...
 #
 23524#
 ...
 #
 23533#
-사냥대회 임무를 완수하면 받을 수 있는 장미.
-^ffffff<NAVI>^4D4DFF[사냥대회 본영]^000000<INFO>prt_fild01,101,155,0,100,0,0</INFO></NAVI>^000000에서 왕실 인기투표나 상거래에 사용할 수 있다.
-^ff0000사용하면 사냥대회 본영으로 이동할 수 있으니, 함부로 사용하지 않도록 주의하자.^000000
-(해당 아이템은 2017년 12월 첫번째 정기점검시 삭제됩니다.) 
-^ffffff_^000000
-Weight:^006600 0^000000
+...
 #
 23537#
 ...
@@ -41415,207 +41245,128 @@ Weight:^006600 0^000000
 23547#
 ...
 #
+23548#
+...
+#
+23549#
+...
+#
+23550#
+...
+#
+23551#
+...
+#
+23552#
+...
+#
+23553#
+...
+#
+23554#
+...
+#
 23556#
-왕실 사냥 대회 버프 아이템.
-고구마, 고기 회복량 2000% 증가.
-지속시간 : 6시간
+...
 #
 23575#
-모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
-아래와 같은 아이템이 들어 있다.
-^ffffff_^000000 
-보물상자 1개
-의문의 알 1개
-[비매품] 전투교범&풍선껌 5개
-[비매품] 생명보험 증서 5개
-[비매품] 초보자용 포션 100개
-[비매품] 파리의 날개 50개
-모험가 지원 상자(15) 1개
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Weight:^006600 0^000000
+...
 #
 23576#
-모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
-아래와 같은 아이템이 들어 있다.
-^ffffff_^000000 
-[비매품] 초보자용 포션 150개
-[비매품] 파리의 날개 50개
-모험가 지원 상자(30) 1개
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 15^000000 
-Weight:^006600 0^000000
+...
 #
 23577#
-모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
-아래와 같은 아이템이 들어 있다.
-^ffffff_^000000 
-[비매품] 빨간 포션 20개 상자 20개
-[비매품] 파리의 날개 50개
-모험가 지원 상자(45) 1개
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 30^000000 
-Weight:^006600 0^000000
+...
 #
 23578#
-모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
-아래와 같은 아이템이 들어 있다.
-^ffffff_^000000 
-[비매품] 빨간 포션 20개 상자 25개
-[비매품] 파리의 날개 50개
-모험가 지원 상자(60) 1개
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 45^000000 
-Weight:^006600 0^000000
+...
 #
 23579#
-모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
-아래와 같은 아이템이 들어 있다.
-^ffffff_^000000 
-[비매품] 주홍포션 20개 상자 20개
-[비매품] 파리의 날개 50개
-모험가 지원 상자(75) 1개
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 60^000000 
-Weight:^006600 0^000000
+...
 #
 23580#
-모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
-아래와 같은 아이템이 들어있다.
-^ffffff_^000000 
-[비매품] 주홍포션 20개 상자 25개
-[비매품] 파리의 날개 50개
-모험가 지원 상자(90) 1개
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 75^000000 
-Weight:^006600 0^000000
+...
 #
 23581#
-모험가를 위해 룬 미드가츠 왕국에서 지원하는 상자.
-아래와 같은 아이템이 들어 있다.
-^ffffff_^000000 
-[비매품] 노란 포션 20개 상자 20개
-[비매품] 파리의 날개 50개
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 90^000000 
-Weight:^006600 0^000000
+...
 #
 23582#
-3일간 사용 가능한 무한 파리의 날개가 1개 들어있는 상자. 
-^ffffff_^000000 
-^000088임대 아이템^000000 
-날짐승들의 날개를 잘라 주술을 걸어놓은것. ^000088맵상의 임의의 곳으로 워프할 수 있다.^000000 
-Weight:^006600 0^000000 
-^ffffff_^000000 
-Weight:^006600 0^000000
+...
 #
 23583#
-또 다른 모험이 시작되는 초심자 모험가들을 위해 룬 미드가츠 왕국에서 지원하는 방어구 상자.
-아래 아이템이 모두 들어있다.
-^ffffff_^000000 
-초심자의 캡 1개
-초심자의 슈츠 1개
-초심자의 망토 1개
-초심자의 부츠 1개
-초심자의 반지 1개
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 100^000000 
-Weight:^006600 0^000000
+...
 #
 23584#
-또 다른 모험이 시작되는 초심자 모험가들을 위해 룬 미드가츠 왕국에서 지원하는 상자.
-아래 아이템이 모두 들어있다.
-^ffffff_^000000 
-초심자의 아머 쉐도우 1개
-초심자의 쉴드 쉐도우 1개
-초심자의 웨폰 쉐도우 1개
-초심자의 슈즈 쉐도우 1개
-초심자의 이어링 쉐도우 1개
-초심자의 펜던트 쉐도우 1개
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 120^000000 
-Weight:^006600 0^000000
+...
 #
 23585#
-또 다른 모험이 시작되는 초심자 모험가들을 위해 룬 미드가츠 왕국에서 지원하는 상자.
-아래와 같은 아이템이 들어 있으며,
-초심자 방어구가 들어 있는 상자 및 초심자 무기를 교환받을 수 있는 교환권이 포함되어 있다.
-^ffffff_^000000 
-[비매품] 노란포션 20개 상자 25개
-[비매품] 무한 파리의 날개 3일 상자 1개
-초심자 방어구 상자 1개
-초심자 장비 교환권 1개
-초심자 지원 상자(110) 1개
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 100^000000 
-Weight:^006600 0^000000
+...
 #
 23586#
-또 다른 모험이 시작되는 초심자 모험가들을 위해 룬 미드가츠 왕국에서 지원하는 상자.
-아래와 같은 아이템이 들어있으며,
-초심자 무기를 7제련할 수 있는 이용권까지 포함되어 있다.
-^ffffff_^000000 
-[비매품] 하얀포션 20개 상자 20개
-[비매품] 무한 파리의 날개 3일 상자 2개
-초심자 무기 7제련 이용권 1개
-초심자 지원 상자(120) 1개
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 110^000000 
-Weight:^006600 0^000000
+...
 #
 23587#
-또 다른 모험이 시작되는 초심자 모험가들을 위해 룬 미드가츠 왕국에서 지원하는 상자.
-아래와 같은 아이템이 들어 있으며,
-초심자 전용 쉐도우 6종이 모두 들어있는 상자가 추가적으로 포함되어있다.
-^ffffff_^000000 
-[비매품] 하얀포션 20개 상자 25개
-[비매품] 무한 파리의 날개 3일 상자 3개
-초심자 전용 쉐도우 박스 1개
-"^ff0000주의 - 상자를 개봉할 때 무게나 소지한계 수량을 초과한 상태인 경우, 아이템이 소실 될 수 있습니다!^000000" 
-^ffffff_^000000
-Level Requirement:^006600 120^000000 
-Weight:^006600 0^000000
+...
 #
 23618#
-기간 한정 2017 스페셜 스크롤. 
-무기 11제련 상품권, 방어구 11제련 상품권, 2017 스페셜 상자, 뉴 쉐도우 큐브, 고급 테이밍 세트등등 여러가지 희귀한 아이템 중 하나를 얻을 수 있다. 
-Weight:^006600 1^000000
+...
 #
 23619#
-2017년에 행운의 알에서 나온 인기 있는 아이템을 모아둔 상자.
-총 19종의 다양한 아이템중 1개의 아이템을 얻을 수 있습니다.
-――――――――――――― 
-저주받은 기사의 방패 상자
-고대 영웅의 부츠
-왕가의 활
-쉐도우 스태프
-아이언 네일
-아미스트르 베레모
-멍멍장교
-멋진 페더 햇
-장군의 투구
-신상 모자 상자 III
-스펠 서킷
-장난감 주사기
-매지컬 부스터 상자
-고양이 헤드드레스 포장 바구니
-쪽빛 리어 리본
-로자리오의 목걸이
-사탕 주머니 상자(물리)
-사탕 주머니 상자(원거리)
-사탕 주머니 상자(마법)
-――――――――――――― 
-Weight:^006600 20^000000
+...
+#
+23629#
+...
+#
+23650#
+...
+#
+23660#
+...
+#
+23661#
+...
+#
+23662#
+...
+#
+23663#
+...
+#
+23664#
+...
+#
+23665#
+...
+#
+23666#
+...
+#
+23667#
+...
+#
+23668#
+...
+#
+23669#
+...
+#
+23675#
+...
+#
+23676#
+...
+#
+23677#
+...
+#
+23678#
+...
+#
+23679#
+...
+#
+23682#
+...
 #
 24000#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -42796,6 +42547,33 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 24392#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+24393#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24394#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24395#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24396#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24397#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24398#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24399#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24400#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+24401#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 25000#
 ...
 #
@@ -43496,7 +43274,7 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 25248#
-Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+...
 #
 25249#
 ...
@@ -43859,22 +43637,25 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 25421#
-Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+...
 #
 25422#
-Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+...
+#
+25425#
+...
+#
+25426#
+...
 #
 25427#
-또 다른 모험이 시작되는 초심자 모험가들을 위해 룬 미드가츠 왕국에서 지원하는 무기를 교환받을 수 있는 교환권.
-^ffffff<NAVI>^4D4DFF[초심자 무기 담당자]^000000<INFO>prontera,157,191,0,100,0,0</INFO></NAVI>^000000에게 가져다주면 직업에 맞는 장비를 지급받을 수 있다.
-^ffffff_^000000 
-Weight:^006600 0^000000
+...
 #
 25428#
-초심자 전용 무기 7제련 서비스를 이용할 수 있는 이용권.
-^ffffff<NAVI>^4D4DFF[초심자 무기 담당자]^000000<INFO>prontera,157,191,0,100,0,0</INFO></NAVI>^000000에게 건네주면 장착한 초심자 전용 무기를 7제련해준다.
-^ffffff_^000000 
-Weight:^006600 0^000000
+...
+#
+25441#
+...
 #
 25442#
 ...
@@ -43883,6 +43664,87 @@ Weight:^006600 0^000000
 ...
 #
 25444#
+...
+#
+25445#
+...
+#
+25446#
+...
+#
+25447#
+...
+#
+25448#
+...
+#
+25449#
+...
+#
+25450#
+...
+#
+25451#
+...
+#
+25452#
+...
+#
+25453#
+...
+#
+25454#
+...
+#
+25455#
+...
+#
+25456#
+...
+#
+25479#
+...
+#
+25480#
+...
+#
+25481#
+...
+#
+25490#
+...
+#
+25491#
+...
+#
+25492#
+...
+#
+25493#
+...
+#
+25494#
+...
+#
+25495#
+...
+#
+25496#
+...
+#
+25497#
+...
+#
+25498#
+...
+#
+25499#
+...
+#
+25500#
+...
+#
+25501#
 ...
 #
 26000#
@@ -44300,16 +44162,16 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 27106#
-Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+...
 #
 27107#
-Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+...
 #
 27108#
-Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+...
 #
 27109#
-Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+...
 #
 27110#
 ...
@@ -44485,6 +44347,51 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 27169#
 ...
 #
+27170#
+...
+#
+27171#
+...
+#
+27172#
+...
+#
+27173#
+...
+#
+27174#
+...
+#
+27175#
+...
+#
+27176#
+...
+#
+27177#
+...
+#
+27178#
+...
+#
+27179#
+...
+#
+27180#
+...
+#
+27181#
+...
+#
+27182#
+...
+#
+27183#
+...
+#
+27184#
+...
+#
 27185#
 ...
 #
@@ -44543,6 +44450,93 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 ...
 #
 27205#
+...
+#
+27237#
+...
+#
+27238#
+...
+#
+27239#
+...
+#
+27240#
+...
+#
+27241#
+...
+#
+27242#
+...
+#
+27243#
+...
+#
+27244#
+...
+#
+27245#
+...
+#
+27246#
+...
+#
+27247#
+...
+#
+27248#
+...
+#
+27249#
+...
+#
+27250#
+...
+#
+27251#
+...
+#
+27252#
+...
+#
+27253#
+...
+#
+27254#
+...
+#
+27255#
+...
+#
+27256#
+...
+#
+27257#
+...
+#
+27258#
+...
+#
+27259#
+...
+#
+27260#
+...
+#
+27261#
+...
+#
+27262#
+...
+#
+27263#
+...
+#
+27264#
+...
+#
+27265#
 ...
 #
 28000#
@@ -44804,6 +44798,18 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28235#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28240#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28241#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28242#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28243#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28300#
@@ -45508,6 +45514,12 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 28566#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+28573#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28575#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 28600#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -45557,6 +45569,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28616#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+28618#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 28700#
@@ -46903,6 +46918,87 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 29459#
 ...
 #
+29460#
+...
+#
+29461#
+...
+#
+29462#
+...
+#
+29463#
+...
+#
+29464#
+...
+#
+29465#
+...
+#
+29466#
+...
+#
+29467#
+...
+#
+29468#
+...
+#
+29469#
+...
+#
+29470#
+...
+#
+29471#
+...
+#
+29472#
+...
+#
+29473#
+...
+#
+29475#
+...
+#
+29477#
+...
+#
+29478#
+...
+#
+29479#
+...
+#
+29480#
+...
+#
+29481#
+...
+#
+29482#
+...
+#
+29483#
+...
+#
+29484#
+...
+#
+29485#
+...
+#
+29486#
+...
+#
+29487#
+...
+#
+29488#
+...
+#
 31000#
 ...
 #
@@ -47339,6 +47435,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 31153#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31154#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 31158#
@@ -47899,6 +47998,9 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 31389#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+31390#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 31391#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -47926,6 +48028,33 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 31399#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
+31400#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31401#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31402#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31403#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31404#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31405#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31406#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31407#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31408#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
 31409#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
@@ -47946,6 +48075,75 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 31415#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31417#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31418#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31420#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31432#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31433#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31434#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31435#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31436#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31437#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31438#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31439#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31440#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31441#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31442#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31443#
+...
+#
+31444#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31455#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31457#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+31504#
+...
+#
+31505#
+...
+#
+31506#
+...
+#
+31525#
+...
+#
+31526#
+...
 #
 32000#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
@@ -47972,5 +48170,8 @@ Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
 32008#
+Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
+#
+32013#
 Unknown Item, can be identified by using a ^6666CCMagnifier^000000.
 #
