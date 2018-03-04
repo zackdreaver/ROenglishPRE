@@ -4631,6 +4631,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Snow Flake Draft",
 		MaxLv = 5,
 		SpAmount = { 40, 45, 50, 55, 60 },
+		AttackRange = { 1, 1, 1, 1, 1 },
 		_NeedSkillList = {
 			{ SKID.NJ_NINPOU,10 },
 			{ SKID.NJ_SUITON,7 }
@@ -4641,7 +4642,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Wind Blade",
 		MaxLv = 10,
 		SpAmount = { 12, 14, 16, 18, 20, 22, 24, 26, 28, 30 },
-		AttackRange = { 1, 1, 1, 1, 1 },
+		AttackRange = { 9, 9, 9, 9, 9, 9, 9, 9, 9, 9 },
 		_NeedSkillList = {
 			{ SKID.NJ_NINPOU,1 }
 		}
