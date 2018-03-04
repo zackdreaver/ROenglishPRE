@@ -6605,7 +6605,7 @@ If you really want to enjoy the ordinary life of Novice, you must gather 2 kinds
 30 Sticky Mucus, 30 Resin#
 
 //닌자
-6015#A favor from Cougar#SG_FEEL#QUE_NOIMAGE#
+6015#A favor from Kuuga#SG_FEEL#QUE_NOIMAGE#
 Go find Wildcat Joe in Einbroch and talk to him.#
 #
 
@@ -6614,11 +6614,11 @@ Go through the South Gate of Einbroch City and find the Seal near the red tree s
 #
 
 6017#Red Leopard Joe's Reply#SG_FEEL#QUE_NOIMAGE#
-Go back to Cougar guy with Red Leopard Joe's recommendation.#
+Go back to Kuuga guy with Red Leopard Joe's recommendation.#
 #
 
-6018#Cougar's Madness#SG_FEEL#QUE_NOIMAGE#
-Hurry and bring 5 Iron Ore and 1 Phracon to Cougar.#
+6018#Kuuga guy#SG_FEEL#QUE_NOIMAGE#
+Talk to Kuuga again.#
 #
 
 //건슬링거
