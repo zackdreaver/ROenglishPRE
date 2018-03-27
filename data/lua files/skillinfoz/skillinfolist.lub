@@ -241,7 +241,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AL_DECAGI] = {
 		"AL_DECAGI",
-		SkillName = "Decrease Agility",		
+		SkillName = "Decrease Agility",
 		MaxLv = 10,
 		SpAmount = { 15, 17, 19, 21, 23, 25, 27, 29, 31, 33 },
 		_NeedSkillList = {
@@ -257,7 +257,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AL_CRUCIS] = {
 		"AL_CRUCIS",
-		SkillName = "Signum Crucis",		
+		SkillName = "Signum Crucis",
 		MaxLv = 10,
 		SpAmount = { 35, 35, 35, 35, 35, 35, 35, 35, 35, 35 },
 		bSeperateLv = false,
@@ -277,7 +277,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.AL_BLESSING] = {
 		"AL_BLESSING",
-		SkillName = "Blessing",		
+		SkillName = "Blessing",
 		MaxLv = 10,
 		SpAmount = { 28, 32, 36, 40, 44, 48, 52, 56, 60, 64 },
 		_NeedSkillList = {
@@ -1256,7 +1256,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.NV_TRICKDEAD] = {
 		"NV_TRICKDEAD",
-		SkillName = "Play Dead",	
+		SkillName = "Play Dead",
 		MaxLv = 1,
 		Type = "Quest",
 		SpAmount = { 5 },
@@ -1522,7 +1522,7 @@ SKILL_INFO_LIST = {
 	[SKID.AM_AXEMASTERY] = {
 		"AM_AXEMASTERY",
 		SkillName = "Axe Mastery",
-		MaxLv = 10,		
+		MaxLv = 10,
 	},
 	[SKID.AM_LEARNINGPOTION] = {
 		"AM_LEARNINGPOTION",
@@ -7047,7 +7047,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_GUST] = {
 		"EL_GUST",
-		SkillName = "Gust",	
+		SkillName = "Gust",
 	},
 	[SKID.EL_BLAST] = {
 		"EL_BLAST",
@@ -7074,7 +7074,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Fire Arrow",
 	},
 	[SKID.EL_FIRE_BOMB] = {
-		"EL_FIRE_BOMB",	
+		"EL_FIRE_BOMB",
 		SkillName = "Fire Bomb",
 	},
 	[SKID.EL_FIRE_BOMB_ATK] = {

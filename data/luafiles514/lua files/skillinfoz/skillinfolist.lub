@@ -7601,7 +7601,7 @@ SKILL_INFO_LIST = {
 	},
 	[SKID.EL_GUST] = {
 		"EL_GUST",
-		SkillName = "Gust",	
+		SkillName = "Gust",
 	},
 	[SKID.EL_BLAST] = {
 		"EL_BLAST",
@@ -7628,7 +7628,7 @@ SKILL_INFO_LIST = {
 		SkillName = "Fire Arrow",
 	},
 	[SKID.EL_FIRE_BOMB] = {
-		"EL_FIRE_BOMB",	
+		"EL_FIRE_BOMB",
 		SkillName = "Fire Bomb",
 	},
 	[SKID.EL_FIRE_BOMB_ATK] = {
