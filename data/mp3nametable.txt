@@ -1,5 +1,55 @@
-//-- Last updated 2015-10-26 10:26 PM
-//맵이름.rsw#bgm\\음악번호#
+//Map Name.rsw#bgm\\Music number#
+
+// x 주년
+x_prt.rsw#bgm\\85.mp3#
+x_lhz.rsw#bgm\\85.mp3#
+x_ra.rsw#bgm\\85.mp3#
+
+// 7월 국수 축제
+lasa_sea.rsw#bgm\\93.mp3#
+1@drdo.rsw#bgm\\99.mp3#
+
+//화산섬 코로도
+1@crd.rsw#bgm\\62.mp3#
+
+// 일루전 거북섬 (구양궁)
+tur_d03_i.rsw#bgm\\65.mp3#
+tur_d04_i.rsw#bgm\\65.mp3#
+
+//포링 마을
+1@begi.rsw#bgm\\12.mp3#
+
+//수상한 난파선
+1@tre.rsw#bgm\\52.mp3#
+
+// 일루전 얼던 (프로즌)
+ice_d03_i.rsw#bgm\\96.mp3#
+
+// Illusion Geffen (Vampire)
+gef_d01_i.rsw#bgm\\51.mp3#
+
+// Illusion Payon (Moonlight)
+pay_d03_i.rsw#bgm\\47.mp3#
+
+// Chicken Mode Horror Toy Factory
+1@xm_d2.rsw#bgm\\997.mp3#
+
+// Chicken Mode Nightmare Glastheim
+1@gl_k2.rsw#bgm\\44.mp3#
+2@gl_k2.rsw#bgm\\44.mp3#
+
+// Localizing Rockridge
+har_in01.rsw#bgm\\171.mp3#
+harboro1.rsw#bgm\\171.mp3#
+harboro2.rsw#bgm\\171.mp3#
+rockmi1.rsw#bgm\\172.mp3#
+rockmi2.rsw#bgm\\172.mp3#
+rockrdg1.rsw#bgm\\172.mp3#
+rockrdg2.rsw#bgm\\172.mp3#
+
+// Memorial day
+1@md_gef.rsw#bgm\\50.mp3#
+1@md_pay.rsw#bgm\\20.mp3#
 
 // ep16.2
 1@slw.rsw#bgm\\124.mp3#
@@ -78,6 +128,7 @@ un_myst.rsw#bgm\\121.mp3#
 
 // 생체던전 신규 전사자의 무덤
 lhz_dun_n.rsw#bgm\\124.mp3#
+lhz_d_n2.rsw#bgm\\124.mp3#
 
 // 영웅의흔적 3
 1@air1.rsw#bgm\\87.mp3#
@@ -995,73 +1046,71 @@ pvp_room.rsw#bgm\\52.mp3#
 evt_coke.rsw#bgm\\08.mp3#
 job_sword1.rsw#bgm\\51.mp3#
 
-// iRO classic
-air_evt.rsw#bgm\\90.mp3#
-asgard_vil.rsw#bgm\\146.mp3#
-ayothaya_e.rsw#bgm\\81.mp3#
-eabyss_01.rsw#bgm\\89.mp3#
-eabyss_03.rsw#bgm\\118.mp3#
-eabyss_03.rsw#bgm\\89.mp3#
-eabyss_03m.rsw#bgm\\02.mp3#
-ebeach_dun.rsw#bgm\\41.mp3#
-ebeach_dun.rsw#bgm\\89.mp3#
-ebeach_dunh.rsw#bgm\\41.mp3#
-ebeach_dunl.rsw#bgm\\41.mp3#
-ebeach_dunm.rsw#bgm\\41.mp3#
-ebif_fild01.rsw#bgm\\89.mp3#
-edic_dun02.rsw#bgm\\89.mp3#
-edic_dun02l.rsw#bgm\\02.mp3#
-edic_fild01.rsw#bgm\\89.mp3#
-edic_fild01.rsw#bgm\\89.mp3#
-egef_dun03.rsw#bgm\\89.mp3#
-egef_dun03h.rsw#bgm\\50.mp3#
-egef_dun03l.rsw#bgm\\50.mp3#
-egef_dun03m.rsw#bgm\\50.mp3#
-egl_church.rsw#bgm\\89.mp3#
-ehu_fild01.rsw#bgm\\103.mp3#
-ehu_fild01.rsw#bgm\\89.mp3#
-ehu_fild01h.rsw#bgm\\103.mp3#
-ehu_fild01l.rsw#bgm\\103.mp3#
-ehu_fild01m.rsw#bgm\\103.mp3#
-ekh_dun02.rsw#bgm\\89.mp3#
-elhz_dun03.rsw#bgm\\92.mp3#
-elhz_fild01.rsw#bgm\\89.mp3#
-emag_dun02.rsw#bgm\\89.mp3#
-eman_fild03.rsw#bgm\\69.mp3#
-eman_fld03h.rsw#bgm\\02.mp3#
-emoc_pryd06.rsw#bgm\\89.mp3#
-eque_qsch01.rsw#bgm\\110.mp3#
-era_fild01.rsw#bgm\\89.mp3#
-era_fild12.rsw#bgm\\113.mp3#
-era_san04.rsw#bgm\\102.mp3#
-espl_fild01.rsw#bgm\\89.mp3#
-etha_t04.rsw#bgm\\89.mp3#
-ethor_v02.rsw#bgm\\89.mp3#
-etur_dun03.rsw#bgm\\89.mp3#
-evt_mobroom.rsw#bgm\\18.mp3#
-evt_xmas.rsw#bgm\\58.mp3#
-gl_ch_evt.rsw#bgm\\40.mp3#
-itemmall_s.rsw#bgm\\08.mp3#
-iz_d03_evt.rsw#bgm\\49.mp3#
-iz_dun00t.rsw#bgm\\29.mp3#
-iz_dun01t.rsw#bgm\\29.mp3#
-iz_dun02t.rsw#bgm\\29.mp3#
-iz_dun03t.rsw#bgm\\49.mp3#
-iz_dun04t.rsw#bgm\\49.mp3#
-lhz_cu_evt.rsw#bgm\\92.mp3#
-louyang_e.rsw#bgm\\79.mp3#
-moc_paraup.rsw#bgm\\11.mp3#
-morocc_mem.rsw#bgm\\11.mp3#
-new_1-1_evt.rsw#bgm\\30.mp3#
-new_1-2_evt.rsw#bgm\\30.mp3#
-pay_d00_evt.rsw#bgm\\20.mp3#
-payon_mem.rsw#bgm\\14.mp3#
-prt_cas_evt.rsw#bgm\\09.mp3#
-prt_ch_evt.rsw#bgm\\10.mp3#
-prt_evt.rsw#bgm\\08.mp3#
-prt_in_evt.rsw#bgm\\08.mp3#
-que_god01t.rsw#bgm\\70.mp3#
-
 // Nightmare Pyramid
 moc_prydn1.rsw#bgm\\22.mp3#
 moc_prydn2.rsw#bgm\\22.mp3#
+
+// Turn-ins - Custom
+eabyss_01l.rsw#bgm\\100.mp3#
+eabyss_01m.rsw#bgm\\100.mp3#
+eabyss_01h.rsw#bgm\\100.mp3#
+eabyss_03l.rsw#bgm\\100.mp3#
+eabyss_03m.rsw#bgm\\100.mp3#
+eabyss_03h.rsw#bgm\\100.mp3#
+ebeach_dunl.rsw#bgm\\41.mp3#
+ebeach_dunm.rsw#bgm\\41.mp3#
+ebeach_dunh.rsw#bgm\\41.mp3#
+ebif_fld01l.rsw#bgm\\140.mp3#
+ebif_fld01m.rsw#bgm\\140.mp3#
+ebif_fld01h.rsw#bgm\\140.mp3#
+edic_dun01l.rsw#bgm\\136.mp3#
+edic_dun01m.rsw#bgm\\136.mp3#
+edic_dun01h.rsw#bgm\\136.mp3#
+edic_dun02l.rsw#bgm\\136.mp3#
+edic_dun02m.rsw#bgm\\136.mp3#
+edic_dun02h.rsw#bgm\\136.mp3#
+edic_fld01l.rsw#bgm\\138.mp3#
+edic_fld01m.rsw#bgm\\138.mp3#
+edic_fld01h.rsw#bgm\\138.mp3#
+egef_dun03l.rsw#bgm\\50.mp3#
+egef_dun03m.rsw#bgm\\50.mp3#
+egef_dun03h.rsw#bgm\\50.mp3#
+egl_chyardl.rsw#bgm\\40.mp3#
+egl_chyardm.rsw#bgm\\40.mp3#
+egl_chyardh.rsw#bgm\\40.mp3#
+ethor_v02l.rsw#bgm\\106.mp3#
+ethor_v02m.rsw#bgm\\106.mp3#
+ethor_v02h.rsw#bgm\\106.mp3#
+ehu_fild01l.rsw#bgm\\72.mp3#
+ehu_fild01m.rsw#bgm\\72.mp3#
+ehu_fild01h.rsw#bgm\\72.mp3#
+era_fild12l.rsw#bgm\\97.mp3#
+era_fild12h.rsw#bgm\\97.mp3#
+era_fild12m.rsw#bgm\\97.mp3#
+era_san04l.rsw#bgm\\95.mp3#
+era_san04m.rsw#bgm\\95.mp3#
+era_san04h.rsw#bgm\\95.mp3#
+etha_t04l.rsw#bgm\\107.mp3#
+etha_t04m.rsw#bgm\\107.mp3#
+etha_t04h.rsw#bgm\\107.mp3#
+etur_dun03l.rsw#bgm\\65.mp3#
+etur_dun03m.rsw#bgm\\65.mp3#
+etur_dun03h.rsw#bgm\\65.mp3#
+eyno_fld07l.rsw#bgm\\72.mp3#
+eyno_fld07m.rsw#bgm\\72.mp3#
+eyno_fld07h.rsw#bgm\\72.mp3#
+emag_dun02l.rsw#bgm\\06.mp3#
+emag_dun02m.rsw#bgm\\06.mp3#
+emag_dun02h.rsw#bgm\\06.mp3#
+elhz_fld01l.rsw#bgm\\91.mp3#
+elhz_fld01m.rsw#bgm\\91.mp3#
+elhz_fld01h.rsw#bgm\\91.mp3#
+eman_fld03l.rsw#bgm\\127.mp3#
+eman_fld03m.rsw#bgm\\127.mp3#
+eman_fld03h.rsw#bgm\\127.mp3#
+epay_dun00l.rsw#bgm\\20.mp3#
+epay_dun00m.rsw#bgm\\20.mp3#
+epay_dun00h.rsw#bgm\\20.mp3#
+emos_dun02l.rsw#bgm\\116.mp3#
+emos_dun02m.rsw#bgm\\116.mp3#
+emos_dun02h.rsw#bgm\\116.mp3#
