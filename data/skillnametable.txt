@@ -27,11 +27,11 @@ AL_TELEPORT#Teleport#
 AL_WARP#Warp_Portal#
 AL_HEAL#Heal#
 AL_INCAGI#Increase_Agility#
-AL_DECAGI#Decrease_Agility#		
+AL_DECAGI#Decrease_Agility#
 AL_HOLYWATER#Aqua_Benedicta#
-AL_CRUCIS#Signum_Crucis#		
+AL_CRUCIS#Signum_Crucis#
 AL_ANGELUS#Angelus#
-AL_BLESSING#Blessing#		
+AL_BLESSING#Blessing#
 AL_CURE#Cure#
 MC_INCCARRY#Enlarge_Weight_Limit#
 MC_DISCOUNT#Discount#
@@ -140,7 +140,7 @@ AS_POISONREACT#Poison_React#
 AS_VENOMDUST#Venom_Dust#
 AS_SPLASHER#Venom_Splasher#
 NV_FIRSTAID#First_Aid#
-NV_TRICKDEAD#Play_Dead#	
+NV_TRICKDEAD#Play_Dead#
 SM_MOVINGRECOVERY#Moving_HP_Recovery#
 SM_FATALBLOW#Fatal_Blow#
 SM_AUTOBERSERK#Auto_Berserk#
@@ -882,7 +882,7 @@ EL_HEATER#Heater#
 EL_TROPIC#Tropic#
 EL_COOLER#Cooler#
 EL_CHILLY_AIR#Cool_Air#
-EL_GUST#Gust#	
+EL_GUST#Gust#
 EL_BLAST#Blast#
 EL_PETROLOGY#Petrology#
 EL_WILD_STORM#Wild_Storm#

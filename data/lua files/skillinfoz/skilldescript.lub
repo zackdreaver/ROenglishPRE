@@ -3327,7 +3327,7 @@ SKILL_DESCRIPT = {
 		"[Lv 4]:^777777 8 SP, 310% damage ^000000",
 		"[Lv 5]:^777777 6 SP, 340% damage ^000000",
 		"[Lv 6]:^777777 4 SP, 370% damage ^000000",
-		"[Lv 7]:^777777 2 SP, 400% damage ^0000000"
+		"[Lv 7]:^777777 2 SP, 400% damage ^000000"
 	},
 	[SKID.TK_DODGE] = {
 		"Break Fall",
